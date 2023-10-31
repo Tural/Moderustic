@@ -1,0 +1,11 @@
+sources:
+  - TA-Moderustic-Light.vfc
+  - TA-Moderustic-Regular.vfc
+  - TA-Moderustic-Medium.vfc
+  - TA-Moderustic-SemiBold.vfc
+  - TA-Moderustic-Bold.vfc
+  - TA-Moderustic-ExBold.vfc
+axisOrder:
+  - wght
+  - norm
+familyName: TA Moderustic
