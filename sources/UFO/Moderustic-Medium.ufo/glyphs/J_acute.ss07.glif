@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jacute.ss07" format="2">
+  <advance width="400"/>
+  <anchor x="170" y="-79" name="bottom"/>
+  <anchor x="286" y="919" name="top"/>
+  <outline>
+    <component base="J.ss07"/>
+    <component base="acute" xOffset="143" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>J.ss07+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

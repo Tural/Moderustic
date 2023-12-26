@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiongreek" format="2">
+  <advance width="277"/>
+  <unicode hex="037E"/>
+  <outline>
+    <component base="period" xOffset="7" yOffset="381"/>
+    <contour>
+      <point x="156" y="119" type="line"/>
+      <point x="108" y="119" type="line"/>
+      <point x="-1" y="-149" type="line"/>
+      <point x="84" y="-149" type="line"/>
+    </contour>
+  </outline>
+</glyph>

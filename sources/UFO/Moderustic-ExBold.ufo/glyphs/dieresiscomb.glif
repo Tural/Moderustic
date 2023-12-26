@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="407"/>
+  <unicode hex="0308"/>
+  <anchor x="204" y="687" name="top"/>
+  <anchor x="204" y="500" name="_top"/>
+  <anchor x="204" y="500" name="_topgr"/>
+  <outline>
+    <contour>
+      <point x="102.451" y="523.771" type="curve" smooth="yes"/>
+      <point x="160.835" y="523.771"/>
+      <point x="191.374" y="567.157"/>
+      <point x="191.374" y="608.771" type="curve" smooth="yes"/>
+      <point x="191.374" y="653.928"/>
+      <point x="160.835" y="693.771"/>
+      <point x="102.451" y="693.771" type="curve" smooth="yes"/>
+      <point x="42.2704" y="693.771"/>
+      <point x="10.8329" y="648.615"/>
+      <point x="10.8329" y="608.771" type="curve" smooth="yes"/>
+      <point x="10.8329" y="570.698"/>
+      <point x="42.2704" y="523.771"/>
+    </contour>
+    <contour>
+      <point x="307.244" y="523.771" type="curve" smooth="yes"/>
+      <point x="365.628" y="523.771"/>
+      <point x="396.167" y="567.157"/>
+      <point x="396.167" y="608.771" type="curve" smooth="yes"/>
+      <point x="396.167" y="653.928"/>
+      <point x="365.628" y="693.771"/>
+      <point x="307.244" y="693.771" type="curve" smooth="yes"/>
+      <point x="247.063" y="693.771"/>
+      <point x="215.626" y="648.615"/>
+      <point x="215.626" y="608.771" type="curve" smooth="yes"/>
+      <point x="215.626" y="570.698"/>
+      <point x="247.063" y="523.771"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1932627358985569fdd7c1a539343e54d643febd33cb5f4a68e13eebf6cd96e015187c60ebf5a3ef5b4e4f0ef76a9ce9d28f2478c9053028f8eee2ef2d887977</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 192</string>
+          <string>vstem -11 201</string>
+          <string>vstem 217 201</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

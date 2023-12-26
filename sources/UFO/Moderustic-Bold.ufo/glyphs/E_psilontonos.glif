@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="640"/>
+  <unicode hex="0388"/>
+  <anchor x="365" y="719" name="top"/>
+  <anchor x="376" y="-20" name="bottom"/>
+  <anchor x="588" y="-2" name="ogonek"/>
+  <anchor x="20" y="699" name="topgr"/>
+  <outline>
+    <component base="Epsilon" xOffset="90"/>
+    <component base="tonos.case" xOffset="-19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Epsilon+tonos.case</string>
+  </dict>
+  </lib>
+</glyph>

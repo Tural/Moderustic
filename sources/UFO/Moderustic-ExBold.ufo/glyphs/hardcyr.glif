@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr" format="2">
+  <advance width="600"/>
+  <unicode hex="044A"/>
+  <outline>
+    <component base="softcyr" xOffset="64"/>
+    <contour>
+      <point x="21" y="500" type="line"/>
+      <point x="21" y="368" type="line"/>
+      <point x="179" y="368" type="line"/>
+      <point x="212" y="497" type="line"/>
+      <point x="212" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w600m21,500l21,368l179,368l212,497l212,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 131</string>
+          <string>hstem 221 131</string>
+          <string>hstem 369 131</string>
+          <string>vstem 113 190</string>
+          <string>vstem 371 189</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

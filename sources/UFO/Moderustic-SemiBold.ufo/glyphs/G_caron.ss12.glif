@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcaron.ss12" format="2">
+  <advance width="764"/>
+  <anchor x="390" y="-19" name="bottom"/>
+  <anchor x="390" y="921" name="top"/>
+  <outline>
+    <component base="G.ss12"/>
+    <component base="caron.case" xOffset="217" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G.ss12+caron.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

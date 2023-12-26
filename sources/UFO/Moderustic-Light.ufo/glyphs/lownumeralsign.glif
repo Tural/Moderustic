@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lownumeralsign" format="2">
+  <advance width="241"/>
+  <unicode hex="0375"/>
+  <outline>
+    <component base="numeral-greek" xOffset="-1" yOffset="-647"/>
+  </outline>
+</glyph>

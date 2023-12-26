@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.ss10.osf" format="2">
+  <advance width="612"/>
+  <outline>
+    <contour>
+      <point x="46" y="125" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="565" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="295.921" y="442" type="curve" smooth="yes"/>
+      <point x="354.776" y="442"/>
+      <point x="380" y="411.85"/>
+      <point x="380" y="359.53" type="curve" smooth="yes"/>
+      <point x="380" y="254.89"/>
+      <point x="279.989" y="188.381"/>
+      <point x="46" y="167" type="curve"/>
+      <point x="46" y="54" type="line"/>
+      <point x="374.241" y="110.623"/>
+      <point x="545" y="191.432"/>
+      <point x="545" y="359.134" type="curve" smooth="yes"/>
+      <point x="545" y="494.802"/>
+      <point x="458.502" y="573"/>
+      <point x="314.339" y="573" type="curve" smooth="yes"/>
+      <point x="198.047" y="573"/>
+      <point x="107.704" y="519"/>
+      <point x="51" y="436" type="curve"/>
+      <point x="96" y="277" type="line"/>
+      <point x="166.066" y="397"/>
+      <point x="227.724" y="442"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  </dict>
+  </lib>
+</glyph>

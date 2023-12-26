@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="421"/>
+  <unicode hex="03C4"/>
+  <anchor x="210" y="520" name="topgr"/>
+  <outline>
+    <component base="iota" xOffset="52"/>
+    <contour>
+      <point x="22" y="500" type="line"/>
+      <point x="22" y="370" type="line"/>
+      <point x="392" y="370" type="line"/>
+      <point x="392" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w421m22,500l22,370l392,370l392,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 130</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 105 190</string>
+          <string>vstem 105 246</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

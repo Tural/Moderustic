@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiongreek" format="2">
+  <advance width="277"/>
+  <unicode hex="037E"/>
+  <outline>
+    <component base="period" xOffset="8" yOffset="381"/>
+    <contour>
+      <point x="208" y="119" type="line"/>
+      <point x="77" y="119" type="line"/>
+      <point x="-32" y="-149" type="line"/>
+      <point x="136" y="-149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w277m208,119l77,119l-32,-149l136,-149</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 361 204</string>
+          <string>vstem 37 204</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

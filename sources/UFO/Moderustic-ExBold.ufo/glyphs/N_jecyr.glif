@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Njecyr" format="2">
+  <advance width="990"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="69" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="280" type="line"/>
+      <point x="447" y="280" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="637" y="0" type="line"/>
+      <point x="637" y="700" type="line"/>
+      <point x="447" y="700" type="line"/>
+      <point x="447" y="420" type="line"/>
+      <point x="259" y="420" type="line"/>
+      <point x="259" y="700" type="line"/>
+      <point x="69" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="0" type="line"/>
+      <point x="701" y="0" type="line" smooth="yes"/>
+      <point x="890" y="0"/>
+      <point x="951" y="86"/>
+      <point x="951" y="203" type="curve" smooth="yes"/>
+      <point x="951" y="319"/>
+      <point x="890" y="419"/>
+      <point x="701" y="419" type="curve" smooth="yes"/>
+      <point x="525" y="419" type="line"/>
+      <point x="540" y="279" type="line"/>
+      <point x="652" y="279" type="line" smooth="yes"/>
+      <point x="734" y="279"/>
+      <point x="761" y="261"/>
+      <point x="761" y="208" type="curve" smooth="yes"/>
+      <point x="761" y="156"/>
+      <point x="735" y="140"/>
+      <point x="652" y="140" type="curve" smooth="yes"/>
+      <point x="627" y="140" type="line"/>
+      <point x="504" y="3" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>980d4fd27b040173c62b89f8f2d4de18da98c529271f978b8d3d089a07e40c14fea9765f913955351026c929eaf89aaaae836adb30b5746187c01ff8fd00b3e5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 280 140</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 69 190</string>
+          <string>vstem 479 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

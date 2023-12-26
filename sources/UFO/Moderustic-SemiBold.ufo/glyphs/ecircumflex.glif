@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+  <advance width="598"/>
+  <unicode hex="00EA"/>
+  <anchor x="299" y="-20" name="bottom"/>
+  <anchor x="417" y="-3" name="ogonek"/>
+  <anchor x="299" y="720" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflex" xOffset="126" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

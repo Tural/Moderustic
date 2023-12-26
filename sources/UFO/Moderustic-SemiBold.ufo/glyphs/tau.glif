@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="421"/>
+  <unicode hex="03C4"/>
+  <anchor x="210" y="520" name="topgr"/>
+  <outline>
+    <component base="iota" xOffset="72"/>
+    <contour>
+      <point x="35" y="500" type="line"/>
+      <point x="35" y="390" type="line"/>
+      <point x="379" y="390" type="line"/>
+      <point x="379" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

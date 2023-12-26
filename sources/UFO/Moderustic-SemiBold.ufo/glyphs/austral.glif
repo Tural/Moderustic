@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="austral" format="2">
+  <advance width="718"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <component base="Elcyr.ss08" xOffset="31.5"/>
+    <contour>
+      <point x="13" y="136" type="line"/>
+      <point x="705" y="136" type="line"/>
+      <point x="705" y="199" type="line"/>
+      <point x="13" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="275" type="line"/>
+      <point x="705" y="275" type="line"/>
+      <point x="705" y="338" type="line"/>
+      <point x="13" y="338" type="line"/>
+    </contour>
+  </outline>
+</glyph>

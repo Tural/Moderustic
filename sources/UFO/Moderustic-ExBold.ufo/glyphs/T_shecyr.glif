@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="752"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="21" y="700" type="line"/>
+      <point x="21" y="560" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="560" type="line"/>
+      <point x="562" y="560" type="line"/>
+      <point x="562" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="256.526" type="line" smooth="yes"/>
+      <point x="693" y="404.83"/>
+      <point x="616" y="488"/>
+      <point x="490" y="488" type="curve" smooth="yes"/>
+      <point x="375" y="488"/>
+      <point x="310" y="419.766"/>
+      <point x="296" y="322.433" type="curve"/>
+      <point x="340" y="196" type="line"/>
+      <point x="340" y="302"/>
+      <point x="373" y="348"/>
+      <point x="433" y="348" type="curve" smooth="yes"/>
+      <point x="480" y="348"/>
+      <point x="502" y="314"/>
+      <point x="502" y="256" type="curve" smooth="yes"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>78f6e8801d27d14fff7326174997c9f6c2044598eeef230dcdf07652f0a341cd388a9a7f3b3cdfc0a620f6af089c9eb487354ac2b92b30d5f08036707de9ae4d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 329 131</string>
+          <string>hstem 560 140</string>
+          <string>vstem 150 190</string>
+          <string>vstem 482 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

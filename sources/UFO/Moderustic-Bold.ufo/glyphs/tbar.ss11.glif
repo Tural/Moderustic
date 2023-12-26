@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.ss11" format="2">
+  <advance width="353"/>
+  <outline>
+    <component base="t.ss11"/>
+    <component base="macron" xScale="0.9889" yScale="2.1971" xOffset="-7" yOffset="-1166"/>
+  </outline>
+</glyph>

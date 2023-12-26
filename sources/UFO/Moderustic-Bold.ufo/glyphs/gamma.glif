@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="543"/>
+  <unicode hex="03B3"/>
+  <anchor x="272" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="189" y="-200" type="line"/>
+      <point x="354" y="-200" type="line"/>
+      <point x="354" y="80" type="line"/>
+      <point x="341" y="-12" type="line"/>
+      <point x="538" y="500" type="line"/>
+      <point x="360" y="500" type="line"/>
+      <point x="272" y="215" type="line"/>
+      <point x="183" y="500" type="line"/>
+      <point x="5" y="500" type="line"/>
+      <point x="202" y="-12" type="line"/>
+      <point x="189" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w543m189,-200l354,-200l354,80l341,-12l538,500l360,500l272,215l183,500l5,500l202,-12l189,80</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -179 -21</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 189 165</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

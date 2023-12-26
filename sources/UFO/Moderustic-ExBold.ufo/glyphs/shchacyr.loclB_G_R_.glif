@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr.loclBGR" format="2">
+  <advance width="964"/>
+  <outline>
+    <component base="shacyr.loclBGR" xOffset="-13"/>
+    <contour>
+      <point x="759" y="0" type="line"/>
+      <point x="827" y="0"/>
+      <point x="812" y="-72"/>
+      <point x="812" y="-140" type="curve"/>
+      <point x="951" y="-140" type="line"/>
+      <point x="951" y="74"/>
+      <point x="930" y="131"/>
+      <point x="831" y="131" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

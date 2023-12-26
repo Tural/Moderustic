@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="2">
+  <advance width="616"/>
+  <unicode hex="01FF"/>
+  <anchor x="410" y="-3" name="ogonek"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="374" y="520" name="topgr"/>
+  <anchor x="324" y="720" name="top"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="184" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

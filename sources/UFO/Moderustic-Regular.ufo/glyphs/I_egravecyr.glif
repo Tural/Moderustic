@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iegravecyr" format="2">
+  <advance width="550"/>
+  <unicode hex="0400"/>
+  <anchor x="270" y="-20" name="bottom"/>
+  <anchor x="482" y="-2" name="ogonek"/>
+  <anchor x="-18" y="500" name="topgr"/>
+  <anchor x="245" y="919" name="top"/>
+  <outline>
+    <component base="Iecyr"/>
+    <component base="grave.case" xOffset="97" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

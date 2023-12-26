@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr.ss08" format="2">
+  <advance width="863"/>
+  <outline>
+    <contour>
+      <point x="326" y="700" type="line"/>
+      <point x="122" y="83" type="line"/>
+      <point x="299" y="83" type="line"/>
+      <point x="480" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="700" type="line"/>
+      <point x="563" y="83" type="line"/>
+      <point x="741" y="83" type="line"/>
+      <point x="537" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="130" type="line" smooth="yes"/>
+      <point x="62" y="130"/>
+      <point x="19" y="102"/>
+      <point x="19" y="-140" type="curve"/>
+      <point x="149" y="-140" type="line"/>
+      <point x="149" y="-37"/>
+      <point x="146" y="0"/>
+      <point x="205" y="0" type="curve" smooth="yes"/>
+      <point x="647" y="0" type="line" smooth="yes"/>
+      <point x="718" y="0"/>
+      <point x="710" y="-32"/>
+      <point x="710" y="-140" type="curve"/>
+      <point x="843" y="-140" type="line"/>
+      <point x="843" y="102"/>
+      <point x="808" y="130"/>
+      <point x="711" y="130" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>75a2c7fad4ab65d8337f9d9941b6f25a8bc22a39defb7368a59e4d42e6298cc9a16a3e2bfe010ffb05d7c36264cb1b5a90b1b8902c9a19046dc525780b9025d8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -119 -21</string>
+          <string>hstem 0 120</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 737 136</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

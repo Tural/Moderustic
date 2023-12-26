@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="2">
+  <advance width="685"/>
+  <outline>
+    <contour>
+      <point x="16" y="1" type="line"/>
+      <point x="342" y="1" type="line"/>
+      <point x="342" y="-150" type="line"/>
+      <point x="532" y="-150" type="line"/>
+      <point x="532" y="1" type="line"/>
+      <point x="658" y="1" type="line"/>
+      <point x="658" y="141" type="line"/>
+      <point x="532" y="141" type="line"/>
+      <point x="532" y="550" type="line"/>
+      <point x="303" y="550" type="line"/>
+      <point x="16" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="141" type="line"/>
+      <point x="342" y="335" type="line"/>
+      <point x="342" y="141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w685m16,1l342,1l342,-150l532,-150l532,1l658,1l658,141l532,141l532,550l303,550l16,108m216,141l342,335l342,141</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -129 -20</string>
+          <string>hstem 1 131</string>
+          <string>hstem 550 -20</string>
+          <string>vstem 342 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

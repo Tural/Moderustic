@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.salt" format="2">
+  <advance width="135"/>
+  <anchor x="0" y="700" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="0" y="540" type="line"/>
+      <point x="80" y="540" type="line"/>
+      <point x="135" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w135m0,540l80,540l135,700l35,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 540 160</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

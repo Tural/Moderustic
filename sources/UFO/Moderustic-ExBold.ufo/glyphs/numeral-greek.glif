@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeral-greek" format="2">
+  <advance width="243"/>
+  <unicode hex="0374"/>
+  <outline>
+    <contour>
+      <point x="236" y="715" type="line"/>
+      <point x="127" y="715" type="line"/>
+      <point x="6" y="498" type="line"/>
+      <point x="157" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w243m236,715l127,715l6,498l157,498</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 498 217</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

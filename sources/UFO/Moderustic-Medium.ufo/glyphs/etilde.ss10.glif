@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etilde.ss10" format="2">
+  <advance width="585"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="415" y="-2" name="ogonek"/>
+  <anchor x="297" y="690" name="top"/>
+  <outline>
+    <component base="e.ss10"/>
+    <component base="tildecomb" xOffset="75" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  </dict>
+  </lib>
+</glyph>

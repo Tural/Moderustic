@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr.loclBGR" format="2">
+  <advance width="680"/>
+  <outline>
+    <component base="u.ss05" xOffset="8"/>
+    <contour>
+      <point x="499" y="0" type="line"/>
+      <point x="566" y="0"/>
+      <point x="552" y="-72"/>
+      <point x="552" y="-140" type="curve"/>
+      <point x="638" y="-140" type="line"/>
+      <point x="638" y="52"/>
+      <point x="617" y="88"/>
+      <point x="517" y="88" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

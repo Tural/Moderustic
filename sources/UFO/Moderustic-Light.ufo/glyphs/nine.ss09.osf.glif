@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.ss09.osf" format="2">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="516" y="326" type="curve" smooth="yes"/>
+      <point x="516" y="424"/>
+      <point x="445" y="514"/>
+      <point x="315" y="514" type="curve" smooth="yes"/>
+      <point x="200" y="514"/>
+      <point x="133" y="443"/>
+      <point x="133" y="322" type="curve" smooth="yes"/>
+      <point x="133" y="196"/>
+      <point x="206" y="145"/>
+      <point x="308" y="145" type="curve" smooth="yes"/>
+      <point x="429" y="145"/>
+      <point x="516" y="218"/>
+    </contour>
+    <contour>
+      <point x="316" y="-171" type="curve" smooth="yes"/>
+      <point x="179" y="-171"/>
+      <point x="109.624" y="-84"/>
+      <point x="88" y="47" type="curve"/>
+      <point x="148" y="47" type="line"/>
+      <point x="162.733" y="-51"/>
+      <point x="213" y="-116"/>
+      <point x="316" y="-116" type="curve" smooth="yes"/>
+      <point x="458" y="-116"/>
+      <point x="541" y="8"/>
+      <point x="541" y="238" type="curve"/>
+      <point x="506" y="150"/>
+      <point x="418" y="94"/>
+      <point x="304" y="94" type="curve" smooth="yes"/>
+      <point x="174" y="94"/>
+      <point x="73" y="166"/>
+      <point x="73" y="325" type="curve" smooth="yes"/>
+      <point x="73" y="475"/>
+      <point x="164" y="569"/>
+      <point x="317" y="569" type="curve" smooth="yes"/>
+      <point x="495" y="569"/>
+      <point x="590" y="442"/>
+      <point x="590" y="202" type="curve" smooth="yes"/>
+      <point x="590" y="-37"/>
+      <point x="486" y="-171"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="633"/>
+  <unicode hex="0411"/>
+  <outline>
+    <component base="Softcyr"/>
+    <contour>
+      <point x="118" y="559" type="line"/>
+      <point x="545" y="559" type="line"/>
+      <point x="545" y="700" type="line"/>
+      <point x="85" y="700" type="line"/>
+      <point x="85" y="694" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w633m118,559l545,559l545,700l85,700l85,694</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 140</string>
+          <string>hstem 308 141</string>
+          <string>hstem 559 141</string>
+          <string>vstem 67 191</string>
+          <string>vstem 402 191</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

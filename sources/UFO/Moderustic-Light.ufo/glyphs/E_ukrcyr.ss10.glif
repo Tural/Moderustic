@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eukrcyr.ss10" format="2">
+  <advance width="735"/>
+  <anchor x="378" y="719" name="top"/>
+  <outline>
+    <component base="Ereversedcyr.ss10" xScale="-1" xOffset="735"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=Ereversedcyr.ss10@~,</string>
+  </dict>
+  </lib>
+</glyph>

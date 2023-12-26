@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaisymbol" format="2">
+  <advance width="594"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <contour>
+      <point x="380" y="1" type="line"/>
+      <point x="380" y="-67"/>
+      <point x="349.799" y="-76"/>
+      <point x="230" y="-76" type="curve"/>
+      <point x="230" y="-210" type="line"/>
+      <point x="441" y="-210"/>
+      <point x="592" y="-141"/>
+      <point x="592" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="500" type="line"/>
+      <point x="54" y="500" type="line"/>
+      <point x="54" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="323" type="line"/>
+      <point x="124" y="189" type="line"/>
+      <point x="288" y="189" type="line" name="iv01"/>
+      <point x="380" y="0" type="line" name="ab02"/>
+      <point x="592" y="0" type="line"/>
+      <point x="458" y="263" type="line"/>
+      <point x="579" y="500" type="line" name="av02"/>
+      <point x="390" y="500" type="line"/>
+      <point x="315" y="323" type="line" name="iv02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>39c393f978c7a1911f55c6ddf649d50c39b89b530d2106e9e274c0ff382261189452728b7caf1f4a1c1cadd46498b38c76b9d77d04cebf13f56de89acf6c8f3c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 54 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

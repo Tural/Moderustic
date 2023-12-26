@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr.ss08" format="2">
+  <advance width="655"/>
+  <anchor x="327" y="-19" name="top"/>
+  <anchor x="327" y="720" name="bottom"/>
+  <outline>
+    <component base="V" xScale="-1" yScale="-1" xOffset="655" yOffset="700"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=V@~</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ.liga.ss12" format="2">
+  <advance width="610"/>
+  <outline>
+    <contour>
+      <point x="303.434" y="-20" type="curve" smooth="yes"/>
+      <point x="459.124" y="-20"/>
+      <point x="545.5" y="57"/>
+      <point x="545.5" y="232" type="curve" smooth="yes"/>
+      <point x="545.5" y="700" type="line"/>
+      <point x="400.5" y="700" type="line"/>
+      <point x="400.5" y="227" type="line" smooth="yes"/>
+      <point x="400.5" y="124"/>
+      <point x="366.616" y="100"/>
+      <point x="277.387" y="100" type="curve" smooth="yes"/>
+      <point x="236.725" y="100"/>
+      <point x="179.122" y="105"/>
+      <point x="116" y="130" type="curve"/>
+      <point x="104" y="31" type="line"/>
+      <point x="150.944" y="5"/>
+      <point x="208.528" y="-20"/>
+    </contour>
+    <contour>
+      <point x="235" y="200" type="line"/>
+      <point x="235" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="90" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>J.ss12+^&lt;39ı</string>
+  </dict>
+  </lib>
+</glyph>

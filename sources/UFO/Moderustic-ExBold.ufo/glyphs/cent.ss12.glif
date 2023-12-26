@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.ss12" format="2">
+  <advance width="570"/>
+  <outline>
+    <component base="c.ss12" yOffset="101"/>
+    <contour>
+      <point x="340" y="610" type="line"/>
+      <point x="340" y="730" type="line"/>
+      <point x="290" y="730" type="line"/>
+      <point x="290" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="89" type="line"/>
+      <point x="291" y="-31" type="line"/>
+      <point x="339" y="-31" type="line"/>
+      <point x="339" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w570m340,610l340,730l290,730l290,610m291,89l291,-31l339,-31l339,90</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 81 130</string>
+          <string>hstem 491 130</string>
+          <string>vstem 39 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

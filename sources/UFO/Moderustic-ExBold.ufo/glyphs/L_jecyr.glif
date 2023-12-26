@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="1014"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="169" y="-20" type="curve" smooth="yes"/>
+      <point x="336" y="-20"/>
+      <point x="368" y="64"/>
+      <point x="368" y="560" type="curve"/>
+      <point x="472" y="560" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="662" y="700" type="line"/>
+      <point x="180" y="700" type="line"/>
+      <point x="180" y="217"/>
+      <point x="173" y="125"/>
+      <point x="118" y="125" type="curve" smooth="yes"/>
+      <point x="99" y="125"/>
+      <point x="77" y="136"/>
+      <point x="61" y="150" type="curve"/>
+      <point x="31" y="9" type="line"/>
+      <point x="72" y="-9"/>
+      <point x="108" y="-20"/>
+    </contour>
+    <contour>
+      <point x="529" y="0" type="line"/>
+      <point x="725" y="0" type="line" smooth="yes"/>
+      <point x="914" y="0"/>
+      <point x="975" y="86"/>
+      <point x="975" y="203" type="curve" smooth="yes"/>
+      <point x="975" y="319"/>
+      <point x="914" y="410"/>
+      <point x="725" y="410" type="curve" smooth="yes"/>
+      <point x="549" y="410" type="line"/>
+      <point x="564" y="270" type="line"/>
+      <point x="673" y="270" type="line" smooth="yes"/>
+      <point x="763" y="270"/>
+      <point x="785" y="248"/>
+      <point x="785" y="204" type="curve" smooth="yes"/>
+      <point x="785" y="156"/>
+      <point x="758" y="140"/>
+      <point x="673" y="140" type="curve" smooth="yes"/>
+      <point x="657" y="140" type="line"/>
+      <point x="528" y="3" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>047696dfe23f162c48c0fd5b8bd3965a1393c1a4e0980c13b9ae1bd551b8acc1545e8f3578623be982ebe7ee00634b843f0e569b0daa3ab6fa8b1d54c39e96c4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 143</string>
+          <string>hstem 0 140</string>
+          <string>hstem 270 140</string>
+          <string>hstem 560 140</string>
+          <string>vstem 180 183</string>
+          <string>vstem 473 190</string>
+          <string>vstem 785 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yucyr" format="2">
+  <advance width="1090"/>
+  <unicode hex="042E"/>
+  <anchor x="545" y="719" name="top"/>
+  <outline>
+    <component base="O" xOffset="295"/>
+    <component base="I"/>
+    <contour>
+      <point x="248" y="300" type="line"/>
+      <point x="388" y="300" type="line"/>
+      <point x="388" y="440" type="line"/>
+      <point x="248" y="440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1090m248,300l388,300l388,440l248,440</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 141</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 579 141</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 68 190</string>
+          <string>vstem 318 191</string>
+          <string>vstem 876 191</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="616"/>
+  <unicode hex="00F6"/>
+  <anchor x="417" y="-3" name="ogonek"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="308" y="520" name="topgr"/>
+  <anchor x="308" y="689" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresis" xOffset="104" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

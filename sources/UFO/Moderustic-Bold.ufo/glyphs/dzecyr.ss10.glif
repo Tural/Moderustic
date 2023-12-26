@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzecyr.ss10" format="2">
+  <advance width="522"/>
+  <anchor x="250" y="520" name="top"/>
+  <anchor x="265" y="-20" name="bottom"/>
+  <outline>
+    <component base="s.ss10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s.ss10</string>
+  </dict>
+  </lib>
+</glyph>

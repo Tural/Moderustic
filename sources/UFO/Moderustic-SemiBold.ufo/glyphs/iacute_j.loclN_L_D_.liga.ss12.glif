@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute_j.loclNLD.liga.ss12" format="2">
+  <advance width="615"/>
+  <outline>
+    <component base="y.ss12"/>
+    <component base="acute" xOffset="13" yOffset="20"/>
+    <component base="acute" xOffset="345" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y.ss12+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

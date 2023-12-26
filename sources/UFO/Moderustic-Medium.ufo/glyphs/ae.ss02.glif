@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.ss02" format="2">
+  <advance width="904"/>
+  <outline>
+    <contour>
+      <point x="280.39" y="430" type="curve" smooth="yes"/>
+      <point x="228.01" y="430"/>
+      <point x="171.75" y="406.65"/>
+      <point x="140.71" y="362" type="curve"/>
+      <point x="74.75" y="430" type="line"/>
+      <point x="115.49" y="483"/>
+      <point x="189.21" y="520"/>
+      <point x="285.24" y="520" type="curve" smooth="yes"/>
+      <point x="361.71" y="520"/>
+      <point x="414.25" y="496.56"/>
+      <point x="445.87" y="459.98" type="curve"/>
+      <point x="488.93" y="499.65"/>
+      <point x="547.98" y="520"/>
+      <point x="617.85" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="770.14" y="520"/>
+      <point x="856.47" y="424"/>
+      <point x="856.47" y="227" type="curve" name="dv03"/>
+      <point x="484.96" y="227" type="line" name="sv04"/>
+      <point x="484.96" y="125.35"/>
+      <point x="528.76" y="70"/>
+      <point x="616.36" y="70" type="curve" smooth="yes" name="dv02"/>
+      <point x="674.76" y="70"/>
+      <point x="737.05" y="94.35"/>
+      <point x="767.23" y="138" type="curve"/>
+      <point x="833.19" y="70" type="line"/>
+      <point x="792.45" y="17"/>
+      <point x="718.73" y="-20"/>
+      <point x="622.7" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="523.9" y="-20"/>
+      <point x="445.79" y="19.23"/>
+      <point x="403.46" y="96.28" type="curve"/>
+      <point x="361.535" y="15.7516"/>
+      <point x="290.77" y="-20"/>
+      <point x="220.25" y="-20" type="curve" smooth="yes"/>
+      <point x="122.28" y="-20"/>
+      <point x="50.5" y="49"/>
+      <point x="50.5" y="146" type="curve" smooth="yes"/>
+      <point x="50.5" y="243"/>
+      <point x="122.28" y="312"/>
+      <point x="226.07" y="312" type="curve" smooth="yes"/>
+      <point x="291.31" y="312"/>
+      <point x="340.75" y="284.45"/>
+      <point x="366.72" y="235.79" type="curve" name="sv03"/>
+      <point x="366.72" y="346.8" type="line" smooth="yes"/>
+      <point x="366.72" y="400.93"/>
+      <point x="338.59" y="430"/>
+    </contour>
+    <contour>
+      <point x="737.16" y="307" type="line" name="dv04"/>
+      <point x="728.39" y="385.63"/>
+      <point x="684.56" y="430"/>
+      <point x="616.39" y="430" type="curve" smooth="yes" name="sv01"/>
+      <point x="547.24" y="430"/>
+      <point x="497.57" y="385.63"/>
+      <point x="488.84" y="307" type="curve" name="sv02"/>
+    </contour>
+    <contour>
+      <point x="166.9" y="150" type="curve" smooth="yes"/>
+      <point x="166.9" y="99"/>
+      <point x="205.7" y="70"/>
+      <point x="257.11" y="70" type="curve" smooth="yes"/>
+      <point x="315.92" y="70"/>
+      <point x="357.5" y="107.06"/>
+      <point x="366.72" y="162.87" type="curve"/>
+      <point x="366.72" y="164.97" type="line"/>
+      <point x="348.79" y="199.99"/>
+      <point x="309.62" y="222"/>
+      <point x="257.11" y="222" type="curve" smooth="yes"/>
+      <point x="203.76" y="222"/>
+      <point x="166.9" y="199"/>
+    </contour>
+  </outline>
+</glyph>

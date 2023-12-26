@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.ss09" format="2">
+  <advance width="611"/>
+  <outline>
+    <component base="c.ss09" yOffset="101"/>
+    <contour>
+      <point x="345" y="610" type="line"/>
+      <point x="345" y="730" type="line"/>
+      <point x="295" y="730" type="line"/>
+      <point x="295" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="89" type="line"/>
+      <point x="296" y="-31" type="line"/>
+      <point x="344" y="-31" type="line"/>
+      <point x="344" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w611m345,610l345,730l295,730l295,610m296,89l296,-31l344,-31l344,90</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 81 131</string>
+          <string>hstem 81 187</string>
+          <string>hstem 432 189</string>
+          <string>hstem 490 131</string>
+          <string>vstem 39 190</string>
+          <string>vstem 386 184</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

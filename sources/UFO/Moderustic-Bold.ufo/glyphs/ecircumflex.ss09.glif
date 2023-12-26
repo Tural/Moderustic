@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex.ss09" format="2">
+  <advance width="595"/>
+  <anchor x="298" y="-20" name="bottom"/>
+  <anchor x="415" y="-3" name="ogonek"/>
+  <anchor x="298" y="720" name="top"/>
+  <outline>
+    <component base="e.ss09"/>
+    <component base="circumflex" xOffset="125" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss09+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jecyr.ss07" format="2">
+  <advance width="400"/>
+  <anchor x="245" y="719" name="top"/>
+  <anchor x="162" y="-109" name="bottom"/>
+  <outline>
+    <component base="J.ss07"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>J.ss07</string>
+  </dict>
+  </lib>
+</glyph>

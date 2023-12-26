@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="648"/>
+  <unicode hex="0166"/>
+  <anchor x="324" y="719" name="top"/>
+  <anchor x="324" y="-20" name="bottom"/>
+  <outline>
+    <component base="T"/>
+    <component base="endash" xOffset="46.5" yOffset="74"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+^-126endash</string>
+  </dict>
+  </lib>
+</glyph>

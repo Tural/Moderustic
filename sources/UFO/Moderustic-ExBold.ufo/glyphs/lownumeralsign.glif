@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lownumeralsign" format="2">
+  <advance width="241"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="233" y="68" type="line"/>
+      <point x="124" y="68" type="line"/>
+      <point x="3" y="-149" type="line"/>
+      <point x="154" y="-149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w241m233,68l124,68l3,-149l154,-149</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -149 217</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

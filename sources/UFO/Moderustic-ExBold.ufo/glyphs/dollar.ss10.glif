@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.ss10" format="2">
+  <advance width="580"/>
+  <outline>
+    <component base="S.ss10" yScale="0.9464" yOffset="19"/>
+    <component base="bar" xOffset="227" yOffset="30"/>
+  </outline>
+</glyph>

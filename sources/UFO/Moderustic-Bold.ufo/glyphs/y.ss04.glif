@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.ss04" format="2">
+  <advance width="565"/>
+  <anchor x="453" y="0" name="bottom"/>
+  <anchor x="283" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="218" y="-29" type="line" smooth="yes"/>
+      <point x="203.462" y="-76.4726"/>
+      <point x="169" y="-96"/>
+      <point x="131" y="-96" type="curve" smooth="yes"/>
+      <point x="111" y="-96"/>
+      <point x="95" y="-93"/>
+      <point x="76" y="-84" type="curve"/>
+      <point x="44" y="-198" type="line"/>
+      <point x="91" y="-212"/>
+      <point x="115" y="-221"/>
+      <point x="183" y="-221" type="curve" smooth="yes"/>
+      <point x="269" y="-221"/>
+      <point x="322" y="-178"/>
+      <point x="356" y="-78" type="curve" smooth="yes"/>
+      <point x="555" y="500" type="line"/>
+      <point x="380" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="186" y="500" type="line"/>
+      <point x="11" y="500" type="line"/>
+      <point x="173" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fefe6c6526847dddc9e2d89f4a505bb4e5336c01d367332a455fe2994554875becc788f3c3488c5b43d69cc3c793ec3a33b6d67307928663e5cce6cb1bd2cce2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 110</string>
+          <string>hstem 500 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

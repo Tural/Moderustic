@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acyr" format="2">
+  <advance width="645"/>
+  <unicode hex="0430"/>
+  <anchor x="323" y="520" name="top"/>
+  <anchor x="322" y="-20" name="bottom"/>
+  <anchor x="542" y="-3" name="ogonek"/>
+  <outline>
+    <component base="a"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a</string>
+  </dict>
+  </lib>
+</glyph>

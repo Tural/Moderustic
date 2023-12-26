@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD.liga.ss10" format="2">
+  <advance width="630"/>
+  <outline>
+    <component base="IJ.liga.ss10"/>
+    <component base="acutecomb" xOffset="19" yOffset="200"/>
+    <component base="acutecomb" xOffset="360.584" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>IJ.liga.ss10+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

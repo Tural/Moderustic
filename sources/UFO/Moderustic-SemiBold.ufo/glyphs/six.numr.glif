@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.numr" format="2">
+  <advance width="438"/>
+  <outline>
+    <component base="six.superior" xScale="0.9656" yScale="0.9656" xOffset="2" yOffset="-84"/>
+  </outline>
+</glyph>

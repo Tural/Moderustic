@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="2">
+  <advance width="570"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="130" type="line"/>
+      <point x="265" y="130" type="line"/>
+      <point x="463" y="350" type="line"/>
+      <point x="265" y="570" type="line"/>
+      <point x="524" y="570" type="line"/>
+      <point x="524" y="700" type="line"/>
+      <point x="31" y="700" type="line"/>
+      <point x="31" y="602" type="line"/>
+      <point x="258" y="350" type="line"/>
+      <point x="31" y="98" type="line"/>
+      <point x="31" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w570m524,0l524,130l265,130l463,350l265,570l524,570l524,700l31,700l31,602l258,350l31,98l31,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 120</string>
+          <string>hstem 580 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

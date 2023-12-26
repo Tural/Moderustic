@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis.ss10" format="2">
+  <advance width="585"/>
+  <anchor x="294" y="-20" name="bottom"/>
+  <anchor x="434" y="-3" name="ogonek"/>
+  <anchor x="294" y="707" name="top"/>
+  <outline>
+    <component base="e.ss10"/>
+    <component base="dieresis" xOffset="90" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss10+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

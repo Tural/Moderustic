@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="618"/>
+  <unicode hex="043F"/>
+  <anchor x="309" y="-20" name="bottom"/>
+  <anchor x="309" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="430" type="line"/>
+      <point x="438" y="430" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="528" y="0" type="line"/>
+      <point x="528" y="500" type="line"/>
+      <point x="90" y="500" type="line"/>
+      <point x="90" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

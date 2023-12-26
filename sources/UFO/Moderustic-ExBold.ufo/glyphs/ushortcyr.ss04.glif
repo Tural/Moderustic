@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ushortcyr.ss04" format="2">
+  <advance width="565"/>
+  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="283" y="700" name="top"/>
+  <outline>
+    <component base="y.ss04"/>
+    <component base="breve" xOffset="115" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y.ss04+breve</string>
+  </dict>
+  </lib>
+</glyph>

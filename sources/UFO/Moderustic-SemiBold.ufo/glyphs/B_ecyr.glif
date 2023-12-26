@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="633"/>
+  <unicode hex="0411"/>
+  <outline>
+    <component base="Softcyr"/>
+    <contour>
+      <point x="118" y="579" type="line"/>
+      <point x="545" y="579" type="line"/>
+      <point x="545" y="700" type="line"/>
+      <point x="85" y="700" type="line"/>
+      <point x="85" y="693" type="line"/>
+    </contour>
+  </outline>
+</glyph>

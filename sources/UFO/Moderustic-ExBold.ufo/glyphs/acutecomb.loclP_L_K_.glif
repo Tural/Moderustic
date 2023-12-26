@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.loclPLK" format="2">
+  <advance width="287"/>
+  <anchor x="141" y="700" name="top"/>
+  <anchor x="125" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="76" y="550" type="line"/>
+      <point x="187" y="550" type="line"/>
+      <point x="253" y="701" type="line"/>
+      <point x="107" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

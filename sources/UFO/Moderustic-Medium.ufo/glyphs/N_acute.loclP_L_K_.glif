@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute.loclPLK" format="2">
+  <advance width="752"/>
+  <anchor x="376" y="-20" name="bottom"/>
+  <anchor x="392" y="919" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute.loclPLK" xOffset="249" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.798,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

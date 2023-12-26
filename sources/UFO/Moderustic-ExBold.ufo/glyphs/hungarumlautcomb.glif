@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="389"/>
+  <unicode hex="030B"/>
+  <anchor x="204" y="702" name="top"/>
+  <anchor x="144" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="281" y="551" type="line"/>
+      <point x="381" y="702" type="line"/>
+      <point x="250" y="702" type="line"/>
+      <point x="190" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="551" type="line"/>
+      <point x="96" y="551" type="line"/>
+      <point x="196" y="702" type="line"/>
+      <point x="65" y="702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>hungarumlaut%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w389m281,551l381,702l250,702l190,551m5,551l96,551l196,702l65,702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 601 149</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

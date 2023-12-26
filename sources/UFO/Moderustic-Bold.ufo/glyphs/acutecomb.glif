@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="287"/>
+  <unicode hex="0301"/>
+  <anchor x="142" y="700" name="top"/>
+  <anchor x="126" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="72" y="550" type="line"/>
+      <point x="170" y="550" type="line"/>
+      <point x="277" y="701" type="line"/>
+      <point x="143" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w287m72,550l170,550l277,701l143,701</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 600 151</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

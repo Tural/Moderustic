@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+  <advance width="550"/>
+  <unicode hex="00C9"/>
+  <anchor x="275" y="-20" name="bottom"/>
+  <anchor x="475" y="-3" name="ogonek"/>
+  <anchor x="-12" y="500" name="topgr"/>
+  <anchor x="291" y="919" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="acute.case" xOffset="147" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

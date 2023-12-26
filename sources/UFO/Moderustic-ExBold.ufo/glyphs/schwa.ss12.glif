@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa.ss12" format="2">
+  <advance width="600"/>
+  <anchor x="300" y="-20" name="bottom"/>
+  <anchor x="300" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="368" y="186" type="curve"/>
+      <point x="240" y="186" type="line"/>
+      <point x="245" y="140"/>
+      <point x="262" y="110"/>
+      <point x="304" y="110" type="curve" smooth="yes"/>
+      <point x="344" y="110"/>
+      <point x="362" y="138"/>
+    </contour>
+    <contour>
+      <point x="261" y="390" type="curve" smooth="yes"/>
+      <point x="204" y="390"/>
+      <point x="152" y="367"/>
+      <point x="88" y="315" type="curve"/>
+      <point x="77" y="431" type="line"/>
+      <point x="120" y="483"/>
+      <point x="196" y="520"/>
+      <point x="295" y="520" type="curve" smooth="yes"/>
+      <point x="476" y="520"/>
+      <point x="561" y="397"/>
+      <point x="561" y="254" type="curve" smooth="yes"/>
+      <point x="561" y="111"/>
+      <point x="475" y="-20"/>
+      <point x="304" y="-20" type="curve" smooth="yes"/>
+      <point x="135" y="-20"/>
+      <point x="49" y="108"/>
+      <point x="49" y="253" type="curve" smooth="yes"/>
+      <point x="49" y="296" type="line"/>
+      <point x="368" y="296" type="line"/>
+      <point x="361" y="361"/>
+      <point x="326" y="390"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>035df6a06c5ae67a62ba5bf4e4ad9d8909bb63011c37b6e5c1e54b9e513238e4596cfb7c3107edc2ebe20d409f9e1f78994e9e49cb1c27d4d1f0593b9a08afc6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 130</string>
+          <string>hstem 180 116</string>
+          <string>hstem 390 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acyr.ss10" format="2">
+  <advance width="568"/>
+  <anchor x="284" y="520" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="498" y="-2" name="ogonek"/>
+  <outline>
+    <component base="a.ss10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.ss10</string>
+  </dict>
+  </lib>
+</glyph>

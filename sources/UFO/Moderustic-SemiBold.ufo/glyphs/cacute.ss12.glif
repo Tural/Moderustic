@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute.ss12" format="2">
+  <advance width="570"/>
+  <anchor x="310" y="-20" name="bottom"/>
+  <anchor x="326" y="720" name="top"/>
+  <outline>
+    <component base="c.ss12"/>
+    <component base="acute" xOffset="187" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c.ss12+acute</string>
+  </dict>
+  </lib>
+</glyph>
