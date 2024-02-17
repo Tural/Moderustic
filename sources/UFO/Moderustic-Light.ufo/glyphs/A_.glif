@@ -8,16 +8,16 @@
   <anchor x="106" y="500" name="topgr"/>
   <outline>
     <contour>
+      <point x="123" y="154" type="line" name="dv01"/>
+      <point x="529" y="154" type="line"/>
+      <point x="495" y="204" type="line" name="dv03"/>
+      <point x="157" y="204" type="line" name="dv02"/>
+    </contour>
+    <contour>
       <point x="42" y="0" type="line"/>
       <point x="105" y="0" type="line"/>
       <point x="332" y="700" type="line"/>
       <point x="269" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="204" type="line" name="dv02"/>
-      <point x="123" y="154" type="line" name="dv01"/>
-      <point x="529" y="154" type="line"/>
-      <point x="495" y="204" type="line" name="dv03"/>
     </contour>
     <contour>
       <point x="550" y="0" type="line"/>

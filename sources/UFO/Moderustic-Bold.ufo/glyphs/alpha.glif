@@ -5,19 +5,6 @@
   <anchor x="310" y="520" name="topgr"/>
   <outline>
     <contour>
-      <point x="266" y="-20" type="curve" smooth="yes"/>
-      <point x="143" y="-20"/>
-      <point x="49" y="81"/>
-      <point x="49" y="254" type="curve" smooth="yes"/>
-      <point x="49" y="417"/>
-      <point x="133" y="520"/>
-      <point x="266" y="520" type="curve" smooth="yes"/>
-      <point x="393.235" y="520"/>
-      <point x="493.503" y="425.092"/>
-      <point x="554.162" y="296" type="curve" smooth="yes"/>
-      <point x="596.004" y="206.955"/>
-      <point x="619" y="101.644"/>
-      <point x="619" y="0" type="curve"/>
       <point x="454" y="0" type="line"/>
       <point x="454" y="73.6891"/>
       <point x="453.006" y="193.778"/>
@@ -43,6 +30,19 @@
       <point x="586.263" y="296" type="curve" smooth="yes"/>
       <point x="531.441" y="124.319"/>
       <point x="412.527" y="-20"/>
+      <point x="266" y="-20" type="curve" smooth="yes"/>
+      <point x="143" y="-20"/>
+      <point x="49" y="81"/>
+      <point x="49" y="254" type="curve" smooth="yes"/>
+      <point x="49" y="417"/>
+      <point x="133" y="520"/>
+      <point x="266" y="520" type="curve" smooth="yes"/>
+      <point x="393.235" y="520"/>
+      <point x="493.503" y="425.092"/>
+      <point x="554.162" y="296" type="curve" smooth="yes"/>
+      <point x="596.004" y="206.955"/>
+      <point x="619" y="101.644"/>
+      <point x="619" y="0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3abad51aaf4e2dd7aec095ff1c23adcdd035c35b617197bed9f26c994cac4d3d3455d379c2b091fdf2bbfb4330c31e2bf8700f4b80f97bb088fea55db582328c</string>
+    <string>38abde7d0ea951acf6c310627936f9e2b4b4dfaf8b573cb0c9e5e15097377525be4ed20d463ead47812664555b03961cbf30ab27e27f8983125fb099821ba352</string>
     <key>hintSetList</key>
     <array>
       <dict>

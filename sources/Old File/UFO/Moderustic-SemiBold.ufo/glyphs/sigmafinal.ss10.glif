@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmafinal.ss10" format="2">
+  <advance width="595"/>
+  <anchor x="297" y="519" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="313" y="410" type="curve" smooth="yes"/>
+      <point x="379" y="410"/>
+      <point x="436" y="377"/>
+      <point x="492" y="299" type="curve"/>
+      <point x="526" y="417" type="line"/>
+      <point x="480" y="482"/>
+      <point x="402" y="520"/>
+      <point x="308" y="520" type="curve" smooth="yes"/>
+      <point x="150" y="520"/>
+      <point x="39" y="413"/>
+      <point x="39" y="251" type="curve" smooth="yes"/>
+      <point x="39" y="87"/>
+      <point x="154" y="-20"/>
+      <point x="298" y="-20" type="curve" smooth="yes"/>
+      <point x="374" y="-20"/>
+      <point x="408" y="-50"/>
+      <point x="408" y="-103" type="curve" smooth="yes"/>
+      <point x="408" y="-142"/>
+      <point x="390" y="-174"/>
+      <point x="362" y="-200" type="curve"/>
+      <point x="503" y="-200" type="line"/>
+      <point x="534" y="-169"/>
+      <point x="553" y="-126"/>
+      <point x="553" y="-79" type="curve" smooth="yes"/>
+      <point x="553" y="21"/>
+      <point x="465" y="90"/>
+      <point x="339" y="90" type="curve" smooth="yes"/>
+      <point x="227" y="90"/>
+      <point x="184" y="145"/>
+      <point x="184" y="250" type="curve" smooth="yes"/>
+      <point x="184" y="352"/>
+      <point x="225" y="410"/>
+    </contour>
+  </outline>
+</glyph>

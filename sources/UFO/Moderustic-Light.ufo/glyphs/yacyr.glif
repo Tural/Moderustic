@@ -6,6 +6,11 @@
   <anchor x="300" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="237" y="192" type="line"/>
+      <point x="410" y="192" type="line"/>
+      <point x="410" y="0" type="line"/>
       <point x="470" y="0" type="line"/>
       <point x="470" y="500" type="line"/>
       <point x="271" y="500" type="line" smooth="yes"/>
@@ -15,11 +20,6 @@
       <point x="86" y="282"/>
       <point x="118" y="226"/>
       <point x="176" y="203" type="curve"/>
-      <point x="77" y="0" type="line"/>
-      <point x="144" y="0" type="line"/>
-      <point x="237" y="192" type="line"/>
-      <point x="410" y="192" type="line"/>
-      <point x="410" y="0" type="line"/>
     </contour>
     <contour>
       <point x="410" y="242" type="line"/>

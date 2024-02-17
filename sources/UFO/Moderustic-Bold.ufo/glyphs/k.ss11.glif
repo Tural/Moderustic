@@ -5,14 +5,12 @@
   <anchor x="296" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="64" y="0" type="line"/>
       <point x="229" y="0" type="line"/>
       <point x="229" y="700" type="line"/>
       <point x="64" y="700" type="line"/>
-      <point x="64" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="327" y="360" type="line" name="iv02"/>
-      <point x="120" y="360" type="line"/>
       <point x="121" y="240" type="line"/>
       <point x="308" y="240" type="line" name="iv01"/>
       <point x="400" y="0" type="line" name="ab02"/>
@@ -20,18 +18,18 @@
       <point x="447" y="283" type="line"/>
       <point x="572" y="500" type="line" name="av02"/>
       <point x="409" y="500" type="line"/>
+      <point x="327" y="360" type="line" name="iv02"/>
+      <point x="120" y="360" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w592m229,0l229,700l64,700l64,0m327,360l120,360l121,240l308,240l400,0l585,0l447,283l572,500l409,500</string>
+    <string>w592m64,0l229,0l229,700l64,700m121,240l308,240l400,0l585,0l447,283l572,500l409,500l327,360l120,360</string>
     <key>hintSetList</key>
     <array>
       <dict>

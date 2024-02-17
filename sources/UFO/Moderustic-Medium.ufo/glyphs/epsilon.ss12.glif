@@ -4,10 +4,6 @@
   <anchor x="250" y="519" name="topgr"/>
   <outline>
     <contour>
-      <point x="241.447" y="-20" type="curve" smooth="yes"/>
-      <point x="328.196" y="-20"/>
-      <point x="396" y="9"/>
-      <point x="453" y="69" type="curve"/>
       <point x="446" y="143" type="line"/>
       <point x="368" y="89"/>
       <point x="326.211" y="70"/>
@@ -43,6 +39,10 @@
       <point x="50" y="134" type="curve" smooth="yes"/>
       <point x="50" y="40"/>
       <point x="117.804" y="-20"/>
+      <point x="241.447" y="-20" type="curve" smooth="yes"/>
+      <point x="328.196" y="-20"/>
+      <point x="396" y="9"/>
+      <point x="453" y="69" type="curve"/>
     </contour>
   </outline>
 </glyph>

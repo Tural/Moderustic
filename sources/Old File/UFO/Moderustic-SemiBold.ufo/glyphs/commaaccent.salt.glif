@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent.salt" format="2">
+  <advance width="233"/>
+  <anchor x="117" y="500" name="_top"/>
+  <anchor x="117" y="700" name="top"/>
+  <outline>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="236" yOffset="527"/>
+  </outline>
+</glyph>

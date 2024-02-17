@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scircumflex.ss09" format="2">
+  <advance width="590"/>
+  <anchor x="295" y="-20" name="bottom"/>
+  <anchor x="280" y="919" name="top"/>
+  <outline>
+    <component base="S.ss09"/>
+    <component base="circumflex.case" xOffset="107" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S.ss09+circumflex.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -3,10 +3,6 @@
   <advance width="604"/>
   <outline>
     <contour>
-      <point x="302" y="-20" type="curve" smooth="yes"/>
-      <point x="184" y="-20"/>
-      <point x="102" y="24"/>
-      <point x="26" y="113" type="curve"/>
       <point x="42" y="227" type="line"/>
       <point x="135" y="140"/>
       <point x="193" y="111"/>
@@ -33,6 +29,10 @@
       <point x="574" y="229" type="curve" smooth="yes"/>
       <point x="574" y="69"/>
       <point x="471" y="-20"/>
+      <point x="302" y="-20" type="curve" smooth="yes"/>
+      <point x="184" y="-20"/>
+      <point x="102" y="24"/>
+      <point x="26" y="113" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d6b5d8d35f555f1c37c5d8bccb6d9e5f0c666bdc89b8912f3eb0a3809b556f524d1e6fd7ae3c68cd2e745bc1e2c7f3e14d08f77d18f724482cd81a98c9799cb7</string>
+    <string>9dc93354b56bc3e5d3db0edce00d6dc3b2bd05e385d4c7715d5847f54d627d1ef233947ea333e8f9315125f3ffa17d92d20ae76740a4558b9fa5c1dc8b9cb6e3</string>
     <key>hintSetList</key>
     <array>
       <dict>

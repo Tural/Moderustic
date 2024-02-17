@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae.ss15" format="2">
   <advance width="861"/>
+  <anchor x="425" y="500" name="top"/>
+  <anchor x="425" y="-0" name="bottom"/>
   <outline>
     <contour>
       <point x="376.07" y="320" type="line"/>
@@ -18,19 +20,15 @@
       <point x="376.07" y="154.285" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="438.39" y="298" type="curve"/>
       <point x="745.24" y="298" type="line"/>
       <point x="745.24" y="396"/>
       <point x="683.49" y="470"/>
       <point x="593.24" y="470" type="curve" smooth="yes"/>
       <point x="502.04" y="470"/>
       <point x="438.39" y="394"/>
+      <point x="438.39" y="298" type="curve"/>
     </contour>
     <contour>
-      <point x="246.47" y="470" type="curve" smooth="yes"/>
-      <point x="192.71" y="470"/>
-      <point x="144.71" y="454"/>
-      <point x="81.34" y="397" type="curve"/>
       <point x="74.63" y="453" type="line"/>
       <point x="122.63" y="498"/>
       <point x="180.23" y="520"/>
@@ -72,6 +70,10 @@
       <point x="376.07" y="371" type="curve" smooth="yes"/>
       <point x="376.07" y="433"/>
       <point x="328.07" y="470"/>
+      <point x="246.47" y="470" type="curve" smooth="yes"/>
+      <point x="192.71" y="470"/>
+      <point x="144.71" y="454"/>
+      <point x="81.34" y="397" type="curve"/>
     </contour>
   </outline>
 </glyph>

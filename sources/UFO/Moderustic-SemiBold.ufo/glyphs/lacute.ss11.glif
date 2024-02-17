@@ -6,14 +6,14 @@
   <anchor x="152" y="950" name="top"/>
   <outline>
     <component base="l.ss11"/>
-    <component base="acute.case" xOffset="13" yOffset="250"/>
+    <component base="acute" xOffset="13" yOffset="250"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>l.ss11+acute.case</string>
+  <string>l.ss11+acute</string>
   </dict>
   </lib>
 </glyph>

@@ -2,7 +2,25 @@
 <glyph name="tbar.ss11" format="2">
   <advance width="353"/>
   <outline>
-    <component base="t.ss11"/>
-    <component base="macron" xScale="0.9889" yScale="2.1971" xOffset="-7" yOffset="-1166"/>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="380" type="line"/>
+      <point x="339" y="380" type="line"/>
+      <point x="339" y="500" type="line"/>
+      <point x="239" y="500" type="line"/>
+      <point x="239" y="620" type="line"/>
+      <point x="74" y="620" type="line"/>
+      <point x="74" y="500" type="line"/>
+      <point x="14" y="500" type="line"/>
+      <point x="14" y="380" type="line"/>
+      <point x="74" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="13.2725" y="123.698" type="line"/>
+      <point x="328.732" y="123.698" type="line"/>
+      <point x="328.732" y="244.538" type="line"/>
+      <point x="13.2725" y="244.538" type="line"/>
+    </contour>
   </outline>
 </glyph>

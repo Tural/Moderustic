@@ -4,10 +4,6 @@
   <anchor x="304" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="291" y="78.9326" type="curve" smooth="yes"/>
-      <point x="209.542" y="78.9326"/>
-      <point x="137.022" y="110.376"/>
-      <point x="61.2948" y="170.742" type="curve"/>
       <point x="53.1882" y="87.2056" type="line"/>
       <point x="88.7149" y="33.7312"/>
       <point x="185.017" y="-21.0674"/>
@@ -30,6 +26,10 @@
       <point x="496" y="345.953" type="curve" smooth="yes"/>
       <point x="496" y="182.328"/>
       <point x="440" y="78.9326"/>
+      <point x="291" y="78.9326" type="curve" smooth="yes"/>
+      <point x="209.542" y="78.9326"/>
+      <point x="137.022" y="110.376"/>
+      <point x="61.2948" y="170.742" type="curve"/>
     </contour>
     <contour>
       <point x="178" y="310" type="line"/>

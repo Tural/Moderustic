@@ -5,6 +5,17 @@
   <anchor x="416" y="520" name="topgr"/>
   <outline>
     <contour>
+      <point x="333" y="361" type="line"/>
+      <point x="333" y="206" type="line" smooth="yes"/>
+      <point x="333" y="136"/>
+      <point x="314" y="103"/>
+      <point x="275" y="103" type="curve" smooth="yes"/>
+      <point x="226" y="103"/>
+      <point x="204" y="165"/>
+      <point x="204" y="254" type="curve" smooth="yes"/>
+      <point x="204" y="356"/>
+      <point x="236" y="428"/>
+      <point x="278" y="500" type="curve"/>
       <point x="107" y="500" type="line"/>
       <point x="62" y="422"/>
       <point x="39" y="342"/>
@@ -35,17 +46,6 @@
       <point x="498" y="129"/>
       <point x="498" y="206" type="curve" smooth="yes"/>
       <point x="498" y="361" type="line"/>
-      <point x="333" y="361" type="line"/>
-      <point x="333" y="206" type="line" smooth="yes"/>
-      <point x="333" y="136"/>
-      <point x="314" y="103"/>
-      <point x="275" y="103" type="curve" smooth="yes"/>
-      <point x="226" y="103"/>
-      <point x="204" y="165"/>
-      <point x="204" y="254" type="curve" smooth="yes"/>
-      <point x="204" y="356"/>
-      <point x="236" y="428"/>
-      <point x="278" y="500" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cca4ec1c48f6212a1f86a5f123d2081aa8bc7c62017375d59f1b90d10bdd9b4b53a856eefe8cf997b097ff80061588ba57ee0ddd929928d3c11534f4d0300baf</string>
+    <string>7c695cf0ca3da07c14461c4cd334003b5a9a0cf1603204892c6e0d5fb64de7fb0119007b0fede20434960c3a1e38349a6af69ee56181b6131c3ac2b85d7c9df8</string>
     <key>hintSetList</key>
     <array>
       <dict>

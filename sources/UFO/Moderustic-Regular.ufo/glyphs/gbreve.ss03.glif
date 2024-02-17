@@ -5,14 +5,14 @@
   <anchor x="295" y="700" name="top"/>
   <outline>
     <component base="g.ss03"/>
-    <component base="breve" xOffset="127" yOffset="20"/>
+    <component base="brevecomb" xOffset="127" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>g.ss03+breve</string>
+  <string>g.ss03+brevecomb</string>
   </dict>
   </lib>
 </glyph>

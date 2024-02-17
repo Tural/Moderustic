@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="735"/>
+  <unicode hex="042A"/>
+  <outline>
+    <component base="Softcyr" xOffset="102"/>
+    <contour>
+      <point x="21" y="700" type="line"/>
+      <point x="21" y="579" type="line"/>
+      <point x="194" y="579" type="line"/>
+      <point x="227" y="693" type="line"/>
+      <point x="227" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

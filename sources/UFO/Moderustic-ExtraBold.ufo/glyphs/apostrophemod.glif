@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="2">
+  <advance width="287"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="55" y="500" type="line"/>
+      <point x="166" y="500" type="line"/>
+      <point x="242" y="701" type="line"/>
+      <point x="96" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

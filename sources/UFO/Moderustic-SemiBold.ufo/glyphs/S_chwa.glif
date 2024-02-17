@@ -6,21 +6,6 @@
   <anchor x="390" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="379" y="720" type="curve" smooth="yes" name="dv04"/>
-      <point x="600" y="720"/>
-      <point x="736" y="581"/>
-      <point x="736" y="355" type="curve" smooth="yes" name="sh03"/>
-      <point x="736" y="129"/>
-      <point x="599" y="-20"/>
-      <point x="390" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="181" y="-20"/>
-      <point x="43" y="130"/>
-      <point x="43" y="345" type="curve" smooth="yes" name="sh01"/>
-      <point x="43" y="371"/>
-      <point x="45" y="394"/>
-      <point x="47" y="409" type="curve" name="sh04"/>
-      <point x="600" y="409" type="line" name="dv06"/>
-      <point x="599" y="294" type="line" name="dv05"/>
       <point x="195" y="294" type="line" name="sh02"/>
       <point x="204" y="175.389"/>
       <point x="280" y="100"/>
@@ -37,6 +22,21 @@
       <point x="99" y="595" type="line"/>
       <point x="163" y="674"/>
       <point x="252" y="720"/>
+      <point x="379" y="720" type="curve" smooth="yes" name="dv04"/>
+      <point x="600" y="720"/>
+      <point x="736" y="581"/>
+      <point x="736" y="355" type="curve" smooth="yes" name="sh03"/>
+      <point x="736" y="129"/>
+      <point x="599" y="-20"/>
+      <point x="390" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="181" y="-20"/>
+      <point x="43" y="130"/>
+      <point x="43" y="345" type="curve" smooth="yes" name="sh01"/>
+      <point x="43" y="371"/>
+      <point x="45" y="394"/>
+      <point x="47" y="409" type="curve" name="sh04"/>
+      <point x="600" y="409" type="line" name="dv06"/>
+      <point x="599" y="294" type="line" name="dv05"/>
     </contour>
   </outline>
   <lib>
@@ -93,21 +93,33 @@
       <key>code</key>
       <string>singleh</string>
       <key>point1</key>
-      <string>dv05</string>
+      <string>lsb</string>
       <key>point2</key>
-      <string>sh03</string>
-      <key>stem</key>
-      <string>179</string>
+      <string>sh01</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
     </dict>
     <dict>
       <key>code</key>
       <string>singleh</string>
       <key>point1</key>
-      <string>lsb</string>
-      <key>point2</key>
       <string>sh01</string>
+      <key>point2</key>
+      <string>sh02</string>
+      <key>stem</key>
+      <string>179</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>dv05</string>
+      <key>point2</key>
+      <string>sh03</string>
+      <key>stem</key>
+      <string>179</string>
       <key>align</key>
       <string>round</string>
     </dict>
@@ -128,18 +140,6 @@
       <string>dv05</string>
       <key>point2</key>
       <string>dv06</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singleh</string>
-      <key>point1</key>
-      <string>sh01</string>
-      <key>point2</key>
-      <string>sh02</string>
-      <key>stem</key>
-      <string>179</string>
       <key>align</key>
       <string>round</string>
     </dict>

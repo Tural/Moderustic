@@ -2,12 +2,17 @@
 <glyph name="lslash.ss11" format="2">
   <advance width="272"/>
   <outline>
-    <component base="l.ss11"/>
     <contour>
-      <point x="23" y="335" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="700" type="line"/>
+      <point x="91" y="700" type="line"/>
+    </contour>
+    <contour>
       <point x="23" y="262" type="line"/>
       <point x="249" y="411" type="line"/>
       <point x="249" y="484" type="line"/>
+      <point x="23" y="335" type="line"/>
     </contour>
   </outline>
 </glyph>

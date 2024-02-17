@@ -3,7 +3,6 @@
   <advance width="718"/>
   <unicode hex="20B3"/>
   <outline>
-    <component base="Elcyr.ss08" xOffset="31.5"/>
     <contour>
       <point x="13" y="129" type="line"/>
       <point x="705" y="129" type="line"/>
@@ -16,6 +15,18 @@
       <point x="705" y="339" type="line"/>
       <point x="13" y="339" type="line"/>
     </contour>
+    <contour>
+      <point x="403.5" y="700" type="line"/>
+      <point x="265.5" y="700" type="line"/>
+      <point x="38.5" y="0" type="line"/>
+      <point x="212.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="452.5" y="700" type="line"/>
+      <point x="314.5" y="700" type="line"/>
+      <point x="505.5" y="0" type="line"/>
+      <point x="679.5" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -24,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w718m13,129l705,129l705,200l13,200m13,268l705,268l705,339l13,339</string>
+    <string>3128fed287a85c5146ef5496bcf19e469eac796a6f5fa7733d2fa4d172fa09af9e95d1eddfe8ffcbca9dec08cfcab4d332184987d7be80bad32c46bbd5a3c91b</string>
     <key>hintSetList</key>
     <array>
       <dict>

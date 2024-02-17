@@ -4,6 +4,7 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
+      <point x="330" y="-104" type="line"/>
       <point x="374" y="-104" type="line"/>
       <point x="403" y="401" type="line"/>
       <point x="650" y="388" type="line"/>
@@ -15,7 +16,6 @@
       <point x="50" y="484" type="line"/>
       <point x="50" y="388" type="line"/>
       <point x="301" y="401" type="line"/>
-      <point x="330" y="-104" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -6,10 +6,6 @@
   <anchor x="386" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="396" y="-20" type="curve" smooth="yes"/>
-      <point x="516" y="-20"/>
-      <point x="591" y="28"/>
-      <point x="662" y="107" type="curve"/>
       <point x="567" y="202" type="line"/>
       <point x="518.266" y="144"/>
       <point x="455.609" y="110"/>
@@ -32,6 +28,10 @@
       <point x="33" y="360" type="curve" smooth="yes"/>
       <point x="33" y="139"/>
       <point x="178" y="-20"/>
+      <point x="396" y="-20" type="curve" smooth="yes"/>
+      <point x="516" y="-20"/>
+      <point x="591" y="28"/>
+      <point x="662" y="107" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d88674e32a4e8e9c5e959147fb50eb4f86ff675397c9e3075613905c3df0377fd202ece770bc394eac483e6b52e0fb47e553a6bf0168cb0c0c4df5ef9b0b40e9</string>
+    <string>e2b7f1356e05abb6d4775b199b79638be13c7b78aa1b3ac3f736bb030382fe88b75f044d1869029d082160073cb9e2f5e37df65a5f415feb9954211864e6a058</string>
     <key>hintSetList</key>
     <array>
       <dict>

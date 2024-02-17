@@ -5,14 +5,14 @@
   <anchor x="306" y="683" name="top"/>
   <outline>
     <component base="c.ss09"/>
-    <component base="dotaccent" xOffset="201" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="201" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>c.ss09+dotaccent</string>
+  <string>c.ss09+dotaccentcomb</string>
   </dict>
   </lib>
 </glyph>

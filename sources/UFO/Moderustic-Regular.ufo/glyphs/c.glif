@@ -6,6 +6,9 @@
   <anchor x="303" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="453" y="123" type="line"/>
+      <point x="417" y="76.3611"/>
+      <point x="356" y="50"/>
       <point x="294" y="50" type="curve" smooth="yes" name="dv02"/>
       <point x="197" y="50"/>
       <point x="149" y="118.342"/>
@@ -29,9 +32,6 @@
       <point x="390" y="-20"/>
       <point x="465" y="17"/>
       <point x="506" y="70" type="curve"/>
-      <point x="453" y="123" type="line"/>
-      <point x="417" y="76.3611"/>
-      <point x="356" y="50"/>
     </contour>
   </outline>
   <lib>

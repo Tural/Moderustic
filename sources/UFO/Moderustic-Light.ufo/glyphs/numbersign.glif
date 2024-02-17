@@ -4,6 +4,17 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="253" y="220" type="line"/>
+      <point x="522" y="220" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="584" y="220" type="line"/>
+      <point x="735" y="220" type="line"/>
+      <point x="735" y="240" type="line"/>
+      <point x="588" y="240" type="line"/>
+      <point x="632" y="455" type="line"/>
       <point x="782" y="455" type="line"/>
       <point x="782" y="475" type="line"/>
       <point x="636" y="475" type="line"/>
@@ -21,17 +32,6 @@
       <point x="48" y="240" type="line"/>
       <point x="48" y="220" type="line"/>
       <point x="192" y="220" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="208" y="0" type="line"/>
-      <point x="253" y="220" type="line"/>
-      <point x="522" y="220" type="line"/>
-      <point x="477" y="0" type="line"/>
-      <point x="539" y="0" type="line"/>
-      <point x="584" y="220" type="line"/>
-      <point x="735" y="220" type="line"/>
-      <point x="735" y="240" type="line"/>
-      <point x="588" y="240" type="line"/>
-      <point x="632" y="455" type="line"/>
     </contour>
     <contour>
       <point x="257" y="240" type="line"/>

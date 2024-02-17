@@ -22,9 +22,6 @@
       <point x="560" y="35"/>
     </contour>
     <contour>
-      <point x="73" y="350" type="curve" smooth="yes"/>
-      <point x="73" y="110"/>
-      <point x="208" y="-20"/>
       <point x="398" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="587" y="-20"/>
       <point x="722" y="110"/>
@@ -34,6 +31,9 @@
       <point x="399" y="720" type="curve" smooth="yes" name="dv04"/>
       <point x="204" y="720"/>
       <point x="73" y="587"/>
+      <point x="73" y="350" type="curve" smooth="yes"/>
+      <point x="73" y="110"/>
+      <point x="208" y="-20"/>
     </contour>
   </outline>
   <lib>

@@ -3,7 +3,6 @@
   <advance width="806"/>
   <outline>
     <contour>
-      <point x="99" y="380" type="line"/>
       <point x="99" y="0" type="line"/>
       <point x="264" y="0" type="line"/>
       <point x="264" y="380" type="line"/>
@@ -27,9 +26,9 @@
       <point x="99" y="500" type="line"/>
       <point x="22" y="500" type="line"/>
       <point x="22" y="380" type="line"/>
+      <point x="99" y="380" type="line"/>
     </contour>
     <contour>
-      <point x="482" y="380" type="line"/>
       <point x="482" y="0" type="line"/>
       <point x="647" y="0" type="line"/>
       <point x="647" y="380" type="line"/>
@@ -53,6 +52,7 @@
       <point x="482" y="500" type="line"/>
       <point x="375" y="500" type="line"/>
       <point x="375" y="380" type="line"/>
+      <point x="482" y="380" type="line"/>
     </contour>
   </outline>
   <lib>

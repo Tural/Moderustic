@@ -6,14 +6,14 @@
   <anchor x="324" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="21" y="700" type="line"/>
-      <point x="21" y="570" type="line"/>
-      <point x="241" y="570" type="line"/>
       <point x="241" y="0" type="line"/>
       <point x="407" y="0" type="line"/>
       <point x="407" y="570" type="line"/>
       <point x="627" y="570" type="line"/>
       <point x="627" y="700" type="line"/>
+      <point x="21" y="700" type="line"/>
+      <point x="21" y="570" type="line"/>
+      <point x="241" y="570" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w648m21,700l21,570l241,570l241,0l407,0l407,570l627,570l627,700</string>
+    <string>w648m241,0l407,0l407,570l627,570l627,700l21,700l21,570l241,570</string>
     <key>hintSetList</key>
     <array>
       <dict>

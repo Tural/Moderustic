@@ -1286,10 +1286,8 @@
     <string>emcyr</string>
     <string>encyr</string>
     <string>icyr</string>
-    <string>icyr.loclBGR.ss05</string>
     <string>igravecyr</string>
     <string>ishortcyr</string>
-    <string>ishortcyr.loclBGR.ss05</string>
     <string>micro</string>
     <string>mu</string>
     <string>pecyr</string>
@@ -2589,11 +2587,9 @@
     <string>iacute_j.loclNLD.liga</string>
     <string>iacute_j.loclNLD.liga.ss12</string>
     <string>icyr.loclBGR</string>
-    <string>icyr.loclBGR.ss05</string>
     <string>ij.liga</string>
     <string>ij.liga.ss12</string>
     <string>ishortcyr.loclBGR</string>
-    <string>ishortcyr.loclBGR.ss05</string>
     <string>shacyr.loclBGR</string>
     <string>shchacyr.loclBGR</string>
     <string>tsecyr.loclBGR</string>

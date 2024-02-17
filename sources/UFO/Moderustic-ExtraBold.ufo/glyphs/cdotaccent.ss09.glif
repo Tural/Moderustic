@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent.ss09" format="2">
+  <advance width="611"/>
+  <anchor x="346" y="-20" name="bottom"/>
+  <anchor x="316" y="717" name="top"/>
+  <outline>
+    <component base="c.ss09"/>
+    <component base="dotaccentcomb" xOffset="211" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c.ss09+dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

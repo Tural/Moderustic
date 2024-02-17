@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+  <advance width="366"/>
+  <unicode hex="007B"/>
+  <outline>
+    <component base="braceright" xScale="-1" xOffset="372"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=braceright@~,</string>
+  </dict>
+  </lib>
+</glyph>

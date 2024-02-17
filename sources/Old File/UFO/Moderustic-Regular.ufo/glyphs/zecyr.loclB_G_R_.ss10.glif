@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.loclBGR.ss10" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="169" y="201" type="curve"/>
+      <point x="169" y="141" type="line"/>
+      <point x="312.897" y="141"/>
+      <point x="364.285" y="86.4386"/>
+      <point x="364.285" y="-22.0777" type="curve" smooth="yes"/>
+      <point x="364.285" y="-104.524"/>
+      <point x="320.603" y="-151.251"/>
+      <point x="243.53" y="-151.251" type="curve" smooth="yes"/>
+      <point x="171.53" y="-151.251"/>
+      <point x="111.104" y="-115.813"/>
+      <point x="74" y="-50" type="curve"/>
+      <point x="47" y="-135.125" type="line"/>
+      <point x="92.1924" y="-189.204"/>
+      <point x="171.53" y="-221.251"/>
+      <point x="248.284" y="-221.251" type="curve" smooth="yes"/>
+      <point x="373.055" y="-221.251"/>
+      <point x="454.285" y="-136.566"/>
+      <point x="454.285" y="-17.7178" type="curve" smooth="yes"/>
+      <point x="454.285" y="96.9658"/>
+      <point x="362.964" y="172.37"/>
+      <point x="247.351" y="172.37" type="curve"/>
+      <point x="362.381" y="186.831"/>
+      <point x="425" y="249.118"/>
+      <point x="425" y="349.078" type="curve" smooth="yes"/>
+      <point x="425" y="462.311"/>
+      <point x="362.897" y="520"/>
+      <point x="241" y="520" type="curve" smooth="yes"/>
+      <point x="169" y="520"/>
+      <point x="91" y="488"/>
+      <point x="47" y="435" type="curve"/>
+      <point x="74" y="350" type="line"/>
+      <point x="112.846" y="415"/>
+      <point x="175" y="450"/>
+      <point x="238.93" y="450" type="curve" smooth="yes"/>
+      <point x="303.539" y="450"/>
+      <point x="335" y="414.272"/>
+      <point x="335" y="340.902" type="curve" smooth="yes"/>
+      <point x="335" y="255.843"/>
+      <point x="278.351" y="200.37"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

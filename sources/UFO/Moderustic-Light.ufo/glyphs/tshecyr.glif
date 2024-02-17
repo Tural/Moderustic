@@ -4,13 +4,9 @@
   <unicode hex="045B"/>
   <outline>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="194" y="750" type="line" name="ab01"/>
-      <point x="134" y="750" type="line"/>
       <point x="134" y="0" type="line" name="ab03"/>
-    </contour>
-    <contour>
-      <point x="194" y="217" type="line" name="iv01"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="217" type="line" smooth="yes" name="iv01"/>
       <point x="194" y="363"/>
       <point x="262" y="449"/>
       <point x="380" y="449" type="curve" smooth="yes" name="sv01"/>
@@ -23,16 +19,19 @@
       <point x="561" y="441"/>
       <point x="496" y="500"/>
       <point x="401" y="500" type="curve" smooth="yes" name="at01"/>
-      <point x="287" y="500"/>
-      <point x="198" y="415"/>
-      <point x="190" y="307" type="curve"/>
-      <point x="191" y="257" type="line"/>
-    </contour>
-    <contour>
-      <point x="30" y="626" type="line"/>
-      <point x="30" y="590" type="line"/>
+      <point x="297.08" y="500"/>
+      <point x="213.95" y="429.36"/>
+      <point x="194" y="335.06" type="curve"/>
+      <point x="194" y="590" type="line"/>
       <point x="435" y="590" type="line"/>
       <point x="435" y="626" type="line"/>
+      <point x="194" y="626" type="line"/>
+      <point x="194" y="750" type="line" name="ab01"/>
+      <point x="134" y="750" type="line"/>
+      <point x="134" y="626" type="line"/>
+      <point x="30" y="626" type="line"/>
+      <point x="30" y="590" type="line"/>
+      <point x="134" y="590" type="line"/>
     </contour>
   </outline>
 </glyph>

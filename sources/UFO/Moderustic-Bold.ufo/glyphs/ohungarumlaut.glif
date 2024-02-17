@@ -8,12 +8,14 @@
   <anchor x="374" y="722" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlaut" xOffset="170" yOffset="20"/>
+    <component base="hungarumlautcomb" xOffset="170" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+hungarumlautcomb</string>
   </dict>
   </lib>
 </glyph>

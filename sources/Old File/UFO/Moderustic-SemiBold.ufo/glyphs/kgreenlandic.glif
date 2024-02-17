@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="594"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="69" y="0" type="line"/>
+      <point x="69" y="500" type="line"/>
+      <point x="214" y="500" type="line"/>
+      <point x="214" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="316" type="line" name="iv02"/>
+      <point x="418" y="500" type="line"/>
+      <point x="558" y="500" type="line" name="av02"/>
+      <point x="433" y="265" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="409" y="0" type="line" name="ab02"/>
+      <point x="317" y="207" type="line" name="iv01"/>
+      <point x="110" y="207" type="line"/>
+      <point x="109" y="316" type="line"/>
+    </contour>
+  </outline>
+</glyph>

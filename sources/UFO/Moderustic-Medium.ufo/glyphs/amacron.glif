@@ -7,12 +7,14 @@
   <anchor x="323" y="660" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="macron" xOffset="143" yOffset="20"/>
+    <component base="macroncomb" xOffset="143" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+macroncomb</string>
   </dict>
   </lib>
 </glyph>

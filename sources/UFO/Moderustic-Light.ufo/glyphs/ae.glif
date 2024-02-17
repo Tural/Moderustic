@@ -6,6 +6,12 @@
   <anchor x="508" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="482" y="0" type="line" name="ab01"/>
+      <point x="542" y="0" type="line" name="sh01"/>
+      <point x="542" y="500" type="line" name="av01"/>
+      <point x="482" y="500" type="line"/>
+    </contour>
+    <contour>
       <point x="295" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="424" y="-20"/>
       <point x="498" y="81"/>
@@ -34,10 +40,13 @@
       <point x="407" y="30"/>
     </contour>
     <contour>
-      <point x="542" y="0" type="line" name="sh01"/>
-      <point x="542" y="500" type="line" name="av01"/>
-      <point x="482" y="500" type="line"/>
-      <point x="482" y="0" type="line" name="ab01"/>
+      <point x="542" y="297" type="line" name="sv02"/>
+      <point x="554" y="415"/>
+      <point x="605" y="470"/>
+      <point x="710" y="470" type="curve" smooth="yes" name="sv01"/>
+      <point x="809" y="470"/>
+      <point x="853" y="420"/>
+      <point x="865" y="297" type="curve" name="dv04"/>
     </contour>
     <contour>
       <point x="869" y="106" type="line"/>
@@ -60,15 +69,6 @@
       <point x="804" y="-20"/>
       <point x="866" y="17"/>
       <point x="905" y="70" type="curve"/>
-    </contour>
-    <contour>
-      <point x="710" y="470" type="curve" smooth="yes" name="sv01"/>
-      <point x="809" y="470"/>
-      <point x="853" y="420"/>
-      <point x="865" y="297" type="curve" name="dv04"/>
-      <point x="542" y="297" type="line" name="sv02"/>
-      <point x="554" y="415"/>
-      <point x="605" y="470"/>
     </contour>
   </outline>
 </glyph>

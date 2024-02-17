@@ -5,6 +5,10 @@
   <anchor x="322" y="520" name="topgr"/>
   <outline>
     <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="450" type="line"/>
+      <point x="438" y="450" type="line"/>
       <point x="438" y="139.617" type="line" smooth="yes"/>
       <point x="438" y="43.8723"/>
       <point x="471" y="0"/>
@@ -19,10 +23,6 @@
       <point x="59" y="500" type="line"/>
       <point x="59" y="450" type="line"/>
       <point x="135" y="450" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="195" y="0" type="line"/>
-      <point x="195" y="450" type="line"/>
-      <point x="438" y="450" type="line"/>
     </contour>
   </outline>
 </glyph>

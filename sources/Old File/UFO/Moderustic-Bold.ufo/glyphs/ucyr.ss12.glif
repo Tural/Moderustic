@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucyr.ss12" format="2">
+  <advance width="615"/>
+  <anchor x="550" y="-89" name="bottom"/>
+  <anchor x="307" y="520" name="top"/>
+  <outline>
+    <component base="y.ss12"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y.ss12</string>
+  </dict>
+  </lib>
+</glyph>

@@ -6,10 +6,6 @@
   <anchor x="381" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="385" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="483" y="-20"/>
-      <point x="563" y="18"/>
-      <point x="637" y="102" type="curve"/>
       <point x="579" y="160" type="line"/>
       <point x="527.477" y="93"/>
       <point x="460.101" y="60"/>
@@ -32,6 +28,10 @@
       <point x="53" y="365" type="curve" smooth="yes"/>
       <point x="53" y="135"/>
       <point x="187" y="-20"/>
+      <point x="385" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="483" y="-20"/>
+      <point x="563" y="18"/>
+      <point x="637" y="102" type="curve"/>
     </contour>
   </outline>
   <lib>

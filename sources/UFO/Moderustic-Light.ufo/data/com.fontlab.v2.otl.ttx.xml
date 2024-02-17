@@ -1192,8 +1192,6 @@
           <Glyph value="zhecyr.loclBGR.ss11"/>
           <Glyph value="kacyr.loclBGR.ss11"/>
           <Glyph value="decyr.loclBGR.ss12"/>
-          <Glyph value="icyr.loclBGR.ss05"/>
-          <Glyph value="ishortcyr.loclBGR.ss05"/>
           <Glyph value="Eng.ss07"/>
           <Glyph value="Eng.ss09"/>
           <Glyph value="Eng.ss10"/>
@@ -1525,7 +1523,7 @@
           </MarkRecord>
         </MarkArray>
         <BaseArray>
-          <!-- BaseCount=774 -->
+          <!-- BaseCount=772 -->
           <BaseRecord index="0">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="471"/>
@@ -5488,11 +5486,11 @@
           </BaseRecord>
           <BaseRecord index="220">
             <BaseAnchor index="0" Format="1">
-              <XCoordinate value="352"/>
+              <XCoordinate value="372"/>
               <YCoordinate value="-217"/>
             </BaseAnchor>
             <BaseAnchor index="1" Format="1">
-              <XCoordinate value="419"/>
+              <XCoordinate value="439"/>
               <YCoordinate value="683"/>
             </BaseAnchor>
             <BaseAnchor index="2" Format="1">
@@ -13462,11 +13460,11 @@
           </BaseRecord>
           <BaseRecord index="663">
             <BaseAnchor index="0" Format="1">
-              <XCoordinate value="1019"/>
+              <XCoordinate value="1039"/>
               <YCoordinate value="-20"/>
             </BaseAnchor>
             <BaseAnchor index="1" Format="1">
-              <XCoordinate value="1029"/>
+              <XCoordinate value="1049"/>
               <YCoordinate value="921"/>
             </BaseAnchor>
             <BaseAnchor index="2" Format="1">
@@ -13534,11 +13532,11 @@
           </BaseRecord>
           <BaseRecord index="667">
             <BaseAnchor index="0" Format="1">
-              <XCoordinate value="1019"/>
+              <XCoordinate value="1039"/>
               <YCoordinate value="-20"/>
             </BaseAnchor>
             <BaseAnchor index="1" Format="1">
-              <XCoordinate value="1029"/>
+              <XCoordinate value="1049"/>
               <YCoordinate value="719"/>
             </BaseAnchor>
             <BaseAnchor index="2" Format="1">
@@ -14798,8 +14796,8 @@
               <YCoordinate value="-20"/>
             </BaseAnchor>
             <BaseAnchor index="1" Format="1">
-              <XCoordinate value="273"/>
-              <YCoordinate value="520"/>
+              <XCoordinate value="284"/>
+              <YCoordinate value="736"/>
             </BaseAnchor>
             <BaseAnchor index="2" Format="1">
               <XCoordinate value="0"/>
@@ -14892,7 +14890,7 @@
               <YCoordinate value="700"/>
             </BaseAnchor>
             <BaseAnchor index="2" Format="1">
-              <XCoordinate value="397"/>
+              <XCoordinate value="497"/>
               <YCoordinate value="-3"/>
             </BaseAnchor>
             <BaseAnchor index="3" Format="1">
@@ -15118,42 +15116,6 @@
           </BaseRecord>
           <BaseRecord index="755">
             <BaseAnchor index="0" Format="1">
-              <XCoordinate value="300"/>
-              <YCoordinate value="-20"/>
-            </BaseAnchor>
-            <BaseAnchor index="1" Format="1">
-              <XCoordinate value="300"/>
-              <YCoordinate value="520"/>
-            </BaseAnchor>
-            <BaseAnchor index="2" Format="1">
-              <XCoordinate value="497"/>
-              <YCoordinate value="-3"/>
-            </BaseAnchor>
-            <BaseAnchor index="3" Format="1">
-              <XCoordinate value="0"/>
-              <YCoordinate value="0"/>
-            </BaseAnchor>
-          </BaseRecord>
-          <BaseRecord index="756">
-            <BaseAnchor index="0" Format="1">
-              <XCoordinate value="300"/>
-              <YCoordinate value="-20"/>
-            </BaseAnchor>
-            <BaseAnchor index="1" Format="1">
-              <XCoordinate value="300"/>
-              <YCoordinate value="700"/>
-            </BaseAnchor>
-            <BaseAnchor index="2" Format="1">
-              <XCoordinate value="497"/>
-              <YCoordinate value="-3"/>
-            </BaseAnchor>
-            <BaseAnchor index="3" Format="1">
-              <XCoordinate value="0"/>
-              <YCoordinate value="0"/>
-            </BaseAnchor>
-          </BaseRecord>
-          <BaseRecord index="757">
-            <BaseAnchor index="0" Format="1">
               <XCoordinate value="390"/>
               <YCoordinate value="-221"/>
             </BaseAnchor>
@@ -15170,7 +15132,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="758">
+          <BaseRecord index="756">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="383"/>
               <YCoordinate value="-218"/>
@@ -15188,7 +15150,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="759">
+          <BaseRecord index="757">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="386"/>
               <YCoordinate value="-192"/>
@@ -15206,7 +15168,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="760">
+          <BaseRecord index="758">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="369"/>
               <YCoordinate value="-207"/>
@@ -15224,7 +15186,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="761">
+          <BaseRecord index="759">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="275"/>
               <YCoordinate value="-20"/>
@@ -15242,7 +15204,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="762">
+          <BaseRecord index="760">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="299"/>
               <YCoordinate value="-20"/>
@@ -15260,7 +15222,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="763">
+          <BaseRecord index="761">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="329"/>
               <YCoordinate value="-20"/>
@@ -15278,7 +15240,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="764">
+          <BaseRecord index="762">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="536"/>
               <YCoordinate value="-59"/>
@@ -15296,7 +15258,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="765">
+          <BaseRecord index="763">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="329"/>
               <YCoordinate value="-20"/>
@@ -15314,7 +15276,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="766">
+          <BaseRecord index="764">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="536"/>
               <YCoordinate value="-59"/>
@@ -15332,7 +15294,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="767">
+          <BaseRecord index="765">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="298"/>
               <YCoordinate value="-20"/>
@@ -15350,7 +15312,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="768">
+          <BaseRecord index="766">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="542"/>
               <YCoordinate value="-49"/>
@@ -15368,7 +15330,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="769">
+          <BaseRecord index="767">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="542"/>
               <YCoordinate value="-49"/>
@@ -15386,7 +15348,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="770">
+          <BaseRecord index="768">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="428"/>
               <YCoordinate value="0"/>
@@ -15404,7 +15366,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="771">
+          <BaseRecord index="769">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="428"/>
               <YCoordinate value="0"/>
@@ -15422,7 +15384,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="772">
+          <BaseRecord index="770">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="298"/>
               <YCoordinate value="-20"/>
@@ -15440,7 +15402,7 @@
               <YCoordinate value="0"/>
             </BaseAnchor>
           </BaseRecord>
-          <BaseRecord index="773">
+          <BaseRecord index="771">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="298"/>
               <YCoordinate value="-20"/>
@@ -24558,6 +24520,7 @@
           <ClassDef glyph="scommaaccent" class="0"/>
           <ClassDef glyph="twothirds" class="0"/>
           <ClassDef glyph="micro" class="0"/>
+          <ClassDef glyph="ampersand.ss09" class="0"/>
           <ClassDef glyph="g.ss03" class="0"/>
           <ClassDef glyph="y.ss04" class="0"/>
           <ClassDef glyph="schwa" class="0"/>
@@ -24985,11 +24948,11 @@
           <ClassDef glyph="lj.ss11" class="0"/>
           <ClassDef glyph="hdot.ss11" class="0"/>
           <ClassDef glyph="tdot.ss11" class="0"/>
-          <ClassDef glyph="gcaron.ss12" class="0"/>
           <ClassDef glyph="gcaron.ss03" class="0"/>
+          <ClassDef glyph="gcaron.ss12" class="0"/>
           <ClassDef glyph="i.loclTRK" class="0"/>
-          <ClassDef glyph="f_f.ss11" class="0"/>
           <ClassDef glyph="fi.ss11" class="0"/>
+          <ClassDef glyph="f_f.ss11" class="0"/>
           <ClassDef glyph="dialytikatonoscomb" class="0"/>
           <ClassDef glyph="oneseventh" class="0"/>
           <ClassDef glyph="oneninth" class="0"/>
@@ -25003,64 +24966,34 @@
           <ClassDef glyph="onefraction" class="0"/>
           <ClassDef glyph="zerothirds" class="0"/>
           <ClassDef glyph="apostrophemod" class="0"/>
+          <ClassDef glyph="iacute_j.loclNLD" class="0"/>
           <ClassDef glyph="Jacute" class="0"/>
           <ClassDef glyph="jacute" class="0"/>
-          <ClassDef glyph="iacute_j.loclNLD" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD" class="0"/>
-          <ClassDef glyph="plus.case" class="0"/>
-          <ClassDef glyph="equal.case" class="0"/>
-          <ClassDef glyph="minus.case" class="0"/>
-          <ClassDef glyph="plusminus.case" class="0"/>
-          <ClassDef glyph="multiply.case" class="0"/>
-          <ClassDef glyph="divide.case" class="0"/>
-          <ClassDef glyph="less.case" class="0"/>
-          <ClassDef glyph="greater.case" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
-          <ClassDef glyph="ygrave.ss04" class="0"/>
-          <ClassDef glyph="ytilde.ss04" class="0"/>
-          <ClassDef glyph="kacyr.loclBGR" class="0"/>
-          <ClassDef glyph="gecyr.loclBGR" class="0"/>
-          <ClassDef glyph="tecyr.loclBGR" class="0"/>
-          <ClassDef glyph="shacyr.loclBGR" class="0"/>
-          <ClassDef glyph="decyr.loclBGR" class="0"/>
-          <ClassDef glyph="icyr.loclBGR" class="0"/>
-          <ClassDef glyph="ishortcyr.loclBGR" class="0"/>
-          <ClassDef glyph="icyr.loclBGR.ss05" class="0"/>
-          <ClassDef glyph="ishortcyr.loclBGR.ss05" class="0"/>
-          <ClassDef glyph="pecyr.loclBGR" class="0"/>
-          <ClassDef glyph="zhecyr.loclBGR" class="0"/>
-          <ClassDef glyph="yucyr.loclBGR" class="0"/>
-          <ClassDef glyph="vecyr.loclBGR" class="0"/>
-          <ClassDef glyph="zecyr.loclBGR" class="0"/>
-          <ClassDef glyph="Jacute.ss07" class="0"/>
-          <ClassDef glyph="Jacute.ss09" class="0"/>
-          <ClassDef glyph="Jacute.ss10" class="0"/>
-          <ClassDef glyph="Jacute.ss12" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss07" class="0"/>
+          <ClassDef glyph="Jacute.ss07" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss09" class="0"/>
+          <ClassDef glyph="Jacute.ss09" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss10" class="0"/>
+          <ClassDef glyph="Jacute.ss10" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss12" class="0"/>
-          <ClassDef glyph="Etilde" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="notequal.case" class="0"/>
-          <ClassDef glyph="approxequal.case" class="0"/>
-          <ClassDef glyph="asciitilde.case" class="0"/>
-          <ClassDef glyph="IJ.liga" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga" class="0"/>
-          <ClassDef glyph="iacute_j.loclNLD.liga" class="0"/>
-          <ClassDef glyph="ij.liga" class="0"/>
+          <ClassDef glyph="Jacute.ss12" class="0"/>
           <ClassDef glyph="ij.liga.ss12" class="0"/>
           <ClassDef glyph="iacute_j.loclNLD.liga.ss12" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss09" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss07" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss10" class="0"/>
+          <ClassDef glyph="ij.liga" class="0"/>
+          <ClassDef glyph="iacute_j.loclNLD.liga" class="0"/>
+          <ClassDef glyph="IJ.liga" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga" class="0"/>
           <ClassDef glyph="IJ.liga.ss07" class="0"/>
           <ClassDef glyph="IJ.liga.ss09" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss09" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss07" class="0"/>
           <ClassDef glyph="IJ.liga.ss10" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss10" class="0"/>
           <ClassDef glyph="IJ.liga.ss12" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.liga.ss12" class="0"/>
-          <ClassDef glyph="acute.loclPLK" class="0"/>
           <ClassDef glyph="acutecomb.loclPLK" class="0"/>
+          <ClassDef glyph="acute.loclPLK" class="0"/>
           <ClassDef glyph="Nacute.loclPLK" class="0"/>
           <ClassDef glyph="Sacute.loclPLK" class="0"/>
           <ClassDef glyph="Zacute.loclPLK" class="0"/>
@@ -25072,13 +25005,24 @@
           <ClassDef glyph="cacute.loclPLK.ss09" class="0"/>
           <ClassDef glyph="cacute.loclPLK.ss10" class="0"/>
           <ClassDef glyph="cacute.loclPLK.ss12" class="0"/>
-          <ClassDef glyph="sacute.loclPLK.ss12" class="0"/>
           <ClassDef glyph="sacute.loclPLK.ss09" class="0"/>
           <ClassDef glyph="sacute.loclPLK.ss10" class="0"/>
+          <ClassDef glyph="sacute.loclPLK.ss12" class="0"/>
           <ClassDef glyph="Sacute.loclPLK.ss09" class="0"/>
-          <ClassDef glyph="Sacute.loclPLK.ss12" class="0"/>
           <ClassDef glyph="Sacute.loclPLK.ss10" class="0"/>
-          <ClassDef glyph="becyr.loclSRB" class="0"/>
+          <ClassDef glyph="Sacute.loclPLK.ss12" class="0"/>
+          <ClassDef glyph="vecyr.loclBGR" class="0"/>
+          <ClassDef glyph="gecyr.loclBGR" class="0"/>
+          <ClassDef glyph="decyr.loclBGR" class="0"/>
+          <ClassDef glyph="zhecyr.loclBGR" class="0"/>
+          <ClassDef glyph="zecyr.loclBGR" class="0"/>
+          <ClassDef glyph="icyr.loclBGR" class="0"/>
+          <ClassDef glyph="ishortcyr.loclBGR" class="0"/>
+          <ClassDef glyph="kacyr.loclBGR" class="0"/>
+          <ClassDef glyph="pecyr.loclBGR" class="0"/>
+          <ClassDef glyph="tecyr.loclBGR" class="0"/>
+          <ClassDef glyph="shacyr.loclBGR" class="0"/>
+          <ClassDef glyph="yucyr.loclBGR" class="0"/>
           <ClassDef glyph="gecyr.loclBGR.ss09" class="0"/>
           <ClassDef glyph="gecyr.loclBGR.ss10" class="0"/>
           <ClassDef glyph="gecyr.loclBGR.ss12" class="0"/>
@@ -25093,13 +25037,7 @@
           <ClassDef glyph="Eng.ss09" class="0"/>
           <ClassDef glyph="Eng.ss10" class="0"/>
           <ClassDef glyph="Eng.ss12" class="0"/>
-          <ClassDef glyph="logicalnot.case" class="0"/>
-          <ClassDef glyph="lessequal.case" class="0"/>
-          <ClassDef glyph="greaterequal.case" class="0"/>
-          <ClassDef glyph="slash.case" class="0"/>
-          <ClassDef glyph="backslash.case" class="0"/>
-          <ClassDef glyph="bar.case" class="0"/>
-          <ClassDef glyph="brokenbar.case" class="0"/>
+          <ClassDef glyph="becyr.loclSRB" class="0"/>
           <ClassDef glyph="zero.osf" class="0"/>
           <ClassDef glyph="one.osf" class="0"/>
           <ClassDef glyph="two.osf" class="0"/>
@@ -25110,215 +25048,206 @@
           <ClassDef glyph="seven.osf" class="0"/>
           <ClassDef glyph="eight.osf" class="0"/>
           <ClassDef glyph="nine.osf" class="0"/>
-          <ClassDef glyph="one.ss09.osf" class="0"/>
-          <ClassDef glyph="two.ss09.osf" class="0"/>
-          <ClassDef glyph="two.ss10.osf" class="0"/>
-          <ClassDef glyph="two.ss12.osf" class="0"/>
-          <ClassDef glyph="five.ss09.osf" class="0"/>
-          <ClassDef glyph="five.ss10.osf" class="0"/>
-          <ClassDef glyph="five.ss12.osf" class="0"/>
-          <ClassDef glyph="six.ss09.osf" class="0"/>
-          <ClassDef glyph="six.ss10.osf" class="0"/>
-          <ClassDef glyph="six.ss12.osf" class="0"/>
-          <ClassDef glyph="nine.ss09.osf" class="0"/>
-          <ClassDef glyph="nine.ss10.osf" class="0"/>
-          <ClassDef glyph="nine.ss12.osf" class="0"/>
-          <ClassDef glyph="three.ss09.osf" class="0"/>
-          <ClassDef glyph="three.ss10.osf" class="0"/>
-          <ClassDef glyph="three.ss12.osf" class="0"/>
-          <ClassDef glyph="etilde.ss12" class="0"/>
-          <ClassDef glyph="ygrave.ss12" class="0"/>
-          <ClassDef glyph="ytilde.ss12" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="etilde.ss09" class="0"/>
           <ClassDef glyph="etilde.ss10" class="0"/>
+          <ClassDef glyph="etilde.ss12" class="0"/>
+          <ClassDef glyph="ygrave.ss04" class="0"/>
+          <ClassDef glyph="ygrave.ss12" class="0"/>
+          <ClassDef glyph="ytilde.ss04" class="0"/>
+          <ClassDef glyph="ytilde.ss12" class="0"/>
+          <ClassDef glyph="Etilde" class="0"/>
+          <ClassDef glyph="slash.case" class="0"/>
+          <ClassDef glyph="plus.case" class="0"/>
+          <ClassDef glyph="equal.case" class="0"/>
+          <ClassDef glyph="minus.case" class="0"/>
+          <ClassDef glyph="bar.case" class="0"/>
+          <ClassDef glyph="brokenbar.case" class="0"/>
+          <ClassDef glyph="backslash.case" class="0"/>
+          <ClassDef glyph="notequal.case" class="0"/>
+          <ClassDef glyph="greater.case" class="0"/>
+          <ClassDef glyph="less.case" class="0"/>
+          <ClassDef glyph="multiply.case" class="0"/>
+          <ClassDef glyph="logicalnot.case" class="0"/>
+          <ClassDef glyph="asciitilde.case" class="0"/>
+          <ClassDef glyph="approxequal.case" class="0"/>
+          <ClassDef glyph="divide.case" class="0"/>
+          <ClassDef glyph="plusminus.case" class="0"/>
+          <ClassDef glyph="lessequal.case" class="0"/>
+          <ClassDef glyph="greaterequal.case" class="0"/>
           <ClassDef glyph="questiondown.ss09.case" class="0"/>
           <ClassDef glyph="questiondown.ss10.case" class="0"/>
           <ClassDef glyph="questiondown.ss12.case" class="0"/>
-          <ClassDef glyph="ampersand.ss09" class="0"/>
-          <ClassDef glyph="A" class="1"/>
-          <ClassDef glyph="Delta" class="1"/>
-          <ClassDef glyph="Agrave" class="1"/>
-          <ClassDef glyph="Aacute" class="1"/>
-          <ClassDef glyph="Acircumflex" class="1"/>
-          <ClassDef glyph="Atilde" class="1"/>
-          <ClassDef glyph="Adieresis" class="1"/>
-          <ClassDef glyph="Aring" class="1"/>
-          <ClassDef glyph="Amacron" class="1"/>
-          <ClassDef glyph="Abreve" class="1"/>
-          <ClassDef glyph="Aogonek" class="1"/>
-          <ClassDef glyph="Acyr" class="1"/>
-          <ClassDef glyph="Decyr.ss08" class="1"/>
-          <ClassDef glyph="Elcyr.ss08" class="1"/>
-          <ClassDef glyph="Alpha" class="1"/>
-          <ClassDef glyph="Lambda" class="1"/>
-          <ClassDef glyph="Alphatonos" class="1"/>
-          <ClassDef glyph="Decyr.loclBGR" class="1"/>
-          <ClassDef glyph="Elcyr.loclBGR" class="1"/>
-          <ClassDef glyph="D" class="2"/>
-          <ClassDef glyph="C" class="2"/>
-          <ClassDef glyph="O" class="2"/>
-          <ClassDef glyph="Q" class="2"/>
-          <ClassDef glyph="Ohm" class="2"/>
-          <ClassDef glyph="Schwa" class="2"/>
-          <ClassDef glyph="G.ss03" class="2"/>
-          <ClassDef glyph="Yucyr" class="2"/>
-          <ClassDef glyph="Ereversedcyr" class="2"/>
-          <ClassDef glyph="Eukrcyr" class="2"/>
-          <ClassDef glyph="Efcyr" class="2"/>
-          <ClassDef glyph="Q.ss06" class="2"/>
-          <ClassDef glyph="C.ss09" class="2"/>
-          <ClassDef glyph="C.ss10" class="2"/>
-          <ClassDef glyph="G.ss13" class="2"/>
-          <ClassDef glyph="Schwa.ss09" class="2"/>
-          <ClassDef glyph="Schwa.ss10" class="2"/>
-          <ClassDef glyph="Eth" class="2"/>
-          <ClassDef glyph="Ograve" class="2"/>
-          <ClassDef glyph="Oacute" class="2"/>
-          <ClassDef glyph="Ocircumflex" class="2"/>
-          <ClassDef glyph="Otilde" class="2"/>
-          <ClassDef glyph="Odieresis" class="2"/>
-          <ClassDef glyph="Oslash" class="2"/>
-          <ClassDef glyph="Cacute" class="2"/>
-          <ClassDef glyph="Ccircumflex" class="2"/>
-          <ClassDef glyph="Cdotaccent" class="2"/>
-          <ClassDef glyph="Ccaron" class="2"/>
-          <ClassDef glyph="Dcaron" class="2"/>
-          <ClassDef glyph="Dcroat" class="2"/>
-          <ClassDef glyph="Omacron" class="2"/>
-          <ClassDef glyph="Obreve" class="2"/>
-          <ClassDef glyph="Ohungarumlaut" class="2"/>
-          <ClassDef glyph="Ccedilla" class="2"/>
-          <ClassDef glyph="Oslashacute" class="2"/>
-          <ClassDef glyph="Ocyr" class="2"/>
-          <ClassDef glyph="Escyr" class="2"/>
-          <ClassDef glyph="Escyr.ss09" class="2"/>
-          <ClassDef glyph="Eukrcyr.ss09" class="2"/>
-          <ClassDef glyph="Escyr.ss10" class="2"/>
-          <ClassDef glyph="Eukrcyr.ss10" class="2"/>
-          <ClassDef glyph="Ereversedcyr.ss09" class="2"/>
-          <ClassDef glyph="Ereversedcyr.ss10" class="2"/>
-          <ClassDef glyph="Ccedilla.ss09" class="2"/>
-          <ClassDef glyph="Cacute.ss09" class="2"/>
-          <ClassDef glyph="Ccircumflex.ss09" class="2"/>
-          <ClassDef glyph="Cdotaccent.ss09" class="2"/>
-          <ClassDef glyph="Ccaron.ss09" class="2"/>
-          <ClassDef glyph="Ccedilla.ss10" class="2"/>
-          <ClassDef glyph="Cacute.ss10" class="2"/>
-          <ClassDef glyph="Ccircumflex.ss10" class="2"/>
-          <ClassDef glyph="Cdotaccent.ss10" class="2"/>
-          <ClassDef glyph="Ccaron.ss10" class="2"/>
-          <ClassDef glyph="Gcircumflex.ss03" class="2"/>
-          <ClassDef glyph="Gbreve.ss03" class="2"/>
-          <ClassDef glyph="Gdotaccent.ss03" class="2"/>
-          <ClassDef glyph="Gcommaaccent.ss03" class="2"/>
-          <ClassDef glyph="Gcircumflex.ss13" class="2"/>
-          <ClassDef glyph="Gbreve.ss13" class="2"/>
-          <ClassDef glyph="Gdotaccent.ss13" class="2"/>
-          <ClassDef glyph="Gcommaaccent.ss13" class="2"/>
-          <ClassDef glyph="Omicron" class="2"/>
-          <ClassDef glyph="Theta" class="2"/>
-          <ClassDef glyph="Omicrontonos" class="2"/>
-          <ClassDef glyph="Omegatonos" class="2"/>
-          <ClassDef glyph="Phi" class="2"/>
-          <ClassDef glyph="Gacute.ss03" class="2"/>
-          <ClassDef glyph="Gacute.ss13" class="2"/>
-          <ClassDef glyph="C.ss12" class="2"/>
-          <ClassDef glyph="G.ss15" class="2"/>
-          <ClassDef glyph="Schwa.ss12" class="2"/>
-          <ClassDef glyph="Ccedilla.ss12" class="2"/>
-          <ClassDef glyph="Cacute.ss12" class="2"/>
-          <ClassDef glyph="Ccircumflex.ss12" class="2"/>
-          <ClassDef glyph="Cdotaccent.ss12" class="2"/>
-          <ClassDef glyph="Ccaron.ss12" class="2"/>
-          <ClassDef glyph="Gacute.ss15" class="2"/>
-          <ClassDef glyph="Gbreve.ss15" class="2"/>
-          <ClassDef glyph="Gcircumflex.ss15" class="2"/>
-          <ClassDef glyph="Gcommaaccent.ss15" class="2"/>
-          <ClassDef glyph="Gdotaccent.ss15" class="2"/>
-          <ClassDef glyph="Eukrcyr.ss12" class="2"/>
-          <ClassDef glyph="Escyr.ss12" class="2"/>
-          <ClassDef glyph="Ereversedcyr.ss12" class="2"/>
-          <ClassDef glyph="Omega" class="2"/>
-          <ClassDef glyph="Gcaron.ss03" class="2"/>
-          <ClassDef glyph="Gcaron.ss13" class="2"/>
-          <ClassDef glyph="Gcaron.ss15" class="2"/>
-          <ClassDef glyph="Cacute.loclPLK" class="2"/>
-          <ClassDef glyph="Oacute.loclPLK" class="2"/>
-          <ClassDef glyph="Cacute.loclPLK.ss09" class="2"/>
-          <ClassDef glyph="Cacute.loclPLK.ss10" class="2"/>
-          <ClassDef glyph="Cacute.loclPLK.ss12" class="2"/>
-          <ClassDef glyph="Efcyr.loclBGR" class="2"/>
-          <ClassDef glyph="F" class="3"/>
-          <ClassDef glyph="Gecyr" class="3"/>
-          <ClassDef glyph="Geupcyr" class="3"/>
-          <ClassDef glyph="Gjecyr" class="3"/>
-          <ClassDef glyph="Gamma" class="3"/>
-          <ClassDef glyph="G" class="4"/>
-          <ClassDef glyph="G.ss10" class="4"/>
-          <ClassDef glyph="G.ss09" class="4"/>
-          <ClassDef glyph="G.ss14" class="4"/>
-          <ClassDef glyph="Gcircumflex" class="4"/>
-          <ClassDef glyph="Gbreve" class="4"/>
-          <ClassDef glyph="Gdotaccent" class="4"/>
-          <ClassDef glyph="Gcommaaccent" class="4"/>
-          <ClassDef glyph="Gcircumflex.ss10" class="4"/>
-          <ClassDef glyph="Gbreve.ss10" class="4"/>
-          <ClassDef glyph="Gdotaccent.ss10" class="4"/>
-          <ClassDef glyph="Gcommaaccent.ss10" class="4"/>
-          <ClassDef glyph="Gcircumflex.ss09" class="4"/>
-          <ClassDef glyph="Gbreve.ss09" class="4"/>
-          <ClassDef glyph="Gdotaccent.ss09" class="4"/>
-          <ClassDef glyph="Gcommaaccent.ss09" class="4"/>
-          <ClassDef glyph="Gbreve.ss14" class="4"/>
-          <ClassDef glyph="Gcircumflex.ss14" class="4"/>
-          <ClassDef glyph="Gcommaaccent.ss14" class="4"/>
-          <ClassDef glyph="Gdotaccent.ss14" class="4"/>
-          <ClassDef glyph="Gacute" class="4"/>
-          <ClassDef glyph="Gacute.ss09" class="4"/>
-          <ClassDef glyph="Gacute.ss10" class="4"/>
-          <ClassDef glyph="Gacute.ss14" class="4"/>
-          <ClassDef glyph="G.ss12" class="4"/>
-          <ClassDef glyph="Gcircumflex.ss12" class="4"/>
-          <ClassDef glyph="Gbreve.ss12" class="4"/>
-          <ClassDef glyph="Gdotaccent.ss12" class="4"/>
-          <ClassDef glyph="Gcommaaccent.ss12" class="4"/>
-          <ClassDef glyph="Gacute.ss12" class="4"/>
-          <ClassDef glyph="Gcaron" class="4"/>
-          <ClassDef glyph="Gcaron.ss09" class="4"/>
-          <ClassDef glyph="Gcaron.ss10" class="4"/>
-          <ClassDef glyph="Gcaron.ss12" class="4"/>
-          <ClassDef glyph="Gcaron.ss14" class="4"/>
-          <ClassDef glyph="K" class="5"/>
-          <ClassDef glyph="X" class="5"/>
-          <ClassDef glyph="Kacyr" class="5"/>
-          <ClassDef glyph="Kcommaaccent" class="5"/>
-          <ClassDef glyph="Hacyr" class="5"/>
-          <ClassDef glyph="Kjecyr" class="5"/>
-          <ClassDef glyph="Zhecyr" class="5"/>
-          <ClassDef glyph="Kappa" class="5"/>
-          <ClassDef glyph="Chi" class="5"/>
+          <ClassDef glyph="brevecy" class="0"/>
+          <ClassDef glyph="brevecycomb" class="0"/>
+          <ClassDef glyph="one.osf.ss09" class="0"/>
+          <ClassDef glyph="two.osf.ss09" class="0"/>
+          <ClassDef glyph="two.osf.ss10" class="0"/>
+          <ClassDef glyph="two.osf.ss12" class="0"/>
+          <ClassDef glyph="three.osf.ss09" class="0"/>
+          <ClassDef glyph="three.osf.ss10" class="0"/>
+          <ClassDef glyph="three.osf.ss12" class="0"/>
+          <ClassDef glyph="six.osf.ss09" class="0"/>
+          <ClassDef glyph="five.osf.ss12" class="0"/>
+          <ClassDef glyph="five.osf.ss09" class="0"/>
+          <ClassDef glyph="five.osf.ss10" class="0"/>
+          <ClassDef glyph="six.osf.ss10" class="0"/>
+          <ClassDef glyph="six.osf.ss12" class="0"/>
+          <ClassDef glyph="nine.osf.ss09" class="0"/>
+          <ClassDef glyph="nine.osf.ss10" class="0"/>
+          <ClassDef glyph="nine.osf.ss12" class="0"/>
+          <ClassDef glyph="Y" class="1"/>
+          <ClassDef glyph="Yacute" class="1"/>
+          <ClassDef glyph="Ycircumflex" class="1"/>
+          <ClassDef glyph="Ydieresis" class="1"/>
+          <ClassDef glyph="Ymacron" class="1"/>
+          <ClassDef glyph="Upsilon" class="1"/>
+          <ClassDef glyph="Upsilondieresis" class="1"/>
+          <ClassDef glyph="Upsilontonos" class="1"/>
+          <ClassDef glyph="Ygrave" class="1"/>
+          <ClassDef glyph="Ytilde" class="1"/>
+          <ClassDef glyph="A" class="2"/>
+          <ClassDef glyph="Delta" class="2"/>
+          <ClassDef glyph="Agrave" class="2"/>
+          <ClassDef glyph="Aacute" class="2"/>
+          <ClassDef glyph="Acircumflex" class="2"/>
+          <ClassDef glyph="Atilde" class="2"/>
+          <ClassDef glyph="Adieresis" class="2"/>
+          <ClassDef glyph="Aring" class="2"/>
+          <ClassDef glyph="Amacron" class="2"/>
+          <ClassDef glyph="Abreve" class="2"/>
+          <ClassDef glyph="Aogonek" class="2"/>
+          <ClassDef glyph="Acyr" class="2"/>
+          <ClassDef glyph="Decyr.ss08" class="2"/>
+          <ClassDef glyph="Elcyr.ss08" class="2"/>
+          <ClassDef glyph="Alpha" class="2"/>
+          <ClassDef glyph="Lambda" class="2"/>
+          <ClassDef glyph="Alphatonos" class="2"/>
+          <ClassDef glyph="Decyr.loclBGR" class="2"/>
+          <ClassDef glyph="Elcyr.loclBGR" class="2"/>
+          <ClassDef glyph="P" class="3"/>
+          <ClassDef glyph="Thorn" class="3"/>
+          <ClassDef glyph="Ercyr" class="3"/>
+          <ClassDef glyph="Rho" class="3"/>
+          <ClassDef glyph="Pdot" class="3"/>
+          <ClassDef glyph="Hardcyr" class="4"/>
+          <ClassDef glyph="Njecyr" class="4"/>
+          <ClassDef glyph="Ljecyr" class="4"/>
+          <ClassDef glyph="Softcyr" class="4"/>
+          <ClassDef glyph="Ljecyr.ss08" class="4"/>
+          <ClassDef glyph="F" class="5"/>
+          <ClassDef glyph="Gecyr" class="5"/>
+          <ClassDef glyph="Geupcyr" class="5"/>
+          <ClassDef glyph="Gjecyr" class="5"/>
+          <ClassDef glyph="Gamma" class="5"/>
           <ClassDef glyph="L" class="6"/>
           <ClassDef glyph="Lacute" class="6"/>
           <ClassDef glyph="Lcommaaccent" class="6"/>
           <ClassDef glyph="Lcaron" class="6"/>
           <ClassDef glyph="Ldot" class="6"/>
           <ClassDef glyph="Lslash" class="6"/>
-          <ClassDef glyph="V" class="7"/>
-          <ClassDef glyph="W" class="7"/>
-          <ClassDef glyph="Wcircumflex" class="7"/>
-          <ClassDef glyph="Wgrave" class="7"/>
-          <ClassDef glyph="Wacute" class="7"/>
-          <ClassDef glyph="Wdieresis" class="7"/>
-          <ClassDef glyph="Y" class="8"/>
-          <ClassDef glyph="Yacute" class="8"/>
-          <ClassDef glyph="Ycircumflex" class="8"/>
-          <ClassDef glyph="Ydieresis" class="8"/>
-          <ClassDef glyph="Ymacron" class="8"/>
-          <ClassDef glyph="Upsilon" class="8"/>
-          <ClassDef glyph="Upsilondieresis" class="8"/>
-          <ClassDef glyph="Upsilontonos" class="8"/>
-          <ClassDef glyph="Ygrave" class="8"/>
-          <ClassDef glyph="Ytilde" class="8"/>
+          <ClassDef glyph="D" class="7"/>
+          <ClassDef glyph="C" class="7"/>
+          <ClassDef glyph="O" class="7"/>
+          <ClassDef glyph="Q" class="7"/>
+          <ClassDef glyph="Ohm" class="7"/>
+          <ClassDef glyph="Schwa" class="7"/>
+          <ClassDef glyph="G.ss03" class="7"/>
+          <ClassDef glyph="Yucyr" class="7"/>
+          <ClassDef glyph="Ereversedcyr" class="7"/>
+          <ClassDef glyph="Eukrcyr" class="7"/>
+          <ClassDef glyph="Efcyr" class="7"/>
+          <ClassDef glyph="Q.ss06" class="7"/>
+          <ClassDef glyph="C.ss09" class="7"/>
+          <ClassDef glyph="C.ss10" class="7"/>
+          <ClassDef glyph="G.ss13" class="7"/>
+          <ClassDef glyph="Schwa.ss09" class="7"/>
+          <ClassDef glyph="Schwa.ss10" class="7"/>
+          <ClassDef glyph="Eth" class="7"/>
+          <ClassDef glyph="Ograve" class="7"/>
+          <ClassDef glyph="Oacute" class="7"/>
+          <ClassDef glyph="Ocircumflex" class="7"/>
+          <ClassDef glyph="Otilde" class="7"/>
+          <ClassDef glyph="Odieresis" class="7"/>
+          <ClassDef glyph="Oslash" class="7"/>
+          <ClassDef glyph="Cacute" class="7"/>
+          <ClassDef glyph="Ccircumflex" class="7"/>
+          <ClassDef glyph="Cdotaccent" class="7"/>
+          <ClassDef glyph="Ccaron" class="7"/>
+          <ClassDef glyph="Dcaron" class="7"/>
+          <ClassDef glyph="Dcroat" class="7"/>
+          <ClassDef glyph="Omacron" class="7"/>
+          <ClassDef glyph="Obreve" class="7"/>
+          <ClassDef glyph="Ohungarumlaut" class="7"/>
+          <ClassDef glyph="Ccedilla" class="7"/>
+          <ClassDef glyph="Oslashacute" class="7"/>
+          <ClassDef glyph="Ocyr" class="7"/>
+          <ClassDef glyph="Escyr" class="7"/>
+          <ClassDef glyph="Escyr.ss09" class="7"/>
+          <ClassDef glyph="Eukrcyr.ss09" class="7"/>
+          <ClassDef glyph="Escyr.ss10" class="7"/>
+          <ClassDef glyph="Eukrcyr.ss10" class="7"/>
+          <ClassDef glyph="Ereversedcyr.ss09" class="7"/>
+          <ClassDef glyph="Ereversedcyr.ss10" class="7"/>
+          <ClassDef glyph="Ccedilla.ss09" class="7"/>
+          <ClassDef glyph="Cacute.ss09" class="7"/>
+          <ClassDef glyph="Ccircumflex.ss09" class="7"/>
+          <ClassDef glyph="Cdotaccent.ss09" class="7"/>
+          <ClassDef glyph="Ccaron.ss09" class="7"/>
+          <ClassDef glyph="Ccedilla.ss10" class="7"/>
+          <ClassDef glyph="Cacute.ss10" class="7"/>
+          <ClassDef glyph="Ccircumflex.ss10" class="7"/>
+          <ClassDef glyph="Cdotaccent.ss10" class="7"/>
+          <ClassDef glyph="Ccaron.ss10" class="7"/>
+          <ClassDef glyph="Gcircumflex.ss03" class="7"/>
+          <ClassDef glyph="Gbreve.ss03" class="7"/>
+          <ClassDef glyph="Gdotaccent.ss03" class="7"/>
+          <ClassDef glyph="Gcommaaccent.ss03" class="7"/>
+          <ClassDef glyph="Gcircumflex.ss13" class="7"/>
+          <ClassDef glyph="Gbreve.ss13" class="7"/>
+          <ClassDef glyph="Gdotaccent.ss13" class="7"/>
+          <ClassDef glyph="Gcommaaccent.ss13" class="7"/>
+          <ClassDef glyph="Omicron" class="7"/>
+          <ClassDef glyph="Theta" class="7"/>
+          <ClassDef glyph="Omicrontonos" class="7"/>
+          <ClassDef glyph="Omegatonos" class="7"/>
+          <ClassDef glyph="Phi" class="7"/>
+          <ClassDef glyph="Gacute.ss03" class="7"/>
+          <ClassDef glyph="Gacute.ss13" class="7"/>
+          <ClassDef glyph="C.ss12" class="7"/>
+          <ClassDef glyph="G.ss15" class="7"/>
+          <ClassDef glyph="Schwa.ss12" class="7"/>
+          <ClassDef glyph="Ccedilla.ss12" class="7"/>
+          <ClassDef glyph="Cacute.ss12" class="7"/>
+          <ClassDef glyph="Ccircumflex.ss12" class="7"/>
+          <ClassDef glyph="Cdotaccent.ss12" class="7"/>
+          <ClassDef glyph="Ccaron.ss12" class="7"/>
+          <ClassDef glyph="Gacute.ss15" class="7"/>
+          <ClassDef glyph="Gbreve.ss15" class="7"/>
+          <ClassDef glyph="Gcircumflex.ss15" class="7"/>
+          <ClassDef glyph="Gcommaaccent.ss15" class="7"/>
+          <ClassDef glyph="Gdotaccent.ss15" class="7"/>
+          <ClassDef glyph="Eukrcyr.ss12" class="7"/>
+          <ClassDef glyph="Escyr.ss12" class="7"/>
+          <ClassDef glyph="Ereversedcyr.ss12" class="7"/>
+          <ClassDef glyph="Omega" class="7"/>
+          <ClassDef glyph="Gcaron.ss03" class="7"/>
+          <ClassDef glyph="Gcaron.ss13" class="7"/>
+          <ClassDef glyph="Gcaron.ss15" class="7"/>
+          <ClassDef glyph="Cacute.loclPLK" class="7"/>
+          <ClassDef glyph="Oacute.loclPLK" class="7"/>
+          <ClassDef glyph="Cacute.loclPLK.ss09" class="7"/>
+          <ClassDef glyph="Cacute.loclPLK.ss10" class="7"/>
+          <ClassDef glyph="Cacute.loclPLK.ss12" class="7"/>
+          <ClassDef glyph="Efcyr.loclBGR" class="7"/>
+          <ClassDef glyph="softcyr" class="8"/>
+          <ClassDef glyph="hardcyr" class="8"/>
+          <ClassDef glyph="ljecyr" class="8"/>
+          <ClassDef glyph="njecyr" class="8"/>
+          <ClassDef glyph="ljecyr.ss08" class="8"/>
+          <ClassDef glyph="hardcyr.loclBGR" class="8"/>
+          <ClassDef glyph="softcyr.loclBGR" class="8"/>
           <ClassDef glyph="T" class="9"/>
           <ClassDef glyph="Tcaron" class="9"/>
           <ClassDef glyph="Tbar" class="9"/>
@@ -25327,99 +25256,132 @@
           <ClassDef glyph="Tecyr" class="9"/>
           <ClassDef glyph="Tau" class="9"/>
           <ClassDef glyph="Tdot" class="9"/>
-          <ClassDef glyph="P" class="10"/>
-          <ClassDef glyph="Thorn" class="10"/>
-          <ClassDef glyph="Ercyr" class="10"/>
-          <ClassDef glyph="Rho" class="10"/>
-          <ClassDef glyph="Pdot" class="10"/>
-          <ClassDef glyph="Hardcyr" class="11"/>
-          <ClassDef glyph="Njecyr" class="11"/>
-          <ClassDef glyph="Ljecyr" class="11"/>
-          <ClassDef glyph="Softcyr" class="11"/>
-          <ClassDef glyph="Ljecyr.ss08" class="11"/>
-          <ClassDef glyph="l" class="12"/>
-          <ClassDef glyph="t" class="12"/>
-          <ClassDef glyph="shchacyr" class="12"/>
-          <ClassDef glyph="tsecyr" class="12"/>
-          <ClassDef glyph="decyr" class="12"/>
-          <ClassDef glyph="tau" class="12"/>
-          <ClassDef glyph="iota" class="12"/>
-          <ClassDef glyph="lacute" class="12"/>
-          <ClassDef glyph="lcommaaccent" class="12"/>
-          <ClassDef glyph="lslash" class="12"/>
-          <ClassDef glyph="tcedilla" class="12"/>
-          <ClassDef glyph="tbar" class="12"/>
-          <ClassDef glyph="tcommaaccent" class="12"/>
-          <ClassDef glyph="iotadieresis" class="12"/>
-          <ClassDef glyph="iotadieresistonos" class="12"/>
-          <ClassDef glyph="iotatonos" class="12"/>
-          <ClassDef glyph="tsecyr.loclBGR" class="12"/>
-          <ClassDef glyph="shchacyr.loclBGR" class="12"/>
-          <ClassDef glyph="r" class="13"/>
-          <ClassDef glyph="gecyr" class="13"/>
-          <ClassDef glyph="geupcyr" class="13"/>
-          <ClassDef glyph="racute" class="13"/>
-          <ClassDef glyph="rcommaaccent" class="13"/>
-          <ClassDef glyph="rcaron" class="13"/>
-          <ClassDef glyph="gjecyr" class="13"/>
-          <ClassDef glyph="r.ss10" class="13"/>
-          <ClassDef glyph="racute.ss10" class="13"/>
-          <ClassDef glyph="rcommaaccent.ss10" class="13"/>
-          <ClassDef glyph="rcaron.ss10" class="13"/>
-          <ClassDef glyph="a.ss02" class="14"/>
-          <ClassDef glyph="a.ss10" class="14"/>
-          <ClassDef glyph="a.ss09" class="14"/>
-          <ClassDef glyph="acyr.ss10" class="14"/>
-          <ClassDef glyph="acyr.ss09" class="14"/>
-          <ClassDef glyph="acyr.ss02" class="14"/>
-          <ClassDef glyph="agrave.ss02" class="14"/>
-          <ClassDef glyph="aacute.ss02" class="14"/>
-          <ClassDef glyph="acircumflex.ss02" class="14"/>
-          <ClassDef glyph="atilde.ss02" class="14"/>
-          <ClassDef glyph="adieresis.ss02" class="14"/>
-          <ClassDef glyph="aring.ss02" class="14"/>
-          <ClassDef glyph="amacron.ss02" class="14"/>
-          <ClassDef glyph="abreve.ss02" class="14"/>
-          <ClassDef glyph="aogonek.ss02" class="14"/>
-          <ClassDef glyph="agrave.ss09" class="14"/>
-          <ClassDef glyph="aacute.ss09" class="14"/>
-          <ClassDef glyph="acircumflex.ss09" class="14"/>
-          <ClassDef glyph="atilde.ss09" class="14"/>
-          <ClassDef glyph="adieresis.ss09" class="14"/>
-          <ClassDef glyph="aring.ss09" class="14"/>
-          <ClassDef glyph="amacron.ss09" class="14"/>
-          <ClassDef glyph="abreve.ss09" class="14"/>
-          <ClassDef glyph="aogonek.ss09" class="14"/>
-          <ClassDef glyph="agrave.ss10" class="14"/>
-          <ClassDef glyph="aacute.ss10" class="14"/>
-          <ClassDef glyph="acircumflex.ss10" class="14"/>
-          <ClassDef glyph="atilde.ss10" class="14"/>
-          <ClassDef glyph="adieresis.ss10" class="14"/>
-          <ClassDef glyph="aring.ss10" class="14"/>
-          <ClassDef glyph="amacron.ss10" class="14"/>
-          <ClassDef glyph="abreve.ss10" class="14"/>
-          <ClassDef glyph="aogonek.ss10" class="14"/>
-          <ClassDef glyph="a.ss12" class="14"/>
-          <ClassDef glyph="acyr.ss12" class="14"/>
-          <ClassDef glyph="agrave.ss12" class="14"/>
-          <ClassDef glyph="aacute.ss12" class="14"/>
-          <ClassDef glyph="acircumflex.ss12" class="14"/>
-          <ClassDef glyph="atilde.ss12" class="14"/>
-          <ClassDef glyph="adieresis.ss12" class="14"/>
-          <ClassDef glyph="aring.ss12" class="14"/>
-          <ClassDef glyph="amacron.ss12" class="14"/>
-          <ClassDef glyph="abreve.ss12" class="14"/>
-          <ClassDef glyph="aogonek.ss12" class="14"/>
-          <ClassDef glyph="decyr.ss08" class="15"/>
-          <ClassDef glyph="elcyr.ss08" class="15"/>
-          <ClassDef glyph="elcyr.loclBGR" class="15"/>
-          <ClassDef glyph="softcyr" class="16"/>
-          <ClassDef glyph="hardcyr" class="16"/>
-          <ClassDef glyph="ljecyr" class="16"/>
-          <ClassDef glyph="njecyr" class="16"/>
-          <ClassDef glyph="ljecyr.ss08" class="16"/>
-          <ClassDef glyph="hardcyr.loclBGR" class="16"/>
-          <ClassDef glyph="softcyr.loclBGR" class="16"/>
+          <ClassDef glyph="V" class="10"/>
+          <ClassDef glyph="W" class="10"/>
+          <ClassDef glyph="Wcircumflex" class="10"/>
+          <ClassDef glyph="Wgrave" class="10"/>
+          <ClassDef glyph="Wacute" class="10"/>
+          <ClassDef glyph="Wdieresis" class="10"/>
+          <ClassDef glyph="K" class="11"/>
+          <ClassDef glyph="X" class="11"/>
+          <ClassDef glyph="Kacyr" class="11"/>
+          <ClassDef glyph="Kcommaaccent" class="11"/>
+          <ClassDef glyph="Hacyr" class="11"/>
+          <ClassDef glyph="Kjecyr" class="11"/>
+          <ClassDef glyph="Zhecyr" class="11"/>
+          <ClassDef glyph="Kappa" class="11"/>
+          <ClassDef glyph="Chi" class="11"/>
+          <ClassDef glyph="r" class="12"/>
+          <ClassDef glyph="gecyr" class="12"/>
+          <ClassDef glyph="geupcyr" class="12"/>
+          <ClassDef glyph="racute" class="12"/>
+          <ClassDef glyph="rcommaaccent" class="12"/>
+          <ClassDef glyph="rcaron" class="12"/>
+          <ClassDef glyph="gjecyr" class="12"/>
+          <ClassDef glyph="r.ss10" class="12"/>
+          <ClassDef glyph="racute.ss10" class="12"/>
+          <ClassDef glyph="rcommaaccent.ss10" class="12"/>
+          <ClassDef glyph="rcaron.ss10" class="12"/>
+          <ClassDef glyph="G" class="13"/>
+          <ClassDef glyph="G.ss10" class="13"/>
+          <ClassDef glyph="G.ss09" class="13"/>
+          <ClassDef glyph="G.ss14" class="13"/>
+          <ClassDef glyph="Gcircumflex" class="13"/>
+          <ClassDef glyph="Gbreve" class="13"/>
+          <ClassDef glyph="Gdotaccent" class="13"/>
+          <ClassDef glyph="Gcommaaccent" class="13"/>
+          <ClassDef glyph="Gcircumflex.ss10" class="13"/>
+          <ClassDef glyph="Gbreve.ss10" class="13"/>
+          <ClassDef glyph="Gdotaccent.ss10" class="13"/>
+          <ClassDef glyph="Gcommaaccent.ss10" class="13"/>
+          <ClassDef glyph="Gcircumflex.ss09" class="13"/>
+          <ClassDef glyph="Gbreve.ss09" class="13"/>
+          <ClassDef glyph="Gdotaccent.ss09" class="13"/>
+          <ClassDef glyph="Gcommaaccent.ss09" class="13"/>
+          <ClassDef glyph="Gbreve.ss14" class="13"/>
+          <ClassDef glyph="Gcircumflex.ss14" class="13"/>
+          <ClassDef glyph="Gcommaaccent.ss14" class="13"/>
+          <ClassDef glyph="Gdotaccent.ss14" class="13"/>
+          <ClassDef glyph="Gacute" class="13"/>
+          <ClassDef glyph="Gacute.ss09" class="13"/>
+          <ClassDef glyph="Gacute.ss10" class="13"/>
+          <ClassDef glyph="Gacute.ss14" class="13"/>
+          <ClassDef glyph="G.ss12" class="13"/>
+          <ClassDef glyph="Gcircumflex.ss12" class="13"/>
+          <ClassDef glyph="Gbreve.ss12" class="13"/>
+          <ClassDef glyph="Gdotaccent.ss12" class="13"/>
+          <ClassDef glyph="Gcommaaccent.ss12" class="13"/>
+          <ClassDef glyph="Gacute.ss12" class="13"/>
+          <ClassDef glyph="Gcaron" class="13"/>
+          <ClassDef glyph="Gcaron.ss09" class="13"/>
+          <ClassDef glyph="Gcaron.ss10" class="13"/>
+          <ClassDef glyph="Gcaron.ss12" class="13"/>
+          <ClassDef glyph="Gcaron.ss14" class="13"/>
+          <ClassDef glyph="l" class="14"/>
+          <ClassDef glyph="t" class="14"/>
+          <ClassDef glyph="shchacyr" class="14"/>
+          <ClassDef glyph="tsecyr" class="14"/>
+          <ClassDef glyph="decyr" class="14"/>
+          <ClassDef glyph="tau" class="14"/>
+          <ClassDef glyph="iota" class="14"/>
+          <ClassDef glyph="lacute" class="14"/>
+          <ClassDef glyph="lcommaaccent" class="14"/>
+          <ClassDef glyph="lslash" class="14"/>
+          <ClassDef glyph="tcedilla" class="14"/>
+          <ClassDef glyph="tbar" class="14"/>
+          <ClassDef glyph="tcommaaccent" class="14"/>
+          <ClassDef glyph="iotadieresis" class="14"/>
+          <ClassDef glyph="iotadieresistonos" class="14"/>
+          <ClassDef glyph="iotatonos" class="14"/>
+          <ClassDef glyph="tsecyr.loclBGR" class="14"/>
+          <ClassDef glyph="shchacyr.loclBGR" class="14"/>
+          <ClassDef glyph="a.ss02" class="15"/>
+          <ClassDef glyph="a.ss10" class="15"/>
+          <ClassDef glyph="a.ss09" class="15"/>
+          <ClassDef glyph="acyr.ss10" class="15"/>
+          <ClassDef glyph="acyr.ss09" class="15"/>
+          <ClassDef glyph="acyr.ss02" class="15"/>
+          <ClassDef glyph="agrave.ss02" class="15"/>
+          <ClassDef glyph="aacute.ss02" class="15"/>
+          <ClassDef glyph="acircumflex.ss02" class="15"/>
+          <ClassDef glyph="atilde.ss02" class="15"/>
+          <ClassDef glyph="adieresis.ss02" class="15"/>
+          <ClassDef glyph="aring.ss02" class="15"/>
+          <ClassDef glyph="amacron.ss02" class="15"/>
+          <ClassDef glyph="abreve.ss02" class="15"/>
+          <ClassDef glyph="aogonek.ss02" class="15"/>
+          <ClassDef glyph="agrave.ss09" class="15"/>
+          <ClassDef glyph="aacute.ss09" class="15"/>
+          <ClassDef glyph="acircumflex.ss09" class="15"/>
+          <ClassDef glyph="atilde.ss09" class="15"/>
+          <ClassDef glyph="adieresis.ss09" class="15"/>
+          <ClassDef glyph="aring.ss09" class="15"/>
+          <ClassDef glyph="amacron.ss09" class="15"/>
+          <ClassDef glyph="abreve.ss09" class="15"/>
+          <ClassDef glyph="aogonek.ss09" class="15"/>
+          <ClassDef glyph="agrave.ss10" class="15"/>
+          <ClassDef glyph="aacute.ss10" class="15"/>
+          <ClassDef glyph="acircumflex.ss10" class="15"/>
+          <ClassDef glyph="atilde.ss10" class="15"/>
+          <ClassDef glyph="adieresis.ss10" class="15"/>
+          <ClassDef glyph="aring.ss10" class="15"/>
+          <ClassDef glyph="amacron.ss10" class="15"/>
+          <ClassDef glyph="abreve.ss10" class="15"/>
+          <ClassDef glyph="aogonek.ss10" class="15"/>
+          <ClassDef glyph="a.ss12" class="15"/>
+          <ClassDef glyph="acyr.ss12" class="15"/>
+          <ClassDef glyph="agrave.ss12" class="15"/>
+          <ClassDef glyph="aacute.ss12" class="15"/>
+          <ClassDef glyph="acircumflex.ss12" class="15"/>
+          <ClassDef glyph="atilde.ss12" class="15"/>
+          <ClassDef glyph="adieresis.ss12" class="15"/>
+          <ClassDef glyph="aring.ss12" class="15"/>
+          <ClassDef glyph="amacron.ss12" class="15"/>
+          <ClassDef glyph="abreve.ss12" class="15"/>
+          <ClassDef glyph="aogonek.ss12" class="15"/>
+          <ClassDef glyph="decyr.ss08" class="16"/>
+          <ClassDef glyph="elcyr.ss08" class="16"/>
+          <ClassDef glyph="elcyr.loclBGR" class="16"/>
         </ClassDef1>
         <ClassDef2 Format="2">
           <ClassDef glyph=".notdef" class="0"/>
@@ -25746,6 +25708,7 @@
           <ClassDef glyph="onethird" class="0"/>
           <ClassDef glyph="ringcomb" class="0"/>
           <ClassDef glyph="twothirds" class="0"/>
+          <ClassDef glyph="ampersand.ss09" class="0"/>
           <ClassDef glyph="softhyphen" class="0"/>
           <ClassDef glyph="austral" class="0"/>
           <ClassDef glyph="hryvnia" class="0"/>
@@ -26037,51 +26000,34 @@
           <ClassDef glyph="apostrophemod" class="0"/>
           <ClassDef glyph="jacute" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD" class="0"/>
-          <ClassDef glyph="plus.case" class="0"/>
-          <ClassDef glyph="equal.case" class="0"/>
-          <ClassDef glyph="minus.case" class="0"/>
-          <ClassDef glyph="plusminus.case" class="0"/>
-          <ClassDef glyph="multiply.case" class="0"/>
-          <ClassDef glyph="divide.case" class="0"/>
-          <ClassDef glyph="less.case" class="0"/>
-          <ClassDef glyph="greater.case" class="0"/>
-          <ClassDef glyph="ytilde" class="0"/>
-          <ClassDef glyph="ygrave.ss04" class="0"/>
-          <ClassDef glyph="ytilde.ss04" class="0"/>
-          <ClassDef glyph="kacyr.loclBGR" class="0"/>
-          <ClassDef glyph="yucyr.loclBGR" class="0"/>
-          <ClassDef glyph="hardcyr.loclBGR" class="0"/>
-          <ClassDef glyph="vecyr.loclBGR" class="0"/>
-          <ClassDef glyph="zecyr.loclBGR" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss07" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss09" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss10" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.ss12" class="0"/>
-          <ClassDef glyph="Etilde" class="0"/>
-          <ClassDef glyph="etilde" class="0"/>
-          <ClassDef glyph="notequal.case" class="0"/>
-          <ClassDef glyph="approxequal.case" class="0"/>
-          <ClassDef glyph="asciitilde.case" class="0"/>
           <ClassDef glyph="IJ.liga" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.liga" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss09" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss07" class="0"/>
-          <ClassDef glyph="Iacute_J.loclNLD.liga.ss10" class="0"/>
           <ClassDef glyph="IJ.liga.ss07" class="0"/>
           <ClassDef glyph="IJ.liga.ss09" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss09" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss07" class="0"/>
           <ClassDef glyph="IJ.liga.ss10" class="0"/>
+          <ClassDef glyph="Iacute_J.loclNLD.liga.ss10" class="0"/>
           <ClassDef glyph="IJ.liga.ss12" class="0"/>
           <ClassDef glyph="Iacute_J.loclNLD.liga.ss12" class="0"/>
-          <ClassDef glyph="acute.loclPLK" class="0"/>
           <ClassDef glyph="acutecomb.loclPLK" class="0"/>
+          <ClassDef glyph="acute.loclPLK" class="0"/>
           <ClassDef glyph="Nacute.loclPLK" class="0"/>
           <ClassDef glyph="Sacute.loclPLK" class="0"/>
           <ClassDef glyph="Zacute.loclPLK" class="0"/>
           <ClassDef glyph="zacute.loclPLK" class="0"/>
           <ClassDef glyph="Sacute.loclPLK.ss09" class="0"/>
-          <ClassDef glyph="Sacute.loclPLK.ss12" class="0"/>
           <ClassDef glyph="Sacute.loclPLK.ss10" class="0"/>
-          <ClassDef glyph="becyr.loclSRB" class="0"/>
+          <ClassDef glyph="Sacute.loclPLK.ss12" class="0"/>
+          <ClassDef glyph="vecyr.loclBGR" class="0"/>
+          <ClassDef glyph="zecyr.loclBGR" class="0"/>
+          <ClassDef glyph="kacyr.loclBGR" class="0"/>
+          <ClassDef glyph="hardcyr.loclBGR" class="0"/>
+          <ClassDef glyph="yucyr.loclBGR" class="0"/>
           <ClassDef glyph="zecyr.loclBGR.ss09" class="0"/>
           <ClassDef glyph="zecyr.loclBGR.ss10" class="0"/>
           <ClassDef glyph="zecyr.loclBGR.ss12" class="0"/>
@@ -26091,13 +26037,7 @@
           <ClassDef glyph="Eng.ss09" class="0"/>
           <ClassDef glyph="Eng.ss10" class="0"/>
           <ClassDef glyph="Eng.ss12" class="0"/>
-          <ClassDef glyph="logicalnot.case" class="0"/>
-          <ClassDef glyph="lessequal.case" class="0"/>
-          <ClassDef glyph="greaterequal.case" class="0"/>
-          <ClassDef glyph="slash.case" class="0"/>
-          <ClassDef glyph="backslash.case" class="0"/>
-          <ClassDef glyph="bar.case" class="0"/>
-          <ClassDef glyph="brokenbar.case" class="0"/>
+          <ClassDef glyph="becyr.loclSRB" class="0"/>
           <ClassDef glyph="zero.osf" class="0"/>
           <ClassDef glyph="one.osf" class="0"/>
           <ClassDef glyph="two.osf" class="0"/>
@@ -26108,603 +26048,625 @@
           <ClassDef glyph="seven.osf" class="0"/>
           <ClassDef glyph="eight.osf" class="0"/>
           <ClassDef glyph="nine.osf" class="0"/>
-          <ClassDef glyph="one.ss09.osf" class="0"/>
-          <ClassDef glyph="two.ss09.osf" class="0"/>
-          <ClassDef glyph="two.ss10.osf" class="0"/>
-          <ClassDef glyph="two.ss12.osf" class="0"/>
-          <ClassDef glyph="five.ss09.osf" class="0"/>
-          <ClassDef glyph="five.ss10.osf" class="0"/>
-          <ClassDef glyph="five.ss12.osf" class="0"/>
-          <ClassDef glyph="six.ss09.osf" class="0"/>
-          <ClassDef glyph="six.ss10.osf" class="0"/>
-          <ClassDef glyph="six.ss12.osf" class="0"/>
-          <ClassDef glyph="nine.ss09.osf" class="0"/>
-          <ClassDef glyph="nine.ss10.osf" class="0"/>
-          <ClassDef glyph="nine.ss12.osf" class="0"/>
-          <ClassDef glyph="three.ss09.osf" class="0"/>
-          <ClassDef glyph="three.ss10.osf" class="0"/>
-          <ClassDef glyph="three.ss12.osf" class="0"/>
-          <ClassDef glyph="etilde.ss12" class="0"/>
-          <ClassDef glyph="ygrave.ss12" class="0"/>
-          <ClassDef glyph="ytilde.ss12" class="0"/>
+          <ClassDef glyph="etilde" class="0"/>
+          <ClassDef glyph="ytilde" class="0"/>
           <ClassDef glyph="etilde.ss09" class="0"/>
           <ClassDef glyph="etilde.ss10" class="0"/>
+          <ClassDef glyph="etilde.ss12" class="0"/>
+          <ClassDef glyph="ygrave.ss04" class="0"/>
+          <ClassDef glyph="ygrave.ss12" class="0"/>
+          <ClassDef glyph="ytilde.ss04" class="0"/>
+          <ClassDef glyph="ytilde.ss12" class="0"/>
+          <ClassDef glyph="Etilde" class="0"/>
+          <ClassDef glyph="slash.case" class="0"/>
+          <ClassDef glyph="plus.case" class="0"/>
+          <ClassDef glyph="equal.case" class="0"/>
+          <ClassDef glyph="minus.case" class="0"/>
+          <ClassDef glyph="bar.case" class="0"/>
+          <ClassDef glyph="brokenbar.case" class="0"/>
+          <ClassDef glyph="backslash.case" class="0"/>
+          <ClassDef glyph="notequal.case" class="0"/>
+          <ClassDef glyph="greater.case" class="0"/>
+          <ClassDef glyph="less.case" class="0"/>
+          <ClassDef glyph="multiply.case" class="0"/>
+          <ClassDef glyph="logicalnot.case" class="0"/>
+          <ClassDef glyph="asciitilde.case" class="0"/>
+          <ClassDef glyph="approxequal.case" class="0"/>
+          <ClassDef glyph="divide.case" class="0"/>
+          <ClassDef glyph="plusminus.case" class="0"/>
+          <ClassDef glyph="lessequal.case" class="0"/>
+          <ClassDef glyph="greaterequal.case" class="0"/>
           <ClassDef glyph="questiondown.ss09.case" class="0"/>
           <ClassDef glyph="questiondown.ss10.case" class="0"/>
           <ClassDef glyph="questiondown.ss12.case" class="0"/>
-          <ClassDef glyph="ampersand.ss09" class="0"/>
-          <ClassDef glyph="C" class="1"/>
-          <ClassDef glyph="G" class="1"/>
-          <ClassDef glyph="O" class="1"/>
-          <ClassDef glyph="Q" class="1"/>
-          <ClassDef glyph="Ohm" class="1"/>
-          <ClassDef glyph="Schwa" class="1"/>
-          <ClassDef glyph="G.ss03" class="1"/>
-          <ClassDef glyph="Ereversedcyr" class="1"/>
-          <ClassDef glyph="Eukrcyr" class="1"/>
-          <ClassDef glyph="Efcyr" class="1"/>
-          <ClassDef glyph="Q.ss06" class="1"/>
-          <ClassDef glyph="C.ss09" class="1"/>
-          <ClassDef glyph="C.ss10" class="1"/>
-          <ClassDef glyph="G.ss10" class="1"/>
-          <ClassDef glyph="G.ss09" class="1"/>
-          <ClassDef glyph="G.ss13" class="1"/>
-          <ClassDef glyph="G.ss14" class="1"/>
-          <ClassDef glyph="Schwa.ss09" class="1"/>
-          <ClassDef glyph="Schwa.ss10" class="1"/>
-          <ClassDef glyph="Ograve" class="1"/>
-          <ClassDef glyph="Oacute" class="1"/>
-          <ClassDef glyph="Ocircumflex" class="1"/>
-          <ClassDef glyph="Otilde" class="1"/>
-          <ClassDef glyph="Odieresis" class="1"/>
-          <ClassDef glyph="Oslash" class="1"/>
-          <ClassDef glyph="Cacute" class="1"/>
-          <ClassDef glyph="Ccircumflex" class="1"/>
-          <ClassDef glyph="Cdotaccent" class="1"/>
-          <ClassDef glyph="Ccaron" class="1"/>
-          <ClassDef glyph="Gcircumflex" class="1"/>
-          <ClassDef glyph="Gbreve" class="1"/>
-          <ClassDef glyph="Gdotaccent" class="1"/>
-          <ClassDef glyph="Gcommaaccent" class="1"/>
-          <ClassDef glyph="Omacron" class="1"/>
-          <ClassDef glyph="Obreve" class="1"/>
-          <ClassDef glyph="Ohungarumlaut" class="1"/>
-          <ClassDef glyph="OE" class="1"/>
-          <ClassDef glyph="Ccedilla" class="1"/>
-          <ClassDef glyph="Oslashacute" class="1"/>
-          <ClassDef glyph="Ocyr" class="1"/>
-          <ClassDef glyph="Escyr" class="1"/>
-          <ClassDef glyph="Escyr.ss09" class="1"/>
-          <ClassDef glyph="Eukrcyr.ss09" class="1"/>
-          <ClassDef glyph="Escyr.ss10" class="1"/>
-          <ClassDef glyph="Eukrcyr.ss10" class="1"/>
-          <ClassDef glyph="Ereversedcyr.ss09" class="1"/>
-          <ClassDef glyph="Ereversedcyr.ss10" class="1"/>
-          <ClassDef glyph="Ccedilla.ss09" class="1"/>
-          <ClassDef glyph="Cacute.ss09" class="1"/>
-          <ClassDef glyph="Ccircumflex.ss09" class="1"/>
-          <ClassDef glyph="Cdotaccent.ss09" class="1"/>
-          <ClassDef glyph="Ccaron.ss09" class="1"/>
-          <ClassDef glyph="Ccedilla.ss10" class="1"/>
-          <ClassDef glyph="Cacute.ss10" class="1"/>
-          <ClassDef glyph="Ccircumflex.ss10" class="1"/>
-          <ClassDef glyph="Cdotaccent.ss10" class="1"/>
-          <ClassDef glyph="Ccaron.ss10" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss10" class="1"/>
-          <ClassDef glyph="Gbreve.ss10" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss10" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss10" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss09" class="1"/>
-          <ClassDef glyph="Gbreve.ss09" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss09" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss09" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss03" class="1"/>
-          <ClassDef glyph="Gbreve.ss03" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss03" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss03" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss13" class="1"/>
-          <ClassDef glyph="Gbreve.ss13" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss13" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss13" class="1"/>
-          <ClassDef glyph="Gbreve.ss14" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss14" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss14" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss14" class="1"/>
-          <ClassDef glyph="Omicron" class="1"/>
-          <ClassDef glyph="Theta" class="1"/>
-          <ClassDef glyph="Phi" class="1"/>
-          <ClassDef glyph="Gacute" class="1"/>
-          <ClassDef glyph="Gacute.ss09" class="1"/>
-          <ClassDef glyph="Gacute.ss10" class="1"/>
-          <ClassDef glyph="Gacute.ss03" class="1"/>
-          <ClassDef glyph="Gacute.ss13" class="1"/>
-          <ClassDef glyph="Gacute.ss14" class="1"/>
-          <ClassDef glyph="C.ss12" class="1"/>
-          <ClassDef glyph="G.ss12" class="1"/>
-          <ClassDef glyph="G.ss15" class="1"/>
-          <ClassDef glyph="Schwa.ss12" class="1"/>
-          <ClassDef glyph="Ccedilla.ss12" class="1"/>
-          <ClassDef glyph="Cacute.ss12" class="1"/>
-          <ClassDef glyph="Ccircumflex.ss12" class="1"/>
-          <ClassDef glyph="Cdotaccent.ss12" class="1"/>
-          <ClassDef glyph="Ccaron.ss12" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss12" class="1"/>
-          <ClassDef glyph="Gbreve.ss12" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss12" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss12" class="1"/>
-          <ClassDef glyph="Gacute.ss12" class="1"/>
-          <ClassDef glyph="Gacute.ss15" class="1"/>
-          <ClassDef glyph="Gbreve.ss15" class="1"/>
-          <ClassDef glyph="Gcircumflex.ss15" class="1"/>
-          <ClassDef glyph="Gcommaaccent.ss15" class="1"/>
-          <ClassDef glyph="Gdotaccent.ss15" class="1"/>
-          <ClassDef glyph="Eukrcyr.ss12" class="1"/>
-          <ClassDef glyph="Escyr.ss12" class="1"/>
-          <ClassDef glyph="Ereversedcyr.ss12" class="1"/>
-          <ClassDef glyph="Omega" class="1"/>
-          <ClassDef glyph="Gcaron" class="1"/>
-          <ClassDef glyph="Gcaron.ss03" class="1"/>
-          <ClassDef glyph="Gcaron.ss09" class="1"/>
-          <ClassDef glyph="Gcaron.ss10" class="1"/>
-          <ClassDef glyph="Gcaron.ss12" class="1"/>
-          <ClassDef glyph="Gcaron.ss13" class="1"/>
-          <ClassDef glyph="Gcaron.ss14" class="1"/>
-          <ClassDef glyph="Gcaron.ss15" class="1"/>
-          <ClassDef glyph="Cacute.loclPLK" class="1"/>
-          <ClassDef glyph="Oacute.loclPLK" class="1"/>
-          <ClassDef glyph="Cacute.loclPLK.ss09" class="1"/>
-          <ClassDef glyph="Cacute.loclPLK.ss10" class="1"/>
-          <ClassDef glyph="Cacute.loclPLK.ss12" class="1"/>
-          <ClassDef glyph="Efcyr.loclBGR" class="1"/>
-          <ClassDef glyph="Y" class="2"/>
-          <ClassDef glyph="Yacute" class="2"/>
-          <ClassDef glyph="Ycircumflex" class="2"/>
-          <ClassDef glyph="Ydieresis" class="2"/>
-          <ClassDef glyph="Ymacron" class="2"/>
-          <ClassDef glyph="Upsilon" class="2"/>
-          <ClassDef glyph="Upsilondieresis" class="2"/>
-          <ClassDef glyph="Ygrave" class="2"/>
-          <ClassDef glyph="Ytilde" class="2"/>
-          <ClassDef glyph="T" class="3"/>
-          <ClassDef glyph="Tshecyr" class="3"/>
-          <ClassDef glyph="Djecyr" class="3"/>
-          <ClassDef glyph="Tcaron" class="3"/>
-          <ClassDef glyph="Tbar" class="3"/>
-          <ClassDef glyph="Tcommaaccent" class="3"/>
-          <ClassDef glyph="Tcedilla" class="3"/>
-          <ClassDef glyph="Tecyr" class="3"/>
-          <ClassDef glyph="Tau" class="3"/>
-          <ClassDef glyph="Djecyr.ss12" class="3"/>
-          <ClassDef glyph="Tdot" class="3"/>
-          <ClassDef glyph="A" class="4"/>
-          <ClassDef glyph="Delta" class="4"/>
-          <ClassDef glyph="Agrave" class="4"/>
-          <ClassDef glyph="Aacute" class="4"/>
-          <ClassDef glyph="Acircumflex" class="4"/>
-          <ClassDef glyph="Atilde" class="4"/>
-          <ClassDef glyph="Adieresis" class="4"/>
-          <ClassDef glyph="Aring" class="4"/>
-          <ClassDef glyph="AE" class="4"/>
-          <ClassDef glyph="Amacron" class="4"/>
-          <ClassDef glyph="Abreve" class="4"/>
-          <ClassDef glyph="Aogonek" class="4"/>
-          <ClassDef glyph="AEacute" class="4"/>
-          <ClassDef glyph="Acyr" class="4"/>
-          <ClassDef glyph="Ljecyr.ss08" class="4"/>
-          <ClassDef glyph="Decyr.ss08" class="4"/>
-          <ClassDef glyph="Elcyr.ss08" class="4"/>
-          <ClassDef glyph="Alpha" class="4"/>
-          <ClassDef glyph="Lambda" class="4"/>
-          <ClassDef glyph="Decyr.loclBGR" class="4"/>
-          <ClassDef glyph="Elcyr.loclBGR" class="4"/>
-          <ClassDef glyph="J" class="5"/>
-          <ClassDef glyph="Jecyr" class="5"/>
-          <ClassDef glyph="J.ss07" class="5"/>
-          <ClassDef glyph="J.ss09" class="5"/>
-          <ClassDef glyph="J.ss10" class="5"/>
-          <ClassDef glyph="Jcircumflex" class="5"/>
-          <ClassDef glyph="Jecyr.ss10" class="5"/>
-          <ClassDef glyph="Jecyr.ss09" class="5"/>
-          <ClassDef glyph="Jecyr.ss07" class="5"/>
-          <ClassDef glyph="J.ss12" class="5"/>
-          <ClassDef glyph="Jcircumflex.ss12" class="5"/>
-          <ClassDef glyph="Jecyr.ss12" class="5"/>
-          <ClassDef glyph="Jcircumflex.ss07" class="5"/>
-          <ClassDef glyph="Jcircumflex.ss09" class="5"/>
-          <ClassDef glyph="Jcircumflex.ss10" class="5"/>
-          <ClassDef glyph="Jacute" class="5"/>
-          <ClassDef glyph="Jacute.ss07" class="5"/>
-          <ClassDef glyph="Jacute.ss09" class="5"/>
-          <ClassDef glyph="Jacute.ss10" class="5"/>
-          <ClassDef glyph="Jacute.ss12" class="5"/>
-          <ClassDef glyph="d" class="6"/>
-          <ClassDef glyph="o" class="6"/>
-          <ClassDef glyph="q" class="6"/>
-          <ClassDef glyph="c" class="6"/>
-          <ClassDef glyph="e" class="6"/>
-          <ClassDef glyph="a" class="6"/>
-          <ClassDef glyph="g" class="6"/>
-          <ClassDef glyph="g.ss03" class="6"/>
-          <ClassDef glyph="schwa" class="6"/>
-          <ClassDef glyph="eukrcyr" class="6"/>
-          <ClassDef glyph="sigmafinal" class="6"/>
-          <ClassDef glyph="sigma" class="6"/>
-          <ClassDef glyph="c.ss09" class="6"/>
-          <ClassDef glyph="c.ss10" class="6"/>
-          <ClassDef glyph="schwa.ss09" class="6"/>
-          <ClassDef glyph="schwa.ss10" class="6"/>
-          <ClassDef glyph="e.ss10" class="6"/>
-          <ClassDef glyph="e.ss09" class="6"/>
-          <ClassDef glyph="d.ss11" class="6"/>
-          <ClassDef glyph="agrave" class="6"/>
-          <ClassDef glyph="aacute" class="6"/>
-          <ClassDef glyph="acircumflex" class="6"/>
-          <ClassDef glyph="atilde" class="6"/>
-          <ClassDef glyph="adieresis" class="6"/>
-          <ClassDef glyph="aring" class="6"/>
-          <ClassDef glyph="ae" class="6"/>
-          <ClassDef glyph="ccedilla" class="6"/>
-          <ClassDef glyph="egrave" class="6"/>
-          <ClassDef glyph="eacute" class="6"/>
-          <ClassDef glyph="ecircumflex" class="6"/>
-          <ClassDef glyph="edieresis" class="6"/>
-          <ClassDef glyph="ograve" class="6"/>
-          <ClassDef glyph="oacute" class="6"/>
-          <ClassDef glyph="ocircumflex" class="6"/>
-          <ClassDef glyph="otilde" class="6"/>
-          <ClassDef glyph="odieresis" class="6"/>
-          <ClassDef glyph="oslash" class="6"/>
-          <ClassDef glyph="amacron" class="6"/>
-          <ClassDef glyph="abreve" class="6"/>
-          <ClassDef glyph="aogonek" class="6"/>
-          <ClassDef glyph="cacute" class="6"/>
-          <ClassDef glyph="ccircumflex" class="6"/>
-          <ClassDef glyph="cdotaccent" class="6"/>
-          <ClassDef glyph="ccaron" class="6"/>
-          <ClassDef glyph="dcaron" class="6"/>
-          <ClassDef glyph="dcroat" class="6"/>
-          <ClassDef glyph="emacron" class="6"/>
-          <ClassDef glyph="ebreve" class="6"/>
-          <ClassDef glyph="edotaccent" class="6"/>
-          <ClassDef glyph="eogonek" class="6"/>
-          <ClassDef glyph="ecaron" class="6"/>
-          <ClassDef glyph="gcircumflex" class="6"/>
-          <ClassDef glyph="gbreve" class="6"/>
-          <ClassDef glyph="gdotaccent" class="6"/>
-          <ClassDef glyph="gcommaaccent" class="6"/>
-          <ClassDef glyph="omacron" class="6"/>
-          <ClassDef glyph="obreve" class="6"/>
-          <ClassDef glyph="ohungarumlaut" class="6"/>
-          <ClassDef glyph="oe" class="6"/>
-          <ClassDef glyph="aeacute" class="6"/>
-          <ClassDef glyph="oslashacute" class="6"/>
-          <ClassDef glyph="acyr" class="6"/>
-          <ClassDef glyph="iecyr" class="6"/>
-          <ClassDef glyph="ocyr" class="6"/>
-          <ClassDef glyph="escyr" class="6"/>
-          <ClassDef glyph="iocyr" class="6"/>
-          <ClassDef glyph="efcyr" class="6"/>
-          <ClassDef glyph="iegravecyr" class="6"/>
-          <ClassDef glyph="escyr.ss09" class="6"/>
-          <ClassDef glyph="eukrcyr.ss09" class="6"/>
-          <ClassDef glyph="escyr.ss10" class="6"/>
-          <ClassDef glyph="eukrcyr.ss10" class="6"/>
-          <ClassDef glyph="iecyr.ss09" class="6"/>
-          <ClassDef glyph="ereversedcyr.ss09" class="6"/>
-          <ClassDef glyph="iocyr.ss09" class="6"/>
-          <ClassDef glyph="iecyr.ss10" class="6"/>
-          <ClassDef glyph="ereversedcyr.ss10" class="6"/>
-          <ClassDef glyph="iocyr.ss10" class="6"/>
-          <ClassDef glyph="iegravecyr.ss09" class="6"/>
-          <ClassDef glyph="iegravecyr.ss10" class="6"/>
-          <ClassDef glyph="efcyr.ss11" class="6"/>
-          <ClassDef glyph="dcaron.ss11" class="6"/>
-          <ClassDef glyph="dcroat.ss11" class="6"/>
-          <ClassDef glyph="ccedilla.ss09" class="6"/>
-          <ClassDef glyph="cacute.ss09" class="6"/>
-          <ClassDef glyph="ccircumflex.ss09" class="6"/>
-          <ClassDef glyph="cdotaccent.ss09" class="6"/>
-          <ClassDef glyph="ccaron.ss09" class="6"/>
-          <ClassDef glyph="ccedilla.ss10" class="6"/>
-          <ClassDef glyph="cacute.ss10" class="6"/>
-          <ClassDef glyph="ccircumflex.ss10" class="6"/>
-          <ClassDef glyph="cdotaccent.ss10" class="6"/>
-          <ClassDef glyph="ccaron.ss10" class="6"/>
-          <ClassDef glyph="egrave.ss09" class="6"/>
-          <ClassDef glyph="eacute.ss09" class="6"/>
-          <ClassDef glyph="ecircumflex.ss09" class="6"/>
-          <ClassDef glyph="edieresis.ss09" class="6"/>
-          <ClassDef glyph="emacron.ss09" class="6"/>
-          <ClassDef glyph="ebreve.ss09" class="6"/>
-          <ClassDef glyph="edotaccent.ss09" class="6"/>
-          <ClassDef glyph="eogonek.ss09" class="6"/>
-          <ClassDef glyph="ecaron.ss09" class="6"/>
-          <ClassDef glyph="oe.ss09" class="6"/>
-          <ClassDef glyph="egrave.ss10" class="6"/>
-          <ClassDef glyph="eacute.ss10" class="6"/>
-          <ClassDef glyph="ecircumflex.ss10" class="6"/>
-          <ClassDef glyph="edieresis.ss10" class="6"/>
-          <ClassDef glyph="emacron.ss10" class="6"/>
-          <ClassDef glyph="ebreve.ss10" class="6"/>
-          <ClassDef glyph="edotaccent.ss10" class="6"/>
-          <ClassDef glyph="eogonek.ss10" class="6"/>
-          <ClassDef glyph="ecaron.ss10" class="6"/>
-          <ClassDef glyph="oe.ss10" class="6"/>
-          <ClassDef glyph="gcircumflex.ss03" class="6"/>
-          <ClassDef glyph="gbreve.ss03" class="6"/>
-          <ClassDef glyph="gdotaccent.ss03" class="6"/>
-          <ClassDef glyph="gcommaaccent.ss03" class="6"/>
-          <ClassDef glyph="eth" class="6"/>
-          <ClassDef glyph="omicron" class="6"/>
-          <ClassDef glyph="omicrontonos" class="6"/>
-          <ClassDef glyph="alpha" class="6"/>
-          <ClassDef glyph="alphatonos" class="6"/>
-          <ClassDef glyph="omega" class="6"/>
-          <ClassDef glyph="phi" class="6"/>
-          <ClassDef glyph="gacute" class="6"/>
-          <ClassDef glyph="gacute.ss09" class="6"/>
-          <ClassDef glyph="epsilon.ss09" class="6"/>
-          <ClassDef glyph="sigmafinal.ss09" class="6"/>
-          <ClassDef glyph="epsilon.ss10" class="6"/>
-          <ClassDef glyph="sigmafinal.ss10" class="6"/>
-          <ClassDef glyph="epsilontonos.ss10" class="6"/>
-          <ClassDef glyph="epsilontonos.ss09" class="6"/>
-          <ClassDef glyph="c.ss12" class="6"/>
-          <ClassDef glyph="schwa.ss12" class="6"/>
-          <ClassDef glyph="e.ss12" class="6"/>
-          <ClassDef glyph="g.ss12" class="6"/>
-          <ClassDef glyph="ccedilla.ss12" class="6"/>
-          <ClassDef glyph="egrave.ss12" class="6"/>
-          <ClassDef glyph="eacute.ss12" class="6"/>
-          <ClassDef glyph="ecircumflex.ss12" class="6"/>
-          <ClassDef glyph="edieresis.ss12" class="6"/>
-          <ClassDef glyph="cacute.ss12" class="6"/>
-          <ClassDef glyph="ccircumflex.ss12" class="6"/>
-          <ClassDef glyph="cdotaccent.ss12" class="6"/>
-          <ClassDef glyph="ccaron.ss12" class="6"/>
-          <ClassDef glyph="emacron.ss12" class="6"/>
-          <ClassDef glyph="ebreve.ss12" class="6"/>
-          <ClassDef glyph="edotaccent.ss12" class="6"/>
-          <ClassDef glyph="eogonek.ss12" class="6"/>
-          <ClassDef glyph="ecaron.ss12" class="6"/>
-          <ClassDef glyph="gcircumflex.ss12" class="6"/>
-          <ClassDef glyph="gbreve.ss12" class="6"/>
-          <ClassDef glyph="gdotaccent.ss12" class="6"/>
-          <ClassDef glyph="gcommaaccent.ss12" class="6"/>
-          <ClassDef glyph="oe.ss12" class="6"/>
-          <ClassDef glyph="gacute.ss12" class="6"/>
-          <ClassDef glyph="iecyr.ss12" class="6"/>
-          <ClassDef glyph="escyr.ss12" class="6"/>
-          <ClassDef glyph="ereversedcyr.ss12" class="6"/>
-          <ClassDef glyph="iegravecyr.ss12" class="6"/>
-          <ClassDef glyph="iocyr.ss12" class="6"/>
-          <ClassDef glyph="eukrcyr.ss12" class="6"/>
-          <ClassDef glyph="epsilontonos.ss12" class="6"/>
-          <ClassDef glyph="epsilon.ss12" class="6"/>
-          <ClassDef glyph="sigmafinal.ss12" class="6"/>
-          <ClassDef glyph="dzcaron" class="6"/>
-          <ClassDef glyph="gcaron" class="6"/>
-          <ClassDef glyph="dz" class="6"/>
-          <ClassDef glyph="dzcaron.ss11" class="6"/>
-          <ClassDef glyph="dz.ss11" class="6"/>
-          <ClassDef glyph="gcaron.ss12" class="6"/>
-          <ClassDef glyph="cacute.loclPLK" class="6"/>
-          <ClassDef glyph="oacute.loclPLK" class="6"/>
-          <ClassDef glyph="cacute.loclPLK.ss09" class="6"/>
-          <ClassDef glyph="cacute.loclPLK.ss10" class="6"/>
-          <ClassDef glyph="cacute.loclPLK.ss12" class="6"/>
-          <ClassDef glyph="decyr.loclBGR" class="6"/>
-          <ClassDef glyph="decyr.loclBGR.ss12" class="6"/>
-          <ClassDef glyph="Iotatonos" class="7"/>
-          <ClassDef glyph="Omicrontonos" class="7"/>
-          <ClassDef glyph="Upsilontonos" class="7"/>
-          <ClassDef glyph="Epsilontonos" class="7"/>
-          <ClassDef glyph="Etatonos" class="7"/>
-          <ClassDef glyph="Alphatonos" class="7"/>
-          <ClassDef glyph="Omegatonos" class="7"/>
-          <ClassDef glyph="V" class="8"/>
-          <ClassDef glyph="W" class="8"/>
-          <ClassDef glyph="Wcircumflex" class="8"/>
-          <ClassDef glyph="Wgrave" class="8"/>
-          <ClassDef glyph="Wacute" class="8"/>
-          <ClassDef glyph="Wdieresis" class="8"/>
-          <ClassDef glyph="u" class="9"/>
-          <ClassDef glyph="y" class="9"/>
-          <ClassDef glyph="u.ss05" class="9"/>
-          <ClassDef glyph="ugrave" class="9"/>
-          <ClassDef glyph="uacute" class="9"/>
-          <ClassDef glyph="ucircumflex" class="9"/>
-          <ClassDef glyph="udieresis" class="9"/>
-          <ClassDef glyph="yacute" class="9"/>
-          <ClassDef glyph="ydieresis" class="9"/>
-          <ClassDef glyph="utilde" class="9"/>
-          <ClassDef glyph="umacron" class="9"/>
-          <ClassDef glyph="ubreve" class="9"/>
-          <ClassDef glyph="uring" class="9"/>
-          <ClassDef glyph="uhungarumlaut" class="9"/>
-          <ClassDef glyph="uogonek" class="9"/>
-          <ClassDef glyph="ycircumflex" class="9"/>
-          <ClassDef glyph="ymacron" class="9"/>
-          <ClassDef glyph="ucyr" class="9"/>
-          <ClassDef glyph="ushortcyr" class="9"/>
-          <ClassDef glyph="ugrave.ss05" class="9"/>
-          <ClassDef glyph="uacute.ss05" class="9"/>
-          <ClassDef glyph="ucircumflex.ss05" class="9"/>
-          <ClassDef glyph="udieresis.ss05" class="9"/>
-          <ClassDef glyph="utilde.ss05" class="9"/>
-          <ClassDef glyph="umacron.ss05" class="9"/>
-          <ClassDef glyph="ubreve.ss05" class="9"/>
-          <ClassDef glyph="uring.ss05" class="9"/>
-          <ClassDef glyph="uhungarumlaut.ss05" class="9"/>
-          <ClassDef glyph="uogonek.ss05" class="9"/>
-          <ClassDef glyph="y.ss12" class="9"/>
-          <ClassDef glyph="yacute.ss12" class="9"/>
-          <ClassDef glyph="ydieresis.ss12" class="9"/>
-          <ClassDef glyph="ymacron.ss12" class="9"/>
-          <ClassDef glyph="ucyr.ss12" class="9"/>
-          <ClassDef glyph="ushortcyr.ss12" class="9"/>
-          <ClassDef glyph="ij.liga" class="9"/>
-          <ClassDef glyph="iacute_j.loclNLD.liga" class="9"/>
-          <ClassDef glyph="ij.liga.ss12" class="9"/>
-          <ClassDef glyph="iacute_j.loclNLD.liga.ss12" class="9"/>
-          <ClassDef glyph="icyr.loclBGR" class="9"/>
-          <ClassDef glyph="ishortcyr.loclBGR" class="9"/>
-          <ClassDef glyph="tsecyr.loclBGR" class="9"/>
-          <ClassDef glyph="shacyr.loclBGR" class="9"/>
-          <ClassDef glyph="shchacyr.loclBGR" class="9"/>
-          <ClassDef glyph="icyr.loclBGR.ss05" class="9"/>
-          <ClassDef glyph="ishortcyr.loclBGR.ss05" class="9"/>
-          <ClassDef glyph="x" class="10"/>
-          <ClassDef glyph="hacyr" class="10"/>
-          <ClassDef glyph="zhecyr" class="10"/>
-          <ClassDef glyph="zhecyr.loclBGR" class="10"/>
-          <ClassDef glyph="zhecyr.loclBGR.ss11" class="10"/>
-          <ClassDef glyph="v" class="11"/>
-          <ClassDef glyph="w" class="11"/>
-          <ClassDef glyph="y.ss04" class="11"/>
-          <ClassDef glyph="gamma" class="11"/>
-          <ClassDef glyph="wcircumflex" class="11"/>
-          <ClassDef glyph="wgrave" class="11"/>
-          <ClassDef glyph="wacute" class="11"/>
-          <ClassDef glyph="wdieresis" class="11"/>
-          <ClassDef glyph="ucyr.ss04" class="11"/>
-          <ClassDef glyph="ushortcyr.ss04" class="11"/>
-          <ClassDef glyph="yacute.ss04" class="11"/>
-          <ClassDef glyph="ydieresis.ss04" class="11"/>
-          <ClassDef glyph="ycircumflex.ss04" class="11"/>
-          <ClassDef glyph="ymacron.ss04" class="11"/>
-          <ClassDef glyph="nu" class="11"/>
-          <ClassDef glyph="f" class="12"/>
-          <ClassDef glyph="t" class="12"/>
-          <ClassDef glyph="fi" class="12"/>
-          <ClassDef glyph="tshecyr" class="12"/>
-          <ClassDef glyph="djecyr" class="12"/>
-          <ClassDef glyph="f_f" class="12"/>
-          <ClassDef glyph="f.ss11" class="12"/>
-          <ClassDef glyph="t.ss11" class="12"/>
-          <ClassDef glyph="hbar" class="12"/>
-          <ClassDef glyph="lslash" class="12"/>
-          <ClassDef glyph="tcedilla" class="12"/>
-          <ClassDef glyph="tcaron" class="12"/>
-          <ClassDef glyph="tbar" class="12"/>
-          <ClassDef glyph="tcommaaccent" class="12"/>
-          <ClassDef glyph="djecyr.ss11" class="12"/>
-          <ClassDef glyph="tshecyr.ss11" class="12"/>
-          <ClassDef glyph="hbar.ss11" class="12"/>
-          <ClassDef glyph="lslash.ss11" class="12"/>
-          <ClassDef glyph="tcedilla.ss11" class="12"/>
-          <ClassDef glyph="tcaron.ss11" class="12"/>
-          <ClassDef glyph="tbar.ss11" class="12"/>
-          <ClassDef glyph="tcommaaccent.ss11" class="12"/>
-          <ClassDef glyph="tdot" class="12"/>
-          <ClassDef glyph="tdot.ss11" class="12"/>
-          <ClassDef glyph="f_f.ss11" class="12"/>
-          <ClassDef glyph="fi.ss11" class="12"/>
-          <ClassDef glyph="m" class="13"/>
-          <ClassDef glyph="i" class="13"/>
-          <ClassDef glyph="p" class="13"/>
-          <ClassDef glyph="r" class="13"/>
-          <ClassDef glyph="micro" class="13"/>
-          <ClassDef glyph="pi" class="13"/>
-          <ClassDef glyph="n" class="13"/>
-          <ClassDef glyph="kacyr" class="13"/>
-          <ClassDef glyph="gecyr" class="13"/>
-          <ClassDef glyph="encyr" class="13"/>
-          <ClassDef glyph="pecyr" class="13"/>
-          <ClassDef glyph="icyr" class="13"/>
-          <ClassDef glyph="yucyr" class="13"/>
-          <ClassDef glyph="shacyr" class="13"/>
-          <ClassDef glyph="shchacyr" class="13"/>
-          <ClassDef glyph="tsecyr" class="13"/>
-          <ClassDef glyph="emcyr" class="13"/>
-          <ClassDef glyph="softcyr" class="13"/>
-          <ClassDef glyph="ylongcyr" class="13"/>
-          <ClassDef glyph="vecyr" class="13"/>
-          <ClassDef glyph="geupcyr" class="13"/>
-          <ClassDef glyph="dzhecyr" class="13"/>
-          <ClassDef glyph="iota" class="13"/>
-          <ClassDef glyph="upsilon" class="13"/>
-          <ClassDef glyph="dotlessi" class="13"/>
-          <ClassDef glyph="iacute" class="13"/>
-          <ClassDef glyph="ntilde" class="13"/>
-          <ClassDef glyph="itilde" class="13"/>
-          <ClassDef glyph="iogonek" class="13"/>
-          <ClassDef glyph="ij" class="13"/>
-          <ClassDef glyph="kgreenlandic" class="13"/>
-          <ClassDef glyph="nacute" class="13"/>
-          <ClassDef glyph="ncommaaccent" class="13"/>
-          <ClassDef glyph="ncaron" class="13"/>
-          <ClassDef glyph="racute" class="13"/>
-          <ClassDef glyph="rcommaaccent" class="13"/>
-          <ClassDef glyph="rcaron" class="13"/>
-          <ClassDef glyph="eng" class="13"/>
-          <ClassDef glyph="ercyr" class="13"/>
-          <ClassDef glyph="iukrcyr" class="13"/>
-          <ClassDef glyph="ishortcyr" class="13"/>
-          <ClassDef glyph="gjecyr" class="13"/>
-          <ClassDef glyph="njecyr" class="13"/>
-          <ClassDef glyph="kjecyr" class="13"/>
-          <ClassDef glyph="igravecyr" class="13"/>
-          <ClassDef glyph="kappa" class="13"/>
-          <ClassDef glyph="eta" class="13"/>
-          <ClassDef glyph="etatonos" class="13"/>
-          <ClassDef glyph="iotatonos" class="13"/>
-          <ClassDef glyph="r.ss10" class="13"/>
-          <ClassDef glyph="racute.ss10" class="13"/>
-          <ClassDef glyph="rcommaaccent.ss10" class="13"/>
-          <ClassDef glyph="rcaron.ss10" class="13"/>
-          <ClassDef glyph="Micro" class="13"/>
-          <ClassDef glyph="mu" class="13"/>
-          <ClassDef glyph="nj" class="13"/>
-          <ClassDef glyph="pdot" class="13"/>
-          <ClassDef glyph="i.loclTRK" class="13"/>
-          <ClassDef glyph="iacute_j.loclNLD" class="13"/>
-          <ClassDef glyph="nacute.loclPLK" class="13"/>
-          <ClassDef glyph="pecyr.loclBGR" class="13"/>
-          <ClassDef glyph="tecyr.loclBGR" class="13"/>
-          <ClassDef glyph="softcyr.loclBGR" class="13"/>
-          <ClassDef glyph="s" class="14"/>
-          <ClassDef glyph="zecyr" class="14"/>
-          <ClassDef glyph="s.ss09" class="14"/>
-          <ClassDef glyph="s.ss10" class="14"/>
-          <ClassDef glyph="sacute" class="14"/>
-          <ClassDef glyph="scircumflex" class="14"/>
-          <ClassDef glyph="scedilla" class="14"/>
-          <ClassDef glyph="scaron" class="14"/>
-          <ClassDef glyph="scommaaccent" class="14"/>
-          <ClassDef glyph="dzecyr" class="14"/>
-          <ClassDef glyph="zecyr.ss09" class="14"/>
-          <ClassDef glyph="dzecyr.ss09" class="14"/>
-          <ClassDef glyph="zecyr.ss10" class="14"/>
-          <ClassDef glyph="dzecyr.ss10" class="14"/>
-          <ClassDef glyph="sacute.ss09" class="14"/>
-          <ClassDef glyph="scircumflex.ss09" class="14"/>
-          <ClassDef glyph="scedilla.ss09" class="14"/>
-          <ClassDef glyph="scaron.ss09" class="14"/>
-          <ClassDef glyph="scommaaccent.ss09" class="14"/>
-          <ClassDef glyph="sacute.ss10" class="14"/>
-          <ClassDef glyph="scircumflex.ss10" class="14"/>
-          <ClassDef glyph="scedilla.ss10" class="14"/>
-          <ClassDef glyph="scaron.ss10" class="14"/>
-          <ClassDef glyph="scommaaccent.ss10" class="14"/>
-          <ClassDef glyph="epsilon" class="14"/>
-          <ClassDef glyph="epsilontonos" class="14"/>
-          <ClassDef glyph="s.ss12" class="14"/>
-          <ClassDef glyph="sacute.ss12" class="14"/>
-          <ClassDef glyph="scircumflex.ss12" class="14"/>
-          <ClassDef glyph="scedilla.ss12" class="14"/>
-          <ClassDef glyph="scaron.ss12" class="14"/>
-          <ClassDef glyph="scommaaccent.ss12" class="14"/>
-          <ClassDef glyph="zecyr.ss12" class="14"/>
-          <ClassDef glyph="dzecyr.ss12" class="14"/>
-          <ClassDef glyph="sacute.loclPLK" class="14"/>
-          <ClassDef glyph="sacute.loclPLK.ss09" class="14"/>
-          <ClassDef glyph="sacute.loclPLK.ss10" class="14"/>
-          <ClassDef glyph="sacute.loclPLK.ss12" class="14"/>
-          <ClassDef glyph="gecyr.loclBGR" class="14"/>
-          <ClassDef glyph="gecyr.loclBGR.ss09" class="14"/>
-          <ClassDef glyph="gecyr.loclBGR.ss10" class="14"/>
-          <ClassDef glyph="gecyr.loclBGR.ss12" class="14"/>
+          <ClassDef glyph="brevecy" class="0"/>
+          <ClassDef glyph="brevecycomb" class="0"/>
+          <ClassDef glyph="one.osf.ss09" class="0"/>
+          <ClassDef glyph="two.osf.ss09" class="0"/>
+          <ClassDef glyph="two.osf.ss10" class="0"/>
+          <ClassDef glyph="two.osf.ss12" class="0"/>
+          <ClassDef glyph="three.osf.ss09" class="0"/>
+          <ClassDef glyph="three.osf.ss10" class="0"/>
+          <ClassDef glyph="three.osf.ss12" class="0"/>
+          <ClassDef glyph="six.osf.ss09" class="0"/>
+          <ClassDef glyph="five.osf.ss12" class="0"/>
+          <ClassDef glyph="five.osf.ss09" class="0"/>
+          <ClassDef glyph="five.osf.ss10" class="0"/>
+          <ClassDef glyph="six.osf.ss10" class="0"/>
+          <ClassDef glyph="six.osf.ss12" class="0"/>
+          <ClassDef glyph="nine.osf.ss09" class="0"/>
+          <ClassDef glyph="nine.osf.ss10" class="0"/>
+          <ClassDef glyph="nine.osf.ss12" class="0"/>
+          <ClassDef glyph="A" class="1"/>
+          <ClassDef glyph="Delta" class="1"/>
+          <ClassDef glyph="Agrave" class="1"/>
+          <ClassDef glyph="Aacute" class="1"/>
+          <ClassDef glyph="Acircumflex" class="1"/>
+          <ClassDef glyph="Atilde" class="1"/>
+          <ClassDef glyph="Adieresis" class="1"/>
+          <ClassDef glyph="Aring" class="1"/>
+          <ClassDef glyph="AE" class="1"/>
+          <ClassDef glyph="Amacron" class="1"/>
+          <ClassDef glyph="Abreve" class="1"/>
+          <ClassDef glyph="Aogonek" class="1"/>
+          <ClassDef glyph="AEacute" class="1"/>
+          <ClassDef glyph="Acyr" class="1"/>
+          <ClassDef glyph="Ljecyr.ss08" class="1"/>
+          <ClassDef glyph="Decyr.ss08" class="1"/>
+          <ClassDef glyph="Elcyr.ss08" class="1"/>
+          <ClassDef glyph="Alpha" class="1"/>
+          <ClassDef glyph="Lambda" class="1"/>
+          <ClassDef glyph="Decyr.loclBGR" class="1"/>
+          <ClassDef glyph="Elcyr.loclBGR" class="1"/>
+          <ClassDef glyph="J" class="2"/>
+          <ClassDef glyph="Jecyr" class="2"/>
+          <ClassDef glyph="J.ss07" class="2"/>
+          <ClassDef glyph="J.ss09" class="2"/>
+          <ClassDef glyph="J.ss10" class="2"/>
+          <ClassDef glyph="Jcircumflex" class="2"/>
+          <ClassDef glyph="Jecyr.ss10" class="2"/>
+          <ClassDef glyph="Jecyr.ss09" class="2"/>
+          <ClassDef glyph="Jecyr.ss07" class="2"/>
+          <ClassDef glyph="J.ss12" class="2"/>
+          <ClassDef glyph="Jcircumflex.ss12" class="2"/>
+          <ClassDef glyph="Jecyr.ss12" class="2"/>
+          <ClassDef glyph="Jcircumflex.ss07" class="2"/>
+          <ClassDef glyph="Jcircumflex.ss09" class="2"/>
+          <ClassDef glyph="Jcircumflex.ss10" class="2"/>
+          <ClassDef glyph="Jacute" class="2"/>
+          <ClassDef glyph="Jacute.ss07" class="2"/>
+          <ClassDef glyph="Jacute.ss09" class="2"/>
+          <ClassDef glyph="Jacute.ss10" class="2"/>
+          <ClassDef glyph="Jacute.ss12" class="2"/>
+          <ClassDef glyph="d" class="3"/>
+          <ClassDef glyph="o" class="3"/>
+          <ClassDef glyph="q" class="3"/>
+          <ClassDef glyph="c" class="3"/>
+          <ClassDef glyph="e" class="3"/>
+          <ClassDef glyph="a" class="3"/>
+          <ClassDef glyph="g" class="3"/>
+          <ClassDef glyph="g.ss03" class="3"/>
+          <ClassDef glyph="schwa" class="3"/>
+          <ClassDef glyph="eukrcyr" class="3"/>
+          <ClassDef glyph="sigmafinal" class="3"/>
+          <ClassDef glyph="sigma" class="3"/>
+          <ClassDef glyph="c.ss09" class="3"/>
+          <ClassDef glyph="c.ss10" class="3"/>
+          <ClassDef glyph="schwa.ss09" class="3"/>
+          <ClassDef glyph="schwa.ss10" class="3"/>
+          <ClassDef glyph="e.ss10" class="3"/>
+          <ClassDef glyph="e.ss09" class="3"/>
+          <ClassDef glyph="d.ss11" class="3"/>
+          <ClassDef glyph="agrave" class="3"/>
+          <ClassDef glyph="aacute" class="3"/>
+          <ClassDef glyph="acircumflex" class="3"/>
+          <ClassDef glyph="atilde" class="3"/>
+          <ClassDef glyph="adieresis" class="3"/>
+          <ClassDef glyph="aring" class="3"/>
+          <ClassDef glyph="ae" class="3"/>
+          <ClassDef glyph="ccedilla" class="3"/>
+          <ClassDef glyph="egrave" class="3"/>
+          <ClassDef glyph="eacute" class="3"/>
+          <ClassDef glyph="ecircumflex" class="3"/>
+          <ClassDef glyph="edieresis" class="3"/>
+          <ClassDef glyph="ograve" class="3"/>
+          <ClassDef glyph="oacute" class="3"/>
+          <ClassDef glyph="ocircumflex" class="3"/>
+          <ClassDef glyph="otilde" class="3"/>
+          <ClassDef glyph="odieresis" class="3"/>
+          <ClassDef glyph="oslash" class="3"/>
+          <ClassDef glyph="amacron" class="3"/>
+          <ClassDef glyph="abreve" class="3"/>
+          <ClassDef glyph="aogonek" class="3"/>
+          <ClassDef glyph="cacute" class="3"/>
+          <ClassDef glyph="ccircumflex" class="3"/>
+          <ClassDef glyph="cdotaccent" class="3"/>
+          <ClassDef glyph="ccaron" class="3"/>
+          <ClassDef glyph="dcaron" class="3"/>
+          <ClassDef glyph="dcroat" class="3"/>
+          <ClassDef glyph="emacron" class="3"/>
+          <ClassDef glyph="ebreve" class="3"/>
+          <ClassDef glyph="edotaccent" class="3"/>
+          <ClassDef glyph="eogonek" class="3"/>
+          <ClassDef glyph="ecaron" class="3"/>
+          <ClassDef glyph="gcircumflex" class="3"/>
+          <ClassDef glyph="gbreve" class="3"/>
+          <ClassDef glyph="gdotaccent" class="3"/>
+          <ClassDef glyph="gcommaaccent" class="3"/>
+          <ClassDef glyph="omacron" class="3"/>
+          <ClassDef glyph="obreve" class="3"/>
+          <ClassDef glyph="ohungarumlaut" class="3"/>
+          <ClassDef glyph="oe" class="3"/>
+          <ClassDef glyph="aeacute" class="3"/>
+          <ClassDef glyph="oslashacute" class="3"/>
+          <ClassDef glyph="acyr" class="3"/>
+          <ClassDef glyph="iecyr" class="3"/>
+          <ClassDef glyph="ocyr" class="3"/>
+          <ClassDef glyph="escyr" class="3"/>
+          <ClassDef glyph="iocyr" class="3"/>
+          <ClassDef glyph="efcyr" class="3"/>
+          <ClassDef glyph="iegravecyr" class="3"/>
+          <ClassDef glyph="escyr.ss09" class="3"/>
+          <ClassDef glyph="eukrcyr.ss09" class="3"/>
+          <ClassDef glyph="escyr.ss10" class="3"/>
+          <ClassDef glyph="eukrcyr.ss10" class="3"/>
+          <ClassDef glyph="iecyr.ss09" class="3"/>
+          <ClassDef glyph="ereversedcyr.ss09" class="3"/>
+          <ClassDef glyph="iocyr.ss09" class="3"/>
+          <ClassDef glyph="iecyr.ss10" class="3"/>
+          <ClassDef glyph="ereversedcyr.ss10" class="3"/>
+          <ClassDef glyph="iocyr.ss10" class="3"/>
+          <ClassDef glyph="iegravecyr.ss09" class="3"/>
+          <ClassDef glyph="iegravecyr.ss10" class="3"/>
+          <ClassDef glyph="efcyr.ss11" class="3"/>
+          <ClassDef glyph="dcaron.ss11" class="3"/>
+          <ClassDef glyph="dcroat.ss11" class="3"/>
+          <ClassDef glyph="ccedilla.ss09" class="3"/>
+          <ClassDef glyph="cacute.ss09" class="3"/>
+          <ClassDef glyph="ccircumflex.ss09" class="3"/>
+          <ClassDef glyph="cdotaccent.ss09" class="3"/>
+          <ClassDef glyph="ccaron.ss09" class="3"/>
+          <ClassDef glyph="ccedilla.ss10" class="3"/>
+          <ClassDef glyph="cacute.ss10" class="3"/>
+          <ClassDef glyph="ccircumflex.ss10" class="3"/>
+          <ClassDef glyph="cdotaccent.ss10" class="3"/>
+          <ClassDef glyph="ccaron.ss10" class="3"/>
+          <ClassDef glyph="egrave.ss09" class="3"/>
+          <ClassDef glyph="eacute.ss09" class="3"/>
+          <ClassDef glyph="ecircumflex.ss09" class="3"/>
+          <ClassDef glyph="edieresis.ss09" class="3"/>
+          <ClassDef glyph="emacron.ss09" class="3"/>
+          <ClassDef glyph="ebreve.ss09" class="3"/>
+          <ClassDef glyph="edotaccent.ss09" class="3"/>
+          <ClassDef glyph="eogonek.ss09" class="3"/>
+          <ClassDef glyph="ecaron.ss09" class="3"/>
+          <ClassDef glyph="oe.ss09" class="3"/>
+          <ClassDef glyph="egrave.ss10" class="3"/>
+          <ClassDef glyph="eacute.ss10" class="3"/>
+          <ClassDef glyph="ecircumflex.ss10" class="3"/>
+          <ClassDef glyph="edieresis.ss10" class="3"/>
+          <ClassDef glyph="emacron.ss10" class="3"/>
+          <ClassDef glyph="ebreve.ss10" class="3"/>
+          <ClassDef glyph="edotaccent.ss10" class="3"/>
+          <ClassDef glyph="eogonek.ss10" class="3"/>
+          <ClassDef glyph="ecaron.ss10" class="3"/>
+          <ClassDef glyph="oe.ss10" class="3"/>
+          <ClassDef glyph="gcircumflex.ss03" class="3"/>
+          <ClassDef glyph="gbreve.ss03" class="3"/>
+          <ClassDef glyph="gdotaccent.ss03" class="3"/>
+          <ClassDef glyph="gcommaaccent.ss03" class="3"/>
+          <ClassDef glyph="eth" class="3"/>
+          <ClassDef glyph="omicron" class="3"/>
+          <ClassDef glyph="omicrontonos" class="3"/>
+          <ClassDef glyph="alpha" class="3"/>
+          <ClassDef glyph="alphatonos" class="3"/>
+          <ClassDef glyph="omega" class="3"/>
+          <ClassDef glyph="phi" class="3"/>
+          <ClassDef glyph="gacute" class="3"/>
+          <ClassDef glyph="gacute.ss09" class="3"/>
+          <ClassDef glyph="epsilon.ss09" class="3"/>
+          <ClassDef glyph="sigmafinal.ss09" class="3"/>
+          <ClassDef glyph="epsilon.ss10" class="3"/>
+          <ClassDef glyph="sigmafinal.ss10" class="3"/>
+          <ClassDef glyph="epsilontonos.ss10" class="3"/>
+          <ClassDef glyph="epsilontonos.ss09" class="3"/>
+          <ClassDef glyph="c.ss12" class="3"/>
+          <ClassDef glyph="schwa.ss12" class="3"/>
+          <ClassDef glyph="e.ss12" class="3"/>
+          <ClassDef glyph="g.ss12" class="3"/>
+          <ClassDef glyph="ccedilla.ss12" class="3"/>
+          <ClassDef glyph="egrave.ss12" class="3"/>
+          <ClassDef glyph="eacute.ss12" class="3"/>
+          <ClassDef glyph="ecircumflex.ss12" class="3"/>
+          <ClassDef glyph="edieresis.ss12" class="3"/>
+          <ClassDef glyph="cacute.ss12" class="3"/>
+          <ClassDef glyph="ccircumflex.ss12" class="3"/>
+          <ClassDef glyph="cdotaccent.ss12" class="3"/>
+          <ClassDef glyph="ccaron.ss12" class="3"/>
+          <ClassDef glyph="emacron.ss12" class="3"/>
+          <ClassDef glyph="ebreve.ss12" class="3"/>
+          <ClassDef glyph="edotaccent.ss12" class="3"/>
+          <ClassDef glyph="eogonek.ss12" class="3"/>
+          <ClassDef glyph="ecaron.ss12" class="3"/>
+          <ClassDef glyph="gcircumflex.ss12" class="3"/>
+          <ClassDef glyph="gbreve.ss12" class="3"/>
+          <ClassDef glyph="gdotaccent.ss12" class="3"/>
+          <ClassDef glyph="gcommaaccent.ss12" class="3"/>
+          <ClassDef glyph="oe.ss12" class="3"/>
+          <ClassDef glyph="gacute.ss12" class="3"/>
+          <ClassDef glyph="iecyr.ss12" class="3"/>
+          <ClassDef glyph="escyr.ss12" class="3"/>
+          <ClassDef glyph="ereversedcyr.ss12" class="3"/>
+          <ClassDef glyph="iegravecyr.ss12" class="3"/>
+          <ClassDef glyph="iocyr.ss12" class="3"/>
+          <ClassDef glyph="eukrcyr.ss12" class="3"/>
+          <ClassDef glyph="epsilontonos.ss12" class="3"/>
+          <ClassDef glyph="epsilon.ss12" class="3"/>
+          <ClassDef glyph="sigmafinal.ss12" class="3"/>
+          <ClassDef glyph="dzcaron" class="3"/>
+          <ClassDef glyph="gcaron" class="3"/>
+          <ClassDef glyph="dz" class="3"/>
+          <ClassDef glyph="dzcaron.ss11" class="3"/>
+          <ClassDef glyph="dz.ss11" class="3"/>
+          <ClassDef glyph="gcaron.ss12" class="3"/>
+          <ClassDef glyph="cacute.loclPLK" class="3"/>
+          <ClassDef glyph="oacute.loclPLK" class="3"/>
+          <ClassDef glyph="cacute.loclPLK.ss09" class="3"/>
+          <ClassDef glyph="cacute.loclPLK.ss10" class="3"/>
+          <ClassDef glyph="cacute.loclPLK.ss12" class="3"/>
+          <ClassDef glyph="decyr.loclBGR" class="3"/>
+          <ClassDef glyph="decyr.loclBGR.ss12" class="3"/>
+          <ClassDef glyph="m" class="4"/>
+          <ClassDef glyph="i" class="4"/>
+          <ClassDef glyph="p" class="4"/>
+          <ClassDef glyph="r" class="4"/>
+          <ClassDef glyph="micro" class="4"/>
+          <ClassDef glyph="pi" class="4"/>
+          <ClassDef glyph="n" class="4"/>
+          <ClassDef glyph="kacyr" class="4"/>
+          <ClassDef glyph="gecyr" class="4"/>
+          <ClassDef glyph="encyr" class="4"/>
+          <ClassDef glyph="pecyr" class="4"/>
+          <ClassDef glyph="icyr" class="4"/>
+          <ClassDef glyph="yucyr" class="4"/>
+          <ClassDef glyph="shacyr" class="4"/>
+          <ClassDef glyph="shchacyr" class="4"/>
+          <ClassDef glyph="tsecyr" class="4"/>
+          <ClassDef glyph="emcyr" class="4"/>
+          <ClassDef glyph="softcyr" class="4"/>
+          <ClassDef glyph="ylongcyr" class="4"/>
+          <ClassDef glyph="vecyr" class="4"/>
+          <ClassDef glyph="geupcyr" class="4"/>
+          <ClassDef glyph="dzhecyr" class="4"/>
+          <ClassDef glyph="iota" class="4"/>
+          <ClassDef glyph="upsilon" class="4"/>
+          <ClassDef glyph="dotlessi" class="4"/>
+          <ClassDef glyph="iacute" class="4"/>
+          <ClassDef glyph="ntilde" class="4"/>
+          <ClassDef glyph="itilde" class="4"/>
+          <ClassDef glyph="iogonek" class="4"/>
+          <ClassDef glyph="ij" class="4"/>
+          <ClassDef glyph="kgreenlandic" class="4"/>
+          <ClassDef glyph="nacute" class="4"/>
+          <ClassDef glyph="ncommaaccent" class="4"/>
+          <ClassDef glyph="ncaron" class="4"/>
+          <ClassDef glyph="racute" class="4"/>
+          <ClassDef glyph="rcommaaccent" class="4"/>
+          <ClassDef glyph="rcaron" class="4"/>
+          <ClassDef glyph="eng" class="4"/>
+          <ClassDef glyph="ercyr" class="4"/>
+          <ClassDef glyph="iukrcyr" class="4"/>
+          <ClassDef glyph="ishortcyr" class="4"/>
+          <ClassDef glyph="gjecyr" class="4"/>
+          <ClassDef glyph="njecyr" class="4"/>
+          <ClassDef glyph="kjecyr" class="4"/>
+          <ClassDef glyph="igravecyr" class="4"/>
+          <ClassDef glyph="kappa" class="4"/>
+          <ClassDef glyph="eta" class="4"/>
+          <ClassDef glyph="etatonos" class="4"/>
+          <ClassDef glyph="iotatonos" class="4"/>
+          <ClassDef glyph="r.ss10" class="4"/>
+          <ClassDef glyph="racute.ss10" class="4"/>
+          <ClassDef glyph="rcommaaccent.ss10" class="4"/>
+          <ClassDef glyph="rcaron.ss10" class="4"/>
+          <ClassDef glyph="Micro" class="4"/>
+          <ClassDef glyph="mu" class="4"/>
+          <ClassDef glyph="nj" class="4"/>
+          <ClassDef glyph="pdot" class="4"/>
+          <ClassDef glyph="i.loclTRK" class="4"/>
+          <ClassDef glyph="iacute_j.loclNLD" class="4"/>
+          <ClassDef glyph="nacute.loclPLK" class="4"/>
+          <ClassDef glyph="pecyr.loclBGR" class="4"/>
+          <ClassDef glyph="tecyr.loclBGR" class="4"/>
+          <ClassDef glyph="softcyr.loclBGR" class="4"/>
+          <ClassDef glyph="u" class="5"/>
+          <ClassDef glyph="y" class="5"/>
+          <ClassDef glyph="u.ss05" class="5"/>
+          <ClassDef glyph="ugrave" class="5"/>
+          <ClassDef glyph="uacute" class="5"/>
+          <ClassDef glyph="ucircumflex" class="5"/>
+          <ClassDef glyph="udieresis" class="5"/>
+          <ClassDef glyph="yacute" class="5"/>
+          <ClassDef glyph="ydieresis" class="5"/>
+          <ClassDef glyph="utilde" class="5"/>
+          <ClassDef glyph="umacron" class="5"/>
+          <ClassDef glyph="ubreve" class="5"/>
+          <ClassDef glyph="uring" class="5"/>
+          <ClassDef glyph="uhungarumlaut" class="5"/>
+          <ClassDef glyph="uogonek" class="5"/>
+          <ClassDef glyph="ycircumflex" class="5"/>
+          <ClassDef glyph="ymacron" class="5"/>
+          <ClassDef glyph="ucyr" class="5"/>
+          <ClassDef glyph="ushortcyr" class="5"/>
+          <ClassDef glyph="ugrave.ss05" class="5"/>
+          <ClassDef glyph="uacute.ss05" class="5"/>
+          <ClassDef glyph="ucircumflex.ss05" class="5"/>
+          <ClassDef glyph="udieresis.ss05" class="5"/>
+          <ClassDef glyph="utilde.ss05" class="5"/>
+          <ClassDef glyph="umacron.ss05" class="5"/>
+          <ClassDef glyph="ubreve.ss05" class="5"/>
+          <ClassDef glyph="uring.ss05" class="5"/>
+          <ClassDef glyph="uhungarumlaut.ss05" class="5"/>
+          <ClassDef glyph="uogonek.ss05" class="5"/>
+          <ClassDef glyph="y.ss12" class="5"/>
+          <ClassDef glyph="yacute.ss12" class="5"/>
+          <ClassDef glyph="ydieresis.ss12" class="5"/>
+          <ClassDef glyph="ymacron.ss12" class="5"/>
+          <ClassDef glyph="ucyr.ss12" class="5"/>
+          <ClassDef glyph="ushortcyr.ss12" class="5"/>
+          <ClassDef glyph="ij.liga" class="5"/>
+          <ClassDef glyph="iacute_j.loclNLD.liga" class="5"/>
+          <ClassDef glyph="ij.liga.ss12" class="5"/>
+          <ClassDef glyph="iacute_j.loclNLD.liga.ss12" class="5"/>
+          <ClassDef glyph="icyr.loclBGR" class="5"/>
+          <ClassDef glyph="ishortcyr.loclBGR" class="5"/>
+          <ClassDef glyph="tsecyr.loclBGR" class="5"/>
+          <ClassDef glyph="shacyr.loclBGR" class="5"/>
+          <ClassDef glyph="shchacyr.loclBGR" class="5"/>
+          <ClassDef glyph="f" class="6"/>
+          <ClassDef glyph="t" class="6"/>
+          <ClassDef glyph="fi" class="6"/>
+          <ClassDef glyph="tshecyr" class="6"/>
+          <ClassDef glyph="djecyr" class="6"/>
+          <ClassDef glyph="f_f" class="6"/>
+          <ClassDef glyph="f.ss11" class="6"/>
+          <ClassDef glyph="t.ss11" class="6"/>
+          <ClassDef glyph="hbar" class="6"/>
+          <ClassDef glyph="lslash" class="6"/>
+          <ClassDef glyph="tcedilla" class="6"/>
+          <ClassDef glyph="tcaron" class="6"/>
+          <ClassDef glyph="tbar" class="6"/>
+          <ClassDef glyph="tcommaaccent" class="6"/>
+          <ClassDef glyph="djecyr.ss11" class="6"/>
+          <ClassDef glyph="tshecyr.ss11" class="6"/>
+          <ClassDef glyph="hbar.ss11" class="6"/>
+          <ClassDef glyph="lslash.ss11" class="6"/>
+          <ClassDef glyph="tcedilla.ss11" class="6"/>
+          <ClassDef glyph="tcaron.ss11" class="6"/>
+          <ClassDef glyph="tbar.ss11" class="6"/>
+          <ClassDef glyph="tcommaaccent.ss11" class="6"/>
+          <ClassDef glyph="tdot" class="6"/>
+          <ClassDef glyph="tdot.ss11" class="6"/>
+          <ClassDef glyph="f_f.ss11" class="6"/>
+          <ClassDef glyph="fi.ss11" class="6"/>
+          <ClassDef glyph="s" class="7"/>
+          <ClassDef glyph="zecyr" class="7"/>
+          <ClassDef glyph="s.ss09" class="7"/>
+          <ClassDef glyph="s.ss10" class="7"/>
+          <ClassDef glyph="sacute" class="7"/>
+          <ClassDef glyph="scircumflex" class="7"/>
+          <ClassDef glyph="scedilla" class="7"/>
+          <ClassDef glyph="scaron" class="7"/>
+          <ClassDef glyph="scommaaccent" class="7"/>
+          <ClassDef glyph="dzecyr" class="7"/>
+          <ClassDef glyph="zecyr.ss09" class="7"/>
+          <ClassDef glyph="dzecyr.ss09" class="7"/>
+          <ClassDef glyph="zecyr.ss10" class="7"/>
+          <ClassDef glyph="dzecyr.ss10" class="7"/>
+          <ClassDef glyph="sacute.ss09" class="7"/>
+          <ClassDef glyph="scircumflex.ss09" class="7"/>
+          <ClassDef glyph="scedilla.ss09" class="7"/>
+          <ClassDef glyph="scaron.ss09" class="7"/>
+          <ClassDef glyph="scommaaccent.ss09" class="7"/>
+          <ClassDef glyph="sacute.ss10" class="7"/>
+          <ClassDef glyph="scircumflex.ss10" class="7"/>
+          <ClassDef glyph="scedilla.ss10" class="7"/>
+          <ClassDef glyph="scaron.ss10" class="7"/>
+          <ClassDef glyph="scommaaccent.ss10" class="7"/>
+          <ClassDef glyph="epsilon" class="7"/>
+          <ClassDef glyph="epsilontonos" class="7"/>
+          <ClassDef glyph="s.ss12" class="7"/>
+          <ClassDef glyph="sacute.ss12" class="7"/>
+          <ClassDef glyph="scircumflex.ss12" class="7"/>
+          <ClassDef glyph="scedilla.ss12" class="7"/>
+          <ClassDef glyph="scaron.ss12" class="7"/>
+          <ClassDef glyph="scommaaccent.ss12" class="7"/>
+          <ClassDef glyph="zecyr.ss12" class="7"/>
+          <ClassDef glyph="dzecyr.ss12" class="7"/>
+          <ClassDef glyph="sacute.loclPLK" class="7"/>
+          <ClassDef glyph="sacute.loclPLK.ss09" class="7"/>
+          <ClassDef glyph="sacute.loclPLK.ss10" class="7"/>
+          <ClassDef glyph="sacute.loclPLK.ss12" class="7"/>
+          <ClassDef glyph="gecyr.loclBGR" class="7"/>
+          <ClassDef glyph="gecyr.loclBGR.ss09" class="7"/>
+          <ClassDef glyph="gecyr.loclBGR.ss10" class="7"/>
+          <ClassDef glyph="gecyr.loclBGR.ss12" class="7"/>
+          <ClassDef glyph="v" class="8"/>
+          <ClassDef glyph="w" class="8"/>
+          <ClassDef glyph="y.ss04" class="8"/>
+          <ClassDef glyph="gamma" class="8"/>
+          <ClassDef glyph="wcircumflex" class="8"/>
+          <ClassDef glyph="wgrave" class="8"/>
+          <ClassDef glyph="wacute" class="8"/>
+          <ClassDef glyph="wdieresis" class="8"/>
+          <ClassDef glyph="ucyr.ss04" class="8"/>
+          <ClassDef glyph="ushortcyr.ss04" class="8"/>
+          <ClassDef glyph="yacute.ss04" class="8"/>
+          <ClassDef glyph="ydieresis.ss04" class="8"/>
+          <ClassDef glyph="ycircumflex.ss04" class="8"/>
+          <ClassDef glyph="ymacron.ss04" class="8"/>
+          <ClassDef glyph="nu" class="8"/>
+          <ClassDef glyph="x" class="9"/>
+          <ClassDef glyph="hacyr" class="9"/>
+          <ClassDef glyph="zhecyr" class="9"/>
+          <ClassDef glyph="zhecyr.loclBGR" class="9"/>
+          <ClassDef glyph="zhecyr.loclBGR.ss11" class="9"/>
+          <ClassDef glyph="C" class="10"/>
+          <ClassDef glyph="G" class="10"/>
+          <ClassDef glyph="O" class="10"/>
+          <ClassDef glyph="Q" class="10"/>
+          <ClassDef glyph="Ohm" class="10"/>
+          <ClassDef glyph="Schwa" class="10"/>
+          <ClassDef glyph="G.ss03" class="10"/>
+          <ClassDef glyph="Ereversedcyr" class="10"/>
+          <ClassDef glyph="Eukrcyr" class="10"/>
+          <ClassDef glyph="Efcyr" class="10"/>
+          <ClassDef glyph="Q.ss06" class="10"/>
+          <ClassDef glyph="C.ss09" class="10"/>
+          <ClassDef glyph="C.ss10" class="10"/>
+          <ClassDef glyph="G.ss10" class="10"/>
+          <ClassDef glyph="G.ss09" class="10"/>
+          <ClassDef glyph="G.ss13" class="10"/>
+          <ClassDef glyph="G.ss14" class="10"/>
+          <ClassDef glyph="Schwa.ss09" class="10"/>
+          <ClassDef glyph="Schwa.ss10" class="10"/>
+          <ClassDef glyph="Ograve" class="10"/>
+          <ClassDef glyph="Oacute" class="10"/>
+          <ClassDef glyph="Ocircumflex" class="10"/>
+          <ClassDef glyph="Otilde" class="10"/>
+          <ClassDef glyph="Odieresis" class="10"/>
+          <ClassDef glyph="Oslash" class="10"/>
+          <ClassDef glyph="Cacute" class="10"/>
+          <ClassDef glyph="Ccircumflex" class="10"/>
+          <ClassDef glyph="Cdotaccent" class="10"/>
+          <ClassDef glyph="Ccaron" class="10"/>
+          <ClassDef glyph="Gcircumflex" class="10"/>
+          <ClassDef glyph="Gbreve" class="10"/>
+          <ClassDef glyph="Gdotaccent" class="10"/>
+          <ClassDef glyph="Gcommaaccent" class="10"/>
+          <ClassDef glyph="Omacron" class="10"/>
+          <ClassDef glyph="Obreve" class="10"/>
+          <ClassDef glyph="Ohungarumlaut" class="10"/>
+          <ClassDef glyph="OE" class="10"/>
+          <ClassDef glyph="Ccedilla" class="10"/>
+          <ClassDef glyph="Oslashacute" class="10"/>
+          <ClassDef glyph="Ocyr" class="10"/>
+          <ClassDef glyph="Escyr" class="10"/>
+          <ClassDef glyph="Escyr.ss09" class="10"/>
+          <ClassDef glyph="Eukrcyr.ss09" class="10"/>
+          <ClassDef glyph="Escyr.ss10" class="10"/>
+          <ClassDef glyph="Eukrcyr.ss10" class="10"/>
+          <ClassDef glyph="Ereversedcyr.ss09" class="10"/>
+          <ClassDef glyph="Ereversedcyr.ss10" class="10"/>
+          <ClassDef glyph="Ccedilla.ss09" class="10"/>
+          <ClassDef glyph="Cacute.ss09" class="10"/>
+          <ClassDef glyph="Ccircumflex.ss09" class="10"/>
+          <ClassDef glyph="Cdotaccent.ss09" class="10"/>
+          <ClassDef glyph="Ccaron.ss09" class="10"/>
+          <ClassDef glyph="Ccedilla.ss10" class="10"/>
+          <ClassDef glyph="Cacute.ss10" class="10"/>
+          <ClassDef glyph="Ccircumflex.ss10" class="10"/>
+          <ClassDef glyph="Cdotaccent.ss10" class="10"/>
+          <ClassDef glyph="Ccaron.ss10" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss10" class="10"/>
+          <ClassDef glyph="Gbreve.ss10" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss10" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss10" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss09" class="10"/>
+          <ClassDef glyph="Gbreve.ss09" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss09" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss09" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss03" class="10"/>
+          <ClassDef glyph="Gbreve.ss03" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss03" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss03" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss13" class="10"/>
+          <ClassDef glyph="Gbreve.ss13" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss13" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss13" class="10"/>
+          <ClassDef glyph="Gbreve.ss14" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss14" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss14" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss14" class="10"/>
+          <ClassDef glyph="Omicron" class="10"/>
+          <ClassDef glyph="Theta" class="10"/>
+          <ClassDef glyph="Phi" class="10"/>
+          <ClassDef glyph="Gacute" class="10"/>
+          <ClassDef glyph="Gacute.ss09" class="10"/>
+          <ClassDef glyph="Gacute.ss10" class="10"/>
+          <ClassDef glyph="Gacute.ss03" class="10"/>
+          <ClassDef glyph="Gacute.ss13" class="10"/>
+          <ClassDef glyph="Gacute.ss14" class="10"/>
+          <ClassDef glyph="C.ss12" class="10"/>
+          <ClassDef glyph="G.ss12" class="10"/>
+          <ClassDef glyph="G.ss15" class="10"/>
+          <ClassDef glyph="Schwa.ss12" class="10"/>
+          <ClassDef glyph="Ccedilla.ss12" class="10"/>
+          <ClassDef glyph="Cacute.ss12" class="10"/>
+          <ClassDef glyph="Ccircumflex.ss12" class="10"/>
+          <ClassDef glyph="Cdotaccent.ss12" class="10"/>
+          <ClassDef glyph="Ccaron.ss12" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss12" class="10"/>
+          <ClassDef glyph="Gbreve.ss12" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss12" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss12" class="10"/>
+          <ClassDef glyph="Gacute.ss12" class="10"/>
+          <ClassDef glyph="Gacute.ss15" class="10"/>
+          <ClassDef glyph="Gbreve.ss15" class="10"/>
+          <ClassDef glyph="Gcircumflex.ss15" class="10"/>
+          <ClassDef glyph="Gcommaaccent.ss15" class="10"/>
+          <ClassDef glyph="Gdotaccent.ss15" class="10"/>
+          <ClassDef glyph="Eukrcyr.ss12" class="10"/>
+          <ClassDef glyph="Escyr.ss12" class="10"/>
+          <ClassDef glyph="Ereversedcyr.ss12" class="10"/>
+          <ClassDef glyph="Omega" class="10"/>
+          <ClassDef glyph="Gcaron" class="10"/>
+          <ClassDef glyph="Gcaron.ss03" class="10"/>
+          <ClassDef glyph="Gcaron.ss09" class="10"/>
+          <ClassDef glyph="Gcaron.ss10" class="10"/>
+          <ClassDef glyph="Gcaron.ss12" class="10"/>
+          <ClassDef glyph="Gcaron.ss13" class="10"/>
+          <ClassDef glyph="Gcaron.ss14" class="10"/>
+          <ClassDef glyph="Gcaron.ss15" class="10"/>
+          <ClassDef glyph="Cacute.loclPLK" class="10"/>
+          <ClassDef glyph="Oacute.loclPLK" class="10"/>
+          <ClassDef glyph="Cacute.loclPLK.ss09" class="10"/>
+          <ClassDef glyph="Cacute.loclPLK.ss10" class="10"/>
+          <ClassDef glyph="Cacute.loclPLK.ss12" class="10"/>
+          <ClassDef glyph="Efcyr.loclBGR" class="10"/>
+          <ClassDef glyph="Y" class="11"/>
+          <ClassDef glyph="Yacute" class="11"/>
+          <ClassDef glyph="Ycircumflex" class="11"/>
+          <ClassDef glyph="Ydieresis" class="11"/>
+          <ClassDef glyph="Ymacron" class="11"/>
+          <ClassDef glyph="Upsilon" class="11"/>
+          <ClassDef glyph="Upsilondieresis" class="11"/>
+          <ClassDef glyph="Ygrave" class="11"/>
+          <ClassDef glyph="Ytilde" class="11"/>
+          <ClassDef glyph="T" class="12"/>
+          <ClassDef glyph="Tshecyr" class="12"/>
+          <ClassDef glyph="Djecyr" class="12"/>
+          <ClassDef glyph="Tcaron" class="12"/>
+          <ClassDef glyph="Tbar" class="12"/>
+          <ClassDef glyph="Tcommaaccent" class="12"/>
+          <ClassDef glyph="Tcedilla" class="12"/>
+          <ClassDef glyph="Tecyr" class="12"/>
+          <ClassDef glyph="Tau" class="12"/>
+          <ClassDef glyph="Djecyr.ss12" class="12"/>
+          <ClassDef glyph="Tdot" class="12"/>
+          <ClassDef glyph="Iotatonos" class="13"/>
+          <ClassDef glyph="Omicrontonos" class="13"/>
+          <ClassDef glyph="Upsilontonos" class="13"/>
+          <ClassDef glyph="Epsilontonos" class="13"/>
+          <ClassDef glyph="Etatonos" class="13"/>
+          <ClassDef glyph="Alphatonos" class="13"/>
+          <ClassDef glyph="Omegatonos" class="13"/>
+          <ClassDef glyph="V" class="14"/>
+          <ClassDef glyph="W" class="14"/>
+          <ClassDef glyph="Wcircumflex" class="14"/>
+          <ClassDef glyph="Wgrave" class="14"/>
+          <ClassDef glyph="Wacute" class="14"/>
+          <ClassDef glyph="Wdieresis" class="14"/>
           <ClassDef glyph="decyr.ss08" class="15"/>
           <ClassDef glyph="elcyr.ss08" class="15"/>
           <ClassDef glyph="ljecyr.ss08" class="15"/>
@@ -26775,34 +26737,34 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="-30"/>
+            <Value1 XAdvance="-60"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="-60"/>
+            <Value1 XAdvance="-130"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="-60"/>
+            <Value1 XAdvance="-80"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="7">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-40"/>
           </Class2Record>
           <Class2Record index="8">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="9">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="11">
             <Value1 XAdvance="0"/>
@@ -26831,13 +26793,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="-30"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
             <Value1 XAdvance="0"/>
@@ -26855,13 +26817,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="11">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-60"/>
           </Class2Record>
           <Class2Record index="12">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-60"/>
           </Class2Record>
           <Class2Record index="13">
             <Value1 XAdvance="0"/>
@@ -26881,22 +26843,22 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="-80"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-80"/>
           </Class2Record>
           <Class2Record index="3">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="-100"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="-60"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
             <Value1 XAdvance="0"/>
@@ -26917,7 +26879,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="13">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="20"/>
           </Class2Record>
           <Class2Record index="14">
             <Value1 XAdvance="0"/>
@@ -26937,7 +26899,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="-40"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
             <Value1 XAdvance="0"/>
@@ -26967,7 +26929,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="12">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-70"/>
           </Class2Record>
           <Class2Record index="13">
             <Value1 XAdvance="0"/>
@@ -26987,13 +26949,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-100"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-60"/>
           </Class2Record>
           <Class2Record index="4">
             <Value1 XAdvance="0"/>
@@ -27005,7 +26967,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
-            <Value1 XAdvance="10"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="8">
             <Value1 XAdvance="0"/>
@@ -27014,7 +26976,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="11">
             <Value1 XAdvance="0"/>
@@ -27040,13 +27002,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="2">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="-90"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
             <Value1 XAdvance="0"/>
@@ -27061,25 +27023,25 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="8">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="9">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="11">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="12">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-90"/>
           </Class2Record>
           <Class2Record index="13">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="14">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="15">
             <Value1 XAdvance="0"/>
@@ -27093,7 +27055,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="2">
             <Value1 XAdvance="0"/>
@@ -27102,13 +27064,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="-30"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="-70"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="-40"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
             <Value1 XAdvance="0"/>
@@ -27123,7 +27085,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="11">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="12">
             <Value1 XAdvance="0"/>
@@ -27146,7 +27108,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="-30"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="2">
             <Value1 XAdvance="0"/>
@@ -27155,13 +27117,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="-60"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="-130"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="-80"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
             <Value1 XAdvance="0"/>
@@ -27173,22 +27135,22 @@
             <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="11">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="12">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="13">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="14">
-            <Value1 XAdvance="-40"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="15">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-40"/>
           </Class2Record>
           <Class2Record index="16">
             <Value1 XAdvance="0"/>
@@ -27199,25 +27161,25 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="0"/>
-          </Class2Record>
-          <Class2Record index="2">
-            <Value1 XAdvance="0"/>
-          </Class2Record>
-          <Class2Record index="3">
-            <Value1 XAdvance="0"/>
-          </Class2Record>
-          <Class2Record index="4">
             <Value1 XAdvance="-60"/>
           </Class2Record>
-          <Class2Record index="5">
+          <Class2Record index="2">
             <Value1 XAdvance="-110"/>
           </Class2Record>
-          <Class2Record index="6">
+          <Class2Record index="3">
             <Value1 XAdvance="-50"/>
           </Class2Record>
+          <Class2Record index="4">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+          <Class2Record index="5">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+          <Class2Record index="6">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
           <Class2Record index="7">
-            <Value1 XAdvance="10"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="8">
             <Value1 XAdvance="0"/>
@@ -27235,7 +27197,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="13">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="10"/>
           </Class2Record>
           <Class2Record index="14">
             <Value1 XAdvance="0"/>
@@ -27252,25 +27214,25 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="1">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-30"/>
           </Class2Record>
           <Class2Record index="2">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-70"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-40"/>
           </Class2Record>
           <Class2Record index="4">
-            <Value1 XAdvance="-80"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="-80"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
-            <Value1 XAdvance="20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="8">
             <Value1 XAdvance="0"/>
@@ -27311,7 +27273,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="-70"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="4">
             <Value1 XAdvance="0"/>
@@ -27341,7 +27303,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="13">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="10"/>
           </Class2Record>
           <Class2Record index="14">
             <Value1 XAdvance="0"/>
@@ -27373,7 +27335,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
             <Value1 XAdvance="0"/>
@@ -27400,7 +27362,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="15">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-70"/>
           </Class2Record>
           <Class2Record index="16">
             <Value1 XAdvance="0"/>
@@ -27441,7 +27403,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="11">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-40"/>
           </Class2Record>
           <Class2Record index="12">
             <Value1 XAdvance="0"/>
@@ -27453,7 +27415,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="15">
-            <Value1 XAdvance="-70"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="16">
             <Value1 XAdvance="0"/>
@@ -27470,7 +27432,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="4">
             <Value1 XAdvance="0"/>
@@ -27503,7 +27465,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="14">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="15">
             <Value1 XAdvance="0"/>
@@ -27532,16 +27494,16 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="6">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="7">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="8">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="9">
-            <Value1 XAdvance="-20"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="10">
             <Value1 XAdvance="0"/>
@@ -27562,7 +27524,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="16">
-            <Value1 XAdvance="-50"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
         </Class1Record>
         <Class1Record index="16">
@@ -27576,13 +27538,13 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="3">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
           <Class2Record index="4">
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="5">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-20"/>
           </Class2Record>
           <Class2Record index="6">
             <Value1 XAdvance="0"/>
@@ -27597,7 +27559,7 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="10">
-            <Value1 XAdvance="-30"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="11">
             <Value1 XAdvance="0"/>
@@ -27612,10 +27574,10 @@
             <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="15">
-            <Value1 XAdvance="-40"/>
+            <Value1 XAdvance="0"/>
           </Class2Record>
           <Class2Record index="16">
-            <Value1 XAdvance="0"/>
+            <Value1 XAdvance="-50"/>
           </Class2Record>
         </Class1Record>
       </PairPos>
@@ -30547,8 +30509,6 @@
         <Substitution in="iacute_j.loclNLD.liga" out="iacute_j.loclNLD.liga.ss12"/>
         <Substitution in="decyr.loclBGR" out="decyr.loclBGR.ss12"/>
         <Substitution in="zhecyr.loclBGR" out="zhecyr.loclBGR.ss11"/>
-        <Substitution in="icyr.loclBGR" out="icyr.loclBGR.ss05"/>
-        <Substitution in="ishortcyr.loclBGR" out="ishortcyr.loclBGR.ss05"/>
         <Substitution in="kacyr.loclBGR" out="kacyr.loclBGR.ss11"/>
         <Substitution in="yucyr.loclBGR" out="yucyr.loclBGR.ss11"/>
       </SingleSubst>
@@ -31335,34 +31295,34 @@
         </AlternateSet>
         <AlternateSet glyph="one.osf">
           <Alternate glyph="one"/>
-          <Alternate glyph="one.ss09.osf"/>
+          <Alternate glyph="one.osf.ss09"/>
         </AlternateSet>
         <AlternateSet glyph="two.osf">
           <Alternate glyph="two"/>
-          <Alternate glyph="two.ss09.osf"/>
-          <Alternate glyph="two.ss10.osf"/>
-          <Alternate glyph="two.ss12.osf"/>
+          <Alternate glyph="two.osf.ss09"/>
+          <Alternate glyph="two.osf.ss10"/>
+          <Alternate glyph="two.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="three.osf">
           <Alternate glyph="three"/>
-          <Alternate glyph="three.ss09.osf"/>
-          <Alternate glyph="three.ss10.osf"/>
-          <Alternate glyph="three.ss12.osf"/>
+          <Alternate glyph="three.osf.ss09"/>
+          <Alternate glyph="three.osf.ss10"/>
+          <Alternate glyph="three.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="four.osf">
           <Alternate glyph="four"/>
         </AlternateSet>
         <AlternateSet glyph="five.osf">
           <Alternate glyph="five"/>
-          <Alternate glyph="five.ss09.osf"/>
-          <Alternate glyph="five.ss10.osf"/>
-          <Alternate glyph="five.ss12.osf"/>
+          <Alternate glyph="five.osf.ss09"/>
+          <Alternate glyph="five.osf.ss10"/>
+          <Alternate glyph="five.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="six.osf">
           <Alternate glyph="six"/>
-          <Alternate glyph="six.ss09.osf"/>
-          <Alternate glyph="six.ss10.osf"/>
-          <Alternate glyph="six.ss12.osf"/>
+          <Alternate glyph="six.osf.ss09"/>
+          <Alternate glyph="six.osf.ss10"/>
+          <Alternate glyph="six.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="seven.osf">
           <Alternate glyph="seven"/>
@@ -31372,9 +31332,9 @@
         </AlternateSet>
         <AlternateSet glyph="nine.osf">
           <Alternate glyph="nine"/>
-          <Alternate glyph="nine.ss09.osf"/>
-          <Alternate glyph="nine.ss10.osf"/>
-          <Alternate glyph="nine.ss12.osf"/>
+          <Alternate glyph="nine.osf.ss09"/>
+          <Alternate glyph="nine.osf.ss10"/>
+          <Alternate glyph="nine.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="etilde">
           <Alternate glyph="etilde.ss12"/>
@@ -36176,12 +36136,6 @@
           <Alternate glyph="zecyr.loclBGR.ss10"/>
           <Alternate glyph="zecyr.loclBGR.ss12"/>
         </AlternateSet>
-        <AlternateSet glyph="icyr.loclBGR">
-          <Alternate glyph="icyr.loclBGR.ss05"/>
-        </AlternateSet>
-        <AlternateSet glyph="ishortcyr.loclBGR">
-          <Alternate glyph="ishortcyr.loclBGR.ss05"/>
-        </AlternateSet>
         <AlternateSet glyph="kacyr.loclBGR">
           <Alternate glyph="kacyr.loclBGR.ss11"/>
         </AlternateSet>
@@ -36189,32 +36143,32 @@
           <Alternate glyph="yucyr.loclBGR.ss11"/>
         </AlternateSet>
         <AlternateSet glyph="one.osf">
-          <Alternate glyph="one.ss09.osf"/>
+          <Alternate glyph="one.osf.ss09"/>
         </AlternateSet>
         <AlternateSet glyph="two.osf">
-          <Alternate glyph="two.ss09.osf"/>
-          <Alternate glyph="two.ss10.osf"/>
-          <Alternate glyph="two.ss12.osf"/>
+          <Alternate glyph="two.osf.ss09"/>
+          <Alternate glyph="two.osf.ss10"/>
+          <Alternate glyph="two.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="three.osf">
-          <Alternate glyph="three.ss09.osf"/>
-          <Alternate glyph="three.ss10.osf"/>
-          <Alternate glyph="three.ss12.osf"/>
+          <Alternate glyph="three.osf.ss09"/>
+          <Alternate glyph="three.osf.ss10"/>
+          <Alternate glyph="three.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="five.osf">
-          <Alternate glyph="five.ss09.osf"/>
-          <Alternate glyph="five.ss10.osf"/>
-          <Alternate glyph="five.ss12.osf"/>
+          <Alternate glyph="five.osf.ss09"/>
+          <Alternate glyph="five.osf.ss10"/>
+          <Alternate glyph="five.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="six.osf">
-          <Alternate glyph="six.ss09.osf"/>
-          <Alternate glyph="six.ss10.osf"/>
-          <Alternate glyph="six.ss12.osf"/>
+          <Alternate glyph="six.osf.ss09"/>
+          <Alternate glyph="six.osf.ss10"/>
+          <Alternate glyph="six.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="nine.osf">
-          <Alternate glyph="nine.ss09.osf"/>
-          <Alternate glyph="nine.ss10.osf"/>
-          <Alternate glyph="nine.ss12.osf"/>
+          <Alternate glyph="nine.osf.ss09"/>
+          <Alternate glyph="nine.osf.ss10"/>
+          <Alternate glyph="nine.osf.ss12"/>
         </AlternateSet>
         <AlternateSet glyph="etilde">
           <Alternate glyph="etilde.ss12"/>
@@ -36320,8 +36274,6 @@
         <Substitution in="uring" out="uring.ss05"/>
         <Substitution in="uhungarumlaut" out="uhungarumlaut.ss05"/>
         <Substitution in="uogonek" out="uogonek.ss05"/>
-        <Substitution in="icyr.loclBGR" out="icyr.loclBGR.ss05"/>
-        <Substitution in="ishortcyr.loclBGR" out="ishortcyr.loclBGR.ss05"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="38">
@@ -36476,6 +36428,12 @@
         <Substitution in="sacute.loclPLK" out="sacute.loclPLK.ss09"/>
         <Substitution in="gecyr.loclBGR" out="gecyr.loclBGR.ss09"/>
         <Substitution in="zecyr.loclBGR" out="zecyr.loclBGR.ss09"/>
+        <Substitution in="one.osf" out="one.osf.ss09"/>
+        <Substitution in="two.osf" out="two.osf.ss09"/>
+        <Substitution in="three.osf" out="three.osf.ss09"/>
+        <Substitution in="five.osf" out="five.osf.ss09"/>
+        <Substitution in="six.osf" out="six.osf.ss09"/>
+        <Substitution in="nine.osf" out="nine.osf.ss09"/>
         <Substitution in="etilde" out="etilde.ss09"/>
       </SingleSubst>
     </Lookup>
@@ -36589,6 +36547,11 @@
         <Substitution in="sacute.loclPLK" out="sacute.loclPLK.ss10"/>
         <Substitution in="gecyr.loclBGR" out="gecyr.loclBGR.ss10"/>
         <Substitution in="zecyr.loclBGR" out="zecyr.loclBGR.ss10"/>
+        <Substitution in="two.osf" out="two.osf.ss10"/>
+        <Substitution in="three.osf" out="three.osf.ss10"/>
+        <Substitution in="five.osf" out="five.osf.ss10"/>
+        <Substitution in="six.osf" out="six.osf.ss10"/>
+        <Substitution in="nine.osf" out="nine.osf.ss10"/>
         <Substitution in="etilde" out="etilde.ss10"/>
       </SingleSubst>
     </Lookup>
@@ -36754,6 +36717,11 @@
         <Substitution in="gecyr.loclBGR" out="gecyr.loclBGR.ss12"/>
         <Substitution in="decyr.loclBGR" out="decyr.loclBGR.ss12"/>
         <Substitution in="zecyr.loclBGR" out="zecyr.loclBGR.ss12"/>
+        <Substitution in="two.osf" out="two.osf.ss12"/>
+        <Substitution in="three.osf" out="three.osf.ss12"/>
+        <Substitution in="five.osf" out="five.osf.ss12"/>
+        <Substitution in="six.osf" out="six.osf.ss12"/>
+        <Substitution in="nine.osf" out="nine.osf.ss12"/>
         <Substitution in="etilde" out="etilde.ss12"/>
         <Substitution in="ygrave" out="ygrave.ss12"/>
         <Substitution in="ytilde" out="ytilde.ss12"/>

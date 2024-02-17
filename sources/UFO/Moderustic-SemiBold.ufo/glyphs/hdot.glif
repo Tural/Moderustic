@@ -6,14 +6,14 @@
   <anchor x="146" y="933" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="dotaccent" xOffset="41" yOffset="250"/>
+    <component base="dotaccentcomb" xOffset="41" yOffset="250"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>h+dotaccent</string>
+  <string>h+dotaccentcomb</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

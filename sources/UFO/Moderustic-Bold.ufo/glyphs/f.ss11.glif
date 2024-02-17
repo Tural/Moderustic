@@ -5,7 +5,6 @@
   <anchor x="183" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="99" y="380" type="line"/>
       <point x="99" y="0" type="line"/>
       <point x="264" y="0" type="line"/>
       <point x="264" y="380" type="line"/>
@@ -29,18 +28,17 @@
       <point x="99" y="500" type="line"/>
       <point x="22" y="500" type="line"/>
       <point x="22" y="380" type="line"/>
+      <point x="99" y="380" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>47741c73f6ee290261845281aadef83ee9d5e020ff68ceaaf2391676a2ddf803624d335fede7ec691d334a04c67cdce376e272e35b80be8ea516375d3f27cf9e</string>
+    <string>b0ddfe27817166f38051c53e53e60dd9d714f8f5209ac2b5b60ad12bd7d4c951a153a9f73de91b3810efb9858378643fd6caf7447d3765934ca377bdcaa619b6</string>
     <key>hintSetList</key>
     <array>
       <dict>

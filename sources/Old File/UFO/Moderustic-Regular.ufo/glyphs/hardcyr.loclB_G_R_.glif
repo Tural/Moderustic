@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="softcyr.loclBGR" xOffset="64"/>
+    <contour>
+      <point x="21" y="500" type="line"/>
+      <point x="21" y="430" type="line"/>
+      <point x="179" y="430" type="line"/>
+      <point x="212" y="497" type="line"/>
+      <point x="212" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

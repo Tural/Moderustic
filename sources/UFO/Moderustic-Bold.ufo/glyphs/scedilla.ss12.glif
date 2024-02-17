@@ -4,13 +4,76 @@
   <anchor x="245" y="520" name="top"/>
   <anchor x="245" y="-218" name="bottom"/>
   <outline>
-    <component base="s.ss12"/>
-    <component base="cedilla" xOffset="94" yOffset="-10"/>
+    <contour>
+      <point x="28" y="86" type="line"/>
+      <point x="108" y="4"/>
+      <point x="164" y="-20"/>
+      <point x="249" y="-20" type="curve" smooth="yes"/>
+      <point x="390" y="-20"/>
+      <point x="472" y="46"/>
+      <point x="472" y="160.301" type="curve" smooth="yes"/>
+      <point x="472" y="266.933"/>
+      <point x="374.495" y="288.721"/>
+      <point x="294.769" y="306.536" type="curve" smooth="yes"/>
+      <point x="239.633" y="318.856"/>
+      <point x="193" y="329.276"/>
+      <point x="193" y="364.544" type="curve" smooth="yes"/>
+      <point x="193" y="386.647"/>
+      <point x="212" y="400"/>
+      <point x="254" y="400" type="curve" smooth="yes"/>
+      <point x="310" y="400"/>
+      <point x="370" y="376.387"/>
+      <point x="443" y="323" type="curve"/>
+      <point x="452" y="425" type="line"/>
+      <point x="404" y="486"/>
+      <point x="331" y="520"/>
+      <point x="240" y="520" type="curve" smooth="yes"/>
+      <point x="112" y="520"/>
+      <point x="28" y="453"/>
+      <point x="28" y="340.579" type="curve" smooth="yes"/>
+      <point x="28" y="236.996"/>
+      <point x="125.574" y="213.297"/>
+      <point x="205.315" y="193.929" type="curve" smooth="yes"/>
+      <point x="260.414" y="180.546"/>
+      <point x="307" y="169.231"/>
+      <point x="307" y="135.059" type="curve" smooth="yes"/>
+      <point x="307" y="114"/>
+      <point x="291" y="100"/>
+      <point x="247" y="100" type="curve" smooth="yes"/>
+      <point x="178" y="100"/>
+      <point x="94" y="134"/>
+      <point x="37" y="188" type="curve"/>
+    </contour>
+    <contour>
+      <point x="118" y="-205" type="line"/>
+      <point x="140" y="-211"/>
+      <point x="173" y="-218"/>
+      <point x="220" y="-218" type="curve" smooth="yes"/>
+      <point x="317" y="-218"/>
+      <point x="369" y="-192"/>
+      <point x="369" y="-133" type="curve" smooth="yes"/>
+      <point x="369" y="-87"/>
+      <point x="338" y="-64"/>
+      <point x="268" y="-64" type="curve"/>
+      <point x="315.224" y="19" type="line"/>
+      <point x="222.224" y="19" type="line"/>
+      <point x="157" y="-104" type="line"/>
+      <point x="172" y="-102"/>
+      <point x="190" y="-100"/>
+      <point x="204" y="-100" type="curve" smooth="yes"/>
+      <point x="237" y="-100"/>
+      <point x="256" y="-111"/>
+      <point x="256" y="-134" type="curve" smooth="yes"/>
+      <point x="256" y="-155"/>
+      <point x="240" y="-168"/>
+      <point x="211" y="-168" type="curve" smooth="yes"/>
+      <point x="193" y="-168"/>
+      <point x="158" y="-163"/>
+      <point x="138" y="-157" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>s.ss12+cedilla</string>
   </dict>

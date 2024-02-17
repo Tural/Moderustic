@@ -6,6 +6,7 @@
   <anchor x="480" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="398" y="0" type="line"/>
       <point x="835" y="0" type="line"/>
       <point x="835" y="130" type="line"/>
       <point x="564" y="130" type="line"/>
@@ -17,7 +18,6 @@
       <point x="820" y="570" type="line"/>
       <point x="820" y="700" type="line"/>
       <point x="398" y="700" type="line"/>
-      <point x="398" y="0" type="line"/>
     </contour>
     <contour>
       <point x="213" y="570" type="line"/>
@@ -32,10 +32,10 @@
       <point x="237" y="241" type="line"/>
     </contour>
     <contour>
-      <point x="234" y="700" type="line"/>
       <point x="7" y="0" type="line"/>
       <point x="181" y="0" type="line"/>
       <point x="382" y="700" type="line"/>
+      <point x="234" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4558f99fb85e52f880d7fa87086b45269353c39b407b37aa9ebf15d2444f57b32d84b0289b7de5525f08620326d11454a37aa112b97cee37ac8a1ae6040f5283</string>
+    <string>c9bfac71e6bcae7b3b9eb969a3ce95eaced041bf26e0a96bbec1c79235e962271e7a41dd181413d41a35ca2ecfb023d51bad0eb437e739d718dc27d569ddc6bf</string>
     <key>hintSetList</key>
     <array>
       <dict>

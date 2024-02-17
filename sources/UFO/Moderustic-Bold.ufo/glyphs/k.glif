@@ -6,14 +6,12 @@
   <anchor x="146" y="750" name="top"/>
   <outline>
     <contour>
+      <point x="64" y="0" type="line"/>
       <point x="229" y="0" type="line"/>
       <point x="229" y="750" type="line"/>
       <point x="64" y="750" type="line"/>
-      <point x="64" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="313" y="319" type="line" name="iv02"/>
-      <point x="119" y="319" type="line"/>
       <point x="120" y="199" type="line"/>
       <point x="306" y="199" type="line" name="iv01"/>
       <point x="399" y="0" type="line" name="ab02"/>
@@ -21,6 +19,8 @@
       <point x="446" y="265" type="line"/>
       <point x="571" y="500" type="line" name="av02"/>
       <point x="398" y="500" type="line"/>
+      <point x="313" y="319" type="line" name="iv02"/>
+      <point x="119" y="319" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w594m229,0l229,750l64,750l64,0m313,319l119,319l120,199l306,199l399,0l587,0l446,265l571,500l398,500</string>
+    <string>w594m64,0l229,0l229,750l64,750m120,199l306,199l399,0l587,0l446,265l571,500l398,500l313,319l119,319</string>
     <key>hintSetList</key>
     <array>
       <dict>

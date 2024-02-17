@@ -6,6 +6,7 @@
   <anchor x="256" y="700" name="topright"/>
   <outline>
     <contour>
+      <point x="94" y="0" type="line"/>
       <point x="214" y="0" type="line"/>
       <point x="214" y="410" type="line"/>
       <point x="324" y="410" type="line"/>
@@ -17,7 +18,6 @@
       <point x="19" y="500" type="line"/>
       <point x="19" y="410" type="line"/>
       <point x="94" y="410" type="line"/>
-      <point x="94" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

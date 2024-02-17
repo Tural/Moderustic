@@ -16,6 +16,9 @@
       <point x="413" y="322" type="curve" name="dv04"/>
     </contour>
     <contour>
+      <point x="456" y="145" type="line"/>
+      <point x="425.228" y="109.352"/>
+      <point x="376.588" y="90"/>
       <point x="318.022" y="90" type="curve" smooth="yes" name="sv01"/>
       <point x="229.676" y="90"/>
       <point x="186" y="134.336"/>
@@ -33,9 +36,6 @@
       <point x="405" y="-20"/>
       <point x="484" y="10"/>
       <point x="534" y="67" type="curve"/>
-      <point x="456" y="145" type="line"/>
-      <point x="425.228" y="109.352"/>
-      <point x="376.588" y="90"/>
     </contour>
   </outline>
   <lib>

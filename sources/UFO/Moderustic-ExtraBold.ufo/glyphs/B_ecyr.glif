@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="633"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="118" y="559" type="line"/>
+      <point x="545" y="559" type="line"/>
+      <point x="545" y="700" type="line"/>
+      <point x="85" y="700" type="line"/>
+      <point x="85" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="343" y="0" type="line" smooth="yes"/>
+      <point x="504" y="0"/>
+      <point x="594" y="93"/>
+      <point x="594" y="224" type="curve" smooth="yes"/>
+      <point x="594" y="354"/>
+      <point x="504" y="449"/>
+      <point x="343" y="449" type="curve" smooth="yes"/>
+      <point x="259" y="449" type="line"/>
+      <point x="259" y="700" type="line"/>
+      <point x="68" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="140" type="line"/>
+      <point x="259" y="308" type="line"/>
+      <point x="284" y="308" type="line" smooth="yes"/>
+      <point x="356" y="308"/>
+      <point x="403" y="298"/>
+      <point x="403" y="232" type="curve" smooth="yes"/>
+      <point x="403" y="165"/>
+      <point x="356" y="140"/>
+      <point x="284" y="140" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7a65bd7cb21f0fbca1f62229d4ec22c5f7349ff6a37d2e82f88fa30c11fc17adebe377b0ece987a809c0888b669082c74c504a73cb1a4d31af667cd17d04c042</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 140</string>
+          <string>hstem 308 141</string>
+          <string>hstem 559 141</string>
+          <string>vstem 67 191</string>
+          <string>vstem 402 191</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

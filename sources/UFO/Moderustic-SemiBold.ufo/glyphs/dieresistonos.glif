@@ -6,10 +6,10 @@
   <anchor x="166" y="500" name="_topgr"/>
   <outline>
     <contour>
-      <point x="150" y="713" type="line"/>
       <point x="119" y="546" type="line"/>
       <point x="183" y="546" type="line"/>
       <point x="234" y="713" type="line"/>
+      <point x="150" y="713" type="line"/>
     </contour>
     <contour>
       <point x="283.275" y="560.491" type="curve" smooth="yes"/>

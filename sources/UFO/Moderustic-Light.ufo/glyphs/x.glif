@@ -6,9 +6,6 @@
   <anchor x="287" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="71" y="500" type="line" name="av01"/>
-      <point x="242.17" y="236.42" type="line"/>
-      <point x="232.18" y="261.573" type="line"/>
       <point x="62" y="0" type="line" name="ab01"/>
       <point x="136" y="0" type="line"/>
       <point x="289" y="236" type="line" name="iv01"/>
@@ -21,6 +18,9 @@
       <point x="271.827" y="250.422" type="line" name="iv02"/>
       <point x="308.173" y="250.422" type="line"/>
       <point x="146" y="500" type="line"/>
+      <point x="71" y="500" type="line" name="av01"/>
+      <point x="242.17" y="236.42" type="line"/>
+      <point x="232.18" y="261.573" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -69,7 +69,7 @@
       <key>point2</key>
       <string>av01</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
     </dict>
     <dict>
       <key>code</key>
@@ -81,7 +81,7 @@
       <key>point2</key>
       <string>av01</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
     </dict>
   </array>
   </dict>

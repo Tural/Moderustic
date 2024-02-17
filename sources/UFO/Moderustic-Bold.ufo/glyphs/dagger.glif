@@ -4,6 +4,7 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
+      <point x="308" y="-104" type="line"/>
       <point x="396" y="-104" type="line"/>
       <point x="425" y="385" type="line"/>
       <point x="650" y="372" type="line"/>
@@ -15,7 +16,6 @@
       <point x="50" y="502" type="line"/>
       <point x="50" y="372" type="line"/>
       <point x="279" y="385" type="line"/>
-      <point x="308" y="-104" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w701m396,-104l425,385l650,372l650,502l427,489l432,696l273,696l277,488l50,502l50,372l279,385l308,-104</string>
+    <string>w701m308,-104l396,-104l425,385l650,372l650,502l427,489l432,696l273,696l277,488l50,502l50,372l279,385</string>
     <key>hintSetList</key>
     <array>
       <dict>

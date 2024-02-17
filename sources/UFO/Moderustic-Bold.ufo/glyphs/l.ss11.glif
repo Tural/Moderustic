@@ -6,22 +6,20 @@
   <anchor x="262" y="700" name="topright"/>
   <outline>
     <contour>
-      <point x="219" y="700" type="line"/>
-      <point x="54" y="700" type="line"/>
       <point x="54" y="0" type="line"/>
       <point x="219" y="0" type="line"/>
+      <point x="219" y="700" type="line"/>
+      <point x="54" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w272m219,700l54,700l54,0l219,0</string>
+    <string>w272m54,0l219,0l219,700l54,700</string>
     <key>hintSetList</key>
     <array>
       <dict>

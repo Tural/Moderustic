@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron.ss09" format="2">
+  <advance width="510"/>
+  <anchor x="260" y="-20" name="bottom"/>
+  <anchor x="245" y="722" name="top"/>
+  <outline>
+    <component base="s.ss09"/>
+    <component base="caron" xOffset="72" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s.ss09+caron</string>
+  </dict>
+  </lib>
+</glyph>

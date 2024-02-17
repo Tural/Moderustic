@@ -6,12 +6,14 @@
   <anchor x="146" y="950" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="circumflex" xOffset="-27" yOffset="250"/>
+    <component base="circumflexcomb" xOffset="-27" yOffset="250"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>h+circumflexcomb</string>
   </dict>
   </lib>
 </glyph>

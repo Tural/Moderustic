@@ -7,10 +7,10 @@
   <anchor x="190" y="-2" name="ogonek"/>
   <outline>
     <contour>
+      <point x="76" y="0" type="line"/>
       <point x="196" y="0" type="line"/>
       <point x="196" y="500" type="line"/>
       <point x="76" y="500" type="line"/>
-      <point x="76" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

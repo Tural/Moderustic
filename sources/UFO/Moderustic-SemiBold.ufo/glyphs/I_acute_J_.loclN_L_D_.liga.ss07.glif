@@ -10,6 +10,8 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>IJ.liga.ss07+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="880"/>
+  <unicode hex="00C6"/>
+  <anchor x="480" y="719" name="top"/>
+  <anchor x="480" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="825" y="0" type="line" name="ab01"/>
+      <point x="825" y="100" type="line" name="sv01"/>
+      <point x="524" y="100" type="line"/>
+      <point x="524" y="315" type="line" name="dv01"/>
+      <point x="785" y="315" type="line"/>
+      <point x="785" y="415" type="line"/>
+      <point x="524" y="415" type="line" name="dv02"/>
+      <point x="524" y="600" type="line" name="sv02"/>
+      <point x="810" y="600" type="line"/>
+      <point x="810" y="700" type="line" name="at01"/>
+      <point x="404" y="700" type="line"/>
+      <point x="404" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="600" type="line"/>
+      <point x="489" y="600" type="line"/>
+      <point x="490" y="700" type="line"/>
+      <point x="304" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="131" type="line" name="dv01"/>
+      <point x="504" y="131" type="line"/>
+      <point x="470" y="231" type="line" name="dv03"/>
+      <point x="172" y="231" type="line" name="dv02"/>
+    </contour>
+    <contour>
+      <point x="249" y="700" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="349" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

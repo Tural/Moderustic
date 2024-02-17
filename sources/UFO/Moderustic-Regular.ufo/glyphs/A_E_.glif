@@ -6,6 +6,7 @@
   <anchor x="480" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="414" y="0" type="line"/>
       <point x="815" y="0" type="line" name="ab01"/>
       <point x="815" y="80" type="line" name="sv01"/>
       <point x="504" y="80" type="line"/>
@@ -17,7 +18,6 @@
       <point x="801" y="620" type="line"/>
       <point x="801" y="700" type="line" name="at01"/>
       <point x="414" y="700" type="line"/>
-      <point x="414" y="0" type="line"/>
     </contour>
     <contour>
       <point x="270" y="620" type="line"/>
@@ -32,10 +32,10 @@
       <point x="172" y="221" type="line" name="dv02"/>
     </contour>
     <contour>
-      <point x="259" y="700" type="line"/>
       <point x="32" y="0" type="line"/>
       <point x="128" y="0" type="line"/>
       <point x="339" y="700" type="line"/>
+      <point x="259" y="700" type="line"/>
     </contour>
   </outline>
 </glyph>

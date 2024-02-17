@@ -5,14 +5,14 @@
   <anchor x="299" y="720" name="top"/>
   <outline>
     <component base="r.ss10"/>
-    <component base="acute" xOffset="159" yOffset="20"/>
+    <component base="acutecomb" xOffset="159" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>r.ss10+acute</string>
+  <string>r.ss10+acutecomb</string>
   </dict>
   </lib>
 </glyph>

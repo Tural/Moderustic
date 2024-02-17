@@ -71,7 +71,7 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Moderustic</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Semi Bold</string>
+  <string>SemiBold</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -167,58 +167,27 @@
   <array>
     <integer>-20</integer>
     <integer>0</integer>
-    <integer>500</integer>
-    <integer>520</integer>
-    <integer>700</integer>
-    <integer>720</integer>
   </array>
   <key>postscriptFontName</key>
   <string>Moderustic-SemiBold</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Moderustic Semi Bold</string>
+  <string>Moderustic SemiBold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-220</integer>
-    <integer>-200</integer>
-  </array>
-  <key>postscriptStemSnapH</key>
-  <array>
-    <integer>110</integer>
-    <integer>80</integer>
-    <integer>100</integer>
-    <integer>120</integer>
-    <integer>151</integer>
-    <integer>170</integer>
-    <integer>76</integer>
-    <integer>187</integer>
-  </array>
-  <key>postscriptStemSnapV</key>
-  <array>
-    <integer>165</integer>
-    <integer>117</integer>
-    <integer>142</integer>
-    <integer>177</integer>
-    <integer>145</integer>
-    <integer>100</integer>
-    <integer>120</integer>
-    <integer>158</integer>
-  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-75</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Semi Bold</string>
+  <string>SemiBold</string>
   <key>styleMapFamilyName</key>
   <string>Moderustic SemBd</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Semi Bold</string>
+  <string>SemiBold</string>
   <key>trademark</key>
   <string>Moderustic is a trademark of TAFT Foundry.
 </string>
@@ -227,7 +196,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

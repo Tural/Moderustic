@@ -5,10 +5,10 @@
   <outline>
     <component base="period" xOffset="7" yOffset="381"/>
     <contour>
-      <point x="185" y="119" type="line"/>
-      <point x="91" y="119" type="line"/>
       <point x="-18" y="-149" type="line"/>
       <point x="113" y="-149" type="line"/>
+      <point x="185" y="119" type="line"/>
+      <point x="91" y="119" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w277m185,119l91,119l-18,-149l113,-149</string>
+    <string>w277m-18,-149l113,-149l185,119l91,119</string>
     <key>hintSetList</key>
     <array>
       <dict>

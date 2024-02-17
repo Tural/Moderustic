@@ -6,6 +6,7 @@
   <anchor x="324" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="78" y="0" type="line"/>
       <point x="198" y="0" type="line" name="ab01"/>
       <point x="198" y="600" type="line" name="sv01"/>
       <point x="308" y="600" type="line" smooth="yes"/>
@@ -25,13 +26,12 @@
       <point x="504" y="700"/>
       <point x="348" y="700" type="curve" smooth="yes" name="at01"/>
       <point x="78" y="700" type="line"/>
-      <point x="78" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="339" y="281" type="line"/>
       <point x="482" y="0" type="line" name="ab02"/>
       <point x="617" y="0" type="line"/>
       <point x="447" y="333" type="line"/>
+      <point x="339" y="281" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -82,7 +82,7 @@
       <key>stem</key>
       <string>100</string>
       <key>align</key>
-      <string>left</string>
+      <string>right</string>
     </dict>
   </array>
   </dict>

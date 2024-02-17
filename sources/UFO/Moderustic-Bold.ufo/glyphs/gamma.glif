@@ -11,7 +11,8 @@
       <point x="341" y="-12" type="line"/>
       <point x="538" y="500" type="line"/>
       <point x="360" y="500" type="line"/>
-      <point x="272" y="215" type="line"/>
+      <point x="267.575" y="200.668" type="line"/>
+      <point x="276.471" y="200.682" type="line"/>
       <point x="183" y="500" type="line"/>
       <point x="5" y="500" type="line"/>
       <point x="202" y="-12" type="line"/>
@@ -25,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w543m189,-200l354,-200l354,80l341,-12l538,500l360,500l272,215l183,500l5,500l202,-12l189,80</string>
+    <string>w543m189,-200l354,-200l354,80l341,-12l538,500l360,500l267.57,200.67l276.47,200.68l183,500l5,500l202,-12l189,80</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softcyr.loclBGR" format="2">
+  <advance width="536"/>
+  <anchor x="268" y="-20" name="bottom"/>
+  <anchor x="268" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="284.668" y="70" type="curve" smooth="yes"/>
+      <point x="225.668" y="70"/>
+      <point x="199.623" y="98.5137"/>
+      <point x="199.668" y="146.037" type="curve" smooth="yes"/>
+      <point x="200" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="79.6679" y="153.68" type="line" smooth="yes"/>
+      <point x="79.5662" y="47.6"/>
+      <point x="144.746" y="-20"/>
+      <point x="279.873" y="-20" type="curve" smooth="yes"/>
+      <point x="415" y="-20"/>
+      <point x="486" y="49"/>
+      <point x="486" y="157.277" type="curve" smooth="yes"/>
+      <point x="486" y="262.369"/>
+      <point x="415" y="325"/>
+      <point x="297" y="325" type="curve" smooth="yes"/>
+      <point x="115" y="325" type="line"/>
+      <point x="115" y="235" type="line"/>
+      <point x="282" y="235" type="line" smooth="yes"/>
+      <point x="341" y="235"/>
+      <point x="366" y="204.062"/>
+      <point x="366" y="152.5" type="curve" smooth="yes"/>
+      <point x="366" y="103"/>
+      <point x="333.467" y="70"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

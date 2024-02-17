@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="167"/>
+  <unicode hex="0384"/>
+  <anchor x="62" y="500" name="_topgr"/>
+  <anchor x="46" y="699" name="topgr"/>
+  <outline>
+    <component base="tonos.case"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>tonos.case</string>
+  </dict>
+  </lib>
+</glyph>

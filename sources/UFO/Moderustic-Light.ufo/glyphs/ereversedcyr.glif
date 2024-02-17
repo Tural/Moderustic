@@ -6,12 +6,15 @@
   <anchor x="281" y="520" name="top"/>
   <outline>
     <contour>
-      <point x="453" y="230" type="line"/>
       <point x="189" y="230" type="line"/>
       <point x="189" y="274" type="line"/>
       <point x="453" y="274" type="line"/>
+      <point x="453" y="230" type="line"/>
     </contour>
     <contour>
+      <point x="105" y="106" type="line"/>
+      <point x="151" y="50"/>
+      <point x="209" y="31"/>
       <point x="272" y="31" type="curve" smooth="yes" name="dv02"/>
       <point x="387" y="31"/>
       <point x="442" y="105"/>
@@ -35,9 +38,6 @@
       <point x="181" y="-20"/>
       <point x="109" y="17"/>
       <point x="69" y="70" type="curve"/>
-      <point x="105" y="106" type="line"/>
-      <point x="151" y="50"/>
-      <point x="209" y="31"/>
     </contour>
   </outline>
 </glyph>

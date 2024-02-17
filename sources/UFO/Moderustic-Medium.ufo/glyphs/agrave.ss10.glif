@@ -6,14 +6,14 @@
   <anchor x="254" y="720" name="top"/>
   <outline>
     <component base="a.ss10"/>
-    <component base="grave" xOffset="106" yOffset="20"/>
+    <component base="gravecomb" xOffset="106" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>a.ss10+grave</string>
+  <string>a.ss10+gravecomb</string>
   </dict>
   </lib>
 </glyph>

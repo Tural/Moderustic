@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aeacute.ss13" format="2">
   <advance width="887"/>
+  <anchor x="448" y="-0" name="bottom"/>
+  <anchor x="464" y="700" name="top"/>
   <outline>
-    <component base="ae.ss13" xOffset="-5"/>
-    <component base="acute" xOffset="311"/>
+    <component base="ae.ss13"/>
+    <component base="acutecomb" xOffset="322"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ae.ss13+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

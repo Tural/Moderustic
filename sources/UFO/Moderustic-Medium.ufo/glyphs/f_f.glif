@@ -4,7 +4,6 @@
   <unicode hex="FB00"/>
   <outline>
     <contour>
-      <point x="124" y="410" type="line" name="dv03"/>
       <point x="124" y="0" type="line" name="ab01"/>
       <point x="244" y="0" type="line"/>
       <point x="244" y="410" type="line" name="sv01"/>
@@ -28,9 +27,9 @@
       <point x="124" y="500" type="line" name="dv04"/>
       <point x="32" y="500" type="line"/>
       <point x="32" y="410" type="line"/>
+      <point x="124" y="410" type="line" name="dv03"/>
     </contour>
     <contour>
-      <point x="501" y="410" type="line" name="dv03"/>
       <point x="501" y="0" type="line" name="ab01"/>
       <point x="621" y="0" type="line"/>
       <point x="621" y="410" type="line" name="sv01"/>
@@ -54,6 +53,7 @@
       <point x="501" y="500" type="line" name="dv04"/>
       <point x="339" y="500" type="line"/>
       <point x="339" y="410" type="line"/>
+      <point x="501" y="410" type="line" name="dv03"/>
     </contour>
   </outline>
   <lib>

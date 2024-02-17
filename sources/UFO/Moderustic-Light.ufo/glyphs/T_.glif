@@ -6,14 +6,14 @@
   <anchor x="324" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="51" y="700" type="line" name="at01"/>
-      <point x="51" y="646" type="line" name="sv01"/>
-      <point x="294" y="646" type="line"/>
       <point x="294" y="0" type="line" name="ab01"/>
       <point x="354" y="0" type="line"/>
       <point x="354" y="646" type="line" name="sv02"/>
       <point x="597" y="646" type="line" name="sv03"/>
       <point x="597" y="700" type="line"/>
+      <point x="51" y="700" type="line" name="at01"/>
+      <point x="51" y="646" type="line" name="sv01"/>
+      <point x="294" y="646" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
       <key>stem</key>
       <string>100</string>
       <key>align</key>
-      <string>left</string>
+      <string>round</string>
     </dict>
     <dict>
       <key>code</key>
@@ -56,7 +56,7 @@
       <key>point2</key>
       <string>sv02</string>
       <key>align</key>
-      <string>round</string>
+      <string>right</string>
     </dict>
     <dict>
       <key>code</key>
@@ -66,7 +66,7 @@
       <key>point2</key>
       <string>sv03</string>
       <key>align</key>
-      <string>round</string>
+      <string>center</string>
     </dict>
   </array>
   </dict>

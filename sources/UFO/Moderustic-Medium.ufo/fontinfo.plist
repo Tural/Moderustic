@@ -167,10 +167,6 @@
   <array>
     <integer>-20</integer>
     <integer>0</integer>
-    <integer>500</integer>
-    <integer>520</integer>
-    <integer>700</integer>
-    <integer>720</integer>
   </array>
   <key>postscriptFontName</key>
   <string>Moderustic-Medium</string>
@@ -180,36 +176,6 @@
   <string>Moderustic Medium</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-220</integer>
-    <integer>-200</integer>
-  </array>
-  <key>postscriptStemSnapH</key>
-  <array>
-    <integer>110</integer>
-    <integer>80</integer>
-    <integer>100</integer>
-    <integer>120</integer>
-    <integer>151</integer>
-    <integer>170</integer>
-    <integer>90</integer>
-    <integer>72</integer>
-    <integer>124</integer>
-    <integer>187</integer>
-  </array>
-  <key>postscriptStemSnapV</key>
-  <array>
-    <integer>165</integer>
-    <integer>117</integer>
-    <integer>142</integer>
-    <integer>177</integer>
-    <integer>120</integer>
-    <integer>24</integer>
-    <integer>93</integer>
-    <integer>109</integer>
-    <integer>129</integer>
-  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-75</integer>
   <key>postscriptUnderlineThickness</key>
@@ -230,7 +196,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>

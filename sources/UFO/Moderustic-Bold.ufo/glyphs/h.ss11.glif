@@ -11,14 +11,6 @@
       <point x="59" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="212" y="278" type="line"/>
-      <point x="224" y="217" type="line"/>
-      <point x="224" y="312"/>
-      <point x="260" y="396"/>
-      <point x="337" y="396" type="curve" smooth="yes"/>
-      <point x="383" y="396"/>
-      <point x="411" y="367"/>
-      <point x="411" y="272" type="curve" smooth="yes"/>
       <point x="411" y="0" type="line"/>
       <point x="576" y="0" type="line"/>
       <point x="576" y="304" type="line" smooth="yes"/>
@@ -28,18 +20,24 @@
       <point x="291" y="520"/>
       <point x="227" y="428"/>
       <point x="210" y="350" type="curve"/>
+      <point x="212" y="278" type="line"/>
+      <point x="224" y="217" type="line"/>
+      <point x="224" y="312"/>
+      <point x="260" y="396"/>
+      <point x="337" y="396" type="curve" smooth="yes"/>
+      <point x="383" y="396"/>
+      <point x="411" y="367"/>
+      <point x="411" y="272" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>44e063dcc86cffda435512a0199556732af3e95d21b5bd43d276b277562dfb86c1041808255836e81e4ca774ef62c8bed4ebc6b75333302d6ea591d75b9e3072</string>
+    <string>c368fcf1fd8befcb7c5b741c4d00c9aaaaf48fcb67d2157fbf70f0c8ee3265b81f19f601015c4a698d3a6b865dfa6356d3b3269a5e57be8c9d903c09b4f894c4</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="austral" format="2">
+  <advance width="718"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <component base="Elcyr.ss08" xOffset="31.5"/>
+    <contour>
+      <point x="13" y="129" type="line"/>
+      <point x="705" y="129" type="line"/>
+      <point x="705" y="200" type="line"/>
+      <point x="13" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="268" type="line"/>
+      <point x="705" y="268" type="line"/>
+      <point x="705" y="339" type="line"/>
+      <point x="13" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w718m13,129l705,129l705,200l13,200m13,268l705,268l705,339l13,339</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 226</string>
+          <string>hstem 163 63</string>
+          <string>hstem 302 63</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

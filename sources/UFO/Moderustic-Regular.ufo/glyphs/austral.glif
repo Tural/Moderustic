@@ -3,7 +3,6 @@
   <advance width="718"/>
   <unicode hex="20B3"/>
   <outline>
-    <component base="Elcyr.ss08" xOffset="31.5"/>
     <contour>
       <point x="13" y="148" type="line"/>
       <point x="705" y="148" type="line"/>
@@ -15,6 +14,18 @@
       <point x="705" y="287" type="line"/>
       <point x="705" y="330" type="line"/>
       <point x="13" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="373.5" y="700" type="line"/>
+      <point x="290.5" y="700" type="line"/>
+      <point x="63.5" y="0" type="line"/>
+      <point x="159.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="427.5" y="700" type="line"/>
+      <point x="344.5" y="700" type="line"/>
+      <point x="558.5" y="0" type="line"/>
+      <point x="654.5" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

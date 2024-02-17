@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve.ss03" format="2">
+  <advance width="773"/>
+  <anchor x="398" y="-19" name="bottom"/>
+  <anchor x="387" y="899" name="top"/>
+  <outline>
+    <component base="G.ss03"/>
+    <component base="breve.case" xOffset="219" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G.ss03+breve.case</string>
+  </dict>
+  </lib>
+</glyph>

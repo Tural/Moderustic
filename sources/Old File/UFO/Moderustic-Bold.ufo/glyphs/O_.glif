@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+  <advance width="795"/>
+  <unicode hex="004F"/>
+  <anchor x="398" y="719" name="top"/>
+  <anchor x="398" y="-20" name="bottom"/>
+  <anchor x="522" y="-1" name="ogonek"/>
+  <anchor x="-4" y="500" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="398.992" y="111" type="curve" smooth="yes"/>
+      <point x="281.605" y="111"/>
+      <point x="206" y="210"/>
+      <point x="206" y="353" type="curve" smooth="yes"/>
+      <point x="206" y="498"/>
+      <point x="275.636" y="589"/>
+      <point x="395.013" y="589" type="curve" smooth="yes"/>
+      <point x="515.384" y="589"/>
+      <point x="589" y="493"/>
+      <point x="589" y="346" type="curve" smooth="yes"/>
+      <point x="589" y="204"/>
+      <point x="517.374" y="111"/>
+    </contour>
+    <contour>
+      <point x="38" y="350" type="curve" smooth="yes"/>
+      <point x="38" y="142"/>
+      <point x="178" y="-20"/>
+      <point x="397" y="-20" type="curve" smooth="yes"/>
+      <point x="621" y="-20"/>
+      <point x="757" y="144"/>
+      <point x="757" y="350" type="curve" smooth="yes"/>
+      <point x="757" y="557"/>
+      <point x="616" y="720"/>
+      <point x="398" y="720" type="curve" smooth="yes"/>
+      <point x="180" y="720"/>
+      <point x="38" y="560"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7940bea873cf7101c5c662d054515ec941c7bc5bb3bb347aac26f07a249a24aa4ee8f7c9510189e45ad06b9a523a32fbd72b52b5b7ddb5ad0e31ce2df2959cbc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 121</string>
+          <string>hstem 599 121</string>
+          <string>vstem 23 167</string>
+          <string>vstem 605 167</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

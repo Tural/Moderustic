@@ -6,19 +6,12 @@
   <anchor x="136" y="750" name="top"/>
   <outline>
     <contour>
+      <point x="104" y="0" type="line" name="ab03"/>
       <point x="164" y="0" type="line"/>
       <point x="164" y="750" type="line" name="ab01"/>
       <point x="104" y="750" type="line"/>
-      <point x="104" y="0" type="line" name="ab03"/>
     </contour>
     <contour>
-      <point x="164" y="237" type="line" name="iv01"/>
-      <point x="164" y="383"/>
-      <point x="232" y="469"/>
-      <point x="350" y="469" type="curve" smooth="yes" name="sv01"/>
-      <point x="429" y="469"/>
-      <point x="471" y="431"/>
-      <point x="471" y="307" type="curve" smooth="yes"/>
       <point x="471" y="0" type="line" name="ab01"/>
       <point x="531" y="0" type="line"/>
       <point x="531" y="314" type="line" smooth="yes"/>
@@ -29,6 +22,13 @@
       <point x="168" y="435"/>
       <point x="160" y="327" type="curve"/>
       <point x="161" y="277" type="line"/>
+      <point x="164" y="237" type="line" name="iv01"/>
+      <point x="164" y="383"/>
+      <point x="232" y="469"/>
+      <point x="350" y="469" type="curve" smooth="yes" name="sv01"/>
+      <point x="429" y="469"/>
+      <point x="471" y="431"/>
+      <point x="471" y="307" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -5,12 +5,14 @@
   <anchor x="284" y="919" name="top"/>
   <outline>
     <component base="J.ss07"/>
-    <component base="acute" xOffset="145" yOffset="219"/>
+    <component base="acutecomb" xOffset="145" yOffset="219"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>J.ss07+acute</string>
+  <string>J.ss07+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

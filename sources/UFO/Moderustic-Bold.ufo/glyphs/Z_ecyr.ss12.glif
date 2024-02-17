@@ -5,6 +5,10 @@
   <anchor x="299" y="719" name="top"/>
   <outline>
     <contour>
+      <point x="53.6165" y="205.974" type="curve"/>
+      <point x="43.8525" y="94.8263" type="line"/>
+      <point x="95.93" y="28.3554"/>
+      <point x="211.023" y="-21"/>
       <point x="309.748" y="-21" type="curve" smooth="yes"/>
       <point x="466.597" y="-21"/>
       <point x="567.5" y="65"/>
@@ -40,10 +44,6 @@
       <point x="293.341" y="110" type="curve" smooth="yes"/>
       <point x="232.588" y="110"/>
       <point x="132.88" y="147.367"/>
-      <point x="53.6165" y="205.974" type="curve"/>
-      <point x="43.8525" y="94.8263" type="line"/>
-      <point x="95.93" y="28.3554"/>
-      <point x="211.023" y="-21"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7546eea258ee2f7e45a9946a937b928feb2aa7cb91122200591f297d854333b788b5e25ada690be7b6ce4a11edce080e944259d9d957aedf4174fecf0ad0806e</string>
+    <string>4bf392ce639275a5f4717244b4b673fa3eb33a12b44cc079e4c5d894d2aafe2a75e8d1a66609f456f184a79b5a5050fe1e31ed4721cf32080ff97b7a31f15ef6</string>
     <key>hintSetList</key>
     <array>
       <dict>

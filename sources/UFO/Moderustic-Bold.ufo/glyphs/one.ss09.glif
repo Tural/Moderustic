@@ -3,6 +3,9 @@
   <advance width="544"/>
   <outline>
     <contour>
+      <point x="196.5" y="0" type="line"/>
+      <point x="361.5" y="0" type="line"/>
+      <point x="362" y="700" type="line"/>
       <point x="202" y="700" type="line"/>
       <point x="202" y="616"/>
       <point x="144.2" y="560"/>
@@ -11,9 +14,6 @@
       <point x="141.2" y="430"/>
       <point x="197" y="471.2"/>
       <point x="197" y="533" type="curve"/>
-      <point x="196.5" y="0" type="line"/>
-      <point x="361.5" y="0" type="line"/>
-      <point x="362" y="700" type="line"/>
     </contour>
     <contour>
       <point x="42" y="0" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w544m202,700c202,616 144.2,560 42.5,560l42.5,430c141.2,430 197,471.2 197,533l196.5,0l361.5,0l362,700m42,0l502,0l502,130l42,130</string>
+    <string>w544m196.5,0l361.5,0l362,700l202,700c202,616 144.2,560 42.5,560l42.5,430c141.2,430 197,471.2 197,533m42,0l502,0l502,130l42,130</string>
     <key>hintSetList</key>
     <array>
       <dict>

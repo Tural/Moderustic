@@ -6,9 +6,6 @@
   <anchor x="286" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="291" y="80" type="curve" smooth="yes"/>
-      <point x="218" y="80"/>
-      <point x="160" y="113.363"/>
       <point x="109" y="172" type="curve"/>
       <point x="38" y="101" type="line"/>
       <point x="102" y="21"/>
@@ -44,6 +41,9 @@
       <point x="434" y="188.169" type="curve" smooth="yes"/>
       <point x="434" y="125.07"/>
       <point x="377" y="80"/>
+      <point x="291" y="80" type="curve" smooth="yes"/>
+      <point x="218" y="80"/>
+      <point x="160" y="113.363"/>
     </contour>
   </outline>
 </glyph>

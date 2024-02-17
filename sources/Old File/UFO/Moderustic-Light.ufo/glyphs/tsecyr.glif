@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr" format="2">
+  <advance width="686"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="531" y="0" type="line" smooth="yes"/>
+      <point x="598" y="0"/>
+      <point x="584" y="-61"/>
+      <point x="584" y="-140" type="curve"/>
+      <point x="640" y="-140" type="line"/>
+      <point x="640" y="18"/>
+      <point x="619" y="48"/>
+      <point x="519" y="48" type="curve"/>
+      <point x="519" y="500" type="line"/>
+      <point x="459" y="500" type="line"/>
+      <point x="459" y="50" type="line"/>
+      <point x="160" y="50" type="line"/>
+      <point x="160" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

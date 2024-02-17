@@ -6,15 +6,18 @@
   <anchor x="415" y="-3" name="ogonek"/>
   <outline>
     <contour>
-      <point x="195" y="322" type="curve"/>
       <point x="411" y="322" type="line"/>
       <point x="411" y="371"/>
       <point x="366" y="400"/>
       <point x="306" y="400" type="curve" smooth="yes"/>
       <point x="246" y="400"/>
       <point x="195" y="371"/>
+      <point x="195" y="322" type="curve"/>
     </contour>
     <contour>
+      <point x="195" y="228" type="line"/>
+      <point x="195" y="137.291"/>
+      <point x="232" y="100"/>
       <point x="304" y="100" type="curve" smooth="yes"/>
       <point x="360" y="100"/>
       <point x="394" y="124"/>
@@ -32,21 +35,16 @@
       <point x="477" y="520"/>
       <point x="570" y="406"/>
       <point x="568" y="228" type="curve"/>
-      <point x="195" y="228" type="line"/>
-      <point x="195" y="137.291"/>
-      <point x="232" y="100"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7fbeed8f85e53ca7882ee4d0c914b82a2cfdd3d013a6da8d54ca1d99ba914e43a9bfb67646dace899aa5c7c1f123e66e557da4d145062411c5bd1f245478d2c7</string>
+    <string>152105c6d74e8734bc9ce8b517ac283c7fac18c093cd271d6ed18a011c22e02fe620bba47ae7e29150db85ed983faa0779eb25d790be45b5e6994765dbaf384d</string>
     <key>hintSetList</key>
     <array>
       <dict>

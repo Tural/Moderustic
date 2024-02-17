@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+  <advance width="701"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="396" y="-104" type="line"/>
+      <point x="425" y="385" type="line"/>
+      <point x="650" y="372" type="line"/>
+      <point x="650" y="502" type="line"/>
+      <point x="427" y="489" type="line"/>
+      <point x="432" y="696" type="line"/>
+      <point x="273" y="696" type="line"/>
+      <point x="277" y="488" type="line"/>
+      <point x="50" y="502" type="line"/>
+      <point x="50" y="372" type="line"/>
+      <point x="279" y="385" type="line"/>
+      <point x="308" y="-104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w701m396,-104l425,385l650,372l650,502l427,489l432,696l273,696l277,488l50,502l50,372l279,385l308,-104</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -83 -21</string>
+          <string>hstem 405 62</string>
+          <string>hstem 696 -20</string>
+          <string>vstem 282 141</string>
+          <string>vstem 301 103</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -2,13 +2,37 @@
 <glyph name="hardcyr.loclBGR" format="2">
   <advance width="600"/>
   <outline>
-    <component base="softcyr.loclBGR" xOffset="64"/>
     <contour>
-      <point x="21" y="500" type="line"/>
+      <point x="179" y="235" type="line"/>
+      <point x="346" y="235" type="line" smooth="yes"/>
+      <point x="405" y="235"/>
+      <point x="430" y="204.062"/>
+      <point x="430" y="152.5" type="curve" smooth="yes"/>
+      <point x="430" y="103"/>
+      <point x="397.467" y="70"/>
+      <point x="348.668" y="70" type="curve" smooth="yes"/>
+      <point x="289.668" y="70"/>
+      <point x="263.623" y="98.5137"/>
+      <point x="263.668" y="146.037" type="curve" smooth="yes"/>
+      <point x="264" y="500" type="line"/>
+      <point x="144" y="500" type="line"/>
+      <point x="143.668" y="153.68" type="line" smooth="yes"/>
+      <point x="143.566" y="47.6"/>
+      <point x="208.746" y="-20"/>
+      <point x="343.873" y="-20" type="curve" smooth="yes"/>
+      <point x="479" y="-20"/>
+      <point x="550" y="49"/>
+      <point x="550" y="157.277" type="curve" smooth="yes"/>
+      <point x="550" y="262.369"/>
+      <point x="479" y="325"/>
+      <point x="361" y="325" type="curve" smooth="yes"/>
+      <point x="179" y="325" type="line"/>
+    </contour>
+    <contour>
       <point x="21" y="410" type="line"/>
       <point x="179" y="410" type="line"/>
-      <point x="212" y="496" type="line"/>
       <point x="212" y="500" type="line"/>
+      <point x="21" y="500" type="line"/>
     </contour>
   </outline>
   <lib>

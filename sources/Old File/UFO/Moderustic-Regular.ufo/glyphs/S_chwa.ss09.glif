@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa.ss09" format="2">
+  <advance width="779"/>
+  <anchor x="390" y="719" name="top"/>
+  <anchor x="390" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="395.248" y="720" type="curve" smooth="yes" name="dv04"/>
+      <point x="224.114" y="720"/>
+      <point x="128.038" y="637"/>
+      <point x="79" y="485" type="curve"/>
+      <point x="169" y="485" type="line"/>
+      <point x="201.964" y="584"/>
+      <point x="283.874" y="640"/>
+      <point x="391.757" y="640" type="curve" smooth="yes" name="dv03"/>
+      <point x="551.582" y="640"/>
+      <point x="625.5" y="540.829"/>
+      <point x="625.5" y="349.499" type="curve" smooth="yes"/>
+      <point x="625.5" y="167.185"/>
+      <point x="538.5" y="60"/>
+      <point x="391.5" y="60" type="curve" smooth="yes" name="dv02"/>
+      <point x="252.5" y="60"/>
+      <point x="153.5" y="153"/>
+      <point x="153.5" y="318" type="curve" name="sh02"/>
+      <point x="639" y="318" type="line" name="dv05"/>
+      <point x="638" y="398" type="line" name="dv06"/>
+      <point x="67" y="398" type="line" name="sh04"/>
+      <point x="65.25" y="383"/>
+      <point x="63.5" y="362"/>
+      <point x="63.5" y="347" type="curve" smooth="yes" name="sh01"/>
+      <point x="63.5" y="125"/>
+      <point x="193.5" y="-20"/>
+      <point x="390.5" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="587.5" y="-20"/>
+      <point x="715.5" y="121"/>
+      <point x="715.5" y="350" type="curve" smooth="yes" name="sh03"/>
+      <point x="715.5" y="573"/>
+      <point x="602.411" y="720"/>
+    </contour>
+  </outline>
+</glyph>

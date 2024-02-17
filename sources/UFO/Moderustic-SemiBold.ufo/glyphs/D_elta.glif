@@ -10,16 +10,16 @@
       <point x="187" y="120" type="line" name="dv02"/>
     </contour>
     <contour>
-      <point x="244" y="700" type="line"/>
       <point x="17" y="0" type="line"/>
       <point x="170" y="0" type="line"/>
       <point x="371" y="700" type="line"/>
+      <point x="244" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="284" y="700" type="line"/>
       <point x="485" y="0" type="line"/>
       <point x="638" y="0" type="line"/>
       <point x="411" y="700" type="line"/>
+      <point x="284" y="700" type="line"/>
     </contour>
   </outline>
   <lib>

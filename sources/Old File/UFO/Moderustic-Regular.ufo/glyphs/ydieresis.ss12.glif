@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.ss12" format="2">
+  <advance width="615"/>
+  <anchor x="541" y="-59" name="bottom"/>
+  <anchor x="308" y="667" name="top"/>
+  <outline>
+    <component base="y.ss12"/>
+    <component base="dieresis" xOffset="104" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y.ss12+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

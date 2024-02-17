@@ -7,10 +7,10 @@
   <anchor x="212" y="-3" name="ogonek"/>
   <outline>
     <contour>
+      <point x="54" y="0" type="line"/>
       <point x="219" y="0" type="line"/>
       <point x="219" y="500" type="line"/>
       <point x="54" y="500" type="line"/>
-      <point x="54" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w272m219,0l219,500l54,500l54,0</string>
+    <string>w272m54,0l219,0l219,500l54,500</string>
     <key>hintSetList</key>
     <array>
       <dict>

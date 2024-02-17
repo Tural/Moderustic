@@ -6,29 +6,12 @@
   <anchor x="166" y="500" name="_topgr"/>
   <outline>
     <contour>
-      <point x="24" y="602" type="curve" smooth="yes"/>
-      <point x="24" y="584"/>
-      <point x="37" y="564"/>
-      <point x="63" y="564" type="curve" smooth="yes" name="dv01"/>
-      <point x="89" y="564"/>
-      <point x="101" y="583"/>
-      <point x="101" y="602" type="curve" smooth="yes"/>
-      <point x="101" y="621"/>
-      <point x="89" y="639"/>
-      <point x="63" y="639" type="curve" smooth="yes" name="dv02"/>
-      <point x="37" y="639"/>
-      <point x="24" y="620"/>
-    </contour>
-    <contour>
       <point x="134" y="556" type="line"/>
       <point x="170" y="556" type="line"/>
       <point x="220" y="710" type="line"/>
       <point x="164" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="234" y="602" type="curve" smooth="yes"/>
-      <point x="234" y="584"/>
-      <point x="247" y="564"/>
       <point x="273" y="564" type="curve" smooth="yes" name="dv01"/>
       <point x="299" y="564"/>
       <point x="311" y="583"/>
@@ -38,6 +21,23 @@
       <point x="273" y="639" type="curve" smooth="yes" name="dv02"/>
       <point x="247" y="639"/>
       <point x="234" y="620"/>
+      <point x="234" y="602" type="curve" smooth="yes"/>
+      <point x="234" y="584"/>
+      <point x="247" y="564"/>
+    </contour>
+    <contour>
+      <point x="63" y="564" type="curve" smooth="yes" name="dv01"/>
+      <point x="89" y="564"/>
+      <point x="101" y="583"/>
+      <point x="101" y="602" type="curve" smooth="yes"/>
+      <point x="101" y="621"/>
+      <point x="89" y="639"/>
+      <point x="63" y="639" type="curve" smooth="yes" name="dv02"/>
+      <point x="37" y="639"/>
+      <point x="24" y="620"/>
+      <point x="24" y="602" type="curve" smooth="yes"/>
+      <point x="24" y="584"/>
+      <point x="37" y="564"/>
     </contour>
   </outline>
 </glyph>

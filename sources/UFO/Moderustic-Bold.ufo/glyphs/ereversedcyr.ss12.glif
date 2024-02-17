@@ -33,10 +33,10 @@
       <point x="49" y="190" type="curve"/>
     </contour>
     <contour>
-      <point x="430" y="299" type="line"/>
-      <point x="156" y="299" type="line"/>
       <point x="156" y="203" type="line"/>
       <point x="430" y="203" type="line"/>
+      <point x="430" y="299" type="line"/>
+      <point x="156" y="299" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c6ac563ab34d06e586fb1da9f92e026675c6629b1bbb29f78f3795afa71ffaa24bca388b13ef0f9371850fd46ebd25b18b42347752543402a6e247d2ab31332c</string>
+    <string>4c337ab7a417afc3ea5fadb456487e783bab42604403f6b5bed61de7656f97585c2ac559877156bf8db5dfc16247a5496acfe89a781e28f8741c9060ede37847</string>
     <key>hintSetList</key>
     <array>
       <dict>

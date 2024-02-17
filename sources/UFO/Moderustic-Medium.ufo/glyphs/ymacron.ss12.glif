@@ -5,14 +5,14 @@
   <anchor x="309" y="660" name="top"/>
   <outline>
     <component base="y.ss12"/>
-    <component base="macron" xOffset="129" yOffset="20"/>
+    <component base="macroncomb" xOffset="129" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>y.ss12+macron</string>
+  <string>y.ss12+macroncomb</string>
   </dict>
   </lib>
 </glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr.loclBGR" format="2">
+  <advance width="634"/>
+  <anchor x="317" y="520" name="top"/>
+  <anchor x="312" y="-220" name="bottom"/>
+  <outline>
+    <component base="g"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

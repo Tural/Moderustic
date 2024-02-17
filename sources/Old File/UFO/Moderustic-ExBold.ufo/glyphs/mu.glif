@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="2">
+  <advance width="600"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <component base="Micro"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Micro</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="525"/>
+  <unicode hex="0442"/>
+  <anchor x="262" y="-20" name="bottom"/>
+  <anchor x="263" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="168" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="370" type="line"/>
+      <point x="509" y="370" type="line"/>
+      <point x="509" y="500" type="line"/>
+      <point x="17" y="500" type="line"/>
+      <point x="17" y="370" type="line"/>
+      <point x="168" y="370" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w525m168,0l358,0l358,370l509,370l509,500l17,500l17,370l168,370</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 370 130</string>
+          <string>vstem 168 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

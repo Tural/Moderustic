@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dz" format="2">
+  <advance width="1118"/>
+  <unicode hex="01F3"/>
+  <anchor x="876" y="520" name="top"/>
+  <anchor x="876" y="-20" name="bottom"/>
+  <anchor x="560" y="750" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="635"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d_z</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

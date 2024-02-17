@@ -6,10 +6,10 @@
   <anchor x="138" y="500" name="_top"/>
   <outline>
     <contour>
+      <point x="199" y="551" type="line"/>
       <point x="275" y="551" type="line"/>
       <point x="375" y="702" type="line"/>
       <point x="259" y="702" type="line"/>
-      <point x="199" y="551" type="line"/>
     </contour>
     <contour>
       <point x="11" y="551" type="line"/>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w389m275,551l375,702l259,702l199,551m11,551l87,551l187,702l71,702</string>
+    <string>w389m199,551l275,551l375,702l259,702m11,551l87,551l187,702l71,702</string>
     <key>hintSetList</key>
     <array>
       <dict>

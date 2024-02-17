@@ -3,13 +3,36 @@
   <advance width="633"/>
   <unicode hex="0411"/>
   <outline>
-    <component base="Softcyr"/>
     <contour>
       <point x="118" y="569" type="line"/>
       <point x="545" y="569" type="line"/>
       <point x="545" y="700" type="line"/>
       <point x="85" y="700" type="line"/>
       <point x="85" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="0" type="line"/>
+      <point x="343" y="0" type="line" smooth="yes"/>
+      <point x="504" y="0"/>
+      <point x="594" y="93"/>
+      <point x="594" y="220" type="curve" smooth="yes"/>
+      <point x="594" y="348"/>
+      <point x="503" y="439"/>
+      <point x="342" y="439" type="curve" smooth="yes"/>
+      <point x="233" y="439" type="line"/>
+      <point x="233" y="700" type="line"/>
+      <point x="67" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="130" type="line"/>
+      <point x="233" y="308" type="line"/>
+      <point x="303" y="308" type="line" smooth="yes"/>
+      <point x="386" y="308"/>
+      <point x="428" y="290"/>
+      <point x="428" y="224" type="curve" smooth="yes"/>
+      <point x="428" y="157"/>
+      <point x="386" y="130"/>
+      <point x="303" y="130" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w633m118,569l545,569l545,700l85,700l85,694</string>
+    <string>47d7c96274a5d6e8e4240d9a35bb65cae61e70e22a6941c073d8777cc8263ec2169e644301e1b49340c08f2a3246e95060f3d825c905d75d5b9989f880fd0520</string>
     <key>hintSetList</key>
     <array>
       <dict>

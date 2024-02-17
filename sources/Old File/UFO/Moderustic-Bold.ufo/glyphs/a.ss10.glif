@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.ss10" format="2">
+  <advance width="568"/>
+  <anchor x="284" y="520" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="496" y="-3" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="262.717" y="396" type="curve" smooth="yes"/>
+      <point x="314.826" y="396"/>
+      <point x="337" y="378.694"/>
+      <point x="337" y="347.135" type="curve" smooth="yes"/>
+      <point x="337" y="307.432"/>
+      <point x="304" y="283"/>
+      <point x="226" y="283" type="curve" smooth="yes"/>
+      <point x="109" y="283"/>
+      <point x="35" y="229.354"/>
+      <point x="35" y="135.97" type="curve" smooth="yes"/>
+      <point x="35" y="43.5803"/>
+      <point x="108" y="-20"/>
+      <point x="198" y="-20" type="curve" smooth="yes"/>
+      <point x="290" y="-20"/>
+      <point x="340" y="47"/>
+      <point x="356" y="127" type="curve"/>
+      <point x="338" y="208" type="line"/>
+      <point x="338" y="159.094"/>
+      <point x="298" y="100"/>
+      <point x="244" y="100" type="curve" smooth="yes"/>
+      <point x="219" y="100"/>
+      <point x="200" y="112.338"/>
+      <point x="200" y="134.958" type="curve" smooth="yes"/>
+      <point x="200" y="157.577"/>
+      <point x="219" y="173"/>
+      <point x="254" y="173" type="curve" smooth="yes"/>
+      <point x="291" y="173"/>
+      <point x="324" y="190"/>
+      <point x="338" y="214" type="curve"/>
+      <point x="338" y="77" type="line"/>
+      <point x="503" y="-10" type="line"/>
+      <point x="503" y="352" type="line" smooth="yes"/>
+      <point x="503" y="444"/>
+      <point x="436.826" y="520"/>
+      <point x="285.572" y="520" type="curve" smooth="yes"/>
+      <point x="180.534" y="520"/>
+      <point x="86" y="483"/>
+      <point x="43" y="426" type="curve"/>
+      <point x="82" y="297" type="line"/>
+      <point x="133" y="366"/>
+      <point x="193.978" y="396"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3ba592f5448ef587bff27403a28b84858d8f132e89f896f9c1b54af761d19f1e4bb54cc669d9a3dc21e19a615ada9bb8220418d20aaf29224a87a5ab96708f91</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 107</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 192 93</string>
+          <string>hstem 410 110</string>
+          <string>vstem 35 165</string>
+          <string>vstem 337 166</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

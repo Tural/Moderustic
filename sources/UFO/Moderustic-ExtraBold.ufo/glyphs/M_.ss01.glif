@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss01" format="2">
+  <advance width="870"/>
+  <anchor x="435" y="719" name="top"/>
+  <anchor x="435" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="398" type="line"/>
+      <point x="416" y="124" type="line"/>
+      <point x="454" y="124" type="line"/>
+      <point x="612" y="398" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="802" y="700" type="line"/>
+      <point x="622" y="700" type="line"/>
+      <point x="435" y="376" type="line"/>
+      <point x="248" y="700" type="line"/>
+      <point x="68" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w870m68,0l258,0l258,398l416,124l454,124l612,398l612,0l802,0l802,700l622,700l435,376l248,700l68,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 68 190</string>
+          <string>vstem 612 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

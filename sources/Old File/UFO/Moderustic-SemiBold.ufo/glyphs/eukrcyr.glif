@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eukrcyr" format="2">
+  <advance width="563"/>
+  <unicode hex="0454"/>
+  <anchor x="259" y="-20" name="bottom"/>
+  <anchor x="279" y="520" name="top"/>
+  <outline>
+    <component base="ereversedcyr" xScale="-1" xOffset="560"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=ereversedcyr@~,</string>
+  </dict>
+  </lib>
+</glyph>

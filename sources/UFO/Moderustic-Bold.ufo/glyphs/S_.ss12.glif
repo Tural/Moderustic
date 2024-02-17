@@ -5,6 +5,9 @@
   <anchor x="290" y="719" name="top"/>
   <outline>
     <contour>
+      <point x="43.8525" y="95.316" type="line"/>
+      <point x="95.927" y="29.138"/>
+      <point x="211.014" y="-20"/>
       <point x="309.738" y="-20" type="curve" smooth="yes"/>
       <point x="453.596" y="-20"/>
       <point x="550.5" y="62"/>
@@ -40,21 +43,16 @@
       <point x="232.437" y="111.128"/>
       <point x="132.813" y="148.056"/>
       <point x="53.6165" y="205.974" type="curve"/>
-      <point x="43.8525" y="95.316" type="line"/>
-      <point x="95.927" y="29.138"/>
-      <point x="211.014" y="-20"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5180888dc4a0c0f0e74e5be5b47f7b04f71262e687d93ed27d8c9841b59be0a11ca5ad5318f1fa6e027b3cc28bd33a2ed710b1cf698ee55053a76a194c0d8fae</string>
+    <string>f52d11b04e512ce80568ef44a388486abc755f33b76be2f4222f980327b59d0b22728473ccb96814ed01ea433f966dc73f722e81d412d389783cf1b3fb0ab644</string>
     <key>hintSetList</key>
     <array>
       <dict>

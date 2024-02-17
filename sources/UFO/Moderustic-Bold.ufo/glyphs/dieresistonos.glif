@@ -6,10 +6,10 @@
   <anchor x="166" y="500" name="_topgr"/>
   <outline>
     <contour>
-      <point x="145" y="713" type="line"/>
       <point x="114" y="543" type="line"/>
       <point x="188" y="543" type="line"/>
       <point x="239" y="713" type="line"/>
+      <point x="145" y="713" type="line"/>
     </contour>
     <contour>
       <point x="291.076" y="553.23" type="curve" smooth="yes"/>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>78c39f055c2e710dae3643698444df85a3c598c50d100f4d8760c88948eac2f8bb3bbf938ecbb821ef4a794c6a10c5e2979e2e32f7c89207bb1627262a764d81</string>
+    <string>2729ef571a5737064d7389c70ba64d07eb949b4575d9ba5a43d624224a0554c1605b9a6b1e5d66f2205ea9b1faf7334e55437125d00ea58ef9e30277e4d53904</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -5,14 +5,14 @@
   <anchor x="295" y="720" name="top"/>
   <outline>
     <component base="g.ss03"/>
-    <component base="circumflex" xOffset="122" yOffset="20"/>
+    <component base="circumflexcomb" xOffset="122" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>g.ss03+circumflex</string>
+  <string>g.ss03+circumflexcomb</string>
   </dict>
   </lib>
 </glyph>

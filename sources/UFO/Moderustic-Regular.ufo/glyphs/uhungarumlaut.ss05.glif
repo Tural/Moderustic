@@ -6,14 +6,14 @@
   <anchor x="366" y="722" name="top"/>
   <outline>
     <component base="u.ss05"/>
-    <component base="hungarumlaut" xOffset="152" yOffset="20"/>
+    <component base="hungarumlautcomb" xOffset="152" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>u.ss05+hungarumlaut</string>
+  <string>u.ss05+hungarumlautcomb</string>
   </dict>
   </lib>
 </glyph>

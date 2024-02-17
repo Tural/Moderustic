@@ -4,12 +4,24 @@
   <unicode hex="03C4"/>
   <anchor x="210" y="520" name="topgr"/>
   <outline>
-    <component base="iota" xOffset="71"/>
     <contour>
-      <point x="24" y="500" type="line"/>
       <point x="24" y="376" type="line"/>
       <point x="390" y="376" type="line"/>
       <point x="390" y="500" type="line"/>
+      <point x="24" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="120" type="line"/>
+      <point x="312" y="120"/>
+      <point x="293" y="135.079"/>
+      <point x="293" y="197.407" type="curve" smooth="yes"/>
+      <point x="293" y="500" type="line"/>
+      <point x="128" y="500" type="line"/>
+      <point x="128" y="153" type="line" smooth="yes"/>
+      <point x="128" y="47"/>
+      <point x="182" y="0"/>
+      <point x="301" y="0" type="curve" smooth="yes"/>
+      <point x="349" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w421m24,500l24,376l390,376l390,500</string>
+    <string>w421m24,376l390,376l390,500l24,500m349,120c312,120 293,135.08 293,197.41l293,500l128,500l128,153c128,47 182,0 301,0l349,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

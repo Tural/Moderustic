@@ -6,16 +6,24 @@
   <anchor x="514" y="-3" name="ogonek"/>
   <outline>
     <contour>
+      <point x="355.81" y="157.99" type="curve"/>
+      <point x="340.46" y="178.97"/>
+      <point x="310.79" y="192"/>
+      <point x="276" y="192" type="curve" smooth="yes"/>
+      <point x="238" y="192"/>
+      <point x="215" y="177"/>
       <point x="215" y="148" type="curve" smooth="yes"/>
       <point x="215" y="120"/>
       <point x="236" y="104"/>
       <point x="271" y="104" type="curve" smooth="yes"/>
-      <point x="322" y="104"/>
-      <point x="364" y="137"/>
-      <point x="358" y="187" type="curve"/>
-      <point x="371" y="110" type="line"/>
-      <point x="354" y="28"/>
-      <point x="298" y="-20"/>
+      <point x="311.32" y="104"/>
+      <point x="346.02" y="124.64"/>
+    </contour>
+    <contour>
+      <point x="356" y="0" type="line"/>
+      <point x="356" y="64.52" type="line"/>
+      <point x="330.31" y="10.54"/>
+      <point x="281.61" y="-20"/>
       <point x="217" y="-20" type="curve" smooth="yes"/>
       <point x="120" y="-20"/>
       <point x="49" y="49"/>
@@ -23,17 +31,12 @@
       <point x="49" y="243"/>
       <point x="120" y="312"/>
       <point x="220" y="312" type="curve" smooth="yes"/>
-      <point x="299" y="312"/>
-      <point x="355" y="268"/>
-      <point x="372" y="193" type="curve"/>
-      <point x="367" y="124" type="line"/>
-      <point x="367" y="164"/>
-      <point x="327" y="192"/>
-      <point x="276" y="192" type="curve" smooth="yes"/>
-      <point x="238" y="192"/>
-      <point x="215" y="177"/>
-    </contour>
-    <contour>
+      <point x="282.19" y="312"/>
+      <point x="330.12" y="284.72"/>
+      <point x="356" y="236.53" type="curve"/>
+      <point x="356" y="325" type="line" smooth="yes"/>
+      <point x="356" y="375"/>
+      <point x="319" y="397"/>
       <point x="270" y="397" type="curve" smooth="yes"/>
       <point x="223" y="397"/>
       <point x="177" y="377"/>
@@ -46,22 +49,16 @@
       <point x="521" y="444"/>
       <point x="521" y="352" type="curve" smooth="yes"/>
       <point x="521" y="0" type="line"/>
-      <point x="356" y="0" type="line"/>
-      <point x="356" y="325" type="line" smooth="yes"/>
-      <point x="356" y="375"/>
-      <point x="319" y="397"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a3ef2b9ebca30087f22262231742e9881ddd5f6f4a99f569fe209f890d4765e9479390d87b972db488a4e00d3c3ec410b7f86e175ebfdc2cc3612f6819059dec</string>
+    <string>94cc3a84009e2cfbad3e015fbee91d1b9cf6f1a13256de901fc7d7ee9a3e4049c11be6e61534d3ed01d69b9a9a74b75531ac57ef17e7e19d241d635f4a1069e3</string>
     <key>hintSetList</key>
     <array>
       <dict>

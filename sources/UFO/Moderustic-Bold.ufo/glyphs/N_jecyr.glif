@@ -6,14 +6,14 @@
     <contour>
       <point x="68" y="0" type="line"/>
       <point x="234" y="0" type="line"/>
-      <point x="234" y="285" type="line"/>
-      <point x="472" y="285" type="line"/>
+      <point x="234" y="320" type="line"/>
+      <point x="472" y="320" type="line"/>
       <point x="472" y="0" type="line"/>
       <point x="638" y="0" type="line"/>
       <point x="638" y="700" type="line"/>
       <point x="472" y="700" type="line"/>
-      <point x="472" y="415" type="line"/>
-      <point x="234" y="415" type="line"/>
+      <point x="472" y="450" type="line"/>
+      <point x="234" y="450" type="line"/>
       <point x="234" y="700" type="line"/>
       <point x="68" y="700" type="line"/>
     </contour>
@@ -21,22 +21,21 @@
       <point x="505" y="0" type="line"/>
       <point x="702" y="0" type="line" smooth="yes"/>
       <point x="891" y="0"/>
-      <point x="951" y="87"/>
-      <point x="951" y="205" type="curve" smooth="yes"/>
-      <point x="951" y="323"/>
-      <point x="891" y="415"/>
-      <point x="702" y="415" type="curve" smooth="yes"/>
-      <point x="506" y="415" type="line"/>
-      <point x="521" y="285" type="line"/>
-      <point x="633" y="285" type="line" smooth="yes"/>
-      <point x="748" y="285"/>
-      <point x="785" y="273"/>
-      <point x="785" y="209" type="curve" smooth="yes"/>
-      <point x="785" y="153"/>
+      <point x="951" y="94.3373"/>
+      <point x="951" y="222.289" type="curve" smooth="yes"/>
+      <point x="951" y="350.241"/>
+      <point x="891" y="450"/>
+      <point x="702" y="450" type="curve" smooth="yes"/>
+      <point x="506" y="450" type="line"/>
+      <point x="521" y="320" type="line"/>
+      <point x="633" y="320" type="line" smooth="yes"/>
+      <point x="748" y="320"/>
+      <point x="785" y="305.29"/>
+      <point x="785" y="226.839" type="curve" smooth="yes"/>
+      <point x="785" y="158.194"/>
       <point x="756" y="130"/>
       <point x="633" y="130" type="curve" smooth="yes"/>
       <point x="617" y="130" type="line"/>
-      <point x="504" y="3" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2f066d386906df271c2df96089ba1712f6caaaa4a5afad25994bc307cf83ca394d2bc54da624d419a8138a0af8bc82c63d1bd63adb31273ae759981baa7610dd</string>
+    <string>2a684cb77eaedace6f7efaf4d4bfb7fc461f09c13796c4b6d55136deb0a9bd3e01e4725b7a17771e2096951453f5b30a3d20c8f1446659cfad874aaeb3f12fc2</string>
     <key>hintSetList</key>
     <array>
       <dict>

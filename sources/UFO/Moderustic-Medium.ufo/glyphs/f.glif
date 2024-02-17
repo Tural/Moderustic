@@ -6,7 +6,6 @@
   <anchor x="183" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="124" y="410" type="line" name="dv03"/>
       <point x="124" y="0" type="line" name="ab01"/>
       <point x="244" y="0" type="line"/>
       <point x="244" y="410" type="line" name="sv01"/>
@@ -30,6 +29,7 @@
       <point x="124" y="500" type="line" name="dv04"/>
       <point x="32" y="500" type="line"/>
       <point x="32" y="410" type="line"/>
+      <point x="124" y="410" type="line" name="dv03"/>
     </contour>
   </outline>
   <lib>
@@ -72,7 +72,7 @@
       <key>point2</key>
       <string>sv01</string>
       <key>align</key>
-      <string>center</string>
+      <string>right</string>
     </dict>
     <dict>
       <key>code</key>
@@ -82,7 +82,7 @@
       <key>point2</key>
       <string>sv02</string>
       <key>align</key>
-      <string>round</string>
+      <string>double</string>
     </dict>
   </array>
   </dict>

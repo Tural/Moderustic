@@ -5,6 +5,10 @@
   <anchor x="322" y="520" name="topgr"/>
   <outline>
     <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="380" type="line"/>
+      <point x="383" y="380" type="line"/>
       <point x="383" y="178.442" type="line" smooth="yes"/>
       <point x="383" y="37.0446"/>
       <point x="429.087" y="0"/>
@@ -19,10 +23,6 @@
       <point x="19" y="500" type="line"/>
       <point x="19" y="380" type="line"/>
       <point x="85" y="380" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="250" y="380" type="line"/>
-      <point x="383" y="380" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c663d4405576f3b89c9fff55592e0c4f2240ce78f86ea47ab5e7180938a7ed7fff766df628c08eeefd1466d7e8aa00e35710f005f3542b4963bab276f6c1b9d8</string>
+    <string>237f5a246e6936877b84277ca0339bd2c09835f10debb037ea0628d9195c39dd95234490f5d93e18fba5c864c70d15be631dd196b7ae05938ad83a22f61e203e</string>
     <key>hintSetList</key>
     <array>
       <dict>

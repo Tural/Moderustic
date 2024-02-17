@@ -21,10 +21,10 @@
       <point x="223" y="195" type="curve"/>
     </contour>
     <contour>
+      <point x="103" y="250" type="line"/>
       <point x="223" y="250" type="line"/>
       <point x="223" y="700" type="line"/>
       <point x="103" y="700" type="line"/>
-      <point x="103" y="250" type="line"/>
     </contour>
   </outline>
   <lib>

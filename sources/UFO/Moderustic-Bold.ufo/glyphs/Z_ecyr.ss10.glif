@@ -5,10 +5,6 @@
   <anchor x="299" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="299.338" y="111" type="curve" smooth="yes"/>
-      <point x="220.213" y="111"/>
-      <point x="157.114" y="155"/>
-      <point x="85" y="275" type="curve"/>
       <point x="40" y="116" type="line"/>
       <point x="104.938" y="33"/>
       <point x="195.852" y="-20"/>
@@ -44,6 +40,10 @@
       <point x="402.5" y="205" type="curve" smooth="yes"/>
       <point x="402.5" y="149"/>
       <point x="372.453" y="111"/>
+      <point x="299.338" y="111" type="curve" smooth="yes"/>
+      <point x="220.213" y="111"/>
+      <point x="157.114" y="155"/>
+      <point x="85" y="275" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ce5cb3c7e030fb3c7d822a966d84b6f0c64e4b68c0cb16d1a4367ca3d978f587206121b3b352ae4316ef9928416fc558defcf901bde4d0dbba79e46a461d5c30</string>
+    <string>5b4547dc7e40d05417aa586a1b851a4d99ad2cd0b17df5950954058cef112ded97f56da53c09d63d37dc1eaee2cadb59801ed88043cc52566b7c35afb8cefd68</string>
     <key>hintSetList</key>
     <array>
       <dict>

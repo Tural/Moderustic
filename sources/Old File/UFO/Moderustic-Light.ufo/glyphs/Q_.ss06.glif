@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss06" format="2">
+  <advance width="795"/>
+  <anchor x="398" y="719" name="top"/>
+  <anchor x="398" y="-20" name="bottom"/>
+  <anchor x="523" y="-1" name="ogonek"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="270.518" y="58.0753" type="line"/>
+      <point x="290.193" y="100.075"/>
+      <point x="327.497" y="162"/>
+      <point x="388.243" y="162" type="curve" smooth="yes"/>
+      <point x="448.49" y="162"/>
+      <point x="465.714" y="109.638"/>
+      <point x="485.048" y="50.862" type="curve" smooth="yes"/>
+      <point x="509.779" y="-24.3218"/>
+      <point x="537.962" y="-110"/>
+      <point x="664.061" y="-110" type="curve"/>
+      <point x="664.061" y="-45" type="line"/>
+      <point x="593.426" y="-45"/>
+      <point x="571.623" y="12.7496"/>
+      <point x="549.453" y="71.4741" type="curve" smooth="yes"/>
+      <point x="526.52" y="132.216"/>
+      <point x="503.194" y="194"/>
+      <point x="425.029" y="194" type="curve" smooth="yes"/>
+      <point x="328.75" y="194"/>
+      <point x="286.167" y="109.075"/>
+      <point x="263.518" y="62.0753" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

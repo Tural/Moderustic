@@ -6,12 +6,7 @@
     <contour>
       <point x="104" y="0" type="line" name="ab03"/>
       <point x="249" y="0" type="line"/>
-      <point x="249" y="750" type="line" name="ab01"/>
-      <point x="104" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="242" y="262" type="line"/>
-      <point x="249" y="197" type="line" name="iv01"/>
+      <point x="249" y="197" type="line" smooth="yes" name="iv01"/>
       <point x="249" y="313"/>
       <point x="291" y="389"/>
       <point x="366" y="389" type="curve" smooth="yes" name="sv01"/>
@@ -24,15 +19,19 @@
       <point x="591" y="442"/>
       <point x="522" y="500"/>
       <point x="419" y="500" type="curve" smooth="yes" name="at01"/>
-      <point x="331" y="500"/>
-      <point x="260" y="436"/>
-      <point x="241" y="341" type="curve"/>
-    </contour>
-    <contour>
-      <point x="16" y="590" type="line"/>
+      <point x="340.56" y="500"/>
+      <point x="275.64" y="449.15"/>
+      <point x="249" y="370.82" type="curve"/>
+      <point x="249" y="590" type="line"/>
       <point x="405" y="590" type="line"/>
       <point x="405" y="626" type="line"/>
+      <point x="249" y="626" type="line"/>
+      <point x="249" y="750" type="line" name="ab01"/>
+      <point x="104" y="750" type="line"/>
+      <point x="104" y="626" type="line"/>
       <point x="16" y="626" type="line"/>
+      <point x="16" y="590" type="line"/>
+      <point x="104" y="590" type="line"/>
     </contour>
   </outline>
 </glyph>

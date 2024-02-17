@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+  <advance width="550"/>
+  <unicode hex="0116"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <anchor x="500" y="-2" name="ogonek"/>
+  <anchor x="-40" y="500" name="topgr"/>
+  <anchor x="275" y="902" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotaccent.case" xOffset="170" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

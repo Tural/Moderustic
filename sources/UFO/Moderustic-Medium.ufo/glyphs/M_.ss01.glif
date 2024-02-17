@@ -5,9 +5,6 @@
   <anchor x="435" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="435" y="304" type="line" name="iv01"/>
-      <point x="197" y="700" type="line" name="at01"/>
-      <point x="87" y="700" type="line"/>
       <point x="87" y="0" type="line" name="ab01"/>
       <point x="207" y="0" type="line"/>
       <point x="207" y="483" type="line" name="iv02"/>
@@ -18,6 +15,9 @@
       <point x="783" y="0" type="line"/>
       <point x="783" y="700" type="line" name="at02"/>
       <point x="673" y="700" type="line"/>
+      <point x="435" y="304" type="line" name="iv01"/>
+      <point x="197" y="700" type="line" name="at01"/>
+      <point x="87" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -60,25 +60,13 @@
       <key>code</key>
       <string>interpolatev</string>
       <key>point</key>
-      <string>iv01</string>
-      <key>point1</key>
-      <string>ab01</string>
-      <key>point2</key>
-      <string>at01</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>interpolatev</string>
-      <key>point</key>
       <string>iv02</string>
       <key>point1</key>
       <string>ab01</string>
       <key>point2</key>
       <string>at01</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
     </dict>
     <dict>
       <key>code</key>
@@ -90,7 +78,19 @@
       <key>point2</key>
       <string>at01</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>iv01</string>
+      <key>point1</key>
+      <string>ab01</string>
+      <key>point2</key>
+      <string>at01</string>
+      <key>align</key>
+      <string>round</string>
     </dict>
   </array>
   </dict>

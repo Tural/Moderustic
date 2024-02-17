@@ -25,22 +25,20 @@
       <point x="399" y="130" type="curve"/>
     </contour>
     <contour>
-      <point x="546" y="500" type="line"/>
-      <point x="381" y="500" type="line"/>
       <point x="381" y="0" type="line"/>
       <point x="546" y="0" type="line"/>
+      <point x="546" y="500" type="line"/>
+      <point x="381" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>471b984ea4af34c3454fbc990fdf226d6dc4a1a531a02e60d693a763ceb586e8dc4d9f6fdf74fa842c461434c5453f540408a60976bce7162aaa2c2e51e209e7</string>
+    <string>03165b718daac808559f85da49c3ec5fa4707df79cad5043eb80d9f921af936d22905997b20e632ecb01e781191e94a7f273d31bba5be857b2d7388fa045bc21</string>
     <key>hintSetList</key>
     <array>
       <dict>

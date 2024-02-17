@@ -58,7 +58,7 @@
 @a = [a aacute abreve acircumflex acyr adieresis ae aeacute agrave alpha alphatonos amacron aogonek aring atilde c c.ss09 c.ss10 c.ss12 cacute cacute.loclPLK cacute.loclPLK.ss09 cacute.loclPLK.ss10 cacute.loclPLK.ss12 cacute.ss09 cacute.ss10 cacute.ss12 ccaron ccaron.ss09 ccaron.ss10 ccaron.ss12 ccedilla ccedilla.ss09 ccedilla.ss10 ccedilla.ss12 ccircumflex ccircumflex.ss09 ccircumflex.ss10 ccircumflex.ss12 cdotaccent cdotaccent.ss09 cdotaccent.ss10 cdotaccent.ss12 d d.ss11 dcaron dcaron.ss11 dcroat dcroat.ss11 decyr.loclBGR decyr.loclBGR.ss12 dz dz.ss11 dzcaron dzcaron.ss11 e e.ss09 e.ss10 e.ss12 eacute eacute.ss09 eacute.ss10 eacute.ss12 ebreve ebreve.ss09 ebreve.ss10 ebreve.ss12 ecaron ecaron.ss09 ecaron.ss10 ecaron.ss12 ecircumflex ecircumflex.ss09 ecircumflex.ss10 ecircumflex.ss12 edieresis edieresis.ss09 edieresis.ss10 edieresis.ss12 edotaccent edotaccent.ss09 edotaccent.ss10 edotaccent.ss12 efcyr efcyr.ss11 egrave egrave.ss09 egrave.ss10 egrave.ss12 emacron emacron.ss09 emacron.ss10 emacron.ss12 eogonek eogonek.ss09 eogonek.ss10 eogonek.ss12 epsilon.ss09 epsilon.ss10 epsilon.ss12 epsilontonos.ss09 epsilontonos.ss10 epsilontonos.ss12 ereversedcyr.ss09 ereversedcyr.ss10 ereversedcyr.ss12 escyr escyr.ss09 escyr.ss10 escyr.ss12 eth eukrcyr eukrcyr.ss09 eukrcyr.ss10 eukrcyr.ss12 g g.ss03 g.ss12 gacute gacute.ss09 gacute.ss12 gbreve gbreve.ss03 gbreve.ss12 gcaron gcaron.ss12 gcircumflex gcircumflex.ss03 gcircumflex.ss12 gcommaaccent gcommaaccent.ss03 gcommaaccent.ss12 gdotaccent gdotaccent.ss03 gdotaccent.ss12 iecyr iecyr.ss09 iecyr.ss10 iecyr.ss12 iegravecyr iegravecyr.ss09 iegravecyr.ss10 iegravecyr.ss12 iocyr iocyr.ss09 iocyr.ss10 iocyr.ss12 o oacute oacute.loclPLK obreve ocircumflex ocyr odieresis oe oe.ss09 oe.ss10 oe.ss12 ograve ohungarumlaut omacron omega omicron omicrontonos oslash oslashacute otilde phi q schwa schwa.ss09 schwa.ss10 schwa.ss12 sigma sigmafinal sigmafinal.ss09 sigmafinal.ss10 sigmafinal.ss12];
 @a.ss02 = [a.ss02 a.ss09 a.ss10 a.ss12 aacute.ss02 aacute.ss09 aacute.ss10 aacute.ss12 abreve.ss02 abreve.ss09 abreve.ss10 abreve.ss12 acircumflex.ss02 acircumflex.ss09 acircumflex.ss10 acircumflex.ss12 acyr.ss02 acyr.ss09 acyr.ss10 acyr.ss12 adieresis.ss02 adieresis.ss09 adieresis.ss10 adieresis.ss12 ae.ss02 ae.ss13 ae.ss14 ae.ss15 aeacute.ss02 aeacute.ss13 aeacute.ss14 aeacute.ss15 agrave.ss02 agrave.ss09 agrave.ss10 agrave.ss12 amacron.ss02 amacron.ss09 amacron.ss10 amacron.ss12 aogonek.ss02 aogonek.ss09 aogonek.ss10 aogonek.ss12 aring.ss02 aring.ss09 aring.ss10 aring.ss12 atilde.ss02 atilde.ss09 atilde.ss10 atilde.ss12];
 @a.ss021 = [a.ss02 a.ss09 a.ss10 a.ss12 aacute.ss02 aacute.ss09 aacute.ss10 aacute.ss12 abreve.ss02 abreve.ss09 abreve.ss10 abreve.ss12 acircumflex.ss02 acircumflex.ss09 acircumflex.ss10 acircumflex.ss12 acyr.ss02 acyr.ss09 acyr.ss10 acyr.ss12 adieresis.ss02 adieresis.ss09 adieresis.ss10 adieresis.ss12 agrave.ss02 agrave.ss09 agrave.ss10 agrave.ss12 amacron.ss02 amacron.ss09 amacron.ss10 amacron.ss12 aogonek.ss02 aogonek.ss09 aogonek.ss10 aogonek.ss12 aring.ss02 aring.ss09 aring.ss10 aring.ss12 atilde.ss02 atilde.ss09 atilde.ss10 atilde.ss12];
-@a1 = [a aacute abreve acircumflex acyr adieresis agrave alpha alphatonos amacron aogonek aring atilde checyr dzhecyr elcyr emcyr encyr icyr icyr.loclBGR.ss05 igravecyr ishortcyr ishortcyr.loclBGR.ss05 micro mu pecyr shacyr shacyr.loclBGR u.ss05 uacute.ss05 ubreve.ss05 ucircumflex.ss05 udieresis.ss05 ugrave.ss05 uhungarumlaut.ss05 umacron.ss05 uogonek.ss05 uring.ss05 utilde.ss05 yacyr yacyr.ss08 ylongcyr];
+@a1 = [a aacute abreve acircumflex acyr adieresis agrave alpha alphatonos amacron aogonek aring atilde checyr dzhecyr elcyr emcyr encyr icyr igravecyr ishortcyr micro mu pecyr shacyr shacyr.loclBGR u.ss05 uacute.ss05 ubreve.ss05 ucircumflex.ss05 udieresis.ss05 ugrave.ss05 uhungarumlaut.ss05 umacron.ss05 uogonek.ss05 uring.ss05 utilde.ss05 yacyr yacyr.ss08 ylongcyr];
 @b = [b b.ss11 beta germandbls germandbls.ss09 germandbls.ss10 germandbls.ss12 h h.ss11 hcircumflex hcircumflex.ss11 hdot hdot.ss11 k k.ss11 kacyr.loclBGR kacyr.loclBGR.ss11 kcommaaccent kcommaaccent.ss11 l l.ss11 lacute lacute.ss11 lcaron lcaron.ss11 lcommaaccent lcommaaccent.ss11 ldot ldot.ss11 lj lj.ss11 thorn thorn.ss11 vecyr.loclBGR yucyr.loclBGR yucyr.loclBGR.ss11];
 @b1 = [ae aeacute b b.ss11 c c.ss09 c.ss10 c.ss12 cacute cacute.loclPLK cacute.loclPLK.ss09 cacute.loclPLK.ss10 cacute.loclPLK.ss12 cacute.ss09 cacute.ss10 cacute.ss12 ccaron ccaron.ss09 ccaron.ss10 ccaron.ss12 ccedilla ccedilla.ss09 ccedilla.ss10 ccedilla.ss12 ccircumflex ccircumflex.ss09 ccircumflex.ss10 ccircumflex.ss12 cdotaccent cdotaccent.ss09 cdotaccent.ss10 cdotaccent.ss12 e e.ss09 e.ss10 e.ss12 eacute eacute.ss09 eacute.ss10 eacute.ss12 ebreve ebreve.ss09 ebreve.ss10 ebreve.ss12 ecaron ecaron.ss09 ecaron.ss10 ecaron.ss12 ecircumflex ecircumflex.ss09 ecircumflex.ss10 ecircumflex.ss12 edieresis edieresis.ss09 edieresis.ss10 edieresis.ss12 edotaccent edotaccent.ss09 edotaccent.ss10 edotaccent.ss12 efcyr efcyr.ss11 egrave egrave.ss09 egrave.ss10 egrave.ss12 emacron emacron.ss09 emacron.ss10 emacron.ss12 eogonek eogonek.ss09 eogonek.ss10 eogonek.ss12 epsilon.ss09 epsilon.ss10 epsilon.ss12 epsilontonos.ss09 epsilontonos.ss10 epsilontonos.ss12 ercyr ereversedcyr ereversedcyr.ss09 ereversedcyr.ss10 ereversedcyr.ss12 escyr escyr.ss09 escyr.ss10 escyr.ss12 eth eukrcyr eukrcyr.ss09 eukrcyr.ss10 eukrcyr.ss12 iecyr iecyr.ss09 iecyr.ss10 iecyr.ss12 iegravecyr iegravecyr.ss09 iegravecyr.ss10 iegravecyr.ss12 iocyr iocyr.ss09 iocyr.ss10 iocyr.ss12 o oacute oacute.loclPLK obreve ocircumflex ocyr odieresis oe oe.ss09 oe.ss10 oe.ss12 ograve ohungarumlaut omacron omega omegatonos omicron omicrontonos oslash oslashacute otilde p pdot phi rho schwa schwa.ss09 schwa.ss10 schwa.ss12 thorn thorn.ss11 upsilon upsilondieresis upsilondieresistonos upsilontonos yucyr yucyr.loclBGR yucyr.loclBGR.ss11];
 @dcaron = [dcaron dcaron.ss11 lcaron lcaron.ss11 tcaron tcaron.ss11];
@@ -80,7 +80,7 @@
 @r = [gecyr geupcyr gjecyr r r.ss10 racute racute.ss10 rcaron rcaron.ss10 rcommaaccent rcommaaccent.ss10];
 @s = [dzecyr dzecyr.ss09 dzecyr.ss10 dzecyr.ss12 epsilon epsilontonos gecyr.loclBGR gecyr.loclBGR.ss09 gecyr.loclBGR.ss10 gecyr.loclBGR.ss12 s s.ss09 s.ss10 s.ss12 sacute sacute.loclPLK sacute.loclPLK.ss09 sacute.loclPLK.ss10 sacute.loclPLK.ss12 sacute.ss09 sacute.ss10 sacute.ss12 scaron scaron.ss09 scaron.ss10 scaron.ss12 scedilla scedilla.ss09 scedilla.ss10 scedilla.ss12 scircumflex scircumflex.ss09 scircumflex.ss10 scircumflex.ss12 scommaaccent scommaaccent.ss09 scommaaccent.ss10 scommaaccent.ss12 zecyr zecyr.ss09 zecyr.ss10 zecyr.ss12];
 @s1 = [dzecyr dzecyr.ss09 dzecyr.ss10 dzecyr.ss12 epsilon epsilontonos gecyr.loclBGR gecyr.loclBGR.ss09 gecyr.loclBGR.ss10 gecyr.loclBGR.ss12 s s.ss09 s.ss10 s.ss12 sacute sacute.loclPLK sacute.loclPLK.ss09 sacute.loclPLK.ss10 sacute.loclPLK.ss12 sacute.ss09 sacute.ss10 sacute.ss12 scaron scaron.ss09 scaron.ss10 scaron.ss12 scedilla scedilla.ss09 scedilla.ss10 scedilla.ss12 scircumflex scircumflex.ss09 scircumflex.ss10 scircumflex.ss12 scommaaccent scommaaccent.ss09 scommaaccent.ss10 scommaaccent.ss12 zecyr zecyr.ss09 zecyr.ss10 zecyr.ss12];
-@u = [iacute_j.loclNLD.liga iacute_j.loclNLD.liga.ss12 icyr.loclBGR icyr.loclBGR.ss05 ij.liga ij.liga.ss12 ishortcyr.loclBGR ishortcyr.loclBGR.ss05 shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR u u.ss05 uacute uacute.ss05 ubreve ubreve.ss05 ucircumflex ucircumflex.ss05 ucyr ucyr.ss12 udieresis udieresis.ss05 ugrave ugrave.ss05 uhungarumlaut uhungarumlaut.ss05 umacron umacron.ss05 uogonek uogonek.ss05 uring uring.ss05 ushortcyr ushortcyr.ss12 utilde utilde.ss05 y y.ss12 yacute yacute.ss12 ycircumflex ydieresis ydieresis.ss12 ymacron ymacron.ss12];
+@u = [iacute_j.loclNLD.liga iacute_j.loclNLD.liga.ss12 icyr.loclBGR ij.liga ij.liga.ss12 ishortcyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR u u.ss05 uacute uacute.ss05 ubreve ubreve.ss05 ucircumflex ucircumflex.ss05 ucyr ucyr.ss12 udieresis udieresis.ss05 ugrave ugrave.ss05 uhungarumlaut uhungarumlaut.ss05 umacron umacron.ss05 uogonek uogonek.ss05 uring uring.ss05 ushortcyr ushortcyr.ss12 utilde utilde.ss05 y y.ss12 yacute yacute.ss12 ycircumflex ydieresis ydieresis.ss12 ymacron ymacron.ss12];
 @v = [gamma nu ucyr.ss04 ushortcyr.ss04 v w wacute wcircumflex wdieresis wgrave y.ss04 yacute.ss04 ycircumflex.ss04 ydieresis.ss04 ymacron.ss04];
 @v1 = [gamma ucyr.ss04 ushortcyr.ss04 v w wacute wcircumflex wdieresis wgrave y.ss04 yacute.ss04 ycircumflex.ss04 ydieresis.ss04 ymacron.ss04];
 @x = [hacyr x zhecyr zhecyr.loclBGR zhecyr.loclBGR.ss11];
@@ -90,7 +90,6 @@
 @zecyr = [ereversedcyr zecyr.loclBGR zecyr.loclBGR.ss09 zecyr.loclBGR.ss10 zecyr.loclBGR.ss12];
 #/< kernclasses
 #< classes
-
 
 #> languagesystem
 languagesystem DFLT dflt;
@@ -203,6 +202,7 @@ feature locl {
   sub i by i.loclTRK;
 #< feature
 } locl;
+
 feature sinf {
 # Scientific Inferiors
 
@@ -225,6 +225,7 @@ feature sinf {
   sub zero by zero.inferior;
 #< feature
 } sinf;
+
 feature sups {
 # Superscript
 
@@ -247,6 +248,7 @@ feature sups {
   sub zero by zero.superior;
 #< feature
 } sups;
+
 feature subs {
 # Subscript
 
@@ -269,6 +271,7 @@ feature subs {
   sub zero by zero.inferior;
 #< feature
 } subs;
+
 feature numr {
 # Numerator
 
@@ -291,6 +294,7 @@ feature numr {
   sub zero by zero.numr;
 #< feature
 } numr;
+
 feature dnom {
 # Denominator
 
@@ -313,6 +317,7 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
+
 feature frac {
 # Fractions
 
@@ -399,6 +404,7 @@ lookup frac_space {
 } frac_space;
 #< feature
 } frac;
+
 feature ordn {
 # Ordinals
 
@@ -408,6 +414,7 @@ feature ordn {
   sub N o period by numero;
 #< feature
 } ordn;
+
 feature onum {
 # Oldstyle Figures
 
@@ -424,6 +431,7 @@ feature onum {
   sub zero by zero.osf;
 #< feature
 } onum;
+
 feature lnum {
 # Lining Figures
 
@@ -440,6 +448,7 @@ feature lnum {
   sub zero.osf by zero;
 #< feature
 } lnum;
+
 feature salt {
 # Stylistic Alternates
 
@@ -555,7 +564,7 @@ feature salt {
   sub f_f from [f_f.ss11];
   sub fi from [fi.ss11];
   sub five from [five.ss12 five.ss10 five.ss09];
-  sub five.osf from [five.ss09.osf five.ss10.osf five.ss12.osf];
+  sub five.osf from [five.osf.ss09 five.osf.ss10 five.osf.ss12];
   sub g from [g.ss03 g.ss12];
   sub gacute from [gacute.ss09 gacute.ss12];
   sub gbreve from [gbreve.ss03 gbreve.ss12];
@@ -571,12 +580,10 @@ feature salt {
   sub hdot from [hdot.ss11];
   sub hryvnia from [hryvnia.ss12 hryvnia.ss10 hryvnia.ss09];
   sub iacute_j.loclNLD.liga from [iacute_j.loclNLD.liga.ss12];
-  sub icyr.loclBGR from [icyr.loclBGR.ss05];
   sub iecyr from [iecyr.ss09 iecyr.ss10 iecyr.ss12];
   sub iegravecyr from [iegravecyr.ss09 iegravecyr.ss10 iegravecyr.ss12];
   sub ij.liga from [ij.liga.ss12];
   sub iocyr from [iocyr.ss09 iocyr.ss10 iocyr.ss12];
-  sub ishortcyr.loclBGR from [ishortcyr.loclBGR.ss05];
   sub k from [k.ss11];
   sub kacyr.loclBGR from [kacyr.loclBGR.ss11];
   sub kcommaaccent from [kcommaaccent.ss11];
@@ -590,10 +597,10 @@ feature salt {
   sub ljecyr from [ljecyr.ss08];
   sub lslash from [lslash.ss11];
   sub nine from [nine.ss12 nine.ss10 nine.ss09];
-  sub nine.osf from [nine.ss09.osf nine.ss10.osf nine.ss12.osf];
+  sub nine.osf from [nine.osf.ss09 nine.osf.ss10 nine.osf.ss12];
   sub oe from [oe.ss09 oe.ss10 oe.ss12];
   sub one from [one.ss09];
-  sub one.osf from [one.ss09.osf];
+  sub one.osf from [one.osf.ss09];
   sub question from [question.ss09 question.ss10 question.ss12];
   sub questiondown from [questiondown.ss09 questiondown.ss10 questiondown.ss12];
   sub questiondown.case from [questiondown.ss09.case questiondown.ss10.case questiondown.ss12.case];
@@ -611,7 +618,7 @@ feature salt {
   sub scommaaccent from [scommaaccent.ss09 scommaaccent.ss10 scommaaccent.ss12];
   sub sigmafinal from [sigmafinal.ss09 sigmafinal.ss10 sigmafinal.ss12];
   sub six from [six.ss12 six.ss10 six.ss09];
-  sub six.osf from [six.ss09.osf six.ss10.osf six.ss12.osf];
+  sub six.osf from [six.osf.ss09 six.osf.ss10 six.osf.ss12];
   sub sterling from [sterling.ss12 sterling.ss10 sterling.ss09];
   sub t from [t.ss11];
   sub tbar from [tbar.ss11];
@@ -621,10 +628,10 @@ feature salt {
   sub tdot from [tdot.ss11];
   sub thorn from [thorn.ss11];
   sub three from [three.ss12 three.ss10 three.ss09];
-  sub three.osf from [three.ss09.osf three.ss10.osf three.ss12.osf];
+  sub three.osf from [three.osf.ss09 three.osf.ss10 three.osf.ss12];
   sub tshecyr from [tshecyr.ss11];
   sub two from [two.ss12 two.ss10 two.ss09];
-  sub two.osf from [two.ss09.osf two.ss10.osf two.ss12.osf];
+  sub two.osf from [two.osf.ss09 two.osf.ss10 two.osf.ss12];
   sub u from [u.ss05];
   sub uacute from [uacute.ss05];
   sub ubreve from [ubreve.ss05];
@@ -652,6 +659,7 @@ feature salt {
   sub zhecyr.loclBGR from [zhecyr.loclBGR.ss11];
 #< feature
 } salt;
+
 feature ss01 {
 # Stylistic Set 01–20
 
@@ -663,6 +671,7 @@ feature ss01 {
   sub alphatonos by alphatonos.ss01;
 #< feature
 } ss01;
+
 feature ss02 {
 # Stylistic Set 01–20
 
@@ -682,6 +691,7 @@ feature ss02 {
   sub atilde by atilde.ss02;
 #< feature
 } ss02;
+
 feature ss03 {
 # Stylistic Set 01–20
 
@@ -701,6 +711,7 @@ feature ss03 {
   sub gdotaccent by gdotaccent.ss03;
 #< feature
 } ss03;
+
 feature ss04 {
 # Stylistic Set 01–20
 
@@ -716,12 +727,11 @@ feature ss04 {
   sub ytilde by ytilde.ss04;
 #< feature
 } ss04;
+
 feature ss05 {
 # Stylistic Set 01–20
 
 #> feature
-  sub icyr.loclBGR by icyr.loclBGR.ss05;
-  sub ishortcyr.loclBGR by ishortcyr.loclBGR.ss05;
   sub u by u.ss05;
   sub uacute by uacute.ss05;
   sub ubreve by ubreve.ss05;
@@ -735,6 +745,7 @@ feature ss05 {
   sub utilde by utilde.ss05;
 #< feature
 } ss05;
+
 feature ss06 {
 # Stylistic Set 01–20
 
@@ -742,6 +753,7 @@ feature ss06 {
   sub Q by Q.ss06;
 #< feature
 } ss06;
+
 feature ss07 {
 # Stylistic Set 01–20
 
@@ -757,6 +769,7 @@ feature ss07 {
   sub NJ by NJ.ss07;
 #< feature
 } ss07;
+
 feature ss08 {
 # Stylistic Set 01–20
 
@@ -775,6 +788,7 @@ feature ss08 {
   sub yacyr by yacyr.ss08;
 #< feature
 } ss08;
+
 feature ss09 {
 # Stylistic Set 01–20
 
@@ -856,6 +870,7 @@ feature ss09 {
   sub etilde by etilde.ss09;
   sub eukrcyr by eukrcyr.ss09;
   sub five by five.ss09;
+  sub five.osf by five.osf.ss09;
   sub gacute by gacute.ss09;
   sub gecyr.loclBGR by gecyr.loclBGR.ss09;
   sub germandbls by germandbls.ss09;
@@ -865,8 +880,10 @@ feature ss09 {
   sub iocyr by iocyr.ss09;
   sub lira by lira.ss09;
   sub nine by nine.ss09;
+  sub nine.osf by nine.osf.ss09;
   sub oe by oe.ss09;
   sub one by one.ss09;
+  sub one.osf by one.osf.ss09;
   sub question by question.ss09;
   sub questiondown by questiondown.ss09;
   sub s by s.ss09;
@@ -879,13 +896,17 @@ feature ss09 {
   sub scommaaccent by scommaaccent.ss09;
   sub sigmafinal by sigmafinal.ss09;
   sub six by six.ss09;
+  sub six.osf by six.osf.ss09;
   sub sterling by sterling.ss09;
   sub three by three.ss09;
+  sub three.osf by three.osf.ss09;
   sub two by two.ss09;
+  sub two.osf by two.osf.ss09;
   sub zecyr by zecyr.ss09;
   sub zecyr.loclBGR by zecyr.loclBGR.ss09;
 #< feature
 } ss09;
+
 feature ss10 {
 # Stylistic Set 01–20
 
@@ -966,6 +987,7 @@ feature ss10 {
   sub etilde by etilde.ss10;
   sub eukrcyr by eukrcyr.ss10;
   sub five by five.ss10;
+  sub five.osf by five.osf.ss10;
   sub gecyr.loclBGR by gecyr.loclBGR.ss10;
   sub germandbls by germandbls.ss10;
   sub hryvnia by hryvnia.ss10;
@@ -974,6 +996,7 @@ feature ss10 {
   sub iocyr by iocyr.ss10;
   sub lira by lira.ss10;
   sub nine by nine.ss10;
+  sub nine.osf by nine.osf.ss10;
   sub oe by oe.ss10;
   sub question by question.ss10;
   sub questiondown by questiondown.ss10;
@@ -991,13 +1014,17 @@ feature ss10 {
   sub scommaaccent by scommaaccent.ss10;
   sub sigmafinal by sigmafinal.ss10;
   sub six by six.ss10;
+  sub six.osf by six.osf.ss10;
   sub sterling by sterling.ss10;
   sub three by three.ss10;
+  sub three.osf by three.osf.ss10;
   sub two by two.ss10;
+  sub two.osf by two.osf.ss10;
   sub zecyr by zecyr.ss10;
   sub zecyr.loclBGR by zecyr.loclBGR.ss10;
 #< feature
 } ss10;
+
 feature ss11 {
 # Stylistic Set 01–20
 
@@ -1037,6 +1064,7 @@ feature ss11 {
   sub zhecyr.loclBGR by zhecyr.loclBGR.ss11;
 #< feature
 } ss11;
+
 feature ss12 {
 # Stylistic Set 01–20
 
@@ -1119,6 +1147,7 @@ feature ss12 {
   sub etilde by etilde.ss12;
   sub eukrcyr by eukrcyr.ss12;
   sub five by five.ss12;
+  sub five.osf by five.osf.ss12;
   sub g by g.ss12;
   sub gacute by gacute.ss12;
   sub gbreve by gbreve.ss12;
@@ -1135,6 +1164,7 @@ feature ss12 {
   sub iocyr by iocyr.ss12;
   sub lira by lira.ss12;
   sub nine by nine.ss12;
+  sub nine.osf by nine.osf.ss12;
   sub oe by oe.ss12;
   sub question by question.ss12;
   sub questiondown by questiondown.ss12;
@@ -1148,9 +1178,12 @@ feature ss12 {
   sub scommaaccent by scommaaccent.ss12;
   sub sigmafinal by sigmafinal.ss12;
   sub six by six.ss12;
+  sub six.osf by six.osf.ss12;
   sub sterling by sterling.ss12;
   sub three by three.ss12;
+  sub three.osf by three.osf.ss12;
   sub two by two.ss12;
+  sub two.osf by two.osf.ss12;
   sub ucyr by ucyr.ss12;
   sub ushortcyr by ushortcyr.ss12;
   sub y by y.ss12;
@@ -1163,6 +1196,7 @@ feature ss12 {
   sub zecyr.loclBGR by zecyr.loclBGR.ss12;
 #< feature
 } ss12;
+
 feature ss13 {
 # Stylistic Set 01–20
 
@@ -1178,6 +1212,7 @@ feature ss13 {
   sub aeacute by aeacute.ss13;
 #< feature
 } ss13;
+
 feature ss14 {
 # Stylistic Set 01–20
 
@@ -1193,6 +1228,7 @@ feature ss14 {
   sub aeacute by aeacute.ss14;
 #< feature
 } ss14;
+
 feature ss15 {
 # Stylistic Set 01–20
 
@@ -1208,6 +1244,7 @@ feature ss15 {
   sub aeacute by aeacute.ss15;
 #< feature
 } ss15;
+
 feature liga {
 # Standard Ligatures
 
@@ -1217,6 +1254,7 @@ feature liga {
   sub @IJ.liga by @IJ.liga1;
 #< feature
 } liga;
+
 feature case {
 # Case Sensitive Forms
 
@@ -1275,6 +1313,7 @@ feature case {
   sub tonos by tonos.case;
 #< feature
 } case;
+
 feature mark {
 # GPOS feature : Mark Positioning
     markClass acute <anchor 128 500> @top;
@@ -2078,9 +2117,9 @@ feature mark {
           <anchor 193 -3> mark @ogonek
           <anchor 778 719> mark @top;
       pos base ij
-          <anchor 352 -217> mark @bottom
+          <anchor 372 -217> mark @bottom
           <anchor 166 -3> mark @ogonek
-          <anchor 419 683> mark @top;
+          <anchor 439 683> mark @top;
       pos base Jcircumflex
           <anchor 278 -20> mark @bottom
           <anchor 452 919> mark @top;
@@ -3539,8 +3578,8 @@ feature mark {
           <anchor 275 -20> mark @bottom
           <anchor 451 919> mark @top;
       pos base DZcaron
-          <anchor 1019 -20> mark @bottom
-          <anchor 1029 921> mark @top;
+          <anchor 1039 -20> mark @bottom
+          <anchor 1049 921> mark @top;
       pos base LJ
           <anchor 832 -20> mark @bottom
           <anchor 1006 719> mark @top;
@@ -3551,8 +3590,8 @@ feature mark {
           <anchor 393 -20> mark @bottom
           <anchor 393 921> mark @top;
       pos base DZ
-          <anchor 1019 -20> mark @bottom
-          <anchor 1029 719> mark @top;
+          <anchor 1039 -20> mark @bottom
+          <anchor 1049 719> mark @top;
       pos base Hdot
           <anchor 368 -20> mark @bottom
           <anchor 368 882> mark @top;
@@ -3774,7 +3813,7 @@ feature mark {
           <anchor 306 919> mark @top;
       pos base vecyr.loclBGR
           <anchor 273 -20> mark @bottom
-          <anchor 273 520> mark @top;
+          <anchor 284 736> mark @top;
       pos base gecyr.loclBGR
           <anchor 253 -20> mark @bottom
           <anchor 253 520> mark @top;
@@ -3790,7 +3829,7 @@ feature mark {
           <anchor 300 520> mark @top;
       pos base ishortcyr.loclBGR
           <anchor 300 -20> mark @bottom
-          <anchor 397 -3> mark @ogonek
+          <anchor 497 -3> mark @ogonek
           <anchor 300 700> mark @top;
       pos base kacyr.loclBGR
           <anchor 297 -20> mark @bottom
@@ -3828,14 +3867,6 @@ feature mark {
       pos base decyr.loclBGR.ss12
           <anchor 308 -220> mark @bottom
           <anchor 317 520> mark @top;
-      pos base icyr.loclBGR.ss05
-          <anchor 300 -20> mark @bottom
-          <anchor 497 -3> mark @ogonek
-          <anchor 300 520> mark @top;
-      pos base ishortcyr.loclBGR.ss05
-          <anchor 300 -20> mark @bottom
-          <anchor 497 -3> mark @ogonek
-          <anchor 300 700> mark @top;
       pos base Eng.ss07
           <anchor 390 -221> mark @bottom
           <anchor 376 719> mark @top;
@@ -4182,6 +4213,7 @@ feature mark {
   lookup markLTR1;
   lookup markLTR2;
 } mark;
+
 feature mkmk {
 # GPOS feature : Mark to Mark Positioning
 #    markClass acute <anchor 128 500> @top;
@@ -4329,37 +4361,38 @@ feature mkmk {
   lookup mkmkLTR1;
   lookup mkmkLTR2;
 } mkmk;
+
 feature kern {
-  @_A = [A Aacute Abreve Acircumflex Acyr Adieresis Agrave Alpha Alphatonos Amacron Aogonek Aring Atilde Decyr.loclBGR Decyr.ss08 Delta Elcyr.loclBGR Elcyr.ss08 Lambda];
-  @_C = [C C.ss09 C.ss10 C.ss12 Cacute Cacute.loclPLK Cacute.loclPLK.ss09 Cacute.loclPLK.ss10 Cacute.loclPLK.ss12 Cacute.ss09 Cacute.ss10 Cacute.ss12 Ccaron Ccaron.ss09 Ccaron.ss10 Ccaron.ss12 Ccedilla Ccedilla.ss09 Ccedilla.ss10 Ccedilla.ss12 Ccircumflex Ccircumflex.ss09 Ccircumflex.ss10 Ccircumflex.ss12 Cdotaccent Cdotaccent.ss09 Cdotaccent.ss10 Cdotaccent.ss12 D Dcaron Dcroat Efcyr Efcyr.loclBGR Ereversedcyr Ereversedcyr.ss09 Ereversedcyr.ss10 Ereversedcyr.ss12 Escyr Escyr.ss09 Escyr.ss10 Escyr.ss12 Eth Eukrcyr Eukrcyr.ss09 Eukrcyr.ss10 Eukrcyr.ss12 G.ss03 G.ss13 G.ss15 Gacute.ss03 Gacute.ss13 Gacute.ss15 Gbreve.ss03 Gbreve.ss13 Gbreve.ss15 Gcaron.ss03 Gcaron.ss13 Gcaron.ss15 Gcircumflex.ss03 Gcircumflex.ss13 Gcircumflex.ss15 Gcommaaccent.ss03 Gcommaaccent.ss13 Gcommaaccent.ss15 Gdotaccent.ss03 Gdotaccent.ss13 Gdotaccent.ss15 O Oacute Oacute.loclPLK Obreve Ocircumflex Ocyr Odieresis Ograve Ohm Ohungarumlaut Omacron Omega Omegatonos Omicron Omicrontonos Oslash Oslashacute Otilde Phi Q Q.ss06 Schwa Schwa.ss09 Schwa.ss10 Schwa.ss12 Theta Yucyr];
-  @_F = [F Gamma Gecyr Geupcyr Gjecyr];
-  @_G = [G G.ss09 G.ss10 G.ss12 G.ss14 Gacute Gacute.ss09 Gacute.ss10 Gacute.ss12 Gacute.ss14 Gbreve Gbreve.ss09 Gbreve.ss10 Gbreve.ss12 Gbreve.ss14 Gcaron Gcaron.ss09 Gcaron.ss10 Gcaron.ss12 Gcaron.ss14 Gcircumflex Gcircumflex.ss09 Gcircumflex.ss10 Gcircumflex.ss12 Gcircumflex.ss14 Gcommaaccent Gcommaaccent.ss09 Gcommaaccent.ss10 Gcommaaccent.ss12 Gcommaaccent.ss14 Gdotaccent Gdotaccent.ss09 Gdotaccent.ss10 Gdotaccent.ss12 Gdotaccent.ss14];
-  @_K = [Chi Hacyr K Kacyr Kappa Kcommaaccent Kjecyr X Zhecyr];
-  @_L = [L Lacute Lcaron Lcommaaccent Ldot Lslash];
-  @_V = [V W Wacute Wcircumflex Wdieresis Wgrave];
   @_Y = [Upsilon Upsilondieresis Upsilontonos Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde];
-  @_T1 = [T Tau Tbar Tcaron Tcedilla Tcommaaccent Tdot Tecyr];
+  @_A = [A Aacute Abreve Acircumflex Acyr Adieresis Agrave Alpha Alphatonos Amacron Aogonek Aring Atilde Decyr.loclBGR Decyr.ss08 Delta Elcyr.loclBGR Elcyr.ss08 Lambda];
   @_P = [Ercyr P Pdot Rho Thorn];
   @_Ljecyr = [Hardcyr Ljecyr Ljecyr.ss08 Njecyr Softcyr];
-  @_l = [decyr iota iotadieresis iotadieresistonos iotatonos l lacute lcommaaccent lslash shchacyr shchacyr.loclBGR t tau tbar tcedilla tcommaaccent tsecyr tsecyr.loclBGR];
+  @_F = [F Gamma Gecyr Geupcyr Gjecyr];
+  @_L = [L Lacute Lcaron Lcommaaccent Ldot Lslash];
+  @_C = [C C.ss09 C.ss10 C.ss12 Cacute Cacute.loclPLK Cacute.loclPLK.ss09 Cacute.loclPLK.ss10 Cacute.loclPLK.ss12 Cacute.ss09 Cacute.ss10 Cacute.ss12 Ccaron Ccaron.ss09 Ccaron.ss10 Ccaron.ss12 Ccedilla Ccedilla.ss09 Ccedilla.ss10 Ccedilla.ss12 Ccircumflex Ccircumflex.ss09 Ccircumflex.ss10 Ccircumflex.ss12 Cdotaccent Cdotaccent.ss09 Cdotaccent.ss10 Cdotaccent.ss12 D Dcaron Dcroat Efcyr Efcyr.loclBGR Ereversedcyr Ereversedcyr.ss09 Ereversedcyr.ss10 Ereversedcyr.ss12 Escyr Escyr.ss09 Escyr.ss10 Escyr.ss12 Eth Eukrcyr Eukrcyr.ss09 Eukrcyr.ss10 Eukrcyr.ss12 G.ss03 G.ss13 G.ss15 Gacute.ss03 Gacute.ss13 Gacute.ss15 Gbreve.ss03 Gbreve.ss13 Gbreve.ss15 Gcaron.ss03 Gcaron.ss13 Gcaron.ss15 Gcircumflex.ss03 Gcircumflex.ss13 Gcircumflex.ss15 Gcommaaccent.ss03 Gcommaaccent.ss13 Gcommaaccent.ss15 Gdotaccent.ss03 Gdotaccent.ss13 Gdotaccent.ss15 O Oacute Oacute.loclPLK Obreve Ocircumflex Ocyr Odieresis Ograve Ohm Ohungarumlaut Omacron Omega Omegatonos Omicron Omicrontonos Oslash Oslashacute Otilde Phi Q Q.ss06 Schwa Schwa.ss09 Schwa.ss10 Schwa.ss12 Theta Yucyr];
+  @_hardcyr = [hardcyr hardcyr.loclBGR ljecyr ljecyr.ss08 njecyr softcyr softcyr.loclBGR];
+  @_T1 = [T Tau Tbar Tcaron Tcedilla Tcommaaccent Tdot Tecyr];
+  @_V = [V W Wacute Wcircumflex Wdieresis Wgrave];
+  @_K = [Chi Hacyr K Kacyr Kappa Kcommaaccent Kjecyr X Zhecyr];
   @_r = [gecyr geupcyr gjecyr r r.ss10 racute racute.ss10 rcaron rcaron.ss10 rcommaaccent rcommaaccent.ss10];
+  @_G = [G G.ss09 G.ss10 G.ss12 G.ss14 Gacute Gacute.ss09 Gacute.ss10 Gacute.ss12 Gacute.ss14 Gbreve Gbreve.ss09 Gbreve.ss10 Gbreve.ss12 Gbreve.ss14 Gcaron Gcaron.ss09 Gcaron.ss10 Gcaron.ss12 Gcaron.ss14 Gcircumflex Gcircumflex.ss09 Gcircumflex.ss10 Gcircumflex.ss12 Gcircumflex.ss14 Gcommaaccent Gcommaaccent.ss09 Gcommaaccent.ss10 Gcommaaccent.ss12 Gcommaaccent.ss14 Gdotaccent Gdotaccent.ss09 Gdotaccent.ss10 Gdotaccent.ss12 Gdotaccent.ss14];
+  @_l = [decyr iota iotadieresis iotadieresistonos iotatonos l lacute lcommaaccent lslash shchacyr shchacyr.loclBGR t tau tbar tcedilla tcommaaccent tsecyr tsecyr.loclBGR];
   @_a.ss021 = [a.ss02 a.ss09 a.ss10 a.ss12 aacute.ss02 aacute.ss09 aacute.ss10 aacute.ss12 abreve.ss02 abreve.ss09 abreve.ss10 abreve.ss12 acircumflex.ss02 acircumflex.ss09 acircumflex.ss10 acircumflex.ss12 acyr.ss02 acyr.ss09 acyr.ss10 acyr.ss12 adieresis.ss02 adieresis.ss09 adieresis.ss10 adieresis.ss12 agrave.ss02 agrave.ss09 agrave.ss10 agrave.ss12 amacron.ss02 amacron.ss09 amacron.ss10 amacron.ss12 aogonek.ss02 aogonek.ss09 aogonek.ss10 aogonek.ss12 aring.ss02 aring.ss09 aring.ss10 aring.ss12 atilde.ss02 atilde.ss09 atilde.ss10 atilde.ss12];
   @_decyr.ss081 = [decyr.ss08 elcyr.loclBGR elcyr.ss08];
-  @_hardcyr = [hardcyr hardcyr.loclBGR ljecyr ljecyr.ss08 njecyr softcyr softcyr.loclBGR];
-  @_C1 = [C C.ss09 C.ss10 C.ss12 Cacute Cacute.loclPLK Cacute.loclPLK.ss09 Cacute.loclPLK.ss10 Cacute.loclPLK.ss12 Cacute.ss09 Cacute.ss10 Cacute.ss12 Ccaron Ccaron.ss09 Ccaron.ss10 Ccaron.ss12 Ccedilla Ccedilla.ss09 Ccedilla.ss10 Ccedilla.ss12 Ccircumflex Ccircumflex.ss09 Ccircumflex.ss10 Ccircumflex.ss12 Cdotaccent Cdotaccent.ss09 Cdotaccent.ss10 Cdotaccent.ss12 Efcyr Efcyr.loclBGR Ereversedcyr Ereversedcyr.ss09 Ereversedcyr.ss10 Ereversedcyr.ss12 Escyr Escyr.ss09 Escyr.ss10 Escyr.ss12 Eukrcyr Eukrcyr.ss09 Eukrcyr.ss10 Eukrcyr.ss12 G G.ss03 G.ss09 G.ss10 G.ss12 G.ss13 G.ss14 G.ss15 Gacute Gacute.ss03 Gacute.ss09 Gacute.ss10 Gacute.ss12 Gacute.ss13 Gacute.ss14 Gacute.ss15 Gbreve Gbreve.ss03 Gbreve.ss09 Gbreve.ss10 Gbreve.ss12 Gbreve.ss13 Gbreve.ss14 Gbreve.ss15 Gcaron Gcaron.ss03 Gcaron.ss09 Gcaron.ss10 Gcaron.ss12 Gcaron.ss13 Gcaron.ss14 Gcaron.ss15 Gcircumflex Gcircumflex.ss03 Gcircumflex.ss09 Gcircumflex.ss10 Gcircumflex.ss12 Gcircumflex.ss13 Gcircumflex.ss14 Gcircumflex.ss15 Gcommaaccent Gcommaaccent.ss03 Gcommaaccent.ss09 Gcommaaccent.ss10 Gcommaaccent.ss12 Gcommaaccent.ss13 Gcommaaccent.ss14 Gcommaaccent.ss15 Gdotaccent Gdotaccent.ss03 Gdotaccent.ss09 Gdotaccent.ss10 Gdotaccent.ss12 Gdotaccent.ss13 Gdotaccent.ss14 Gdotaccent.ss15 O OE Oacute Oacute.loclPLK Obreve Ocircumflex Ocyr Odieresis Ograve Ohm Ohungarumlaut Omacron Omega Omicron Oslash Oslashacute Otilde Phi Q Q.ss06 Schwa Schwa.ss09 Schwa.ss10 Schwa.ss12 Theta];
-  @_Y1 = [Upsilon Upsilondieresis Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde];
-  @_T = [Djecyr Djecyr.ss12 T Tau Tbar Tcaron Tcedilla Tcommaaccent Tdot Tecyr Tshecyr];
   @_A1 = [A AE AEacute Aacute Abreve Acircumflex Acyr Adieresis Agrave Alpha Amacron Aogonek Aring Atilde Decyr.loclBGR Decyr.ss08 Delta Elcyr.loclBGR Elcyr.ss08 Lambda Ljecyr.ss08];
   @_J = [J J.ss07 J.ss09 J.ss10 J.ss12 Jacute Jacute.ss07 Jacute.ss09 Jacute.ss10 Jacute.ss12 Jcircumflex Jcircumflex.ss07 Jcircumflex.ss09 Jcircumflex.ss10 Jcircumflex.ss12 Jecyr Jecyr.ss07 Jecyr.ss09 Jecyr.ss10 Jecyr.ss12];
   @_a = [a aacute abreve acircumflex acyr adieresis ae aeacute agrave alpha alphatonos amacron aogonek aring atilde c c.ss09 c.ss10 c.ss12 cacute cacute.loclPLK cacute.loclPLK.ss09 cacute.loclPLK.ss10 cacute.loclPLK.ss12 cacute.ss09 cacute.ss10 cacute.ss12 ccaron ccaron.ss09 ccaron.ss10 ccaron.ss12 ccedilla ccedilla.ss09 ccedilla.ss10 ccedilla.ss12 ccircumflex ccircumflex.ss09 ccircumflex.ss10 ccircumflex.ss12 cdotaccent cdotaccent.ss09 cdotaccent.ss10 cdotaccent.ss12 d d.ss11 dcaron dcaron.ss11 dcroat dcroat.ss11 decyr.loclBGR decyr.loclBGR.ss12 dz dz.ss11 dzcaron dzcaron.ss11 e e.ss09 e.ss10 e.ss12 eacute eacute.ss09 eacute.ss10 eacute.ss12 ebreve ebreve.ss09 ebreve.ss10 ebreve.ss12 ecaron ecaron.ss09 ecaron.ss10 ecaron.ss12 ecircumflex ecircumflex.ss09 ecircumflex.ss10 ecircumflex.ss12 edieresis edieresis.ss09 edieresis.ss10 edieresis.ss12 edotaccent edotaccent.ss09 edotaccent.ss10 edotaccent.ss12 efcyr efcyr.ss11 egrave egrave.ss09 egrave.ss10 egrave.ss12 emacron emacron.ss09 emacron.ss10 emacron.ss12 eogonek eogonek.ss09 eogonek.ss10 eogonek.ss12 epsilon.ss09 epsilon.ss10 epsilon.ss12 epsilontonos.ss09 epsilontonos.ss10 epsilontonos.ss12 ereversedcyr.ss09 ereversedcyr.ss10 ereversedcyr.ss12 escyr escyr.ss09 escyr.ss10 escyr.ss12 eth eukrcyr eukrcyr.ss09 eukrcyr.ss10 eukrcyr.ss12 g g.ss03 g.ss12 gacute gacute.ss09 gacute.ss12 gbreve gbreve.ss03 gbreve.ss12 gcaron gcaron.ss12 gcircumflex gcircumflex.ss03 gcircumflex.ss12 gcommaaccent gcommaaccent.ss03 gcommaaccent.ss12 gdotaccent gdotaccent.ss03 gdotaccent.ss12 iecyr iecyr.ss09 iecyr.ss10 iecyr.ss12 iegravecyr iegravecyr.ss09 iegravecyr.ss10 iegravecyr.ss12 iocyr iocyr.ss09 iocyr.ss10 iocyr.ss12 o oacute oacute.loclPLK obreve ocircumflex ocyr odieresis oe oe.ss09 oe.ss10 oe.ss12 ograve ohungarumlaut omacron omega omicron omicrontonos oslash oslashacute otilde phi q schwa schwa.ss09 schwa.ss10 schwa.ss12 sigma sigmafinal sigmafinal.ss09 sigmafinal.ss10 sigmafinal.ss12];
+  @_i = [Micro dotlessi dzhecyr emcyr encyr eng ercyr eta etatonos gecyr geupcyr gjecyr i i.loclTRK iacute iacute_j.loclNLD icyr igravecyr ij iogonek iota iotatonos ishortcyr itilde iukrcyr kacyr kappa kgreenlandic kjecyr m micro mu n nacute nacute.loclPLK ncaron ncommaaccent nj njecyr ntilde p pdot pecyr pecyr.loclBGR pi r r.ss10 racute racute.ss10 rcaron rcaron.ss10 rcommaaccent rcommaaccent.ss10 shacyr shchacyr softcyr softcyr.loclBGR tecyr.loclBGR tsecyr upsilon vecyr ylongcyr yucyr];
+  @_u = [iacute_j.loclNLD.liga iacute_j.loclNLD.liga.ss12 icyr.loclBGR ij.liga ij.liga.ss12 ishortcyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR u u.ss05 uacute uacute.ss05 ubreve ubreve.ss05 ucircumflex ucircumflex.ss05 ucyr ucyr.ss12 udieresis udieresis.ss05 ugrave ugrave.ss05 uhungarumlaut uhungarumlaut.ss05 umacron umacron.ss05 uogonek uogonek.ss05 uring uring.ss05 ushortcyr ushortcyr.ss12 utilde utilde.ss05 y y.ss12 yacute yacute.ss12 ycircumflex ydieresis ydieresis.ss12 ymacron ymacron.ss12];
+  @_f = [djecyr djecyr.ss11 f f.ss11 f_f f_f.ss11 fi fi.ss11 hbar hbar.ss11 lslash lslash.ss11 t t.ss11 tbar tbar.ss11 tcaron tcaron.ss11 tcedilla tcedilla.ss11 tcommaaccent tcommaaccent.ss11 tdot tdot.ss11 tshecyr tshecyr.ss11];
+  @_s1 = [dzecyr dzecyr.ss09 dzecyr.ss10 dzecyr.ss12 epsilon epsilontonos gecyr.loclBGR gecyr.loclBGR.ss09 gecyr.loclBGR.ss10 gecyr.loclBGR.ss12 s s.ss09 s.ss10 s.ss12 sacute sacute.loclPLK sacute.loclPLK.ss09 sacute.loclPLK.ss10 sacute.loclPLK.ss12 sacute.ss09 sacute.ss10 sacute.ss12 scaron scaron.ss09 scaron.ss10 scaron.ss12 scedilla scedilla.ss09 scedilla.ss10 scedilla.ss12 scircumflex scircumflex.ss09 scircumflex.ss10 scircumflex.ss12 scommaaccent scommaaccent.ss09 scommaaccent.ss10 scommaaccent.ss12 zecyr zecyr.ss09 zecyr.ss10 zecyr.ss12];
+  @_v = [gamma nu ucyr.ss04 ushortcyr.ss04 v w wacute wcircumflex wdieresis wgrave y.ss04 yacute.ss04 ycircumflex.ss04 ydieresis.ss04 ymacron.ss04];
+  @_x = [hacyr x zhecyr zhecyr.loclBGR zhecyr.loclBGR.ss11];
+  @_C1 = [C C.ss09 C.ss10 C.ss12 Cacute Cacute.loclPLK Cacute.loclPLK.ss09 Cacute.loclPLK.ss10 Cacute.loclPLK.ss12 Cacute.ss09 Cacute.ss10 Cacute.ss12 Ccaron Ccaron.ss09 Ccaron.ss10 Ccaron.ss12 Ccedilla Ccedilla.ss09 Ccedilla.ss10 Ccedilla.ss12 Ccircumflex Ccircumflex.ss09 Ccircumflex.ss10 Ccircumflex.ss12 Cdotaccent Cdotaccent.ss09 Cdotaccent.ss10 Cdotaccent.ss12 Efcyr Efcyr.loclBGR Ereversedcyr Ereversedcyr.ss09 Ereversedcyr.ss10 Ereversedcyr.ss12 Escyr Escyr.ss09 Escyr.ss10 Escyr.ss12 Eukrcyr Eukrcyr.ss09 Eukrcyr.ss10 Eukrcyr.ss12 G G.ss03 G.ss09 G.ss10 G.ss12 G.ss13 G.ss14 G.ss15 Gacute Gacute.ss03 Gacute.ss09 Gacute.ss10 Gacute.ss12 Gacute.ss13 Gacute.ss14 Gacute.ss15 Gbreve Gbreve.ss03 Gbreve.ss09 Gbreve.ss10 Gbreve.ss12 Gbreve.ss13 Gbreve.ss14 Gbreve.ss15 Gcaron Gcaron.ss03 Gcaron.ss09 Gcaron.ss10 Gcaron.ss12 Gcaron.ss13 Gcaron.ss14 Gcaron.ss15 Gcircumflex Gcircumflex.ss03 Gcircumflex.ss09 Gcircumflex.ss10 Gcircumflex.ss12 Gcircumflex.ss13 Gcircumflex.ss14 Gcircumflex.ss15 Gcommaaccent Gcommaaccent.ss03 Gcommaaccent.ss09 Gcommaaccent.ss10 Gcommaaccent.ss12 Gcommaaccent.ss13 Gcommaaccent.ss14 Gcommaaccent.ss15 Gdotaccent Gdotaccent.ss03 Gdotaccent.ss09 Gdotaccent.ss10 Gdotaccent.ss12 Gdotaccent.ss13 Gdotaccent.ss14 Gdotaccent.ss15 O OE Oacute Oacute.loclPLK Obreve Ocircumflex Ocyr Odieresis Ograve Ohm Ohungarumlaut Omacron Omega Omicron Oslash Oslashacute Otilde Phi Q Q.ss06 Schwa Schwa.ss09 Schwa.ss10 Schwa.ss12 Theta];
+  @_Y1 = [Upsilon Upsilondieresis Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde];
+  @_T = [Djecyr Djecyr.ss12 T Tau Tbar Tcaron Tcedilla Tcommaaccent Tdot Tecyr Tshecyr];
   @_Alphatonos = [Alphatonos Epsilontonos Etatonos Iotatonos Omegatonos Omicrontonos Upsilontonos];
   @_V1 = [V W Wacute Wcircumflex Wdieresis Wgrave];
-  @_u = [iacute_j.loclNLD.liga iacute_j.loclNLD.liga.ss12 icyr.loclBGR icyr.loclBGR.ss05 ij.liga ij.liga.ss12 ishortcyr.loclBGR ishortcyr.loclBGR.ss05 shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR u u.ss05 uacute uacute.ss05 ubreve ubreve.ss05 ucircumflex ucircumflex.ss05 ucyr ucyr.ss12 udieresis udieresis.ss05 ugrave ugrave.ss05 uhungarumlaut uhungarumlaut.ss05 umacron umacron.ss05 uogonek uogonek.ss05 uring uring.ss05 ushortcyr ushortcyr.ss12 utilde utilde.ss05 y y.ss12 yacute yacute.ss12 ycircumflex ydieresis ydieresis.ss12 ymacron ymacron.ss12];
-  @_x = [hacyr x zhecyr zhecyr.loclBGR zhecyr.loclBGR.ss11];
-  @_v = [gamma nu ucyr.ss04 ushortcyr.ss04 v w wacute wcircumflex wdieresis wgrave y.ss04 yacute.ss04 ycircumflex.ss04 ydieresis.ss04 ymacron.ss04];
-  @_f = [djecyr djecyr.ss11 f f.ss11 f_f f_f.ss11 fi fi.ss11 hbar hbar.ss11 lslash lslash.ss11 t t.ss11 tbar tbar.ss11 tcaron tcaron.ss11 tcedilla tcedilla.ss11 tcommaaccent tcommaaccent.ss11 tdot tdot.ss11 tshecyr tshecyr.ss11];
-  @_i = [Micro dotlessi dzhecyr emcyr encyr eng ercyr eta etatonos gecyr geupcyr gjecyr i i.loclTRK iacute iacute_j.loclNLD icyr igravecyr ij iogonek iota iotatonos ishortcyr itilde iukrcyr kacyr kappa kgreenlandic kjecyr m micro mu n nacute nacute.loclPLK ncaron ncommaaccent nj njecyr ntilde p pdot pecyr pecyr.loclBGR pi r r.ss10 racute racute.ss10 rcaron rcaron.ss10 rcommaaccent rcommaaccent.ss10 shacyr shchacyr softcyr softcyr.loclBGR tecyr.loclBGR tsecyr upsilon vecyr ylongcyr yucyr];
-  @_s1 = [dzecyr dzecyr.ss09 dzecyr.ss10 dzecyr.ss12 epsilon epsilontonos gecyr.loclBGR gecyr.loclBGR.ss09 gecyr.loclBGR.ss10 gecyr.loclBGR.ss12 s s.ss09 s.ss10 s.ss12 sacute sacute.loclPLK sacute.loclPLK.ss09 sacute.loclPLK.ss10 sacute.loclPLK.ss12 sacute.ss09 sacute.ss10 sacute.ss12 scaron scaron.ss09 scaron.ss10 scaron.ss12 scedilla scedilla.ss09 scedilla.ss10 scedilla.ss12 scircumflex scircumflex.ss09 scircumflex.ss10 scircumflex.ss12 scommaaccent scommaaccent.ss09 scommaaccent.ss10 scommaaccent.ss12 zecyr zecyr.ss09 zecyr.ss10 zecyr.ss12];
   @_decyr.ss08 = [decyr.ss08 elcyr.loclBGR elcyr.ss08 ljecyr.ss08];
   @_germandbls1 = [becyr delta theta xi zeta];
 
@@ -5595,49 +5628,50 @@ feature kern {
     pos yucyr.loclBGR decyr -20;
     pos yucyr.loclBGR.ss11 decyr -20;
   subtable;
-    pos @_A @_C1 -30;
-    pos @_A @_Y1 -60;
-    pos @_A @_T -60;
-    pos @_C @_A1 -50;
-    pos @_C @_Y1 -30;
-    pos @_F @_A1 -100;
-    pos @_F @_C1 -20;
-    pos @_F @_J -50;
-    pos @_F @_a -60;
-    pos @_G @_Y1 -40;
-    pos @_K @_Alphatonos 10;
-    pos @_L @_C1 -20;
-    pos @_L @_V1 -50;
-    pos @_L @_T -90;
-    pos @_V @_A1 -30;
-    pos @_V @_J -70;
-    pos @_V @_a -40;
     pos @_Y @_A1 -60;
-    pos @_Y @_C1 -30;
     pos @_Y @_J -130;
-    pos @_Y @_u -30;
-    pos @_Y @_x -50;
-    pos @_Y @_v -50;
-    pos @_Y @_f -50;
-    pos @_Y @_i -20;
     pos @_Y @_a -80;
+    pos @_Y @_i -20;
+    pos @_Y @_u -30;
+    pos @_Y @_f -50;
     pos @_Y @_s1 -40;
-    pos @_T1 @_A1 -60;
-    pos @_T1 @_J -110;
-    pos @_T1 @_Alphatonos 10;
-    pos @_T1 @_a -50;
+    pos @_Y @_v -50;
+    pos @_Y @_x -50;
+    pos @_Y @_C1 -30;
+    pos @_A @_Y1 -60;
+    pos @_A @_C1 -30;
+    pos @_A @_T -60;
     pos @_P @_A1 -80;
     pos @_P @_J -80;
     pos @_P @_Alphatonos 20;
     pos @_Ljecyr @_T -70;
-    pos @_l @_a -20;
-    pos @_r @_decyr.ss08 -70;
-    pos @_a.ss021 @_s1 -20;
-    pos @_decyr.ss081 @_u -20;
-    pos @_decyr.ss081 @_a -50;
-    pos @_decyr.ss081 @_germandbls1 -50;
+    pos @_F @_A1 -100;
+    pos @_F @_J -50;
+    pos @_F @_a -60;
+    pos @_F @_C1 -20;
+    pos @_L @_C1 -20;
+    pos @_L @_V1 -50;
+    pos @_L @_T -90;
+    pos @_C @_Y1 -30;
+    pos @_C @_A1 -50;
     pos @_hardcyr @_x -30;
     pos @_hardcyr @_decyr.ss08 -40;
+    pos @_T1 @_A1 -60;
+    pos @_T1 @_J -110;
+    pos @_T1 @_a -50;
+    pos @_T1 @_Alphatonos 10;
+    pos @_V @_A1 -30;
+    pos @_V @_J -70;
+    pos @_V @_a -40;
+    pos @_K @_Alphatonos 10;
+    pos @_r @_decyr.ss08 -70;
+    pos @_G @_Y1 -40;
+    pos @_l @_a -20;
+    pos @_a.ss021 @_s1 -20;
+    pos @_decyr.ss081 @_a -50;
+    pos @_decyr.ss081 @_u -20;
+    pos @_decyr.ss081 @_germandbls1 -50;
   } KERN_LTR;
 
 } kern;
+

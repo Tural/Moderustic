@@ -5,6 +5,9 @@
   <anchor x="244" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="26" y="75" type="line"/>
+      <point x="73" y="13"/>
+      <point x="147" y="-20"/>
       <point x="223" y="-20" type="curve" smooth="yes"/>
       <point x="379" y="-20"/>
       <point x="445" y="54"/>
@@ -41,9 +44,6 @@
       <point x="154" y="103"/>
       <point x="107" y="126"/>
       <point x="35" y="178" type="curve"/>
-      <point x="26" y="75" type="line"/>
-      <point x="73" y="13"/>
-      <point x="147" y="-20"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cb34701e7b5f1d0afcab08fac1e7e1ecd452b11301123df5291297415e241a8b64c0997a8985232480f4bc35b8858cce1f90650736094a68326cb009c20ead96</string>
+    <string>9129cbc503887d0b3cb5a7fdeb1b2f7ce2952cef65791be00443558410366a34facfa0031c609393d1685079ed944cfb9b01e04f60c39ded5998e94fa8d37e43</string>
     <key>hintSetList</key>
     <array>
       <dict>

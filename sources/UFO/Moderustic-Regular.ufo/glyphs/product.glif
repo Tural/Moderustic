@@ -4,6 +4,7 @@
   <unicode hex="220F"/>
   <outline>
     <contour>
+      <point x="97" y="-125" type="line"/>
       <point x="187" y="-125" type="line"/>
       <point x="187" y="620" type="line"/>
       <point x="579" y="620" type="line"/>
@@ -11,7 +12,6 @@
       <point x="669" y="-125" type="line"/>
       <point x="669" y="700" type="line"/>
       <point x="97" y="700" type="line"/>
-      <point x="97" y="-125" type="line"/>
     </contour>
   </outline>
 </glyph>

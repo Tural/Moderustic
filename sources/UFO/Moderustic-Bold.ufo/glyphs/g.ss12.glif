@@ -5,6 +5,9 @@
   <anchor x="317" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="268" y="-20" type="curve" smooth="yes"/>
+      <point x="377" y="-20"/>
+      <point x="448" y="90"/>
       <point x="448" y="255" type="curve" smooth="yes"/>
       <point x="448" y="421"/>
       <point x="379" y="520"/>
@@ -14,11 +17,11 @@
       <point x="49" y="255" type="curve" smooth="yes"/>
       <point x="49" y="99"/>
       <point x="132" y="-20"/>
-      <point x="268" y="-20" type="curve" smooth="yes"/>
-      <point x="377" y="-20"/>
-      <point x="448" y="90"/>
     </contour>
     <contour>
+      <point x="319" y="106" type="curve" smooth="yes"/>
+      <point x="259" y="106"/>
+      <point x="215" y="168"/>
       <point x="215" y="256" type="curve" smooth="yes"/>
       <point x="215" y="341"/>
       <point x="255" y="393"/>
@@ -28,11 +31,11 @@
       <point x="416" y="257" type="curve" smooth="yes"/>
       <point x="416" y="166"/>
       <point x="378" y="106"/>
-      <point x="319" y="106" type="curve" smooth="yes"/>
-      <point x="259" y="106"/>
-      <point x="215" y="168"/>
     </contour>
     <contour>
+      <point x="74" y="-125" type="line"/>
+      <point x="125" y="-186"/>
+      <point x="203" y="-220"/>
       <point x="290" y="-220" type="curve" smooth="yes"/>
       <point x="474" y="-220"/>
       <point x="581" y="-140"/>
@@ -46,21 +49,16 @@
       <point x="208" y="-97"/>
       <point x="149" y="-75"/>
       <point x="83" y="-22" type="curve"/>
-      <point x="74" y="-125" type="line"/>
-      <point x="125" y="-186"/>
-      <point x="203" y="-220"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7a6dc8f084dc194a342a4ef01ac5bb1a273ea3704a5078274dd61f5b570045399c6e1f05a3d9ee8983c4ce75e6d2c5e6b284ccf94f41bea283344f4ece024863</string>
+    <string>671afb268a548a45ecf1b443484b7e7d81370b14cf919c16726ef8b3dde844b10af6bacce1ec2cdef838aafc1ec9bac9342b489e2419c0c0a0beeda6c63d43c2</string>
     <key>hintSetList</key>
     <array>
       <dict>

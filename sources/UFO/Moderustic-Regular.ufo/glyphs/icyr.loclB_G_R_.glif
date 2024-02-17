@@ -5,7 +5,7 @@
   <anchor x="300" y="-20" name="bottom"/>
   <anchor x="399" y="-3" name="ogonek"/>
   <outline>
-    <component base="u"/>
+    <component base="u.ss05"/>
   </outline>
   <lib>
   <dict>

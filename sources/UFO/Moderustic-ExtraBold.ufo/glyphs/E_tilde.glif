@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etilde" format="2">
+  <advance width="550"/>
+  <unicode hex="1EBC"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <anchor x="498" y="-2" name="ogonek"/>
+  <anchor x="-50" y="500" name="topgr"/>
+  <anchor x="275" y="894" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="tilde.case" xOffset="53" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

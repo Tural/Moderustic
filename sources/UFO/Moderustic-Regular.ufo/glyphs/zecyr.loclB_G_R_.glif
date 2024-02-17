@@ -3,6 +3,16 @@
   <advance width="515"/>
   <outline>
     <contour>
+      <point x="37" y="-119.43" type="curve"/>
+      <point x="90" y="-66.4298" type="line"/>
+      <point x="126.655" y="-123.097"/>
+      <point x="177.749" y="-151.43"/>
+      <point x="249.496" y="-151.43" type="curve" smooth="yes" name="dv02"/>
+      <point x="324.506" y="-151.43"/>
+      <point x="376.57" y="-109.058"/>
+      <point x="376.57" y="-0.0154076" type="curve" smooth="yes"/>
+      <point x="376.57" y="94.2562"/>
+      <point x="329.786" y="133.476"/>
       <point x="182" y="124.198" type="curve"/>
       <point x="182" y="189.198" type="line"/>
       <point x="315.493" y="195.375"/>
@@ -32,16 +42,6 @@
       <point x="254.441" y="-221.43" type="curve" smooth="yes" name="dv01"/>
       <point x="155.555" y="-221.43"/>
       <point x="85.4998" y="-183.43"/>
-      <point x="37" y="-119.43" type="curve"/>
-      <point x="90" y="-66.4298" type="line"/>
-      <point x="126.655" y="-123.097"/>
-      <point x="177.749" y="-151.43"/>
-      <point x="249.496" y="-151.43" type="curve" smooth="yes" name="dv02"/>
-      <point x="324.506" y="-151.43"/>
-      <point x="376.57" y="-109.058"/>
-      <point x="376.57" y="-0.0154076" type="curve" smooth="yes"/>
-      <point x="376.57" y="94.2562"/>
-      <point x="329.786" y="133.476"/>
     </contour>
   </outline>
   <lib>

@@ -3,7 +3,25 @@
   <advance width="737"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H" xOffset="1"/>
-    <component base="emdash" xScale="0.9054" xOffset="-45" yOffset="252"/>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="305" type="line"/>
+      <point x="505" y="305" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="700" type="line"/>
+      <point x="505" y="700" type="line"/>
+      <point x="505" y="435" type="line"/>
+      <point x="233" y="435" type="line"/>
+      <point x="233" y="700" type="line"/>
+      <point x="68" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="0.269999" y="514" type="line"/>
+      <point x="737.266" y="514" type="line"/>
+      <point x="737.266" y="548" type="line"/>
+      <point x="0.269999" y="548" type="line"/>
+    </contour>
   </outline>
 </glyph>

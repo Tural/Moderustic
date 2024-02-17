@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD.liga" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="67" y="122" type="line"/>
+      <point x="126" y="30"/>
+      <point x="208" y="-20"/>
+      <point x="318" y="-20" type="curve" smooth="yes"/>
+      <point x="464" y="-20"/>
+      <point x="557" y="67"/>
+      <point x="557" y="222" type="curve" smooth="yes"/>
+      <point x="557" y="700" type="line"/>
+      <point x="391" y="700" type="line"/>
+      <point x="391" y="240" type="line" smooth="yes"/>
+      <point x="391" y="148"/>
+      <point x="367" y="110"/>
+      <point x="309" y="110" type="curve" smooth="yes"/>
+      <point x="257" y="110"/>
+      <point x="218" y="140"/>
+      <point x="162" y="217" type="curve"/>
+    </contour>
+    <contour>
+      <point x="419" y="769" type="line"/>
+      <point x="517" y="769" type="line"/>
+      <point x="624" y="920" type="line"/>
+      <point x="490" y="920" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="279.994" type="line"/>
+      <point x="232" y="700" type="line"/>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="279.994" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="770" type="line"/>
+      <point x="203" y="770" type="line"/>
+      <point x="310" y="921" type="line"/>
+      <point x="176" y="921" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Jacute+^&lt;iacute.loclNLD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

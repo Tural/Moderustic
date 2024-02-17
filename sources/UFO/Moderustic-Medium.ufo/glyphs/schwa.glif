@@ -15,10 +15,6 @@
       <point x="433" y="214" type="curve" name="ah01"/>
     </contour>
     <contour>
-      <point x="298" y="430" type="curve" smooth="yes"/>
-      <point x="247" y="430"/>
-      <point x="186.422" y="406.657"/>
-      <point x="153" y="362" type="curve"/>
       <point x="85" y="430" type="line"/>
       <point x="127" y="483"/>
       <point x="203" y="520"/>
@@ -38,6 +34,10 @@
       <point x="431" y="294" type="line" name="sh03"/>
       <point x="428.211" y="374.593"/>
       <point x="378" y="430"/>
+      <point x="298" y="430" type="curve" smooth="yes"/>
+      <point x="247" y="430"/>
+      <point x="186.422" y="406.657"/>
+      <point x="153" y="362" type="curve"/>
     </contour>
   </outline>
   <lib>

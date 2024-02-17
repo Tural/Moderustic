@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lj.ss11" format="2">
+  <advance width="572"/>
+  <anchor x="372" y="-217" name="bottom"/>
+  <anchor x="439" y="683" name="top"/>
+  <anchor x="202" y="700" name="topright"/>
+  <outline>
+    <component base="l.ss11"/>
+    <component base="j" xOffset="272"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l.ss11_j%</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

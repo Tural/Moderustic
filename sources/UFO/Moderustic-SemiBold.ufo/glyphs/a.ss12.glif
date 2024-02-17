@@ -6,11 +6,6 @@
   <anchor x="478" y="-2" name="ogonek"/>
   <outline>
     <contour>
-      <point x="269.529" y="520" type="curve" smooth="yes"/>
-      <point x="402.063" y="520"/>
-      <point x="483" y="451"/>
-      <point x="483" y="350" type="curve" smooth="yes"/>
-      <point x="483" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
       <point x="338" y="248" type="line"/>
       <point x="338" y="228"/>
@@ -47,6 +42,11 @@
       <point x="51" y="421" type="line"/>
       <point x="104.621" y="486"/>
       <point x="176.452" y="520"/>
+      <point x="269.529" y="520" type="curve" smooth="yes"/>
+      <point x="402.063" y="520"/>
+      <point x="483" y="451"/>
+      <point x="483" y="350" type="curve" smooth="yes"/>
+      <point x="483" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

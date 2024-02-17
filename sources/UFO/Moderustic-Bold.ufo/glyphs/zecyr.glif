@@ -6,6 +6,21 @@
   <anchor x="280" y="-20" name="bottom"/>
   <outline>
     <contour>
+      <point x="18" y="80" type="line"/>
+      <point x="58" y="11"/>
+      <point x="137" y="-20"/>
+      <point x="234" y="-20" type="curve" smooth="yes"/>
+      <point x="377" y="-20"/>
+      <point x="475" y="48"/>
+      <point x="475" y="151" type="curve" smooth="yes"/>
+      <point x="475" y="228.806"/>
+      <point x="415.022" y="275"/>
+      <point x="314" y="275" type="curve"/>
+      <point x="398.455" y="275"/>
+      <point x="448" y="315.302"/>
+      <point x="448" y="384" type="curve" smooth="yes"/>
+      <point x="448" y="468"/>
+      <point x="370" y="520"/>
       <point x="247" y="520" type="curve" smooth="yes"/>
       <point x="163" y="520"/>
       <point x="75" y="496"/>
@@ -30,21 +45,6 @@
       <point x="180" y="104"/>
       <point x="143" y="121"/>
       <point x="108" y="170" type="curve"/>
-      <point x="18" y="80" type="line"/>
-      <point x="58" y="11"/>
-      <point x="137" y="-20"/>
-      <point x="234" y="-20" type="curve" smooth="yes"/>
-      <point x="377" y="-20"/>
-      <point x="475" y="48"/>
-      <point x="475" y="151" type="curve" smooth="yes"/>
-      <point x="475" y="228.806"/>
-      <point x="415.022" y="275"/>
-      <point x="314" y="275" type="curve"/>
-      <point x="398.455" y="275"/>
-      <point x="448" y="315.302"/>
-      <point x="448" y="384" type="curve" smooth="yes"/>
-      <point x="448" y="468"/>
-      <point x="370" y="520"/>
     </contour>
   </outline>
   <lib>
@@ -54,7 +54,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7c040c5e1f449bcc7decc7a4b9d23b5faded7f26e7521dc84471448a94486a369159ec8460e4be3781b498b6012cc04f994a8c1d3dd65cd4ebb6ea40a2c2b775</string>
+    <string>a71fe4e86f1170d1445393be384443b9e22d7c8d82d1646b3da894b914774e32ae1109229127275e9246f5885131dc57ee2d1e0b33a7e93dd3ac0c7e30ef90e7</string>
     <key>hintSetList</key>
     <array>
       <dict>

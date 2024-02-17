@@ -5,9 +5,6 @@
   <anchor x="308" y="721" name="topgr"/>
   <outline>
     <contour>
-      <point x="437" y="219" type="curve" smooth="yes"/>
-      <point x="437" y="129"/>
-      <point x="396" y="70"/>
       <point x="306" y="70" type="curve" smooth="yes"/>
       <point x="220" y="70"/>
       <point x="179" y="123"/>
@@ -17,6 +14,9 @@
       <point x="303" y="377" type="curve" smooth="yes"/>
       <point x="398" y="377"/>
       <point x="437" y="307"/>
+      <point x="437" y="219" type="curve" smooth="yes"/>
+      <point x="437" y="129"/>
+      <point x="396" y="70"/>
     </contour>
     <contour>
       <point x="59" y="226" type="curve" smooth="yes"/>
@@ -33,6 +33,9 @@
       <point x="59" y="369"/>
     </contour>
     <contour>
+      <point x="390" y="457" type="line"/>
+      <point x="266" y="493.208"/>
+      <point x="241" y="528.416"/>
       <point x="241" y="566.636" type="curve" smooth="yes"/>
       <point x="241" y="604.856"/>
       <point x="266" y="630"/>
@@ -50,9 +53,6 @@
       <point x="121" y="489"/>
       <point x="193" y="446"/>
       <point x="307" y="438" type="curve"/>
-      <point x="390" y="457" type="line"/>
-      <point x="266" y="493.208"/>
-      <point x="241" y="528.416"/>
     </contour>
   </outline>
 </glyph>

@@ -4,11 +4,6 @@
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="425" y="720" type="curve" smooth="yes"/>
-      <point x="224" y="720"/>
-      <point x="112" y="582"/>
-      <point x="90" y="434" type="curve"/>
-      <point x="25" y="434" type="line"/>
       <point x="15" y="364" type="line"/>
       <point x="512" y="364" type="line"/>
       <point x="522" y="434" type="line"/>
@@ -22,15 +17,13 @@
       <point x="701" y="599" type="line"/>
       <point x="633" y="683"/>
       <point x="548" y="720"/>
+      <point x="425" y="720" type="curve" smooth="yes"/>
+      <point x="224" y="720"/>
+      <point x="112" y="582"/>
+      <point x="90" y="434" type="curve"/>
+      <point x="25" y="434" type="line"/>
     </contour>
     <contour>
-      <point x="431" y="110" type="curve" smooth="yes"/>
-      <point x="325" y="110"/>
-      <point x="262" y="185"/>
-      <point x="258" y="270" type="curve"/>
-      <point x="498" y="270" type="line"/>
-      <point x="508" y="340" type="line"/>
-      <point x="25" y="340" type="line"/>
       <point x="15" y="270" type="line"/>
       <point x="89" y="270" type="line"/>
       <point x="111" y="120"/>
@@ -42,6 +35,13 @@
       <point x="611" y="197" type="line"/>
       <point x="562" y="139"/>
       <point x="498" y="110"/>
+      <point x="431" y="110" type="curve" smooth="yes"/>
+      <point x="325" y="110"/>
+      <point x="262" y="185"/>
+      <point x="258" y="270" type="curve"/>
+      <point x="498" y="270" type="line"/>
+      <point x="508" y="340" type="line"/>
+      <point x="25" y="340" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>93578213f1713dc864092be8955865fd3d4bf856d613728bc1e50e970641ceb5547d4eb6b858ef77eed9003e03374534063ebc13a8e4d7748a0753a7ca3da694</string>
+    <string>fb2c705eb8562ca732e80d1faeee690648164f15bdd3d084ec7d8cf6a2a3332b26e79dee525acc00581893820c347fe0aca73f0843eee5abea52ab28be715283</string>
     <key>hintSetList</key>
     <array>
       <dict>

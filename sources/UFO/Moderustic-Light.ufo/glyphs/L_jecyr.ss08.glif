@@ -2,27 +2,38 @@
 <glyph name="Ljecyr.ss08" format="2">
   <advance width="920"/>
   <outline>
-    <component base="Elcyr.ss08"/>
     <contour>
-      <point x="567" y="0" type="line"/>
+      <point x="577" y="0" type="line"/>
       <point x="617" y="0" type="line" smooth="yes"/>
       <point x="769" y="0"/>
-      <point x="851" y="61"/>
-      <point x="851" y="187" type="curve" smooth="yes"/>
-      <point x="851" y="309"/>
-      <point x="773" y="380"/>
-      <point x="621" y="380" type="curve" smooth="yes"/>
-      <point x="454" y="380" type="line"/>
-      <point x="469" y="326" type="line"/>
-      <point x="612" y="326" type="line" smooth="yes"/>
-      <point x="742" y="326"/>
-      <point x="791" y="287"/>
-      <point x="791" y="186" type="curve" smooth="yes"/>
-      <point x="791" y="89"/>
+      <point x="851" y="65.8158"/>
+      <point x="851" y="201.763" type="curve" smooth="yes"/>
+      <point x="851" y="333.395"/>
+      <point x="773" y="410"/>
+      <point x="621" y="410" type="curve" smooth="yes"/>
+      <point x="454" y="410" type="line"/>
+      <point x="469" y="356" type="line"/>
+      <point x="612" y="356" type="line" smooth="yes"/>
+      <point x="742" y="356"/>
+      <point x="791" y="312.699"/>
+      <point x="791" y="200.559" type="curve" smooth="yes"/>
+      <point x="791" y="92.8603"/>
       <point x="745" y="54"/>
       <point x="617" y="54" type="curve" smooth="yes"/>
       <point x="589" y="54" type="line"/>
       <point x="563" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="700" type="line"/>
+      <point x="323" y="700" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="700" type="line"/>
+      <point x="269" y="700" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,16 +2,17 @@
 <glyph name="omegatonos" format="2">
   <advance width="832"/>
   <unicode hex="03CE"/>
-  <anchor x="416" y="520" name="topgr"/>
-  <anchor x="383.5" y="700" name="top"/>
+  <anchor x="396" y="719" name="topgr"/>
   <outline>
     <component base="omega"/>
-    <component base="acutecomb" xOffset="241.5"/>
+    <component base="tonos" xOffset="357" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>omega+tonos</string>
   </dict>
   </lib>
 </glyph>

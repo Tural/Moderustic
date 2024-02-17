@@ -6,14 +6,14 @@
   <anchor x="241" y="720" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="circumflex" xOffset="68" yOffset="20"/>
+    <component base="circumflexcomb" xOffset="68" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>z+circumflex</string>
+  <string>z+circumflexcomb</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

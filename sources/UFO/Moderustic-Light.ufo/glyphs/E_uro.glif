@@ -24,6 +24,7 @@
       <point x="25" y="419" type="line"/>
     </contour>
     <contour>
+      <point x="15" y="285" type="line"/>
       <point x="128" y="285" type="line"/>
       <point x="152" y="103"/>
       <point x="265" y="-20"/>
@@ -41,7 +42,6 @@
       <point x="498" y="285" type="line"/>
       <point x="503" y="314" type="line"/>
       <point x="20" y="314" type="line"/>
-      <point x="15" y="285" type="line"/>
     </contour>
   </outline>
 </glyph>

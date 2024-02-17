@@ -3,7 +3,6 @@
   <advance width="391"/>
   <outline>
     <contour>
-      <point x="365" y="-155" type="curve"/>
       <point x="365" y="-75" type="line"/>
       <point x="278" y="-43"/>
       <point x="214" y="138"/>
@@ -17,6 +16,7 @@
       <point x="50" y="370" type="curve" smooth="yes"/>
       <point x="50" y="86"/>
       <point x="182" y="-134"/>
+      <point x="365" y="-155" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w391m365,-155l365,-75c278,-43 214,138 214,351c214,549 273,708 365,757l365,837c170,801 50,624 50,370c50,86 182,-134 365,-155</string>
+    <string>w391m365,-75c278,-43 214,138 214,351c214,549 273,708 365,757l365,837c170,801 50,624 50,370c50,86 182,-134 365,-155</string>
     <key>hintSetList</key>
     <array>
       <dict>

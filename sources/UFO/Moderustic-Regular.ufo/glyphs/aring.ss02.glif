@@ -6,14 +6,14 @@
   <anchor x="287" y="743" name="top"/>
   <outline>
     <component base="a.ss02"/>
-    <component base="ring" xOffset="152" yOffset="20"/>
+    <component base="ringcomb" xOffset="152" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>a.ss02+ring</string>
+  <string>a.ss02+ringcomb</string>
   </dict>
   </lib>
 </glyph>

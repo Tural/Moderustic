@@ -5,6 +5,9 @@
   <anchor x="295" y="-220" name="bottom"/>
   <outline>
     <contour>
+      <point x="69" y="318" type="curve" smooth="yes"/>
+      <point x="69" y="202"/>
+      <point x="162" y="124"/>
       <point x="292" y="124" type="curve" smooth="yes" name="dv05"/>
       <point x="426" y="124"/>
       <point x="521" y="206"/>
@@ -14,29 +17,22 @@
       <point x="296" y="520" type="curve" smooth="yes" name="at01"/>
       <point x="163" y="520"/>
       <point x="69" y="435"/>
-      <point x="69" y="318" type="curve" smooth="yes"/>
-      <point x="69" y="202"/>
-      <point x="162" y="124"/>
     </contour>
     <contour>
-      <point x="297" y="430" type="curve" smooth="yes" name="sv01"/>
-      <point x="365" y="430"/>
-      <point x="401" y="389"/>
-      <point x="401" y="320" type="curve" smooth="yes" name="sv13"/>
-      <point x="401" y="250"/>
-      <point x="364" y="214"/>
       <point x="294" y="214" type="curve" smooth="yes" name="dv06"/>
       <point x="224" y="214"/>
       <point x="189" y="249"/>
       <point x="189" y="316" type="curve" smooth="yes" name="sv09"/>
       <point x="189" y="388"/>
       <point x="229" y="430"/>
+      <point x="297" y="430" type="curve" smooth="yes" name="sv01"/>
+      <point x="365" y="430"/>
+      <point x="401" y="389"/>
+      <point x="401" y="320" type="curve" smooth="yes" name="sv13"/>
+      <point x="401" y="250"/>
+      <point x="364" y="214"/>
     </contour>
     <contour>
-      <point x="308" y="-130" type="curve" smooth="yes" name="dv02"/>
-      <point x="213" y="-130"/>
-      <point x="178" y="-104"/>
-      <point x="173" y="-33" type="curve" name="sv04"/>
       <point x="56" y="-33" type="line" name="sv12"/>
       <point x="63" y="-152"/>
       <point x="156" y="-220"/>
@@ -65,15 +61,12 @@
       <point x="430" y="-66" type="curve" smooth="yes" name="sv07"/>
       <point x="430" y="-115"/>
       <point x="381" y="-130"/>
+      <point x="308" y="-130" type="curve" smooth="yes" name="dv02"/>
+      <point x="213" y="-130"/>
+      <point x="178" y="-104"/>
+      <point x="173" y="-33" type="curve" name="sv04"/>
     </contour>
     <contour>
-      <point x="584" y="533" type="curve" smooth="yes"/>
-      <point x="584" y="568"/>
-      <point x="559" y="594"/>
-      <point x="521" y="594" type="curve" smooth="yes" name="dv04"/>
-      <point x="462" y="594"/>
-      <point x="403" y="530"/>
-      <point x="394" y="435" type="curve" name="sv02"/>
       <point x="411" y="432" type="line" name="sv03"/>
       <point x="416" y="483"/>
       <point x="456" y="530"/>
@@ -83,6 +76,13 @@
       <point x="532" y="477" type="curve" smooth="yes" name="dv03"/>
       <point x="562" y="477"/>
       <point x="584" y="500"/>
+      <point x="584" y="533" type="curve" smooth="yes"/>
+      <point x="584" y="568"/>
+      <point x="559" y="594"/>
+      <point x="521" y="594" type="curve" smooth="yes" name="dv04"/>
+      <point x="462" y="594"/>
+      <point x="403" y="530"/>
+      <point x="394" y="435" type="curve" name="sv02"/>
     </contour>
   </outline>
   <lib>
@@ -185,7 +185,7 @@
       <key>stem</key>
       <string>90</string>
       <key>align</key>
-      <string>center</string>
+      <string>round</string>
     </dict>
     <dict>
       <key>code</key>
@@ -239,9 +239,9 @@
       <key>code</key>
       <string>singlev</string>
       <key>point1</key>
-      <string>sv04</string>
+      <string>sv07</string>
       <key>point2</key>
-      <string>dv01</string>
+      <string>sv12</string>
       <key>stem</key>
       <string>100</string>
       <key>align</key>
@@ -251,21 +251,9 @@
       <key>code</key>
       <string>singlev</string>
       <key>point1</key>
+      <string>sv04</string>
+      <key>point2</key>
       <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>90</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>sv07</string>
-      <key>point2</key>
-      <string>sv12</string>
       <key>stem</key>
       <string>100</string>
       <key>align</key>
@@ -340,6 +328,18 @@
       <string>ab01</string>
       <key>stem</key>
       <string>100</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>dv02</string>
+      <key>stem</key>
+      <string>90</string>
       <key>align</key>
       <string>round</string>
     </dict>

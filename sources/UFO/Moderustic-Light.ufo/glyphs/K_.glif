@@ -7,20 +7,20 @@
   <outline>
     <contour>
       <point x="98" y="0" type="line" name="av01"/>
-      <point x="158" y="0" type="line"/>
-      <point x="158" y="700" type="line" name="av02"/>
       <point x="98" y="700" type="line"/>
+      <point x="158" y="700" type="line" name="av02"/>
+      <point x="158" y="0" type="line"/>
     </contour>
     <contour>
       <point x="130" y="335" type="line"/>
-      <point x="357" y="335" type="line"/>
-      <point x="543" y="0" type="line"/>
-      <point x="613" y="0" type="line"/>
-      <point x="401" y="367" type="line"/>
-      <point x="609" y="700" type="line"/>
-      <point x="538" y="700" type="line"/>
-      <point x="351" y="389" type="line"/>
       <point x="121" y="389" type="line"/>
+      <point x="351" y="389" type="line"/>
+      <point x="538" y="700" type="line"/>
+      <point x="609" y="700" type="line"/>
+      <point x="401" y="367" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="357" y="335" type="line"/>
     </contour>
   </outline>
 </glyph>

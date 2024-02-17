@@ -16,6 +16,9 @@
       <point x="467" y="297" type="curve" name="dv04"/>
     </contour>
     <contour>
+      <point x="471" y="106" type="line"/>
+      <point x="425" y="50"/>
+      <point x="374" y="31"/>
       <point x="313" y="31" type="curve" smooth="yes" name="dv02"/>
       <point x="189" y="31"/>
       <point x="129" y="110"/>
@@ -33,9 +36,6 @@
       <point x="403" y="-20"/>
       <point x="467" y="17"/>
       <point x="507" y="70" type="curve"/>
-      <point x="471" y="106" type="line"/>
-      <point x="425" y="50"/>
-      <point x="374" y="31"/>
     </contour>
   </outline>
   <lib>

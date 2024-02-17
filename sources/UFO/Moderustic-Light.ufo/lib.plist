@@ -1320,8 +1320,6 @@
     <string>zhecyr.loclBGR.ss11</string>
     <string>kacyr.loclBGR.ss11</string>
     <string>decyr.loclBGR.ss12</string>
-    <string>icyr.loclBGR.ss05</string>
-    <string>ishortcyr.loclBGR.ss05</string>
     <string>Eng.ss07</string>
     <string>Eng.ss09</string>
     <string>Eng.ss10</string>
@@ -1338,22 +1336,22 @@
     <string>seven.osf</string>
     <string>eight.osf</string>
     <string>nine.osf</string>
-    <string>one.ss09.osf</string>
-    <string>two.ss09.osf</string>
-    <string>two.ss10.osf</string>
-    <string>two.ss12.osf</string>
-    <string>five.ss09.osf</string>
-    <string>five.ss10.osf</string>
-    <string>five.ss12.osf</string>
-    <string>six.ss09.osf</string>
-    <string>six.ss10.osf</string>
-    <string>six.ss12.osf</string>
-    <string>nine.ss09.osf</string>
-    <string>nine.ss10.osf</string>
-    <string>nine.ss12.osf</string>
-    <string>three.ss09.osf</string>
-    <string>three.ss10.osf</string>
-    <string>three.ss12.osf</string>
+    <string>one.osf.ss09</string>
+    <string>two.osf.ss09</string>
+    <string>two.osf.ss10</string>
+    <string>two.osf.ss12</string>
+    <string>five.osf.ss09</string>
+    <string>five.osf.ss10</string>
+    <string>five.osf.ss12</string>
+    <string>six.osf.ss09</string>
+    <string>six.osf.ss10</string>
+    <string>six.osf.ss12</string>
+    <string>nine.osf.ss09</string>
+    <string>nine.osf.ss10</string>
+    <string>nine.osf.ss12</string>
+    <string>three.osf.ss09</string>
+    <string>three.osf.ss10</string>
+    <string>three.osf.ss12</string>
     <string>Etilde</string>
     <string>etilde</string>
     <string>Ygrave</string>
@@ -1404,6 +1402,8 @@
     <string>questiondown.ss09.case</string>
     <string>questiondown.ss10.case</string>
     <string>questiondown.ss12.case</string>
+    <string>brevecy</string>
+    <string>brevecycomb</string>
   </array>
 </dict>
 </plist>

@@ -4,15 +4,72 @@
   <anchor x="290" y="520" name="top"/>
   <anchor x="285" y="-20" name="bottom"/>
   <outline>
-    <component base="a.ss09"/>
-    <component base="ogonek" xOffset="293" yOffset="-3"/>
+    <contour>
+      <point x="385.97" y="175.06" type="curve"/>
+      <point x="362.73" y="218.73"/>
+      <point x="306.56" y="242"/>
+      <point x="251" y="242" type="curve" smooth="yes"/>
+      <point x="181" y="242"/>
+      <point x="140" y="205"/>
+      <point x="140" y="142" type="curve" smooth="yes"/>
+      <point x="140" y="83"/>
+      <point x="176" y="50"/>
+      <point x="238" y="50" type="curve" smooth="yes"/>
+      <point x="311.39" y="50"/>
+      <point x="374.79" y="95.27"/>
+    </contour>
+    <contour>
+      <point x="386" y="0" type="line"/>
+      <point x="386" y="87.7" type="line"/>
+      <point x="357.79" y="23.8"/>
+      <point x="291.6" y="-20"/>
+      <point x="213" y="-20" type="curve" smooth="yes"/>
+      <point x="114" y="-20"/>
+      <point x="50" y="49"/>
+      <point x="50" y="146" type="curve" smooth="yes"/>
+      <point x="50" y="243"/>
+      <point x="114" y="312"/>
+      <point x="216" y="312" type="curve" smooth="yes"/>
+      <point x="288.95" y="312"/>
+      <point x="354.66" y="276.52"/>
+      <point x="386" y="223.13" type="curve"/>
+      <point x="386" y="363.8" type="line" smooth="yes"/>
+      <point x="386" y="429.95"/>
+      <point x="343" y="450"/>
+      <point x="289" y="450" type="curve" smooth="yes"/>
+      <point x="216" y="450"/>
+      <point x="169" y="422.75"/>
+      <point x="162" y="341" type="curve"/>
+      <point x="71" y="341" type="line"/>
+      <point x="79.9" y="457"/>
+      <point x="154" y="520"/>
+      <point x="289" y="520" type="curve" smooth="yes"/>
+      <point x="426" y="520"/>
+      <point x="476" y="444"/>
+      <point x="476" y="352" type="curve" smooth="yes"/>
+      <point x="476" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="-206" type="line"/>
+      <point x="375" y="-196"/>
+      <point x="335" y="-157"/>
+      <point x="335" y="-110" type="curve" smooth="yes"/>
+      <point x="335" y="-59"/>
+      <point x="382" y="-12"/>
+      <point x="455" y="3" type="curve"/>
+      <point x="476" y="0" type="line"/>
+      <point x="435" y="-22"/>
+      <point x="410" y="-62"/>
+      <point x="410" y="-103" type="curve" smooth="yes"/>
+      <point x="410" y="-143"/>
+      <point x="433" y="-171"/>
+      <point x="477" y="-183" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
-  <string>a.ss09+ogonek</string>
+  <string>a.ss09+ogonekcomb</string>
   </dict>
   </lib>
 </glyph>

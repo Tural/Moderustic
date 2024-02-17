@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcaron" format="2">
+  <advance width="1118"/>
+  <unicode hex="01C6"/>
+  <anchor x="876" y="-20" name="bottom"/>
+  <anchor x="876" y="722" name="top"/>
+  <anchor x="600" y="750" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="635"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron%</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

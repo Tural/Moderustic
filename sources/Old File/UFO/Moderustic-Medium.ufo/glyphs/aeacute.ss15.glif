@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.ss15" format="2">
+  <advance width="861"/>
+  <outline>
+    <component base="ae.ss15"/>
+    <component base="acute" xOffset="295"/>
+  </outline>
+</glyph>

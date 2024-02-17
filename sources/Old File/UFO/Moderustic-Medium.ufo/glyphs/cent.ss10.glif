@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.ss10" format="2">
+  <advance width="585"/>
+  <outline>
+    <component base="c.ss10" yOffset="101"/>
+    <contour>
+      <point x="345" y="610" type="line"/>
+      <point x="345" y="730" type="line"/>
+      <point x="295" y="730" type="line"/>
+      <point x="295" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="89" type="line"/>
+      <point x="296" y="-31" type="line"/>
+      <point x="344" y="-31" type="line"/>
+      <point x="344" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

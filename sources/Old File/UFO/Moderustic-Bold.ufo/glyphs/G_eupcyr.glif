@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="557"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="570" type="line"/>
+      <point x="343" y="570" type="line" smooth="yes"/>
+      <point x="502" y="570"/>
+      <point x="547" y="624"/>
+      <point x="547" y="814" type="curve"/>
+      <point x="414" y="814" type="line"/>
+      <point x="414" y="720"/>
+      <point x="397" y="700"/>
+      <point x="342" y="700" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w557m67,700l67,0l233,0l233,570l343,570c502,570 547,624 547,814l414,814c414,720 397,700 342,700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 580 120</string>
+          <string>hstem 580 234</string>
+          <string>vstem 67 166</string>
+          <string>vstem 412 135</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

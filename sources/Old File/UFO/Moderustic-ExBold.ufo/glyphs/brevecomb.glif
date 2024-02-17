@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb" format="2">
+  <advance width="336"/>
+  <unicode hex="0306"/>
+  <anchor x="168" y="500" name="_top"/>
+  <anchor x="168" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="22" y="702" type="line"/>
+      <point x="31" y="597.147"/>
+      <point x="81" y="550"/>
+      <point x="165" y="550" type="curve" smooth="yes"/>
+      <point x="252" y="550"/>
+      <point x="308" y="601.427"/>
+      <point x="317" y="702" type="curve"/>
+      <point x="216" y="702" type="line"/>
+      <point x="211" y="658.019"/>
+      <point x="192" y="640"/>
+      <point x="168" y="640" type="curve" smooth="yes"/>
+      <point x="144" y="640"/>
+      <point x="129" y="656.83"/>
+      <point x="123" y="702" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>breve%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w336m22,702c31,597.15 81,550 165,550c252,550 308,601.43 317,702l216,702c211,658.02 192,640 168,640c144,640 129,656.83 123,702</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 584 86</string>
+          <string>hstem 584 139</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

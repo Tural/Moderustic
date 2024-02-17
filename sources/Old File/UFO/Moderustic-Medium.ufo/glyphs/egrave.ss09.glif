@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave.ss09" format="2">
+  <advance width="595"/>
+  <anchor x="298" y="-20" name="bottom"/>
+  <anchor x="409" y="-2" name="ogonek"/>
+  <anchor x="268" y="720" name="top"/>
+  <outline>
+    <component base="e.ss09"/>
+    <component base="grave" xOffset="120" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss09+grave</string>
+  </dict>
+  </lib>
+</glyph>

@@ -7,12 +7,14 @@
   <anchor x="329" y="700" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="breve" xOffset="161" yOffset="20"/>
+    <component base="brevecomb" xOffset="161" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+brevecomb</string>
   </dict>
   </lib>
 </glyph>

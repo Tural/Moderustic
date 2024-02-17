@@ -8,6 +8,7 @@
   <anchor x="-28" y="500" name="topgr"/>
   <outline>
     <contour>
+      <point x="74" y="0" type="line"/>
       <point x="495" y="0" type="line" name="ab01"/>
       <point x="495" y="100" type="line" name="sv01"/>
       <point x="194" y="100" type="line"/>
@@ -19,7 +20,6 @@
       <point x="480" y="600" type="line"/>
       <point x="480" y="700" type="line" name="at01"/>
       <point x="74" y="700" type="line"/>
-      <point x="74" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
       <key>stem</key>
       <string>90</string>
       <key>align</key>
-      <string>left</string>
+      <string>right</string>
     </dict>
     <dict>
       <key>code</key>

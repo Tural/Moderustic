@@ -6,14 +6,14 @@
   <anchor x="272" y="689" name="top"/>
   <outline>
     <component base="a.ss12"/>
-    <component base="dieresis" xOffset="68" yOffset="20"/>
+    <component base="dieresiscomb" xOffset="68" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>a.ss12+dieresis</string>
+  <string>a.ss12+dieresiscomb</string>
   </dict>
   </lib>
 </glyph>

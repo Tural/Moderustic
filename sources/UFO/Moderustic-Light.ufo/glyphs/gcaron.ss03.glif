@@ -5,14 +5,14 @@
   <anchor x="295" y="722" name="top"/>
   <outline>
     <component base="g.ss03"/>
-    <component base="caron" xOffset="122" yOffset="20"/>
+    <component base="caroncomb" xOffset="122" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>g.ss03+caron</string>
+  <string>g.ss03+caroncomb</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

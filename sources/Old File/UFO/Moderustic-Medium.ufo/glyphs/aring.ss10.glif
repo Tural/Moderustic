@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring.ss10" format="2">
+  <advance width="568"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="487" y="-2" name="ogonek"/>
+  <anchor x="284" y="743" name="top"/>
+  <outline>
+    <component base="a.ss10"/>
+    <component base="ring" xOffset="149" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.ss10+ring</string>
+  </dict>
+  </lib>
+</glyph>

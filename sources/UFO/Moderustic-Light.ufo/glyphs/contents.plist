@@ -1056,6 +1056,10 @@
   <string>breve.case.glif</string>
   <key>brevecomb</key>
   <string>brevecomb.glif</string>
+  <key>brevecy</key>
+  <string>brevecy.glif</string>
+  <key>brevecycomb</key>
+  <string>brevecycomb.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>brokenbar.case</key>
@@ -1462,18 +1466,18 @@
   <string>five.numr.glif</string>
   <key>five.osf</key>
   <string>five.osf.glif</string>
+  <key>five.osf.ss09</key>
+  <string>five.osf.ss09.glif</string>
+  <key>five.osf.ss10</key>
+  <string>five.osf.ss10.glif</string>
+  <key>five.osf.ss12</key>
+  <string>five.osf.ss12.glif</string>
   <key>five.ss09</key>
   <string>five.ss09.glif</string>
-  <key>five.ss09.osf</key>
-  <string>five.ss09.osf.glif</string>
   <key>five.ss10</key>
   <string>five.ss10.glif</string>
-  <key>five.ss10.osf</key>
-  <string>five.ss10.osf.glif</string>
   <key>five.ss12</key>
   <string>five.ss12.glif</string>
-  <key>five.ss12.osf</key>
-  <string>five.ss12.osf.glif</string>
   <key>five.superior</key>
   <string>five.superior.glif</string>
   <key>fiveeighths</key>
@@ -1662,8 +1666,6 @@
   <string>icyr.glif</string>
   <key>icyr.loclBGR</key>
   <string>icyr.loclB_G_R_.glif</string>
-  <key>icyr.loclBGR.ss05</key>
-  <string>icyr.loclB_G_R_.ss05.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
   <key>iecyr</key>
@@ -1720,8 +1722,6 @@
   <string>ishortcyr.glif</string>
   <key>ishortcyr.loclBGR</key>
   <string>ishortcyr.loclB_G_R_.glif</string>
-  <key>ishortcyr.loclBGR.ss05</key>
-  <string>ishortcyr.loclB_G_R_.ss05.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
   <key>iukrcyr</key>
@@ -1866,18 +1866,18 @@
   <string>nine.numr.glif</string>
   <key>nine.osf</key>
   <string>nine.osf.glif</string>
+  <key>nine.osf.ss09</key>
+  <string>nine.osf.ss09.glif</string>
+  <key>nine.osf.ss10</key>
+  <string>nine.osf.ss10.glif</string>
+  <key>nine.osf.ss12</key>
+  <string>nine.osf.ss12.glif</string>
   <key>nine.ss09</key>
   <string>nine.ss09.glif</string>
-  <key>nine.ss09.osf</key>
-  <string>nine.ss09.osf.glif</string>
   <key>nine.ss10</key>
   <string>nine.ss10.glif</string>
-  <key>nine.ss10.osf</key>
-  <string>nine.ss10.osf.glif</string>
   <key>nine.ss12</key>
   <string>nine.ss12.glif</string>
-  <key>nine.ss12.osf</key>
-  <string>nine.ss12.osf.glif</string>
   <key>nine.superior</key>
   <string>nine.superior.glif</string>
   <key>nj</key>
@@ -1950,10 +1950,10 @@
   <string>one.numr.glif</string>
   <key>one.osf</key>
   <string>one.osf.glif</string>
+  <key>one.osf.ss09</key>
+  <string>one.osf.ss09.glif</string>
   <key>one.ss09</key>
   <string>one.ss09.glif</string>
-  <key>one.ss09.osf</key>
-  <string>one.ss09.osf.glif</string>
   <key>oneeighth</key>
   <string>oneeighth.glif</string>
   <key>onefifth</key>
@@ -2240,18 +2240,18 @@
   <string>six.numr.glif</string>
   <key>six.osf</key>
   <string>six.osf.glif</string>
+  <key>six.osf.ss09</key>
+  <string>six.osf.ss09.glif</string>
+  <key>six.osf.ss10</key>
+  <string>six.osf.ss10.glif</string>
+  <key>six.osf.ss12</key>
+  <string>six.osf.ss12.glif</string>
   <key>six.ss09</key>
   <string>six.ss09.glif</string>
-  <key>six.ss09.osf</key>
-  <string>six.ss09.osf.glif</string>
   <key>six.ss10</key>
   <string>six.ss10.glif</string>
-  <key>six.ss10.osf</key>
-  <string>six.ss10.osf.glif</string>
   <key>six.ss12</key>
   <string>six.ss12.glif</string>
-  <key>six.ss12.osf</key>
-  <string>six.ss12.osf.glif</string>
   <key>six.superior</key>
   <string>six.superior.glif</string>
   <key>slash</key>
@@ -2324,18 +2324,18 @@
   <string>three.numr.glif</string>
   <key>three.osf</key>
   <string>three.osf.glif</string>
+  <key>three.osf.ss09</key>
+  <string>three.osf.ss09.glif</string>
+  <key>three.osf.ss10</key>
+  <string>three.osf.ss10.glif</string>
+  <key>three.osf.ss12</key>
+  <string>three.osf.ss12.glif</string>
   <key>three.ss09</key>
   <string>three.ss09.glif</string>
-  <key>three.ss09.osf</key>
-  <string>three.ss09.osf.glif</string>
   <key>three.ss10</key>
   <string>three.ss10.glif</string>
-  <key>three.ss10.osf</key>
-  <string>three.ss10.osf.glif</string>
   <key>three.ss12</key>
   <string>three.ss12.glif</string>
-  <key>three.ss12.osf</key>
-  <string>three.ss12.osf.glif</string>
   <key>threeeighths</key>
   <string>threeeighths.glif</string>
   <key>threefifths</key>
@@ -2376,18 +2376,18 @@
   <string>two.numr.glif</string>
   <key>two.osf</key>
   <string>two.osf.glif</string>
+  <key>two.osf.ss09</key>
+  <string>two.osf.ss09.glif</string>
+  <key>two.osf.ss10</key>
+  <string>two.osf.ss10.glif</string>
+  <key>two.osf.ss12</key>
+  <string>two.osf.ss12.glif</string>
   <key>two.ss09</key>
   <string>two.ss09.glif</string>
-  <key>two.ss09.osf</key>
-  <string>two.ss09.osf.glif</string>
   <key>two.ss10</key>
   <string>two.ss10.glif</string>
-  <key>two.ss10.osf</key>
-  <string>two.ss10.osf.glif</string>
   <key>two.ss12</key>
   <string>two.ss12.glif</string>
-  <key>two.ss12.osf</key>
-  <string>two.ss12.osf.glif</string>
   <key>twofifths</key>
   <string>twofifths.glif</string>
   <key>twosuperior</key>

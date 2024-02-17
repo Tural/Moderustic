@@ -3,13 +3,36 @@
   <advance width="735"/>
   <unicode hex="042A"/>
   <outline>
-    <component base="Softcyr" xOffset="102"/>
     <contour>
-      <point x="21" y="700" type="line"/>
       <point x="21" y="569" type="line"/>
       <point x="194" y="569" type="line"/>
       <point x="227" y="694" type="line"/>
       <point x="227" y="700" type="line"/>
+      <point x="21" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="445" y="0" type="line" smooth="yes"/>
+      <point x="606" y="0"/>
+      <point x="696" y="93"/>
+      <point x="696" y="220" type="curve" smooth="yes"/>
+      <point x="696" y="348"/>
+      <point x="605" y="439"/>
+      <point x="444" y="439" type="curve" smooth="yes"/>
+      <point x="335" y="439" type="line"/>
+      <point x="335" y="700" type="line"/>
+      <point x="169" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="130" type="line"/>
+      <point x="335" y="308" type="line"/>
+      <point x="405" y="308" type="line" smooth="yes"/>
+      <point x="488" y="308"/>
+      <point x="530" y="290"/>
+      <point x="530" y="224" type="curve" smooth="yes"/>
+      <point x="530" y="157"/>
+      <point x="488" y="130"/>
+      <point x="405" y="130" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w735m21,700l21,569l194,569l227,694l227,700</string>
+    <string>604ed3921d9f46851d7575d13a3ed20a8d22285a4685187495043204d6e13b915cf693bc8121c90cd12a54d3a383ad4c319139388883130e240c2fc00c04d58d</string>
     <key>hintSetList</key>
     <array>
       <dict>

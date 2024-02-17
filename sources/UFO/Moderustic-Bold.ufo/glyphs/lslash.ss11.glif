@@ -2,12 +2,17 @@
 <glyph name="lslash.ss11" format="2">
   <advance width="272"/>
   <outline>
-    <component base="l.ss11" xOffset="-1"/>
     <contour>
-      <point x="3" y="332" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="700" type="line"/>
+      <point x="53" y="700" type="line"/>
+    </contour>
+    <contour>
       <point x="3" y="226" type="line"/>
       <point x="269" y="408" type="line"/>
       <point x="269" y="514" type="line"/>
+      <point x="3" y="332" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,7 +22,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w272m3,332l3,226l269,408l269,514</string>
+    <string>w272m53,0l218,0l218,700l53,700m3,226l269,408l269,514l3,332</string>
     <key>hintSetList</key>
     <array>
       <dict>

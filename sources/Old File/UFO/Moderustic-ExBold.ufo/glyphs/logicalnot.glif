@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="553"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="50" y="292" type="line"/>
+      <point x="435" y="292" type="line"/>
+      <point x="435" y="93" type="line"/>
+      <point x="483" y="93" type="line"/>
+      <point x="483" y="322" type="line"/>
+      <point x="50" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w553m50,292l435,292l435,93l483,93l483,322l50,322</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 93 229</string>
+          <string>hstem 292 30</string>
+          <string>vstem 435 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

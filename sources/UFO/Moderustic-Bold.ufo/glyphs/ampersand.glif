@@ -19,6 +19,8 @@
       <point x="226" y="395" type="curve"/>
     </contour>
     <contour>
+      <point x="494" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
       <point x="353" y="359" type="line"/>
       <point x="460" y="409"/>
       <point x="500" y="464"/>
@@ -51,8 +53,6 @@
       <point x="192" y="240"/>
       <point x="219" y="288"/>
       <point x="246" y="305" type="curve"/>
-      <point x="494" y="0" type="line"/>
-      <point x="657" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4bb559d79a02c7f2cdba85792ea031aca6892fba1e05a0d947eee40c90a55a0ca07eb04d27f90fbe62e682dfa4803e3a5aeb0ccdd5030b3170aeca20065228ae</string>
+    <string>43b1e4ff0ac52d2945d625983dbf54b3ce5c07d7d854f7509aaf0368902febe594707ee0289260d933f83fc855dda331036fc36e1f7d50d50ef7cfe5a435c78f</string>
     <key>hintSetList</key>
     <array>
       <dict>
