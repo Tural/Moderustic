@@ -43,21 +43,4 @@
       <point x="327" y="80" type="curve" smooth="yes" name="sv01"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>100</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

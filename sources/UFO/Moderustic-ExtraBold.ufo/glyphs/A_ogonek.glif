@@ -7,10 +7,10 @@
   <anchor x="66" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="193" y="106" type="line"/>
+      <point x="193" y="106" type="line" name="dv01"/>
       <point x="459" y="106" type="line"/>
-      <point x="415" y="236" type="line"/>
-      <point x="237" y="236" type="line"/>
+      <point x="415" y="236" type="line" name="dv03"/>
+      <point x="237" y="236" type="line" name="dv02"/>
     </contour>
     <contour>
       <point x="-3" y="0" type="line"/>

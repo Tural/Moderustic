@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugrave" format="2">
-  <advance width="600"/>
+  <advance width="580"/>
   <unicode hex="00F9"/>
-  <anchor x="408" y="-3" name="ogonek"/>
-  <anchor x="300" y="-20" name="bottom"/>
-  <anchor x="270" y="720" name="top"/>
+  <anchor x="398" y="-3" name="ogonek"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="260" y="720" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="gravecomb" xOffset="122" yOffset="20"/>
+    <component base="gravecomb" xOffset="112" yOffset="20"/>
   </outline>
   <lib>
   <dict>

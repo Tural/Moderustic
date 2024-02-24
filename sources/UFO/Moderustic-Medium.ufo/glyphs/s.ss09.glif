@@ -37,11 +37,11 @@
       <point x="300" y="188"/>
       <point x="331" y="169.846"/>
       <point x="331" y="130.513" type="curve" smooth="yes"/>
-      <point x="331" y="93.1966"/>
+      <point x="331" y="93.197"/>
       <point x="304" y="70"/>
       <point x="255" y="70" type="curve" smooth="yes"/>
       <point x="205" y="70"/>
-      <point x="175" y="94.2949"/>
+      <point x="175" y="94.295"/>
       <point x="166" y="150" type="curve"/>
     </contour>
   </outline>

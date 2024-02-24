@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="2">
+  <advance width="209"/>
+  <unicode hex="0328"/>
+  <anchor x="200" y="0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="208" y="-180" type="line"/>
+      <point x="165" y="-166"/>
+      <point x="144" y="-135"/>
+      <point x="144" y="-101" type="curve" smooth="yes"/>
+      <point x="144" y="-64"/>
+      <point x="168" y="-21"/>
+      <point x="207" y="3" type="curve"/>
+      <point x="168" y="6" type="line"/>
+      <point x="72" y="-11"/>
+      <point x="24" y="-50"/>
+      <point x="24" y="-103" type="curve" smooth="yes"/>
+      <point x="24" y="-155"/>
+      <point x="70" y="-193"/>
+      <point x="144" y="-203" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ogonek%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w209m208,-180c165,-166 144,-135 144,-101c144,-64 168,-21 207,3l168,6c72,-11 24,-50 24,-103c24,-155 70,-193 144,-203</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 24 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

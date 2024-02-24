@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent.ss12" format="2">
-  <advance width="570"/>
-  <anchor x="310" y="-20" name="bottom"/>
-  <anchor x="310" y="689" name="top"/>
+  <advance width="532"/>
+  <anchor x="291" y="-20" name="bottom"/>
+  <anchor x="291" y="689" name="top"/>
   <outline>
     <component base="c.ss12"/>
-    <component base="dotaccentcomb" xOffset="205" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="186" yOffset="20"/>
   </outline>
   <lib>
   <dict>

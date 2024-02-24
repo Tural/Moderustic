@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="austral" format="2">
+  <advance width="718"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="13" y="133" type="line"/>
+      <point x="705" y="133" type="line"/>
+      <point x="705" y="216" type="line"/>
+      <point x="13" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="252" type="line"/>
+      <point x="705" y="252" type="line"/>
+      <point x="705" y="335" type="line"/>
+      <point x="13" y="335" type="line"/>
+    </contour>
+    <contour>
+      <point x="410.5" y="700" type="line"/>
+      <point x="255.5" y="700" type="line"/>
+      <point x="28.5" y="0" type="line"/>
+      <point x="227.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="462.5" y="700" type="line"/>
+      <point x="307.5" y="700" type="line"/>
+      <point x="490.5" y="0" type="line"/>
+      <point x="689.5" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8c4d47f27f40bbf8d25a58134f7db825479f779c8051679d6b49e7a714b98775e2c138627cd67693993fe0f8a92defcd575e576edeec494fb10139f663981e43</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 246</string>
+          <string>hstem 163 83</string>
+          <string>hstem 282 83</string>
+          <string>hstem 700 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

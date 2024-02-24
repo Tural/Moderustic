@@ -1,52 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="554"/>
+  <advance width="524"/>
   <unicode hex="004C"/>
   <anchor x="138" y="719" name="top"/>
   <anchor x="277" y="-20" name="bottom"/>
+  <anchor x="312" y="700" name="topright"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line" name="ab01"/>
-      <point x="504" y="0" type="line"/>
-      <point x="504" y="100" type="line" name="sv01"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="100" type="line" name="sv01"/>
       <point x="198" y="100" type="line"/>
       <point x="198" y="700" type="line" name="at01"/>
       <point x="78" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>ab01</string>
-      <key>point2</key>
-      <string>sv01</string>
-      <key>stem</key>
-      <string>100</string>
-      <key>align</key>
-      <string>right</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

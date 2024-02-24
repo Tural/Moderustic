@@ -23,22 +23,6 @@
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.783,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w384m25,-155c220,-117 341,77 341,351c341,620 224,800 25,837l25,769c114,716 176,566 176,349c176,130 113,-52 25,-87</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 176 165</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

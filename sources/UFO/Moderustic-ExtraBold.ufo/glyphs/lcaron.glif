@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="350"/>
+  <advance width="300"/>
   <unicode hex="013E"/>
-  <anchor x="150" y="750" name="top"/>
-  <anchor x="202" y="-20" name="bottom"/>
+  <anchor x="130" y="750" name="top"/>
+  <anchor x="182" y="-20" name="bottom"/>
   <outline>
     <component base="l"/>
-    <component base="caron.salt" xOffset="280" yOffset="50"/>
+    <component base="caron.salt" xOffset="270" yOffset="50"/>
   </outline>
   <lib>
   <dict>

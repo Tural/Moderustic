@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-  <advance width="1378"/>
+  <advance width="1437"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="zero.numr" xOffset="7"/>
-    <component base="fraction" xOffset="377"/>
-    <component base="zero.dnom" xOffset="533"/>
-    <component base="zero.dnom" xOffset="951"/>
+    <component base="zero.numr"/>
+    <component base="fraction" xOffset="425"/>
+    <component base="zero.dnom" xOffset="601"/>
+    <component base="zero.dnom" xOffset="1019"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>zero.numr_fraction_zero.dnom_zero.dnom</string>
+  </dict>
+  </lib>
 </glyph>

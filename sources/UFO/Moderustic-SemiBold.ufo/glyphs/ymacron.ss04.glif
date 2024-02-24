@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ymacron.ss04" format="2">
-  <advance width="565"/>
-  <anchor x="448" y="0" name="bottom"/>
-  <anchor x="283" y="660" name="top"/>
+  <advance width="586"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="289" y="660" name="top"/>
   <outline>
     <component base="y.ss04"/>
-    <component base="macroncomb" xOffset="103" yOffset="20"/>
+    <component base="macroncomb" xOffset="109" yOffset="20"/>
   </outline>
   <lib>
   <dict>

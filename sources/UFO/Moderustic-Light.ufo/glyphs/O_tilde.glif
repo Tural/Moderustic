@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="2">
-  <advance width="795"/>
+  <advance width="775"/>
   <unicode hex="00D5"/>
-  <anchor x="398" y="-20" name="bottom"/>
-  <anchor x="523" y="-1" name="ogonek"/>
-  <anchor x="16" y="500" name="topgr"/>
-  <anchor x="398" y="889" name="top"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <anchor x="6" y="500" name="topgr"/>
+  <anchor x="388" y="889" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="tilde.case" xOffset="176" yOffset="219"/>
+    <component base="tildecomb" xOffset="166" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+~tildecomb</string>
   </dict>
   </lib>
 </glyph>

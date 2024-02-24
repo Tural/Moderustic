@@ -3,7 +3,7 @@
   <advance width="544"/>
   <anchor x="272" y="520" name="top"/>
   <anchor x="272" y="-20" name="bottom"/>
-  <anchor x="491" y="-3" name="ogonek"/>
+  <anchor x="497" y="-3" name="ogonek"/>
   <outline>
     <component base="a.ss12"/>
   </outline>

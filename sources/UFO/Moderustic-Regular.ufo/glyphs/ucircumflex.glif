@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex" format="2">
-  <advance width="600"/>
+  <advance width="580"/>
   <unicode hex="00FB"/>
-  <anchor x="300" y="-20" name="bottom"/>
-  <anchor x="399" y="-3" name="ogonek"/>
-  <anchor x="300" y="720" name="top"/>
+  <anchor x="389" y="-3" name="ogonek"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="290" y="720" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="127" yOffset="20"/>
+    <component base="circumflexcomb" xOffset="117" yOffset="20"/>
   </outline>
   <lib>
   <dict>

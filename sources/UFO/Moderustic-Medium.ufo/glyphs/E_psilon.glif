@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="550"/>
+  <advance width="530"/>
   <unicode hex="0395"/>
-  <anchor x="275" y="719" name="top"/>
-  <anchor x="275" y="-20" name="bottom"/>
-  <anchor x="489" y="-2" name="ogonek"/>
-  <anchor x="-28" y="500" name="topgr"/>
+  <anchor x="265" y="719" name="top"/>
+  <anchor x="265" y="-20" name="bottom"/>
+  <anchor x="479" y="-2" name="ogonek"/>
+  <anchor x="-38" y="500" name="topgr"/>
   <outline>
     <component base="E"/>
   </outline>

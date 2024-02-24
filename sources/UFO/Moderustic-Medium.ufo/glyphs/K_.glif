@@ -2,48 +2,25 @@
 <glyph name="K" format="2">
   <advance width="670"/>
   <unicode hex="004B"/>
-  <anchor x="335" y="719" name="top"/>
   <anchor x="335" y="-20" name="bottom"/>
+  <anchor x="335" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="78" y="0" type="line" name="ab01"/>
-      <point x="78" y="700" type="line" name="at01"/>
-      <point x="198" y="700" type="line"/>
       <point x="198" y="0" type="line"/>
+      <point x="198" y="700" type="line" name="av02"/>
+      <point x="78" y="700" type="line"/>
+      <point x="78" y="0" type="line" name="av01"/>
     </contour>
     <contour>
-      <point x="110" y="312" type="line"/>
-      <point x="101" y="410" type="line"/>
-      <point x="327" y="410" type="line"/>
-      <point x="488" y="700" type="line"/>
-      <point x="629" y="700" type="line"/>
-      <point x="421" y="367" type="line"/>
-      <point x="633" y="0" type="line"/>
-      <point x="493" y="0" type="line"/>
       <point x="320" y="312" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="421" y="367" type="line"/>
+      <point x="629" y="700" type="line"/>
+      <point x="488" y="700" type="line"/>
+      <point x="327" y="410" type="line"/>
+      <point x="101" y="410" type="line"/>
+      <point x="110" y="312" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

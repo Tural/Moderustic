@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="810"/>
+  <advance width="662"/>
   <unicode hex="038E"/>
-  <anchor x="479" y="719" name="top"/>
-  <anchor x="477" y="-20" name="bottom"/>
-  <anchor x="119" y="699" name="topgr"/>
+  <anchor x="331" y="719" name="top"/>
+  <anchor x="329" y="-20" name="bottom"/>
+  <anchor x="-29" y="699" name="topgr"/>
   <outline>
-    <component base="Upsilon" xOffset="148"/>
-    <component base="tonos.case" xOffset="20"/>
+    <component base="Upsilon"/>
+    <component base="tonos.case" xOffset="-108"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Upsilon+tonos.case</string>
   </dict>

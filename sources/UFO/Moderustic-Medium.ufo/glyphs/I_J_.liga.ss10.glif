@@ -2,7 +2,7 @@
 <glyph name="IJ.liga.ss10" format="2">
   <advance width="630"/>
   <outline>
-    <component base="J.ss10" xOffset="52"/>
+    <component base="J.ss10" xOffset="62"/>
     <component base="dotlessi" yScale="0.8" xOffset="-6" yOffset="300"/>
   </outline>
   <lib>

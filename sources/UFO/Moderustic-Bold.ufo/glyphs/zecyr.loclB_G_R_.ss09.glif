@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.loclBGR.ss09" format="2">
-  <advance width="525"/>
+  <advance width="515"/>
   <outline>
     <contour>
       <point x="22" y="-35" type="line"/>
@@ -9,8 +9,8 @@
       <point x="261" y="-222" type="curve" smooth="yes"/>
       <point x="404.603" y="-222"/>
       <point x="492" y="-136.113"/>
-      <point x="492" y="-15.6171" type="curve" smooth="yes"/>
-      <point x="492" y="96.3669"/>
+      <point x="492" y="-15.617" type="curve" smooth="yes"/>
+      <point x="492" y="96.367"/>
       <point x="406.201" y="174.619"/>
       <point x="283" y="175" type="curve"/>
       <point x="395.67" y="185"/>
@@ -20,7 +20,7 @@
       <point x="386.583" y="520"/>
       <point x="258.215" y="520" type="curve" smooth="yes"/>
       <point x="125.327" y="520"/>
-      <point x="40.3248" y="455.108"/>
+      <point x="40.325" y="455.108"/>
       <point x="22" y="333" type="curve"/>
       <point x="181" y="333" type="line"/>
       <point x="187.026" y="368.928"/>
@@ -35,12 +35,12 @@
       <point x="171" y="105.092" type="line"/>
       <point x="278.084" y="116.364"/>
       <point x="327" y="71.52"/>
-      <point x="327" y="-0.647585" type="curve" smooth="yes"/>
-      <point x="327" y="-64.5259"/>
-      <point x="306.941" y="-91.9503"/>
-      <point x="252.202" y="-91.9503" type="curve" smooth="yes"/>
-      <point x="207.036" y="-91.9503"/>
-      <point x="186.207" y="-71.5502"/>
+      <point x="327" y="-0.648" type="curve" smooth="yes"/>
+      <point x="327" y="-64.526"/>
+      <point x="306.941" y="-91.95"/>
+      <point x="252.202" y="-91.95" type="curve" smooth="yes" name="sv01"/>
+      <point x="207.036" y="-91.95"/>
+      <point x="186.207" y="-71.55"/>
       <point x="181" y="-35" type="curve"/>
     </contour>
   </outline>

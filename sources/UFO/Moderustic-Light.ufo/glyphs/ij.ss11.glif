@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij.ss11" format="2">
+  <advance width="660"/>
+  <anchor x="470" y="-217" name="bottom"/>
+  <anchor x="325" y="-3" name="ogonek"/>
+  <anchor x="537" y="683" name="top"/>
+  <outline>
+    <component base="i.ss11"/>
+    <component base="j" xOffset="370"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i.ss11_j</string>
+  </dict>
+  </lib>
+</glyph>

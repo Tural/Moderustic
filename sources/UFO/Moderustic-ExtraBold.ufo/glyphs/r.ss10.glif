@@ -1,51 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r.ss10" format="2">
-  <advance width="527"/>
-  <anchor x="300" y="520" name="top"/>
-  <anchor x="145" y="-20" name="bottom"/>
+  <advance width="517"/>
+  <anchor x="296" y="520" name="top"/>
+  <anchor x="141" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="49" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="239" y="206.441" type="line" smooth="yes"/>
-      <point x="239" y="290.583"/>
-      <point x="266.08" y="369"/>
-      <point x="313.05" y="369" type="curve" smooth="yes"/>
-      <point x="332.69" y="369"/>
-      <point x="345.28" y="350.124"/>
-      <point x="343.63" y="305.27" type="curve"/>
-      <point x="522.16" y="340.9" type="line"/>
-      <point x="533.57" y="475.71"/>
-      <point x="458.09" y="520"/>
-      <point x="378.9" y="520" type="curve" smooth="yes"/>
-      <point x="311.35" y="520"/>
-      <point x="266.05" y="487.77"/>
-      <point x="239" y="430.19" type="curve"/>
-      <point x="239" y="500" type="line"/>
-      <point x="49" y="500" type="line"/>
+      <point x="45" y="0" type="line" name="ab02"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="226.441" type="line" smooth="yes" name="iv01"/>
+      <point x="235" y="310.583"/>
+      <point x="251.08" y="369"/>
+      <point x="298.05" y="369" type="curve" smooth="yes" name="sv01"/>
+      <point x="317.69" y="369"/>
+      <point x="330.28" y="350.124"/>
+      <point x="328.63" y="305.27" type="curve"/>
+      <point x="507.16" y="340.9" type="line"/>
+      <point x="518.57" y="475.71"/>
+      <point x="443.09" y="520"/>
+      <point x="363.9" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="296.35" y="520"/>
+      <point x="259.28" y="487.77"/>
+      <point x="235" y="430.19" type="curve"/>
+      <point x="235" y="500" type="line" name="av01"/>
+      <point x="45" y="500" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dc6bc928ae9a3e6a53120b19c637e4aad956fece53d7026288188fff800b241a964e0e94b8828691bd24accb498dea2d0f7046b5a5e0fe98ac7cef5618bebb3a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 391 129</string>
-          <string>hstem 500 -20</string>
-          <string>vstem 51 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

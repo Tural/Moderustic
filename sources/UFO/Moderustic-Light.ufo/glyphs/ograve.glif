@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="2">
-  <advance width="616"/>
+  <advance width="578"/>
   <unicode hex="00F2"/>
-  <anchor x="308" y="-20" name="bottom"/>
-  <anchor x="411" y="-3" name="ogonek"/>
-  <anchor x="308" y="520" name="topgr"/>
-  <anchor x="278" y="720" name="top"/>
+  <anchor x="392" y="-3" name="ogonek"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="289" y="520" name="topgr"/>
+  <anchor x="259" y="720" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="gravecomb" xOffset="130" yOffset="20"/>
+    <component base="gravecomb" xOffset="111" yOffset="20"/>
   </outline>
   <lib>
   <dict>

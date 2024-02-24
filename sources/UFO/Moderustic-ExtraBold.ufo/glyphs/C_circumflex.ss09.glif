@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex.ss09" format="2">
-  <advance width="773"/>
-  <anchor x="407" y="-19" name="bottom"/>
-  <anchor x="387" y="919" name="top"/>
+  <advance width="753"/>
+  <anchor x="397" y="-19" name="bottom"/>
+  <anchor x="377" y="919" name="top"/>
   <outline>
     <component base="C.ss09"/>
-    <component base="circumflex.case" xOffset="214" yOffset="219"/>
+    <component base="circumflexcomb" xOffset="204" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>C.ss09+circumflex.case</string>
+  <string>C.ss09+circumflexcomb</string>
   </dict>
   </lib>
 </glyph>

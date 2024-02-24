@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="2">
-  <advance width="694"/>
+  <advance width="684"/>
   <unicode hex="00C7"/>
   <anchor x="373" y="719" name="top"/>
   <anchor x="373" y="-217" name="bottom"/>
@@ -44,8 +44,8 @@
       <point x="482" y="-91"/>
       <point x="442" y="-63"/>
       <point x="384" y="-63" type="curve"/>
-      <point x="424.194" y="13.1373" type="line"/>
-      <point x="379.194" y="13.1373" type="line"/>
+      <point x="424.194" y="13.137" type="line"/>
+      <point x="379.194" y="13.137" type="line"/>
       <point x="329" y="-81" type="line"/>
       <point x="341" y="-78"/>
       <point x="351" y="-77"/>
@@ -61,4 +61,10 @@
       <point x="297" y="-176" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>C+cedillacomb</string>
+  </dict>
+  </lib>
 </glyph>

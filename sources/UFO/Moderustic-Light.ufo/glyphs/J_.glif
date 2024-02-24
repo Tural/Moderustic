@@ -1,52 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-  <advance width="580"/>
+  <advance width="540"/>
   <unicode hex="004A"/>
-  <anchor x="452" y="719" name="top"/>
-  <anchor x="278" y="-20" name="bottom"/>
+  <anchor x="248" y="-20" name="bottom"/>
+  <anchor x="422" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="56" y="122" type="line"/>
-      <point x="119" y="25"/>
-      <point x="185" y="-20"/>
-      <point x="279" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="408" y="-20"/>
-      <point x="481" y="64"/>
-      <point x="481" y="222" type="curve" smooth="yes"/>
-      <point x="481" y="700" type="line" name="at01"/>
-      <point x="421" y="700" type="line"/>
-      <point x="421" y="196" type="line" smooth="yes"/>
-      <point x="421" y="92"/>
-      <point x="369" y="35"/>
-      <point x="278" y="35" type="curve" smooth="yes" name="dv02"/>
-      <point x="200.403" y="35"/>
-      <point x="147.207" y="79.5162"/>
-      <point x="99" y="165" type="curve"/>
+      <point x="26" y="122" type="line"/>
+      <point x="89" y="25"/>
+      <point x="155" y="-20"/>
+      <point x="249" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="378" y="-20"/>
+      <point x="451" y="64"/>
+      <point x="451" y="222" type="curve" smooth="yes"/>
+      <point x="451" y="700" type="line" name="at01"/>
+      <point x="391" y="700" type="line"/>
+      <point x="391" y="196" type="line" smooth="yes"/>
+      <point x="391" y="92"/>
+      <point x="339" y="35"/>
+      <point x="248" y="35" type="curve" smooth="yes" name="dv02"/>
+      <point x="170.403" y="35"/>
+      <point x="117.207" y="79.516"/>
+      <point x="69" y="165" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>100</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

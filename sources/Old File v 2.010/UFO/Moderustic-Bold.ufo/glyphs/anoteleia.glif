@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="2">
+  <advance width="262"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="131" y="361" type="curve" smooth="yes"/>
+      <point x="182" y="361"/>
+      <point x="221" y="402"/>
+      <point x="221" y="452" type="curve" smooth="yes"/>
+      <point x="221" y="502"/>
+      <point x="182" y="541"/>
+      <point x="131" y="541" type="curve" smooth="yes"/>
+      <point x="79" y="541"/>
+      <point x="41" y="502"/>
+      <point x="41" y="452" type="curve" smooth="yes"/>
+      <point x="41" y="402"/>
+      <point x="79" y="361"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w262m131,361c182,361 221,402 221,452c221,502 182,541 131,541c79,541 41,502 41,452c41,402 79,361 131,361</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 383 116</string>
+          <string>vstem 29 117</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

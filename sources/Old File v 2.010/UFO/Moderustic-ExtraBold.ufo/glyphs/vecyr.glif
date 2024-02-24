@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vecyr" format="2">
+  <advance width="546"/>
+  <unicode hex="0432"/>
+  <anchor x="273" y="520" name="top"/>
+  <anchor x="273" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="313" y="0" type="line" smooth="yes"/>
+      <point x="423" y="0"/>
+      <point x="504" y="61"/>
+      <point x="504" y="151" type="curve" smooth="yes"/>
+      <point x="504" y="226"/>
+      <point x="449" y="262"/>
+      <point x="347" y="265" type="curve"/>
+      <point x="435" y="283"/>
+      <point x="476" y="314"/>
+      <point x="476" y="384" type="curve" smooth="yes"/>
+      <point x="476" y="465"/>
+      <point x="421" y="500"/>
+      <point x="287" y="500" type="curve" smooth="yes"/>
+      <point x="53" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="130" type="line"/>
+      <point x="243" y="202" type="line"/>
+      <point x="276" y="202" type="line" smooth="yes"/>
+      <point x="306" y="202"/>
+      <point x="322" y="188"/>
+      <point x="322" y="168" type="curve" smooth="yes"/>
+      <point x="322" y="148"/>
+      <point x="306" y="130"/>
+      <point x="276" y="130" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="243" y="302" type="line"/>
+      <point x="243" y="370" type="line"/>
+      <point x="259" y="370" type="line" smooth="yes"/>
+      <point x="277" y="370"/>
+      <point x="295" y="357.82"/>
+      <point x="295" y="334.47" type="curve" smooth="yes"/>
+      <point x="295" y="313.16"/>
+      <point x="279" y="302"/>
+      <point x="258" y="302" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>791fc16c9e6b6e5e0d1e851de5cddd11f5c1fa8e7589bbcd754b2e161d352287346ef03e79dcd3c525fe22c2fd32eeffe01418538a853f0e62a8760cdcd9729b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 130</string>
+          <string>hstem 370 130</string>
+          <string>vstem 53 190</string>
+          <string>vstem 293 181</string>
+          <string>vstem 320 186</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

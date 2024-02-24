@@ -2,8 +2,6 @@
 <glyph name="hacyr" format="2">
   <advance width="574"/>
   <unicode hex="0445"/>
-  <anchor x="287" y="520" name="top"/>
-  <anchor x="287" y="-20" name="bottom"/>
   <outline>
     <component base="x"/>
   </outline>
@@ -11,6 +9,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>x</string>
   </dict>
   </lib>
 </glyph>

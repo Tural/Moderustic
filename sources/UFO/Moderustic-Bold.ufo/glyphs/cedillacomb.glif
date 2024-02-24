@@ -39,25 +39,6 @@
   <string>cedilla%</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>924bf2db28a9fffc5c30b38b8e77e93266c50c6d10df0caba4a7675b1b8dc74591f78360ba1b4b118ae82dcc17c8de52deee2e4bf684830e03f802b1c8de72e0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -208 43</string>
-          <string>hstem -208 154</string>
-          <string>hstem -90 92</string>
-          <string>vstem 162 113</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

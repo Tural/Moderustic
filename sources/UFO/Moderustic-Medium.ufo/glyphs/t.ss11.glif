@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t.ss11" format="2">
   <advance width="353"/>
-  <anchor x="158" y="630" name="top"/>
   <anchor x="156" y="-20" name="bottom"/>
+  <anchor x="158" y="630" name="top"/>
   <anchor x="256" y="700" name="topright"/>
   <outline>
     <contour>
       <point x="94" y="0" type="line"/>
       <point x="214" y="0" type="line"/>
       <point x="214" y="410" type="line"/>
-      <point x="324" y="410" type="line"/>
-      <point x="324" y="500" type="line"/>
+      <point x="339" y="410" type="line"/>
+      <point x="339" y="500" type="line"/>
       <point x="214" y="500" type="line"/>
       <point x="214" y="620" type="line"/>
       <point x="94" y="620" type="line"/>

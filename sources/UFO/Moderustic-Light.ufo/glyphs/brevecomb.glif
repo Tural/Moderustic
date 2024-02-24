@@ -2,8 +2,8 @@
 <glyph name="brevecomb" format="2">
   <advance width="336"/>
   <unicode hex="0306"/>
-  <anchor x="168" y="680" name="top"/>
   <anchor x="168" y="500" name="_top"/>
+  <anchor x="168" y="680" name="top"/>
   <outline>
     <contour>
       <point x="50" y="700" type="line"/>

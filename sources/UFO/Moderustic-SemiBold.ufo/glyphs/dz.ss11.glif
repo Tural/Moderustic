@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dz.ss11" format="2">
-  <advance width="1118"/>
-  <anchor x="876" y="-20" name="bottom"/>
-  <anchor x="876" y="520" name="top"/>
-  <anchor x="593" y="700" name="topright"/>
+  <advance width="1070"/>
+  <anchor x="833" y="-20" name="bottom"/>
+  <anchor x="843" y="520" name="top"/>
+  <anchor x="583" y="700" name="topright"/>
   <outline>
     <component base="d.ss11"/>
-    <component base="z" xOffset="635"/>
+    <component base="z" xOffset="597"/>
   </outline>
   <lib>
   <dict>

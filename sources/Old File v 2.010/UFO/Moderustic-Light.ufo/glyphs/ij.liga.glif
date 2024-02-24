@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij.liga" format="2">
+  <advance width="626"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotaccentcomb" xOffset="22" yOffset="20"/>
+    <component base="dotaccent" xOffset="387" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotaccentcomb+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

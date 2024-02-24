@@ -12,15 +12,15 @@
     <contour>
       <point x="127" y="-20" type="curve" smooth="yes"/>
       <point x="149.173" y="-20"/>
-      <point x="166.911" y="-2.26167"/>
-      <point x="166.911" y="19.9112" type="curve" smooth="yes"/>
-      <point x="166.911" y="41.1972"/>
-      <point x="149.173" y="59.8225"/>
-      <point x="127" y="59.8225" type="curve" smooth="yes"/>
-      <point x="103.94" y="59.8225"/>
-      <point x="87.0888" y="41.1972"/>
-      <point x="87.0888" y="19.9112" type="curve" smooth="yes"/>
-      <point x="87.0888" y="-2.26167"/>
+      <point x="166.911" y="-2.262"/>
+      <point x="166.911" y="19.911" type="curve" smooth="yes"/>
+      <point x="166.911" y="41.197"/>
+      <point x="149.173" y="59.822"/>
+      <point x="127" y="59.822" type="curve" smooth="yes"/>
+      <point x="103.94" y="59.822"/>
+      <point x="87.089" y="41.197"/>
+      <point x="87.089" y="19.911" type="curve" smooth="yes"/>
+      <point x="87.089" y="-2.262"/>
       <point x="103.94" y="-20"/>
     </contour>
   </outline>

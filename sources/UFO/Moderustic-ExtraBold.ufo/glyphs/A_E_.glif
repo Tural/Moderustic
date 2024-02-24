@@ -7,16 +7,16 @@
   <outline>
     <contour>
       <point x="398" y="0" type="line"/>
-      <point x="835" y="0" type="line"/>
-      <point x="835" y="140" type="line"/>
+      <point x="835" y="0" type="line" name="ab01"/>
+      <point x="835" y="140" type="line" name="sv01"/>
       <point x="588" y="140" type="line"/>
-      <point x="588" y="297" type="line"/>
+      <point x="588" y="297" type="line" name="dv01"/>
       <point x="795" y="297" type="line"/>
       <point x="795" y="437" type="line"/>
-      <point x="588" y="437" type="line"/>
-      <point x="588" y="560" type="line"/>
+      <point x="588" y="437" type="line" name="dv02"/>
+      <point x="588" y="560" type="line" name="sv02"/>
       <point x="820" y="560" type="line"/>
-      <point x="820" y="700" type="line"/>
+      <point x="820" y="700" type="line" name="at01"/>
       <point x="398" y="700" type="line"/>
     </contour>
     <contour>
@@ -26,10 +26,10 @@
       <point x="300" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="193" y="106" type="line"/>
+      <point x="193" y="106" type="line" name="dv01"/>
       <point x="533" y="106" type="line"/>
-      <point x="489" y="246" type="line"/>
-      <point x="237" y="246" type="line"/>
+      <point x="489" y="246" type="line" name="dv03"/>
+      <point x="237" y="246" type="line" name="dv02"/>
     </contour>
     <contour>
       <point x="-3" y="0" type="line"/>
@@ -38,27 +38,4 @@
       <point x="224" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f02ea4ef603f3eead5ff559bc03a8d7f763a1f01fa3f0a2563ac83e83c5a631770f571ff058361601a21117b49627d739a51f4371a2abecd56734b9ec5516c82</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 140</string>
-          <string>hstem 297 140</string>
-          <string>hstem 560 140</string>
-          <string>vstem 464 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek.case" format="2">
   <advance width="209"/>
-  <anchor x="180" y="0" name="_ogonek"/>
+  <anchor x="183" y="0" name="_ogonek"/>
   <outline>
     <component base="ogonekcomb"/>
   </outline>

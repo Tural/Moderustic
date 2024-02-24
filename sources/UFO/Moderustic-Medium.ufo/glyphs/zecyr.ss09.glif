@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.ss09" format="2">
-  <advance width="525"/>
+  <advance width="506"/>
   <anchor x="262" y="520" name="top"/>
   <anchor x="282" y="-20" name="bottom"/>
   <outline>
@@ -22,7 +22,7 @@
       <point x="385.587" y="520"/>
       <point x="272.721" y="520" type="curve" smooth="yes"/>
       <point x="140.878" y="520"/>
-      <point x="56.9774" y="454.698"/>
+      <point x="56.977" y="454.698"/>
       <point x="38" y="333" type="curve"/>
       <point x="150" y="333" type="line"/>
       <point x="162.031" y="392.768"/>
@@ -38,7 +38,7 @@
       <point x="292" y="209"/>
       <point x="358" y="190.87"/>
       <point x="358" y="132.449" type="curve" smooth="yes"/>
-      <point x="358" y="93.1667"/>
+      <point x="358" y="93.167"/>
       <point x="327" y="70"/>
       <point x="264" y="70" type="curve" smooth="yes"/>
       <point x="192" y="70"/>

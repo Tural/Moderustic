@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex.ss13" format="2">
-  <advance width="783"/>
-  <anchor x="392" y="-19" name="bottom"/>
-  <anchor x="392" y="919" name="top"/>
+  <advance width="763"/>
+  <anchor x="382" y="-19" name="bottom"/>
+  <anchor x="382" y="919" name="top"/>
   <outline>
     <component base="G.ss13"/>
-    <component base="circumflex.case" xOffset="219" yOffset="219"/>
+    <component base="circumflexcomb" xOffset="209" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>G.ss13+circumflex.case</string>
+  <string>G.ss13+circumflexcomb</string>
   </dict>
   </lib>
 </glyph>

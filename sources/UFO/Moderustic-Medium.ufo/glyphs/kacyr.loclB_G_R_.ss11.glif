@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacyr.loclBGR.ss11" format="2">
-  <advance width="592"/>
-  <anchor x="135" y="750" name="top"/>
-  <anchor x="296" y="-20" name="bottom"/>
+  <advance width="582"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <anchor x="132" y="750" name="top"/>
   <outline>
     <component base="k.ss11"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>k.ss11</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

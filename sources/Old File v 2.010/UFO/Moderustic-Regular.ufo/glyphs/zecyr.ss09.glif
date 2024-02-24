@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.ss09" format="2">
+  <advance width="525"/>
+  <anchor x="262" y="520" name="top"/>
+  <anchor x="282" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="52" y="167" type="line"/>
+      <point x="63.0264" y="53"/>
+      <point x="140.212" y="-20"/>
+      <point x="271.526" y="-20" type="curve" smooth="yes"/>
+      <point x="370.764" y="-20"/>
+      <point x="468" y="22"/>
+      <point x="468" y="129" type="curve" smooth="yes"/>
+      <point x="468" y="215"/>
+      <point x="406.644" y="263"/>
+      <point x="294" y="261" type="curve"/>
+      <point x="402.697" y="273"/>
+      <point x="450" y="314"/>
+      <point x="450" y="386" type="curve" smooth="yes"/>
+      <point x="450" y="480"/>
+      <point x="369.798" y="520"/>
+      <point x="274.559" y="520" type="curve" smooth="yes"/>
+      <point x="151.249" y="520"/>
+      <point x="69.0428" y="454"/>
+      <point x="52" y="331" type="curve"/>
+      <point x="142" y="331" type="line"/>
+      <point x="146.977" y="404.619"/>
+      <point x="191.772" y="450"/>
+      <point x="272.402" y="450" type="curve" smooth="yes"/>
+      <point x="327.151" y="450"/>
+      <point x="360" y="428.876"/>
+      <point x="360" y="381.6" type="curve" smooth="yes"/>
+      <point x="360" y="334.324"/>
+      <point x="327.188" y="279"/>
+      <point x="185" y="279" type="curve"/>
+      <point x="185" y="219" type="line"/>
+      <point x="322.292" y="219"/>
+      <point x="378" y="189.827"/>
+      <point x="378" y="131.482" type="curve" smooth="yes"/>
+      <point x="378" y="77.1607"/>
+      <point x="329.21" y="50"/>
+      <point x="264.483" y="50" type="curve" smooth="yes"/>
+      <point x="184.819" y="50"/>
+      <point x="146.979" y="91.3534"/>
+      <point x="142" y="167" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

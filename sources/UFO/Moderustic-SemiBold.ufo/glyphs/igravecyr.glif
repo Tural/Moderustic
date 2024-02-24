@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igravecyr" format="2">
-  <advance width="629"/>
+  <advance width="609"/>
   <unicode hex="045D"/>
-  <anchor x="315" y="-20" name="bottom"/>
-  <anchor x="285" y="720" name="top"/>
+  <anchor x="305" y="-20" name="bottom"/>
+  <anchor x="275" y="720" name="top"/>
   <outline>
     <component base="icyr"/>
-    <component base="gravecomb" xOffset="137" yOffset="20"/>
+    <component base="gravecomb" xOffset="127" yOffset="20"/>
   </outline>
   <lib>
   <dict>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="820"/>
+  <advance width="775"/>
   <unicode hex="038C"/>
-  <anchor x="423" y="719" name="top"/>
-  <anchor x="423" y="-20" name="bottom"/>
-  <anchor x="548" y="-1" name="ogonek"/>
-  <anchor x="37" y="699" name="topgr"/>
+  <anchor x="388" y="719" name="top"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <anchor x="2" y="699" name="topgr"/>
   <outline>
-    <component base="Omicron" xOffset="25"/>
-    <component base="tonos.case" xOffset="-21"/>
+    <component base="Omicron"/>
+    <component base="tonos.case" xOffset="-56"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Omicron+tonos.case</string>
   </dict>

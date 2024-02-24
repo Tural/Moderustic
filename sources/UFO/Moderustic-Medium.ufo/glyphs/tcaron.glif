@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-  <advance width="365"/>
+  <advance width="395"/>
   <unicode hex="0165"/>
   <anchor x="167" y="630" name="top"/>
   <anchor x="220" y="-20" name="bottom"/>

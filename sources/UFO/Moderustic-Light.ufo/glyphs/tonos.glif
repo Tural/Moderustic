@@ -2,8 +2,8 @@
 <glyph name="tonos" format="2">
   <advance width="167"/>
   <unicode hex="0384"/>
-  <anchor x="58" y="500" name="_topgr"/>
   <anchor x="79" y="699" name="topgr"/>
+  <anchor x="58" y="500" name="_topgr"/>
   <outline>
     <component base="tonos.case"/>
   </outline>

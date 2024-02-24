@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve.ss09" format="2">
-  <advance width="595"/>
-  <anchor x="298" y="-20" name="bottom"/>
-  <anchor x="404" y="-3" name="ogonek"/>
-  <anchor x="298" y="700" name="top"/>
+  <advance width="587"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="396" y="-3" name="ogonek"/>
+  <anchor x="290" y="700" name="top"/>
   <outline>
     <component base="e.ss09"/>
-    <component base="brevecomb" xOffset="130" yOffset="20"/>
+    <component base="brevecomb" xOffset="122" yOffset="20"/>
   </outline>
   <lib>
   <dict>

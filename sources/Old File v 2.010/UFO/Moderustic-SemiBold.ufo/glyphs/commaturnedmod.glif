@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="240"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <component base="comma" xScale="-0.854005" yScale="-0.854005" xOffset="231.875" yOffset="655.853"/>
+  </outline>
+</glyph>

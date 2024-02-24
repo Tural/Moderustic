@@ -10,7 +10,7 @@
       <point x="223" y="0" type="line" name="ab01"/>
       <point x="223" y="468" type="line" name="iv01"/>
       <point x="539" y="0" type="line" name="ab02"/>
-      <point x="675" y="60.7846" type="line"/>
+      <point x="675" y="60.785" type="line"/>
       <point x="675" y="700" type="line" name="at01"/>
       <point x="529" y="700" type="line"/>
       <point x="529" y="232" type="line" name="iv02"/>

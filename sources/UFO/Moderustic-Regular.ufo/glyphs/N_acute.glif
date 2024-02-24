@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="752"/>
+  <advance width="732"/>
   <unicode hex="0143"/>
-  <anchor x="376" y="-20" name="bottom"/>
-  <anchor x="392" y="919" name="top"/>
+  <anchor x="366" y="-20" name="bottom"/>
+  <anchor x="382" y="919" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acute.case" xOffset="252" yOffset="219"/>
+    <component base="acutecomb" xOffset="242" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+~acutecomb</string>
   </dict>
   </lib>
 </glyph>

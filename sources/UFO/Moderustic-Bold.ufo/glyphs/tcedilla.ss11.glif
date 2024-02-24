@@ -50,7 +50,7 @@
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>t.ss11+cedilla</string>
+  <string>t.ss11+cedillacomb</string>
   </dict>
   </lib>
 </glyph>

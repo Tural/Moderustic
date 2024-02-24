@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="2">
-  <advance width="563"/>
+  <advance width="545"/>
   <unicode hex="010D"/>
   <anchor x="303" y="-20" name="bottom"/>
   <anchor x="303" y="722" name="top"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.ss12" format="2">
-  <advance width="487"/>
+  <advance width="468"/>
   <anchor x="251" y="-20" name="bottom"/>
   <anchor x="244" y="520" name="top"/>
   <outline>
@@ -46,27 +46,4 @@
       <point x="35" y="178" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9129cbc503887d0b3cb5a7fdeb1b2f7ce2952cef65791be00443558410366a34facfa0031c609393d1685079ed944cfb9b01e04f60c39ded5998e94fa8d37e43</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 110</string>
-          <string>hstem 410 110</string>
-          <string>vstem 276 163</string>
-          <string>vstem 303 163</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

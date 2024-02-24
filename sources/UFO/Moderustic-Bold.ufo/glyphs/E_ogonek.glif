@@ -8,16 +8,16 @@
   <outline>
     <contour>
       <point x="68" y="0" type="line"/>
-      <point x="505" y="0" type="line"/>
-      <point x="505" y="130" type="line"/>
+      <point x="505" y="0" type="line" name="ab01"/>
+      <point x="505" y="130" type="line" name="sv01"/>
       <point x="234" y="130" type="line"/>
-      <point x="234" y="300" type="line"/>
+      <point x="234" y="300" type="line" name="dv01"/>
       <point x="465" y="300" type="line"/>
       <point x="465" y="430" type="line"/>
-      <point x="234" y="430" type="line"/>
-      <point x="234" y="570" type="line"/>
+      <point x="234" y="430" type="line" name="dv02"/>
+      <point x="234" y="570" type="line" name="sv02"/>
       <point x="490" y="570" type="line"/>
-      <point x="490" y="700" type="line"/>
+      <point x="490" y="700" type="line" name="at01"/>
       <point x="68" y="700" type="line"/>
     </contour>
     <contour>

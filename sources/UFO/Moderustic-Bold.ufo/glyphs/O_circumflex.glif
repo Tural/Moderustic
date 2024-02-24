@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflex" format="2">
-  <advance width="795"/>
+  <advance width="775"/>
   <unicode hex="00D4"/>
-  <anchor x="398" y="-20" name="bottom"/>
-  <anchor x="522" y="-1" name="ogonek"/>
-  <anchor x="-4" y="500" name="topgr"/>
-  <anchor x="398" y="919" name="top"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="512" y="-1" name="ogonek"/>
+  <anchor x="-14" y="500" name="topgr"/>
+  <anchor x="388" y="919" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflex.case" xOffset="225" yOffset="219"/>
+    <component base="circumflexcomb" xOffset="215" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+~circumflexcomb</string>
   </dict>
   </lib>
 </glyph>

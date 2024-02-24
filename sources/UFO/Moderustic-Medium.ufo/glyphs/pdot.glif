@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pdot" format="2">
-  <advance width="635"/>
+  <advance width="632"/>
   <unicode hex="1E57"/>
-  <anchor x="361" y="-20" name="bottom"/>
-  <anchor x="352" y="689" name="top"/>
+  <anchor x="359" y="-20" name="bottom"/>
+  <anchor x="347" y="689" name="top"/>
   <outline>
     <component base="p"/>
-    <component base="dotaccentcomb" xOffset="247" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="242" yOffset="20"/>
   </outline>
   <lib>
   <dict>

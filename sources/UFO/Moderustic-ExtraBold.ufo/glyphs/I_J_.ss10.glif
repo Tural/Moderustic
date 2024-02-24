@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ.ss10" format="2">
-  <advance width="904"/>
-  <anchor x="754" y="719" name="top"/>
-  <anchor x="605" y="-20" name="bottom"/>
+  <advance width="884"/>
+  <anchor x="744" y="719" name="top"/>
+  <anchor x="595" y="-20" name="bottom"/>
   <anchor x="251" y="-3" name="ogonek"/>
   <anchor x="-50" y="500" name="topgr"/>
   <outline>

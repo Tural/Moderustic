@@ -30,16 +30,16 @@
       <point x="156" y="-169"/>
       <point x="281" y="-169" type="curve" smooth="yes"/>
       <point x="442" y="-169"/>
-      <point x="520" y="-65.5333"/>
-      <point x="520" y="47.5333" type="curve" smooth="yes"/>
+      <point x="520" y="-65.533"/>
+      <point x="520" y="47.533" type="curve" smooth="yes"/>
       <point x="520" y="175.533"/>
       <point x="420" y="231"/>
       <point x="192" y="231" type="curve"/>
       <point x="192" y="141" type="line"/>
       <point x="290" y="141"/>
       <point x="329" y="117.552"/>
-      <point x="329" y="51.8965" type="curve" smooth="yes"/>
-      <point x="329" y="0.310341"/>
+      <point x="329" y="51.897" type="curve" smooth="yes"/>
+      <point x="329" y="0.31"/>
       <point x="304" y="-29"/>
       <point x="259" y="-29" type="curve" smooth="yes"/>
       <point x="187" y="-29"/>
@@ -51,27 +51,6 @@
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.783,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6a34b2fd4f522679d27584780e071ec2c633914f654eee9710b5f2036cd489ce780e73828417048fd335b08834eedd78dc69c95fc6f87606f7386cc314136637</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -170 141</string>
-          <string>hstem 128 75</string>
-          <string>hstem 206 75</string>
-          <string>hstem 429 141</string>
-          <string>vstem 339 191</string>
-          <string>vstem 358 191</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

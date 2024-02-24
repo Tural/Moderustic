@@ -3,16 +3,18 @@
   <advance width="675"/>
   <unicode hex="00DA"/>
   <anchor x="338" y="-20" name="bottom"/>
-  <anchor x="450" y="-1" name="ogonek"/>
+  <anchor x="449" y="-1" name="ogonek"/>
   <anchor x="354" y="919" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="acute.case" xOffset="215" yOffset="219"/>
+    <component base="acutecomb" xOffset="215" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+~acutecomb</string>
   </dict>
   </lib>
 </glyph>

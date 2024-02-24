@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="2">
-  <advance width="860"/>
+  <advance width="790"/>
   <unicode hex="038F"/>
-  <anchor x="95" y="699" name="topgr"/>
+  <anchor x="41" y="699" name="topgr"/>
   <outline>
-    <component base="Ohm" xOffset="60"/>
-    <component base="tonos.case" xOffset="13"/>
+    <component base="Ohm"/>
+    <component base="tonos.case" xOffset="-38"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Ohm+tonos.case</string>
   </dict>

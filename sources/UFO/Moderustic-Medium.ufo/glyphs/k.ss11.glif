@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.ss11" format="2">
-  <advance width="592"/>
-  <anchor x="135" y="750" name="top"/>
-  <anchor x="296" y="-20" name="bottom"/>
+  <advance width="582"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <anchor x="132" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="74" y="0" type="line" name="sv03"/>
-      <point x="194" y="0" type="line" name="ab02"/>
-      <point x="194" y="700" type="line" name="ab01"/>
-      <point x="74" y="700" type="line"/>
+      <point x="70" y="0" type="line" name="av01"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="700" type="line" name="av02"/>
+      <point x="70" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="95" y="264" type="line"/>
-      <point x="326" y="264" type="line" name="iv01"/>
-      <point x="422" y="0" type="line" name="ab02"/>
-      <point x="556" y="0" type="line"/>
-      <point x="418" y="283" type="line"/>
-      <point x="544" y="500" type="line" name="av02"/>
-      <point x="431" y="500" type="line"/>
-      <point x="346" y="354" type="line" name="iv02"/>
-      <point x="91" y="354" type="line"/>
+      <point x="91" y="264" type="line"/>
+      <point x="322" y="264" type="line" name="iv01"/>
+      <point x="418" y="0" type="line" name="ab02"/>
+      <point x="552" y="0" type="line"/>
+      <point x="414" y="283" type="line"/>
+      <point x="540" y="500" type="line" name="av02"/>
+      <point x="427" y="500" type="line"/>
+      <point x="342" y="354" type="line" name="iv02"/>
+      <point x="87" y="354" type="line"/>
     </contour>
   </outline>
 </glyph>

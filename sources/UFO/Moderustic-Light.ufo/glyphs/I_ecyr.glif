@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iecyr" format="2">
-  <advance width="550"/>
+  <advance width="530"/>
   <unicode hex="0415"/>
-  <anchor x="275" y="719" name="top"/>
-  <anchor x="275" y="-20" name="bottom"/>
-  <anchor x="475" y="-3" name="ogonek"/>
-  <anchor x="-12" y="500" name="topgr"/>
+  <anchor x="265" y="719" name="top"/>
+  <anchor x="265" y="-20" name="bottom"/>
+  <anchor x="465" y="-3" name="ogonek"/>
+  <anchor x="-22" y="500" name="topgr"/>
   <outline>
     <component base="E"/>
   </outline>

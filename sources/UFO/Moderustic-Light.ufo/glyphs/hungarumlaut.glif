@@ -2,15 +2,22 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="389"/>
   <unicode hex="02DD"/>
-  <anchor x="218" y="702" name="top"/>
-  <anchor x="152" y="500" name="_top"/>
   <outline>
-    <component base="hungarumlautcomb"/>
+    <contour>
+      <point x="211" y="551" type="line"/>
+      <point x="251" y="551" type="line"/>
+      <point x="351" y="700" type="line"/>
+      <point x="271" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="551" type="line"/>
+      <point x="81" y="551" type="line"/>
+      <point x="181" y="700" type="line"/>
+      <point x="101" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>hungarumlautcomb</string>
   </dict>

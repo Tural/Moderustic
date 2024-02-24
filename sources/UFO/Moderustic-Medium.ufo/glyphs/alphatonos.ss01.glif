@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alphatonos.ss01" format="2">
-  <advance width="670"/>
-  <anchor x="300" y="718" name="topgr"/>
+  <advance width="629"/>
+  <anchor x="271" y="718" name="topgr"/>
   <outline>
     <component base="alpha.ss01"/>
-    <component base="tonos" xOffset="242" yOffset="19"/>
+    <component base="tonos" xOffset="213" yOffset="19"/>
   </outline>
   <lib>
   <dict>

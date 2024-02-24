@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent.ss12" format="2">
-  <advance width="669"/>
-  <anchor x="377" y="-19" name="bottom"/>
-  <anchor x="357" y="916" name="top"/>
+  <advance width="649"/>
+  <anchor x="367" y="-19" name="bottom"/>
+  <anchor x="347" y="916" name="top"/>
   <outline>
     <component base="C.ss12"/>
-    <component base="dotaccent.case" xOffset="252" yOffset="219"/>
+    <component base="dotaccentcomb" xOffset="242" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>C.ss12+dotaccent.case</string>
+  <string>C.ss12+dotaccentcomb</string>
   </dict>
   </lib>
 </glyph>

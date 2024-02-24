@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla.ss09" format="2">
+  <advance width="773"/>
+  <anchor x="387" y="719" name="top"/>
+  <anchor x="387" y="-217" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="620" y="261" type="line"/>
+      <point x="604" y="140"/>
+      <point x="513" y="60"/>
+      <point x="397" y="60" type="curve" smooth="yes"/>
+      <point x="253" y="60"/>
+      <point x="153" y="181"/>
+      <point x="153" y="354" type="curve" smooth="yes"/>
+      <point x="153" y="524"/>
+      <point x="249" y="640"/>
+      <point x="390" y="640" type="curve" smooth="yes"/>
+      <point x="489" y="640"/>
+      <point x="577" y="584"/>
+      <point x="610" y="485" type="curve"/>
+      <point x="700" y="485" type="line"/>
+      <point x="654" y="637"/>
+      <point x="551" y="720"/>
+      <point x="400" y="720" type="curve" smooth="yes"/>
+      <point x="200" y="720"/>
+      <point x="63" y="572"/>
+      <point x="63" y="355" type="curve" smooth="yes"/>
+      <point x="63" y="135"/>
+      <point x="202" y="-20"/>
+      <point x="400" y="-20" type="curve" smooth="yes"/>
+      <point x="560" y="-20"/>
+      <point x="677" y="79"/>
+      <point x="710" y="261" type="curve"/>
+    </contour>
+    <contour>
+      <point x="291" y="-204" type="line"/>
+      <point x="312" y="-210"/>
+      <point x="336" y="-217"/>
+      <point x="375" y="-217" type="curve" smooth="yes"/>
+      <point x="455" y="-217"/>
+      <point x="501" y="-188"/>
+      <point x="501" y="-136" type="curve" smooth="yes"/>
+      <point x="501" y="-89"/>
+      <point x="464" y="-63"/>
+      <point x="405" y="-63" type="curve"/>
+      <point x="449.74" y="15.8951" type="line"/>
+      <point x="392.74" y="15.8951" type="line"/>
+      <point x="338" y="-85" type="line"/>
+      <point x="353" y="-83"/>
+      <point x="364" y="-81"/>
+      <point x="377" y="-81" type="curve" smooth="yes"/>
+      <point x="412" y="-81"/>
+      <point x="433" y="-96"/>
+      <point x="433" y="-131" type="curve" smooth="yes"/>
+      <point x="433" y="-165"/>
+      <point x="414" y="-181"/>
+      <point x="372" y="-181" type="curve" smooth="yes"/>
+      <point x="349" y="-181"/>
+      <point x="327" y="-176"/>
+      <point x="310" y="-170" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>C.ss09+cedilla.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,71 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="becyr" format="2">
-  <advance width="620"/>
+  <advance width="582"/>
   <unicode hex="0431"/>
   <outline>
     <contour>
-      <point x="527" y="620" type="line"/>
-      <point x="493.499" y="594"/>
-      <point x="436.978" y="577.462"/>
-      <point x="355.665" y="569" type="curve" smooth="yes"/>
-      <point x="187.152" y="551.462"/>
-      <point x="147" y="499"/>
-      <point x="147" y="353" type="curve"/>
-      <point x="182" y="429"/>
-      <point x="259.69" y="480"/>
-      <point x="359.44" y="480" type="curve" smooth="yes"/>
-      <point x="489.882" y="480"/>
-      <point x="581" y="392"/>
-      <point x="581" y="235" type="curve" smooth="yes"/>
-      <point x="581" y="74"/>
-      <point x="484.041" y="-20"/>
-      <point x="316.302" y="-20" type="curve" smooth="yes"/>
-      <point x="133.05" y="-20"/>
-      <point x="39" y="90.8437"/>
-      <point x="39" y="327.51" type="curve" smooth="yes"/>
-      <point x="39" y="536.215"/>
-      <point x="112.458" y="659.906"/>
-      <point x="351.127" y="689" type="curve" smooth="yes"/>
-      <point x="391.73" y="693.95"/>
-      <point x="471.919" y="707.305"/>
-      <point x="527" y="749" type="curve"/>
+      <point x="508" y="749" type="line"/>
+      <point x="452.919" y="707.305"/>
+      <point x="372.73" y="693.95"/>
+      <point x="332.127" y="689" type="curve" smooth="yes"/>
+      <point x="93.458" y="659.906"/>
+      <point x="20" y="536.215"/>
+      <point x="20" y="327.51" type="curve" smooth="yes"/>
+      <point x="20" y="90.844"/>
+      <point x="114.05" y="-20"/>
+      <point x="297.302" y="-20" type="curve" smooth="yes"/>
+      <point x="465.041" y="-20"/>
+      <point x="562" y="74"/>
+      <point x="562" y="235" type="curve" smooth="yes"/>
+      <point x="562" y="392"/>
+      <point x="470.882" y="480"/>
+      <point x="340.44" y="480" type="curve" smooth="yes"/>
+      <point x="240.69" y="480"/>
+      <point x="163" y="429"/>
+      <point x="128" y="353" type="curve"/>
+      <point x="128" y="499"/>
+      <point x="168.152" y="551.462"/>
+      <point x="336.665" y="569" type="curve" smooth="yes"/>
+      <point x="417.978" y="577.462"/>
+      <point x="474.499" y="594"/>
+      <point x="508" y="620" type="curve"/>
     </contour>
     <contour>
-      <point x="314.348" y="100" type="curve" smooth="yes"/>
-      <point x="381.808" y="100"/>
-      <point x="416" y="148.376"/>
-      <point x="416" y="232.027" type="curve" smooth="yes"/>
-      <point x="416" y="312.655"/>
-      <point x="383.656" y="357"/>
-      <point x="316.196" y="357" type="curve" smooth="yes"/>
-      <point x="248.737" y="357"/>
-      <point x="209" y="312.655"/>
-      <point x="209" y="230.012" type="curve" smooth="yes"/>
-      <point x="209" y="148.376"/>
-      <point x="246.888" y="100"/>
+      <point x="295.348" y="100" type="curve" smooth="yes"/>
+      <point x="227.888" y="100"/>
+      <point x="190" y="148.376"/>
+      <point x="190" y="230.012" type="curve" smooth="yes"/>
+      <point x="190" y="312.655"/>
+      <point x="229.737" y="357"/>
+      <point x="297.196" y="357" type="curve" smooth="yes"/>
+      <point x="364.656" y="357"/>
+      <point x="397" y="312.655"/>
+      <point x="397" y="232.027" type="curve" smooth="yes"/>
+      <point x="397" y="148.376"/>
+      <point x="362.808" y="100"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c9215f4071f6281c35c42c2a26ae5e72222743756fbea364630afecb9d8500a581aeea9791307639d6d5c6c291dda2cd025db40a68628fba36f702c7ea01eef9</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 110</string>
-          <string>hstem 369 111</string>
-          <string>vstem 12 116</string>
-          <string>vstem 416 165</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

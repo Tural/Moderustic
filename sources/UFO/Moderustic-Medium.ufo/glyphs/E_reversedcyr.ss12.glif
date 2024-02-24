@@ -4,20 +4,20 @@
   <anchor x="304" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="53.1882" y="87.2056" type="line"/>
-      <point x="88.7149" y="33.7312"/>
-      <point x="185.017" y="-21.0674"/>
-      <point x="300" y="-21.0674" type="curve" smooth="yes"/>
-      <point x="500" y="-21.0674"/>
+      <point x="53.188" y="87.206" type="line"/>
+      <point x="88.715" y="33.731"/>
+      <point x="185.017" y="-21.067"/>
+      <point x="300" y="-21.067" type="curve" smooth="yes"/>
+      <point x="500" y="-21.067"/>
       <point x="616" y="126"/>
       <point x="616" y="349" type="curve" smooth="yes"/>
       <point x="616" y="572"/>
       <point x="500" y="720"/>
       <point x="300" y="720" type="curve" smooth="yes"/>
       <point x="185.017" y="720"/>
-      <point x="88.7149" y="665.201"/>
-      <point x="53.1882" y="611.727" type="curve"/>
-      <point x="61.2948" y="528.19" type="line"/>
+      <point x="88.715" y="665.201"/>
+      <point x="53.188" y="611.727" type="curve"/>
+      <point x="61.295" y="528.19" type="line"/>
       <point x="137.022" y="587.855"/>
       <point x="214.858" y="619.699"/>
       <point x="296.316" y="619.699" type="curve" smooth="yes"/>
@@ -25,11 +25,11 @@
       <point x="496" y="513.594"/>
       <point x="496" y="345.953" type="curve" smooth="yes"/>
       <point x="496" y="182.328"/>
-      <point x="440" y="78.9326"/>
-      <point x="291" y="78.9326" type="curve" smooth="yes"/>
-      <point x="209.542" y="78.9326"/>
+      <point x="440" y="78.933"/>
+      <point x="291" y="78.933" type="curve" smooth="yes"/>
+      <point x="209.542" y="78.933"/>
       <point x="137.022" y="110.376"/>
-      <point x="61.2948" y="170.742" type="curve"/>
+      <point x="61.295" y="170.742" type="curve"/>
     </contour>
     <contour>
       <point x="178" y="310" type="line"/>

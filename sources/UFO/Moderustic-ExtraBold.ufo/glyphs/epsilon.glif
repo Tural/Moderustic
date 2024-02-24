@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilon" format="2">
-  <advance width="505"/>
+  <advance width="495"/>
   <unicode hex="03B5"/>
   <anchor x="253" y="520" name="topgr"/>
   <outline>
@@ -38,7 +38,7 @@
       <point x="67" y="237"/>
       <point x="29" y="201.955"/>
       <point x="29" y="129.917" type="curve" smooth="yes"/>
-      <point x="29" y="49.1174"/>
+      <point x="29" y="49.117"/>
       <point x="88" y="-20"/>
       <point x="240" y="-20" type="curve" smooth="yes"/>
       <point x="352" y="-20"/>
@@ -46,28 +46,4 @@
       <point x="466" y="77" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>aa07ac5c311affcbf50dcbac2484ab6c8b5c03c060724e68b75584547f628fe4e795e7311f029af786d4cb33edb04ace95f731bd513d5955ef346f15e79cd680</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 130</string>
-          <string>hstem 198 110</string>
-          <string>hstem 390 130</string>
-          <string>vstem 29 187</string>
-          <string>vstem 48 186</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

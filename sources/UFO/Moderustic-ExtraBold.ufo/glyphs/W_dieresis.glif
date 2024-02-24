@@ -6,12 +6,14 @@
   <anchor x="480" y="906" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresis.case" xOffset="276" yOffset="219"/>
+    <component base="dieresiscomb" xOffset="276" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+~dieresiscomb</string>
   </dict>
   </lib>
 </glyph>

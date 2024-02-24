@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LJ.ss10" format="2">
-  <advance width="1132"/>
-  <anchor x="991" y="719" name="top"/>
-  <anchor x="812" y="-20" name="bottom"/>
+  <advance width="1082"/>
+  <anchor x="951" y="719" name="top"/>
+  <anchor x="772" y="-20" name="bottom"/>
+  <anchor x="318" y="700" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="J.ss10" xOffset="554"/>
+    <component base="J.ss10" xOffset="524"/>
   </outline>
   <lib>
   <dict>

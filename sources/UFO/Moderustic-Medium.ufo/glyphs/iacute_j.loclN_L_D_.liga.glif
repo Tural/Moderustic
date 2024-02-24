@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute_j.loclNLD.liga" format="2">
-  <advance width="626"/>
+  <advance width="596"/>
   <outline>
-    <component base="y"/>
-    <component base="acute" xOffset="5" yOffset="20"/>
-    <component base="acute" xOffset="364" yOffset="20"/>
+    <component base="y.ss04" xOffset="10"/>
+    <component base="acutecomb" xOffset="0.957" yOffset="20"/>
+    <component base="acutecomb" xOffset="356.532" yOffset="20"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>y+acute</string>
+  <string>y.ss04+acutecomb</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

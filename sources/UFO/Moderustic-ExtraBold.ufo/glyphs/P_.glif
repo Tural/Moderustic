@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-  <advance width="644"/>
+  <advance width="628"/>
   <unicode hex="0050"/>
   <anchor x="322" y="719" name="top"/>
   <anchor x="322" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="68" y="0" type="line"/>
-      <point x="258" y="0" type="line"/>
-      <point x="258" y="216" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="248" y="0" type="line" name="ab01"/>
+      <point x="248" y="216" type="line" name="dv01"/>
       <point x="334" y="216" type="line" smooth="yes"/>
       <point x="524" y="216"/>
       <point x="605" y="334"/>
       <point x="605" y="460" type="curve" smooth="yes"/>
       <point x="605" y="585"/>
       <point x="524" y="700"/>
-      <point x="334" y="700" type="curve" smooth="yes"/>
-      <point x="68" y="700" type="line"/>
+      <point x="334" y="700" type="curve" smooth="yes" name="at01"/>
+      <point x="58" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="258" y="356" type="line"/>
-      <point x="258" y="560" type="line"/>
+      <point x="248" y="356" type="line" name="dv02"/>
+      <point x="248" y="560" type="line" name="sv01"/>
       <point x="299" y="560" type="line" smooth="yes"/>
       <point x="357" y="560"/>
       <point x="414" y="543.842"/>
@@ -30,28 +30,4 @@
       <point x="299" y="356" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>badd0a5a3f97bd1d471dca1a0183aba13944dccc9ae147a9924fb8b688dcde814732ce13500cde02777e05c4fb548c3ef86e16fe6c4692dd88b43bd3f523b3bc</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 216 141</string>
-          <string>hstem 559 141</string>
-          <string>vstem 68 190</string>
-          <string>vstem 414 191</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

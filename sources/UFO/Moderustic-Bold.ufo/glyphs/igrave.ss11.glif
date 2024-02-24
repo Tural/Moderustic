@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave.ss11" format="2">
+  <advance width="370"/>
+  <anchor x="184" y="-20" name="bottom"/>
+  <anchor x="346" y="-3" name="ogonek"/>
+  <anchor x="154" y="720" name="top"/>
+  <outline>
+    <component base="dotlessi.ss11"/>
+    <component base="gravecomb" xOffset="6" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi.ss11+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

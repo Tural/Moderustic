@@ -3,8 +3,8 @@
   <advance width="695"/>
   <outline>
     <contour>
-      <point x="31" y="360" type="line"/>
-      <point x="542" y="360" type="line"/>
+      <point x="31" y="370" type="line"/>
+      <point x="542" y="370" type="line"/>
       <point x="553" y="449" type="line"/>
       <point x="295" y="449" type="line"/>
       <point x="316" y="533"/>
@@ -39,31 +39,8 @@
       <point x="317" y="168"/>
       <point x="295" y="251" type="curve"/>
       <point x="524" y="251" type="line"/>
-      <point x="535" y="340" type="line"/>
-      <point x="32" y="340" type="line"/>
+      <point x="535" y="330" type="line"/>
+      <point x="32" y="330" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>974dd5a1f2cbf3e58313570d19426c5d875283ba73cef689424d575aa6c42dfb496e7069e9e2265b7b2f20aeed81f1f98d53bb9e7c551d51f77224060771eec7</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 141</string>
-          <string>hstem 270 70</string>
-          <string>hstem 364 70</string>
-          <string>hstem 580 140</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

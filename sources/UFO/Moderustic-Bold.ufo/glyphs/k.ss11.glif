@@ -1,48 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.ss11" format="2">
-  <advance width="592"/>
-  <anchor x="149" y="750" name="top"/>
-  <anchor x="296" y="-20" name="bottom"/>
+  <advance width="582"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <anchor x="139" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="64" y="0" type="line"/>
-      <point x="229" y="0" type="line"/>
-      <point x="229" y="700" type="line"/>
-      <point x="64" y="700" type="line"/>
+      <point x="54" y="0" type="line" name="av01"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="700" type="line" name="av02"/>
+      <point x="54" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="121" y="240" type="line"/>
-      <point x="308" y="240" type="line" name="iv01"/>
-      <point x="400" y="0" type="line" name="ab02"/>
-      <point x="585" y="0" type="line"/>
-      <point x="447" y="283" type="line"/>
-      <point x="572" y="500" type="line" name="av02"/>
-      <point x="409" y="500" type="line"/>
-      <point x="327" y="360" type="line" name="iv02"/>
-      <point x="120" y="360" type="line"/>
+      <point x="111" y="240" type="line"/>
+      <point x="298" y="240" type="line" name="iv01"/>
+      <point x="390" y="0" type="line" name="ab02"/>
+      <point x="575" y="0" type="line"/>
+      <point x="437" y="283" type="line"/>
+      <point x="562" y="500" type="line" name="av02"/>
+      <point x="399" y="500" type="line"/>
+      <point x="317" y="360" type="line" name="iv02"/>
+      <point x="110" y="360" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w592m64,0l229,0l229,700l64,700m121,240l308,240l400,0l585,0l447,283l572,500l409,500l327,360l120,360</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 500 -20</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 64 165</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

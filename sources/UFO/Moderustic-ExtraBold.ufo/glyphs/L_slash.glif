@@ -4,11 +4,11 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="68" y="0" type="line"/>
+      <point x="68" y="0" type="line" name="ab01"/>
       <point x="514" y="0" type="line"/>
-      <point x="514" y="140" type="line"/>
+      <point x="514" y="140" type="line" name="sv01"/>
       <point x="258" y="140" type="line"/>
-      <point x="258" y="700" type="line"/>
+      <point x="258" y="700" type="line" name="at01"/>
       <point x="68" y="700" type="line"/>
     </contour>
     <contour>
@@ -18,26 +18,4 @@
       <point x="0" y="280" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w554m68,0l514,0l514,140l258,140l258,700l68,700m0,231l413,510l413,559l0,280</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 140</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 68 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

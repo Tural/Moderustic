@@ -24,35 +24,10 @@
       <point x="140" y="277" type="line"/>
     </contour>
     <contour>
-      <point x="68" y="0" type="line"/>
+      <point x="68" y="0" type="line" name="av01"/>
       <point x="258" y="0" type="line"/>
-      <point x="258" y="700" type="line"/>
+      <point x="258" y="700" type="line" name="av02"/>
       <point x="68" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>60d2c3fb66a8d87a5d5018924b9104fc515d00f9fa2bc1ac63001d0c764df6bab09a3008829e1e67335a24176bb4c5b9ef3a4c503faa09ed74f0f943de40ca44</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 137 140</string>
-          <string>hstem 444 140</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 68 190</string>
-          <string>vstem 387 191</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

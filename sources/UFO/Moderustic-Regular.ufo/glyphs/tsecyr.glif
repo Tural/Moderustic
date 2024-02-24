@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr" format="2">
-  <advance width="686"/>
+  <advance width="676"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="521" y="0" type="line" smooth="yes"/>
-      <point x="588" y="0"/>
-      <point x="574" y="-72"/>
-      <point x="574" y="-140" type="curve"/>
-      <point x="650" y="-140" type="line"/>
-      <point x="650" y="35"/>
-      <point x="629" y="68"/>
-      <point x="529" y="68" type="curve"/>
-      <point x="529" y="500" type="line"/>
-      <point x="439" y="500" type="line"/>
-      <point x="439" y="70" type="line"/>
-      <point x="180" y="70" type="line"/>
-      <point x="180" y="500" type="line"/>
-      <point x="90" y="500" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="511" y="0" type="line" smooth="yes"/>
+      <point x="578" y="0"/>
+      <point x="564" y="-72"/>
+      <point x="564" y="-140" type="curve"/>
+      <point x="640" y="-140" type="line"/>
+      <point x="640" y="35"/>
+      <point x="619" y="78"/>
+      <point x="519" y="78" type="curve"/>
+      <point x="519" y="500" type="line"/>
+      <point x="429" y="500" type="line"/>
+      <point x="429" y="80" type="line"/>
+      <point x="170" y="80" type="line"/>
+      <point x="170" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
     </contour>
   </outline>
 </glyph>

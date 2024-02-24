@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cacute.loclPLK.ss10" format="2">
-  <advance width="735"/>
-  <anchor x="407" y="-19" name="bottom"/>
-  <anchor x="403" y="919" name="top"/>
+  <advance width="715"/>
+  <anchor x="397" y="-19" name="bottom"/>
+  <anchor x="393" y="919" name="top"/>
   <outline>
     <component base="C.ss10"/>
-    <component base="acutecomb.loclPLK" xOffset="264" yOffset="219"/>
+    <component base="acutecomb.loclPLK" xOffset="254" yOffset="219"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C.ss10+acutecomb.loclPLK</string>
   <key>public.markColor</key>
   <string>0.798,1,0.6,1</string>
   </dict>

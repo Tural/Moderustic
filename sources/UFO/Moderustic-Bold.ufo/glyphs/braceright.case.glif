@@ -6,7 +6,7 @@
       <point x="52" y="-276" type="line"/>
       <point x="188" y="-208.35"/>
       <point x="244" y="-114.229"/>
-      <point x="244" y="-15.2055" type="curve" smooth="yes"/>
+      <point x="244" y="-15.205" type="curve" smooth="yes"/>
       <point x="244" y="225" type="line" smooth="yes"/>
       <point x="244" y="296"/>
       <point x="302" y="332"/>
@@ -30,7 +30,7 @@
       <point x="127" y="321"/>
       <point x="108" y="263"/>
       <point x="108" y="199" type="curve" smooth="yes"/>
-      <point x="108" y="-22.8055" type="line" smooth="yes"/>
+      <point x="108" y="-22.805" type="line" smooth="yes"/>
       <point x="108" y="-142.014"/>
       <point x="86" y="-197.709"/>
       <point x="34" y="-228" type="curve"/>
@@ -40,22 +40,6 @@
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.783,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7dbc05b7456374a80663ff8ed1b6de940ff2cadd0f4181db253c4b60587a902819c2b33317b18ea2fd16db1e6e1da0fd384d0cc61ceadefc1fcc8da64444f51c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 108 136</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gacute.ss03" format="2">
-  <advance width="773"/>
-  <anchor x="398" y="-19" name="bottom"/>
-  <anchor x="403" y="919" name="top"/>
+  <advance width="753"/>
+  <anchor x="388" y="-19" name="bottom"/>
+  <anchor x="393" y="919" name="top"/>
   <outline>
     <component base="G.ss03"/>
-    <component base="acute.case" xOffset="262" yOffset="219"/>
+    <component base="acutecomb" xOffset="252" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>G.ss03+acute.case</string>
+  <string>G.ss03+acutecomb</string>
   </dict>
   </lib>
 </glyph>

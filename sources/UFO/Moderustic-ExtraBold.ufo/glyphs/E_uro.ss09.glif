@@ -3,12 +3,13 @@
   <advance width="730"/>
   <outline>
     <contour>
-      <point x="10" y="364" type="line"/>
-      <point x="481" y="364" type="line"/>
-      <point x="495" y="434" type="line"/>
-      <point x="281" y="434" type="line"/>
-      <point x="286" y="534"/>
-      <point x="334" y="579"/>
+      <point x="-8" y="374" type="line"/>
+      <point x="463" y="374" type="line"/>
+      <point x="495" y="444" type="line"/>
+      <point x="266" y="444" type="line"/>
+      <point x="280.597" y="411.685" type="line"/>
+      <point x="279.218" y="527.33"/>
+      <point x="329.349" y="579"/>
       <point x="399" y="579" type="curve" smooth="yes"/>
       <point x="455" y="579"/>
       <point x="495" y="546"/>
@@ -17,13 +18,14 @@
       <point x="657" y="620"/>
       <point x="560" y="720"/>
       <point x="400" y="720" type="curve" smooth="yes"/>
-      <point x="229" y="720"/>
-      <point x="103" y="604"/>
-      <point x="89" y="434" type="curve"/>
-      <point x="24" y="434" type="line"/>
+      <point x="223.515" y="720"/>
+      <point x="94.963" y="596.439"/>
+      <point x="88" y="417.477" type="curve"/>
+      <point x="104" y="444" type="line"/>
+      <point x="24" y="444" type="line"/>
     </contour>
     <contour>
-      <point x="10" y="270" type="line"/>
+      <point x="-8" y="270" type="line"/>
       <point x="88" y="270" type="line"/>
       <point x="102" y="100"/>
       <point x="230" y="-20"/>
@@ -39,32 +41,8 @@
       <point x="286" y="161"/>
       <point x="280" y="270" type="curve"/>
       <point x="455" y="270" type="line"/>
-      <point x="469" y="340" type="line"/>
+      <point x="487" y="340" type="line"/>
       <point x="24" y="340" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2af1c287afe4e1119a6dfad456af41b4207ba3b2f5c9d5b4cc0d997628f3a8e0c2ecf0256358a5d0f0ebdb3ea801c75a97974308b571770c01295f127df2ae29</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 142</string>
-          <string>hstem 270 70</string>
-          <string>hstem 364 70</string>
-          <string>hstem 485 235</string>
-          <string>hstem 579 141</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

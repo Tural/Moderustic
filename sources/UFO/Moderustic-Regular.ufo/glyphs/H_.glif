@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="736"/>
+  <advance width="716"/>
   <unicode hex="0048"/>
-  <anchor x="368" y="-20" name="bottom"/>
-  <anchor x="368" y="719" name="top"/>
-  <anchor x="-18" y="500" name="topgr"/>
+  <anchor x="358" y="-20" name="bottom"/>
+  <anchor x="358" y="719" name="top"/>
+  <anchor x="-28" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="97" y="0" type="line" name="ab01"/>
-      <point x="187" y="0" type="line"/>
-      <point x="187" y="330" type="line" name="dv01"/>
-      <point x="549" y="330" type="line"/>
-      <point x="549" y="0" type="line" name="ab02"/>
-      <point x="639" y="0" type="line"/>
-      <point x="639" y="700" type="line" name="at01"/>
-      <point x="549" y="700" type="line"/>
-      <point x="549" y="410" type="line"/>
-      <point x="187" y="410" type="line" name="dv02"/>
-      <point x="187" y="700" type="line" name="at02"/>
-      <point x="97" y="700" type="line"/>
+      <point x="87" y="0" type="line" name="ab01"/>
+      <point x="177" y="0" type="line"/>
+      <point x="177" y="330" type="line" name="dv01"/>
+      <point x="539" y="330" type="line"/>
+      <point x="539" y="0" type="line" name="ab02"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="700" type="line" name="at01"/>
+      <point x="539" y="700" type="line"/>
+      <point x="539" y="410" type="line"/>
+      <point x="177" y="410" type="line" name="dv02"/>
+      <point x="177" y="700" type="line" name="at02"/>
+      <point x="87" y="700" type="line"/>
     </contour>
   </outline>
 </glyph>

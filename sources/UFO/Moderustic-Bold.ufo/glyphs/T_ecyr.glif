@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tecyr" format="2">
-  <advance width="648"/>
+  <advance width="626"/>
   <unicode hex="0422"/>
-  <anchor x="324" y="719" name="top"/>
-  <anchor x="324" y="-20" name="bottom"/>
+  <anchor x="313" y="719" name="top"/>
+  <anchor x="313" y="-20" name="bottom"/>
   <outline>
     <component base="T"/>
   </outline>
@@ -11,8 +11,6 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
-  <key>com.fontlab.recipe</key>
-  <string>T</string>
   </dict>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex.ss10" format="2">
-  <advance width="585"/>
-  <anchor x="298" y="-20" name="bottom"/>
-  <anchor x="413" y="-2" name="ogonek"/>
-  <anchor x="298" y="720" name="top"/>
+  <advance width="574"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="405" y="-2" name="ogonek"/>
+  <anchor x="290" y="720" name="top"/>
   <outline>
     <component base="e.ss10"/>
-    <component base="circumflexcomb" xOffset="125" yOffset="20"/>
+    <component base="circumflexcomb" xOffset="117" yOffset="20"/>
   </outline>
   <lib>
   <dict>

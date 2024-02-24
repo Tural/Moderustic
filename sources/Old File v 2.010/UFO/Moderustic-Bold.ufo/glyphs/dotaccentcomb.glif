@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="211"/>
+  <unicode hex="0307"/>
+  <anchor x="105" y="686" name="top"/>
+  <anchor x="105" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="20.7687" y="609.957" type="curve" smooth="yes"/>
+      <point x="20.7687" y="572.618"/>
+      <point x="50.4486" y="527.62"/>
+      <point x="106.936" y="527.62" type="curve" smooth="yes"/>
+      <point x="161.509" y="527.62"/>
+      <point x="190.231" y="568.789"/>
+      <point x="190.231" y="610.915" type="curve" smooth="yes"/>
+      <point x="190.231" y="652.084"/>
+      <point x="161.509" y="690.38"/>
+      <point x="107.894" y="690.38" type="curve" smooth="yes"/>
+      <point x="50.4486" y="690.38"/>
+      <point x="20.7687" y="647.297"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccent%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>42c46b0a99a47d1125da0239fde7d573da6a39cb4adcc0f0f2e4670b87f14bd25009196b0ef1408caf212a42484332afa502faae2114a7da683f514548fed289</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 584 170</string>
+          <string>vstem 17 177</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

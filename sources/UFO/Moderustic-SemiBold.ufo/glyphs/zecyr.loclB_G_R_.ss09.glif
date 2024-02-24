@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.loclBGR.ss09" format="2">
-  <advance width="525"/>
+  <advance width="515"/>
   <outline>
     <contour>
-      <point x="34" y="-34.8751" type="line"/>
-      <point x="43.5556" y="-148.875"/>
+      <point x="34" y="-34.875" type="line"/>
+      <point x="43.556" y="-148.875"/>
       <point x="120" y="-221.875"/>
       <point x="260" y="-221.875" type="curve" smooth="yes"/>
       <point x="402.502" y="-221.875"/>
       <point x="486" y="-145.535"/>
-      <point x="486" y="-23.6992" type="curve" smooth="yes"/>
-      <point x="486" y="92.8478"/>
+      <point x="486" y="-23.699" type="curve" smooth="yes"/>
+      <point x="486" y="92.848"/>
       <point x="417.231" y="168.84"/>
       <point x="316.363" y="168.84" type="curve"/>
       <point x="404.274" y="176.713"/>
@@ -20,7 +20,7 @@
       <point x="379.586" y="520"/>
       <point x="266.717" y="520" type="curve" smooth="yes"/>
       <point x="138.866" y="520"/>
-      <point x="50.4138" y="454.698"/>
+      <point x="50.414" y="454.698"/>
       <point x="34" y="333" type="curve"/>
       <point x="177" y="333" type="line"/>
       <point x="183.021" y="380.759"/>
@@ -35,13 +35,13 @@
       <point x="174" y="102" type="line"/>
       <point x="286.909" y="114.543"/>
       <point x="341" y="68.122"/>
-      <point x="341" y="-24.3865" type="curve" smooth="yes"/>
-      <point x="341" y="-84.7352"/>
+      <point x="341" y="-24.386" type="curve" smooth="yes"/>
+      <point x="341" y="-84.735"/>
       <point x="317.981" y="-111.875"/>
-      <point x="260.952" y="-111.875" type="curve" smooth="yes"/>
+      <point x="260.952" y="-111.875" type="curve" smooth="yes" name="sv01"/>
       <point x="200.993" y="-111.875"/>
-      <point x="180.332" y="-81.8751"/>
-      <point x="177" y="-34.8751" type="curve"/>
+      <point x="180.332" y="-81.875"/>
+      <point x="177" y="-34.875" type="curve"/>
     </contour>
   </outline>
   <lib>

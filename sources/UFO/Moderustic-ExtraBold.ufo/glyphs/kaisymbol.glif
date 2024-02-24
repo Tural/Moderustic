@@ -4,10 +4,10 @@
   <unicode hex="03D7"/>
   <outline>
     <contour>
-      <point x="54" y="0" type="line"/>
+      <point x="54" y="0" type="line" name="ab01"/>
       <point x="244" y="0" type="line"/>
       <point x="244" y="500" type="line"/>
-      <point x="54" y="500" type="line"/>
+      <point x="54" y="500" type="line" name="av01"/>
     </contour>
     <contour>
       <point x="124" y="189" type="line"/>
@@ -31,26 +31,4 @@
       <point x="230" y="-76" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>603140b597db1593cea8435d12ff363a0bd7ca1bec73c2ee372a90eb7618c4bf769fcc1e3f271a6fe95fe27ca206f0e3ab45e232147973e29f07e7079939952f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 500 -20</string>
-          <string>vstem 54 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

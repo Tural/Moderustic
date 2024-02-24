@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="escyr" format="2">
-  <advance width="563"/>
+  <advance width="545"/>
   <unicode hex="0441"/>
-  <anchor x="303" y="520" name="top"/>
-  <anchor x="303" y="-20" name="bottom"/>
+  <anchor x="304" y="520" name="top"/>
+  <anchor x="304" y="-20" name="bottom"/>
   <outline>
     <component base="c"/>
   </outline>
@@ -11,6 +11,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c</string>
   </dict>
   </lib>
 </glyph>

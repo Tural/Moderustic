@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="2">
+  <advance width="594"/>
+  <unicode hex="006B"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="142" y="750" name="top"/>
+  <outline>
+    <contour>
+      <point x="69" y="0" type="line" name="sv03"/>
+      <point x="214" y="0" type="line" name="ab02"/>
+      <point x="214" y="750" type="line" name="ab01"/>
+      <point x="69" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="207" type="line"/>
+      <point x="317" y="207" type="line" name="iv01"/>
+      <point x="409" y="0" type="line" name="ab02"/>
+      <point x="574" y="0" type="line"/>
+      <point x="433" y="265" type="line"/>
+      <point x="558" y="500" type="line" name="av02"/>
+      <point x="408" y="500" type="line"/>
+      <point x="326" y="317" type="line" name="iv02"/>
+      <point x="109" y="317" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>ab01</string>
+      <key>zone</key>
+      <string>B1</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>ab02</string>
+      <key>zone</key>
+      <string>base</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>sv03</string>
+      <key>zone</key>
+      <string>base</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ytilde.ss04" format="2">
-  <advance width="565"/>
-  <anchor x="428" y="0" name="bottom"/>
-  <anchor x="283" y="690" name="top"/>
+  <advance width="586"/>
+  <anchor x="550" y="0" name="bottom"/>
+  <anchor x="298" y="690" name="top"/>
   <outline>
     <component base="y.ss04"/>
-    <component base="tildecomb" xOffset="61" yOffset="20"/>
+    <component base="tildecomb" xOffset="76" yOffset="20"/>
   </outline>
   <lib>
   <dict>

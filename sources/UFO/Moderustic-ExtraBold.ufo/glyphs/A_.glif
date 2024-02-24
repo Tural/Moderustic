@@ -8,10 +8,10 @@
   <anchor x="66" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="193" y="106" type="line"/>
+      <point x="193" y="106" type="line" name="dv01"/>
       <point x="459" y="106" type="line"/>
-      <point x="415" y="236" type="line"/>
-      <point x="237" y="236" type="line"/>
+      <point x="415" y="236" type="line" name="dv03"/>
+      <point x="237" y="236" type="line" name="dv02"/>
     </contour>
     <contour>
       <point x="-3" y="0" type="line"/>
@@ -26,26 +26,4 @@
       <point x="276" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w655m193,106l459,106l415,236l237,236m-3,0l196,0l379,700l224,700m459,0l658,0l431,700l276,700</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 116 140</string>
-          <string>hstem 700 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

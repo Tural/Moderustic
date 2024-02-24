@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="2">
-  <advance width="608"/>
+  <advance width="589"/>
   <unicode hex="03C5"/>
   <anchor x="283" y="520" name="topgr"/>
   <outline>
@@ -29,27 +29,4 @@
       <point x="243" y="500" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ee764d5821d5c35c9d10fd90303c445b35e82ca19d4cfd3ba1247883aeb4b0a98604a1c5198b9d28149c35bb3b0065fc7daabfa90933da79f775d9b0deaedcce</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 130</string>
-          <string>hstem 500 -20</string>
-          <string>vstem 53 190</string>
-          <string>vstem 379 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

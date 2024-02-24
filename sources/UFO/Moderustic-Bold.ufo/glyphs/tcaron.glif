@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-  <advance width="365"/>
+  <advance width="395"/>
   <unicode hex="0165"/>
   <anchor x="175" y="630" name="top"/>
-  <anchor x="220" y="-20" name="bottom"/>
+  <anchor x="230" y="-20" name="bottom"/>
   <outline>
     <component base="t"/>
     <component base="caron.salt" xOffset="283"/>

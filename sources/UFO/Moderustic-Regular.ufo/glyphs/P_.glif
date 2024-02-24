@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-  <advance width="644"/>
+  <advance width="628"/>
   <unicode hex="0050"/>
   <anchor x="322" y="719" name="top"/>
   <anchor x="322" y="-20" name="bottom"/>
@@ -30,49 +30,4 @@
       <point x="308" y="317" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>100</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>at01</string>
-      <key>point2</key>
-      <string>sv01</string>
-      <key>stem</key>
-      <string>100</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

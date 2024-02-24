@@ -2,13 +2,13 @@
 <glyph name="IJ.liga.ss10" format="2">
   <advance width="630"/>
   <outline>
-    <component base="J.ss10" xOffset="52"/>
+    <component base="J.ss10" xOffset="62"/>
     <component base="dotlessi" yScale="0.8" xOffset="-4" yOffset="300"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>J.ss10+^&lt;23ı</string>
+  <string>J.ss10+^&lt;14ı</string>
   </dict>
   </lib>
 </glyph>

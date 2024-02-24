@@ -2,6 +2,6 @@
 <glyph name="hyphen.dnom" format="2">
   <advance width="477"/>
   <outline>
-    <component base="hyphen" xOffset="43.4219" yOffset="-60"/>
+    <component base="hyphen" xOffset="43.422" yOffset="-60"/>
   </outline>
 </glyph>

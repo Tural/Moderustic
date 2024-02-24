@@ -6,9 +6,9 @@
   <anchor x="320" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="58" y="0" type="line"/>
+      <point x="58" y="0" type="line" name="av01"/>
       <point x="223" y="0" type="line"/>
-      <point x="223" y="700" type="line"/>
+      <point x="223" y="700" type="line" name="av02"/>
       <point x="58" y="700" type="line"/>
     </contour>
     <contour>
@@ -32,28 +32,4 @@
       <point x="335" y="329" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c73e54f84773e0c0cd64b4ae41fef8244bf8d3dcc80c1e9986bc0f8fcddf13173a473a23bfe6a30eb3458debf09121afea1938b0ef43a6615677d709df30136a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 315 120</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 57 165</string>
-          <string>vstem 222 193</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

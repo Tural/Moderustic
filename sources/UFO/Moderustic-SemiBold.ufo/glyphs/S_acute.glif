@@ -6,12 +6,14 @@
   <anchor x="302" y="919" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="acute.case" xOffset="163" yOffset="219"/>
+    <component base="acutecomb" xOffset="163" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+~acutecomb</string>
   </dict>
   </lib>
 </glyph>

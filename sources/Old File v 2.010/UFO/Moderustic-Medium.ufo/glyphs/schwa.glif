@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="2">
+  <advance width="613"/>
+  <unicode hex="0259"/>
+  <anchor x="306" y="520" name="top"/>
+  <anchor x="306" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="171" y="214" type="line" name="dv03"/>
+      <point x="179" y="122"/>
+      <point x="226" y="70"/>
+      <point x="303" y="70" type="curve" smooth="yes" name="dv02"/>
+      <point x="379" y="70"/>
+      <point x="425" y="120.35"/>
+      <point x="433" y="214" type="curve" name="ah01"/>
+    </contour>
+    <contour>
+      <point x="85" y="430" type="line"/>
+      <point x="127" y="483"/>
+      <point x="203" y="520"/>
+      <point x="301" y="520" type="curve" smooth="yes"/>
+      <point x="460" y="520"/>
+      <point x="554" y="421"/>
+      <point x="554" y="256" type="curve" smooth="yes" name="sh02"/>
+      <point x="554" y="89"/>
+      <point x="458" y="-20"/>
+      <point x="301" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="147" y="-20"/>
+      <point x="50" y="84"/>
+      <point x="50" y="253" type="curve" smooth="yes" name="sh01"/>
+      <point x="50" y="270"/>
+      <point x="51" y="279"/>
+      <point x="53" y="294" type="curve" name="dv04"/>
+      <point x="431" y="294" type="line" name="sh03"/>
+      <point x="428.211" y="374.593"/>
+      <point x="378" y="430"/>
+      <point x="298" y="430" type="curve" smooth="yes"/>
+      <point x="247" y="430"/>
+      <point x="186.422" y="406.657"/>
+      <point x="153" y="362" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv01</string>
+      <key>point2</key>
+      <string>dv02</string>
+      <key>stem</key>
+      <string>90</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doublev</string>
+      <key>point1</key>
+      <string>dv03</string>
+      <key>point2</key>
+      <string>dv04</string>
+      <key>stem</key>
+      <string>90</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>doubleh</string>
+      <key>point1</key>
+      <string>sh03</string>
+      <key>point2</key>
+      <string>sh02</string>
+      <key>stem</key>
+      <string>179</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>sh03</string>
+      <key>point2</key>
+      <string>ah01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singleh</string>
+      <key>point1</key>
+      <string>sh02</string>
+      <key>point2</key>
+      <string>rsb</string>
+      <key>round</key>
+      <string>true</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

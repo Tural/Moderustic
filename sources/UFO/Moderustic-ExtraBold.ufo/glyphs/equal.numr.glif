@@ -2,6 +2,6 @@
 <glyph name="equal.numr" format="2">
   <advance width="474"/>
   <outline>
-    <component base="equal" xScale="0.8832" xOffset="13" yOffset="137"/>
+    <component base="equal" xScale="0.8832" xOffset="13" yOffset="207"/>
   </outline>
 </glyph>

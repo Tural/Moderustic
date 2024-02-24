@@ -8,12 +8,14 @@
   <anchor x="163" y="906" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="dieresis.case" xOffset="-41" yOffset="219"/>
+    <component base="dieresiscomb" xOffset="-41" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+~dieresiscomb</string>
   </dict>
   </lib>
 </glyph>

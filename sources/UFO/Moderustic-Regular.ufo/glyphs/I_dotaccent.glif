@@ -8,12 +8,14 @@
   <anchor x="163" y="882" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="dotaccent.case" xOffset="58" yOffset="219"/>
+    <component base="dotaccentcomb" xOffset="58" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+~dotaccentcomb</string>
   </dict>
   </lib>
 </glyph>

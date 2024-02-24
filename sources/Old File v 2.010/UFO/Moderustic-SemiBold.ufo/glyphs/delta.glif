@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="616"/>
+  <unicode hex="03B4"/>
+  <anchor x="308" y="721" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="306" y="90" type="curve" smooth="yes"/>
+      <point x="230" y="90"/>
+      <point x="194" y="138"/>
+      <point x="194" y="220" type="curve" smooth="yes"/>
+      <point x="194" y="308"/>
+      <point x="236" y="357"/>
+      <point x="307" y="357" type="curve" smooth="yes"/>
+      <point x="378" y="357"/>
+      <point x="422" y="308"/>
+      <point x="422" y="220" type="curve" smooth="yes"/>
+      <point x="422" y="136"/>
+      <point x="381" y="90"/>
+    </contour>
+    <contour>
+      <point x="49" y="226" type="curve" smooth="yes"/>
+      <point x="49" y="82"/>
+      <point x="143" y="-20"/>
+      <point x="309" y="-20" type="curve" smooth="yes"/>
+      <point x="470" y="-20"/>
+      <point x="567" y="75"/>
+      <point x="567" y="226" type="curve" smooth="yes"/>
+      <point x="567" y="376"/>
+      <point x="471" y="467"/>
+      <point x="310" y="467" type="curve" smooth="yes"/>
+      <point x="142" y="467"/>
+      <point x="49" y="369"/>
+    </contour>
+    <contour>
+      <point x="430" y="446" type="line"/>
+      <point x="344" y="482.222"/>
+      <point x="261" y="512.407"/>
+      <point x="261" y="562.716" type="curve" smooth="yes"/>
+      <point x="261" y="587.87"/>
+      <point x="281" y="609"/>
+      <point x="323" y="609" type="curve" smooth="yes"/>
+      <point x="360" y="609"/>
+      <point x="400" y="592.636"/>
+      <point x="435" y="564" type="curve"/>
+      <point x="513" y="642" type="line"/>
+      <point x="461" y="690"/>
+      <point x="393" y="719"/>
+      <point x="312" y="719" type="curve" smooth="yes"/>
+      <point x="190" y="719"/>
+      <point x="116" y="653"/>
+      <point x="116" y="573" type="curve" smooth="yes"/>
+      <point x="116" y="483"/>
+      <point x="210" y="444"/>
+      <point x="305" y="438" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

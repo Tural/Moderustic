@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ.liga.ss07" format="2">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="80" y="50" type="line"/>
+      <point x="246" y="50" type="line"/>
+      <point x="246" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="-144" type="line"/>
+      <point x="476.289" y="-144"/>
+      <point x="575.807" y="-73"/>
+      <point x="576" y="142" type="curve" smooth="yes"/>
+      <point x="576.5" y="700" type="line"/>
+      <point x="410.5" y="700" type="line"/>
+      <point x="410.5" y="142" type="line" smooth="yes"/>
+      <point x="410.5" y="16"/>
+      <point x="339.059" y="-14"/>
+      <point x="80" y="-14" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+&lt;J.ss07</string>
+  </dict>
+  </lib>
+</glyph>

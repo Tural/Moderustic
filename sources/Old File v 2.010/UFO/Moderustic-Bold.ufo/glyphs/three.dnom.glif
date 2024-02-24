@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.dnom" format="2">
+  <advance width="405"/>
+  <outline>
+    <component base="threesuperior" xScale="0.9488" yScale="0.9531" xOffset="2" yOffset="-342"/>
+  </outline>
+</glyph>

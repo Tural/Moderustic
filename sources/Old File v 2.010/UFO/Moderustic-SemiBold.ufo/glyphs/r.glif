@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="2">
+  <advance width="422"/>
+  <unicode hex="0072"/>
+  <anchor x="235" y="520" name="top"/>
+  <anchor x="132" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line" name="ab01"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="215" type="line" smooth="yes"/>
+      <point x="219" y="342"/>
+      <point x="258" y="410"/>
+      <point x="395" y="410" type="curve" name="sv01"/>
+      <point x="395" y="520" type="line" name="at01"/>
+      <point x="307" y="519"/>
+      <point x="249" y="469"/>
+      <point x="219" y="395" type="curve" name="iv01"/>
+      <point x="219" y="500" type="line"/>
+      <point x="74" y="500" type="line" name="av01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignv</string>
+      <key>point</key>
+      <string>av01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignt</string>
+      <key>point</key>
+      <string>at01</string>
+      <key>zone</key>
+      <string>xhgt</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>ab01</string>
+      <key>zone</key>
+      <string>base</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>at01</string>
+      <key>point2</key>
+      <string>sv01</string>
+      <key>stem</key>
+      <string>90</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>interpolatev</string>
+      <key>point</key>
+      <string>iv01</string>
+      <key>point1</key>
+      <string>ab01</string>
+      <key>point2</key>
+      <string>at01</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

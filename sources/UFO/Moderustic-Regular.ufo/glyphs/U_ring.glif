@@ -7,12 +7,14 @@
   <anchor x="338" y="942" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="ring.case" xOffset="203" yOffset="219"/>
+    <component base="ringcomb" xOffset="203" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+ringcomb</string>
   </dict>
   </lib>
 </glyph>

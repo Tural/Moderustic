@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="410"/>
+  <advance width="326"/>
   <unicode hex="038A"/>
-  <anchor x="247" y="719" name="top"/>
-  <anchor x="247" y="-20" name="bottom"/>
-  <anchor x="323" y="-3" name="ogonek"/>
-  <anchor x="31" y="699" name="topgr"/>
+  <anchor x="163" y="719" name="top"/>
+  <anchor x="163" y="-20" name="bottom"/>
+  <anchor x="239" y="-3" name="ogonek"/>
+  <anchor x="-53" y="699" name="topgr"/>
   <outline>
-    <component base="Iota" xOffset="84"/>
-    <component base="tonos.case" xOffset="-8"/>
+    <component base="Iota"/>
+    <component base="tonos.case" xOffset="-92"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Iota+tonos.case</string>
   </dict>

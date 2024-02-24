@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gjecyr" format="2">
-  <advance width="441"/>
+  <advance width="431"/>
   <unicode hex="0453"/>
-  <anchor x="241" y="-20" name="bottom"/>
-  <anchor x="257" y="720" name="top"/>
+  <anchor x="231" y="-20" name="bottom"/>
+  <anchor x="247" y="720" name="top"/>
   <outline>
     <component base="gecyr"/>
-    <component base="acutecomb" xOffset="113" yOffset="20"/>
+    <component base="acutecomb" xOffset="103" yOffset="20"/>
   </outline>
   <lib>
   <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron.ss11" format="2">
-  <advance width="635"/>
-  <anchor x="285" y="-20" name="bottom"/>
-  <anchor x="318" y="750" name="top"/>
+  <advance width="597"/>
+  <anchor x="275" y="-20" name="bottom"/>
+  <anchor x="308" y="750" name="top"/>
   <outline>
     <component base="d.ss11"/>
-    <component base="caron.salt" xOffset="617"/>
+    <component base="caron.salt" xOffset="607"/>
   </outline>
   <lib>
   <dict>

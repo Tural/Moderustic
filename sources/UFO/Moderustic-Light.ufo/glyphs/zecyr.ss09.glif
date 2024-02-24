@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.ss09" format="2">
-  <advance width="525"/>
+  <advance width="506"/>
   <anchor x="262" y="520" name="top"/>
   <anchor x="282" y="-20" name="bottom"/>
   <outline>

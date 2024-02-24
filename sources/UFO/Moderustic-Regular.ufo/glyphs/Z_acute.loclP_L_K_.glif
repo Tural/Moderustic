@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute.loclPLK" format="2">
-  <advance width="594"/>
-  <anchor x="297" y="-20" name="bottom"/>
-  <anchor x="323" y="919" name="top"/>
+  <advance width="577"/>
+  <anchor x="287" y="-20" name="bottom"/>
+  <anchor x="313" y="919" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acute.loclPLK" xOffset="183" yOffset="219"/>
+    <component base="acutecomb.loclPLK" xOffset="173" yOffset="219"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z+acutecomb.loclPLK</string>
   <key>public.markColor</key>
   <string>0.798,1,0.6,1</string>
   </dict>

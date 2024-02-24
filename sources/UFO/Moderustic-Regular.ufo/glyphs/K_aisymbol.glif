@@ -21,10 +21,10 @@
       <point x="88" y="-40" type="curve"/>
     </contour>
     <contour>
-      <point x="88" y="0" type="line" name="ab01"/>
+      <point x="88" y="0" type="line" name="av01"/>
       <point x="178" y="0" type="line"/>
-      <point x="178" y="700" type="line"/>
-      <point x="88" y="700" type="line" name="at01"/>
+      <point x="178" y="700" type="line" name="av02"/>
+      <point x="88" y="700" type="line"/>
     </contour>
     <contour>
       <point x="110" y="318" type="line"/>

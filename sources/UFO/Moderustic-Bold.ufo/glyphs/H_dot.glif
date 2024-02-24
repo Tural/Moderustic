@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hdot" format="2">
-  <advance width="736"/>
+  <advance width="716"/>
   <unicode hex="1E22"/>
-  <anchor x="368" y="-20" name="bottom"/>
-  <anchor x="-50" y="500" name="topgr"/>
-  <anchor x="368" y="905" name="top"/>
+  <anchor x="358" y="-20" name="bottom"/>
+  <anchor x="-60" y="500" name="topgr"/>
+  <anchor x="358" y="905" name="top"/>
   <outline>
     <component base="H"/>
-    <component base="dotaccent.case" xOffset="263" yOffset="219"/>
+    <component base="dotaccentcomb" xOffset="253" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>H+~dotaccent.case</string>
+  <string>H+~dotaccentcomb</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

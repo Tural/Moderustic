@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos.ss10" format="2">
+  <advance width="500"/>
+  <anchor x="271" y="718" name="topgr"/>
+  <outline>
+    <component base="epsilon.ss10"/>
+    <component base="tonos" xOffset="192" yOffset="19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon.ss10+tonos</string>
+  </dict>
+  </lib>
+</glyph>

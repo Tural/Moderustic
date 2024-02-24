@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="213" y="370" type="curve"/>
-      <point x="96.6257" y="351"/>
+      <point x="96.626" y="351"/>
       <point x="27" y="282"/>
       <point x="27" y="186" type="curve" smooth="yes"/>
       <point x="27" y="65"/>
@@ -58,30 +58,4 @@
       <point x="220" y="467"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>15b5f398534f098ef2e9aa70ca1015a102cfc039b9eb7d310d21ccd7b2791b75da98e3407bd76c3ba24393af9ebea908675bbcdfaffb3ffd4095f91235876bd5</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 121</string>
-          <string>hstem 313 120</string>
-          <string>hstem 599 121</string>
-          <string>vstem 26 167</string>
-          <string>vstem 54 167</string>
-          <string>vstem 383 167</string>
-          <string>vstem 412 167</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

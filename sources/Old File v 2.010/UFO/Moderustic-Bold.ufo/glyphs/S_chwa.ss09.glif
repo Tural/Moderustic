@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa.ss09" format="2">
+  <advance width="779"/>
+  <anchor x="390" y="719" name="top"/>
+  <anchor x="390" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="42" y="412" type="line"/>
+      <point x="40" y="397"/>
+      <point x="38" y="374"/>
+      <point x="38" y="360" type="curve" smooth="yes"/>
+      <point x="38" y="131"/>
+      <point x="178" y="-20"/>
+      <point x="390" y="-20" type="curve" smooth="yes"/>
+      <point x="593" y="-20"/>
+      <point x="741" y="111"/>
+      <point x="741" y="350" type="curve" smooth="yes"/>
+      <point x="741" y="573"/>
+      <point x="608" y="720"/>
+      <point x="393" y="720" type="curve" smooth="yes"/>
+      <point x="219" y="720"/>
+      <point x="88" y="623"/>
+      <point x="55" y="485" type="curve"/>
+      <point x="223" y="485" type="line"/>
+      <point x="245" y="542"/>
+      <point x="306" y="589"/>
+      <point x="392" y="589" type="curve" smooth="yes"/>
+      <point x="509" y="589"/>
+      <point x="574" y="505"/>
+      <point x="574" y="350" type="curve" smooth="yes"/>
+      <point x="574" y="194"/>
+      <point x="509" y="111"/>
+      <point x="392" y="111" type="curve" smooth="yes"/>
+      <point x="294" y="111"/>
+      <point x="221" y="168"/>
+      <point x="210" y="288" type="curve"/>
+      <point x="594" y="288" type="line"/>
+      <point x="595" y="412" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ad66aa5a9da6ea255f6fe476038657b0a1d544b111a8688ea4209e26fe626ef52e144165097f5601eda81d3376b9d71d3d46324307e34d1e60aa525e0e993c7f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 121</string>
+          <string>hstem 290 110</string>
+          <string>hstem 485 235</string>
+          <string>hstem 599 121</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

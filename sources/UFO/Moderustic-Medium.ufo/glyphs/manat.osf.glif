@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat.osf" format="2">
+  <advance width="781"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="190" y="57.123"/>
+      <point x="172" y="130.165"/>
+      <point x="172" y="196.653" type="curve" smooth="yes"/>
+      <point x="172" y="361.466"/>
+      <point x="253.2" y="442"/>
+      <point x="390.912" y="442" type="curve" smooth="yes"/>
+      <point x="528.624" y="442"/>
+      <point x="608" y="363.339"/>
+      <point x="608" y="199.462" type="curve" smooth="yes"/>
+      <point x="608" y="132.038"/>
+      <point x="590" y="58.059"/>
+      <point x="555" y="0" type="curve"/>
+      <point x="676" y="0" type="line"/>
+      <point x="710" y="71.066"/>
+      <point x="728" y="145.923"/>
+      <point x="728" y="217.937" type="curve" smooth="yes"/>
+      <point x="728" y="426.399"/>
+      <point x="595.978" y="542"/>
+      <point x="391.881" y="542" type="curve" smooth="yes"/>
+      <point x="184.022" y="542"/>
+      <point x="52" y="420.713"/>
+      <point x="52" y="202.776" type="curve" smooth="yes"/>
+      <point x="52" y="135.5"/>
+      <point x="68" y="65.381"/>
+      <point x="99" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="344" y="110" type="line"/>
+      <point x="436" y="157" type="line"/>
+      <point x="436" y="690" type="line"/>
+      <point x="344" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>manat</string>
+  </dict>
+  </lib>
+</glyph>

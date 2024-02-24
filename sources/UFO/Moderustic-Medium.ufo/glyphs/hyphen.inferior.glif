@@ -2,6 +2,6 @@
 <glyph name="hyphen.inferior" format="2">
   <advance width="477"/>
   <outline>
-    <component base="hyphen" xOffset="43.4219" yOffset="-286"/>
+    <component base="hyphen" xOffset="43.422" yOffset="-286"/>
   </outline>
 </glyph>

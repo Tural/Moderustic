@@ -6,44 +6,21 @@
   <anchor x="335" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="48" y="700" type="line"/>
-      <point x="238" y="700" type="line"/>
-      <point x="238" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="700" type="line" name="av02"/>
+      <point x="58" y="700" type="line"/>
+      <point x="58" y="0" type="line" name="av01"/>
     </contour>
     <contour>
-      <point x="119" y="282" type="line"/>
-      <point x="130" y="426" type="line"/>
-      <point x="306" y="426" type="line"/>
-      <point x="464" y="700" type="line"/>
-      <point x="665" y="700" type="line"/>
-      <point x="457" y="367" type="line"/>
-      <point x="669" y="0" type="line"/>
-      <point x="450" y="0" type="line"/>
-      <point x="294" y="282" type="line"/>
+      <point x="304" y="282" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="467" y="367" type="line"/>
+      <point x="675" y="700" type="line"/>
+      <point x="474" y="700" type="line"/>
+      <point x="316" y="426" type="line"/>
+      <point x="140" y="426" type="line"/>
+      <point x="129" y="282" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w670m48,0l48,700l238,700l238,0m119,282l130,426l306,426l464,700l665,700l457,367l669,0l450,0l294,282</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 280 140</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 48 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

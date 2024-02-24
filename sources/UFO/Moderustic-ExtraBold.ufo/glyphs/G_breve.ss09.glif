@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve.ss09" format="2">
   <advance width="780"/>
-  <anchor x="390" y="-19" name="bottom"/>
-  <anchor x="390" y="899" name="top"/>
+  <anchor x="380" y="-19" name="bottom"/>
+  <anchor x="380" y="899" name="top"/>
   <outline>
     <component base="G.ss09"/>
-    <component base="breve.case" xOffset="222" yOffset="219"/>
+    <component base="brevecomb" xOffset="212" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>G.ss09+breve.case</string>
+  <string>G.ss09+brevecomb</string>
   </dict>
   </lib>
 </glyph>

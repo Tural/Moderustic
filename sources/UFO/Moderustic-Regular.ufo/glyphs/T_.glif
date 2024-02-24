@@ -1,74 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="648"/>
+  <advance width="626"/>
   <unicode hex="0054"/>
-  <anchor x="324" y="719" name="top"/>
-  <anchor x="324" y="-20" name="bottom"/>
+  <anchor x="313" y="719" name="top"/>
+  <anchor x="313" y="-20" name="bottom"/>
   <outline>
     <contour>
-      <point x="279" y="0" type="line" name="ab01"/>
-      <point x="369" y="0" type="line"/>
-      <point x="369" y="620" type="line" name="sv02"/>
-      <point x="607" y="620" type="line" name="sv03"/>
-      <point x="607" y="700" type="line"/>
-      <point x="41" y="700" type="line" name="at01"/>
-      <point x="41" y="620" type="line" name="sv01"/>
-      <point x="279" y="620" type="line"/>
+      <point x="268" y="0" type="line" name="ab01"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="620" type="line" name="sv02"/>
+      <point x="596" y="620" type="line" name="sv03"/>
+      <point x="596" y="700" type="line"/>
+      <point x="30" y="700" type="line" name="at01"/>
+      <point x="30" y="620" type="line" name="sv01"/>
+      <point x="268" y="620" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>at01</string>
-      <key>point2</key>
-      <string>sv01</string>
-      <key>stem</key>
-      <string>100</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>sv01</string>
-      <key>point2</key>
-      <string>sv02</string>
-      <key>align</key>
-      <string>right</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>sv02</string>
-      <key>point2</key>
-      <string>sv03</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

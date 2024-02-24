@@ -7,18 +7,18 @@
   <anchor x="204" y="500" name="_topgr"/>
   <outline>
     <contour>
-      <point x="62.2611" y="629.967" type="curve" smooth="yes"/>
-      <point x="62.2611" y="613.171"/>
-      <point x="74.3915" y="594.508"/>
-      <point x="98.6523" y="594.508" type="curve" smooth="yes" name="dv01"/>
+      <point x="62.261" y="629.967" type="curve" smooth="yes"/>
+      <point x="62.261" y="613.171"/>
+      <point x="74.392" y="594.508"/>
+      <point x="98.652" y="594.508" type="curve" smooth="yes" name="dv01"/>
       <point x="122.913" y="594.508"/>
       <point x="134.11" y="612.237"/>
       <point x="134.11" y="629.967" type="curve" smooth="yes"/>
       <point x="134.11" y="647.696"/>
       <point x="122.913" y="664.492"/>
-      <point x="98.6523" y="664.492" type="curve" smooth="yes" name="dv02"/>
-      <point x="74.3915" y="664.492"/>
-      <point x="62.2611" y="646.763"/>
+      <point x="98.652" y="664.492" type="curve" smooth="yes" name="dv02"/>
+      <point x="74.392" y="664.492"/>
+      <point x="62.261" y="646.763"/>
     </contour>
     <contour>
       <point x="272.889" y="629.967" type="curve" smooth="yes"/>

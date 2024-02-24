@@ -8,33 +8,10 @@
   <anchor x="1" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="118" y="0" type="line" name="ab01"/>
+      <point x="118" y="0" type="line"/>
       <point x="208" y="0" type="line"/>
-      <point x="208" y="700" type="line" name="at01"/>
+      <point x="208" y="700" type="line"/>
       <point x="118" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="NJ.ss09" format="2">
-  <advance width="1336"/>
-  <anchor x="1182" y="719" name="top"/>
-  <anchor x="1031" y="-20" name="bottom"/>
+  <advance width="1316"/>
+  <anchor x="1162" y="719" name="top"/>
+  <anchor x="1011" y="-20" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="J.ss09" xOffset="752"/>
+    <component base="J.ss09" xOffset="732"/>
   </outline>
   <lib>
   <dict>

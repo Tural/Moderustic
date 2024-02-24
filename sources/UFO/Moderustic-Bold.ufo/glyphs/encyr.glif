@@ -1,47 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="encyr" format="2">
-  <advance width="613"/>
+  <advance width="593"/>
   <unicode hex="043D"/>
-  <anchor x="306" y="-20" name="bottom"/>
-  <anchor x="306" y="520" name="top"/>
+  <anchor x="296" y="-20" name="bottom"/>
+  <anchor x="296" y="520" name="top"/>
   <outline>
     <contour>
-      <point x="53" y="0" type="line"/>
-      <point x="218" y="0" type="line"/>
-      <point x="218" y="209" type="line"/>
-      <point x="395" y="209" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="560" y="0" type="line"/>
-      <point x="560" y="500" type="line"/>
-      <point x="395" y="500" type="line"/>
-      <point x="395" y="329" type="line"/>
-      <point x="218" y="329" type="line"/>
-      <point x="218" y="500" type="line"/>
-      <point x="53" y="500" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="189" type="line"/>
+      <point x="385" y="189" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="500" type="line"/>
+      <point x="385" y="500" type="line"/>
+      <point x="385" y="319" type="line"/>
+      <point x="208" y="319" type="line"/>
+      <point x="208" y="500" type="line"/>
+      <point x="43" y="500" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w613m53,0l218,0l218,209l395,209l395,0l560,0l560,500l395,500l395,329l218,329l218,500l53,500</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 195 110</string>
-          <string>hstem 500 -20</string>
-          <string>vstem 53 165</string>
-          <string>vstem 397 165</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

@@ -5,32 +5,32 @@
   <anchor x="445" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="470" y="189" type="line"/>
-      <point x="306" y="189" type="line" name="iv01"/>
-      <point x="214" y="0" type="line" name="ab02"/>
-      <point x="2" y="0" type="line"/>
-      <point x="136" y="263" type="line"/>
-      <point x="15" y="500" type="line" name="av02"/>
-      <point x="214" y="500" type="line"/>
-      <point x="289" y="323" type="line" name="iv02"/>
       <point x="472" y="323" type="line"/>
+      <point x="289" y="323" type="line" name="iv02"/>
+      <point x="214" y="500" type="line"/>
+      <point x="15" y="500" type="line" name="av02"/>
+      <point x="136" y="263" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="214" y="0" type="line" name="ab02"/>
+      <point x="306" y="189" type="line" name="iv01"/>
+      <point x="470" y="189" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="750" type="line"/>
-      <point x="540" y="750" type="line"/>
-      <point x="540" y="0" type="line"/>
       <point x="350" y="0" type="line"/>
+      <point x="540" y="0" type="line" name="ab02"/>
+      <point x="540" y="750" type="line" name="ab01"/>
+      <point x="350" y="750" type="line" name="sh01"/>
     </contour>
     <contour>
-      <point x="418" y="323" type="line"/>
-      <point x="601" y="323" type="line" name="iv02"/>
-      <point x="676" y="500" type="line"/>
-      <point x="875" y="500" type="line" name="av02"/>
-      <point x="754" y="263" type="line"/>
-      <point x="888" y="0" type="line"/>
-      <point x="676" y="0" type="line" name="ab02"/>
-      <point x="584" y="189" type="line" name="iv01"/>
       <point x="420" y="189" type="line"/>
+      <point x="584" y="189" type="line" name="iv01"/>
+      <point x="676" y="0" type="line" name="ab02"/>
+      <point x="888" y="0" type="line"/>
+      <point x="754" y="263" type="line"/>
+      <point x="875" y="500" type="line" name="av02"/>
+      <point x="676" y="500" type="line"/>
+      <point x="601" y="323" type="line" name="iv02"/>
+      <point x="418" y="323" type="line"/>
     </contour>
   </outline>
   <lib>

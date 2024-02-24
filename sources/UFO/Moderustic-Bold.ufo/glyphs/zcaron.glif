@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
-  <advance width="483"/>
+  <advance width="473"/>
   <unicode hex="017E"/>
   <anchor x="241" y="-20" name="bottom"/>
   <anchor x="241" y="722" name="top"/>

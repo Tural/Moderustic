@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Checyr" format="2">
+  <advance width="674"/>
+  <unicode hex="0427"/>
+  <anchor x="337" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="700" type="line"/>
+      <point x="451" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="464" type="line"/>
+      <point x="451" y="375"/>
+      <point x="391" y="320"/>
+      <point x="313" y="320" type="curve" smooth="yes"/>
+      <point x="242" y="320"/>
+      <point x="206" y="365"/>
+      <point x="206" y="464" type="curve" smooth="yes"/>
+      <point x="206" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="421" type="line" smooth="yes"/>
+      <point x="60" y="275"/>
+      <point x="139" y="200"/>
+      <point x="267" y="200" type="curve" smooth="yes"/>
+      <point x="389" y="200"/>
+      <point x="454" y="269"/>
+      <point x="464" y="358" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zecyr.ss09" format="2">
-  <advance width="525"/>
+  <advance width="506"/>
   <anchor x="262" y="520" name="top"/>
   <anchor x="282" y="-20" name="bottom"/>
   <outline>
@@ -22,7 +22,7 @@
       <point x="390.583" y="520"/>
       <point x="262.727" y="520" type="curve" smooth="yes"/>
       <point x="128.879" y="520"/>
-      <point x="40.9785" y="454.698"/>
+      <point x="40.979" y="454.698"/>
       <point x="22" y="333" type="curve"/>
       <point x="181" y="333" type="line"/>
       <point x="187.026" y="368.928"/>
@@ -46,30 +46,4 @@
       <point x="181" y="167" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>253eb0ee657c8bd2c1237cc8acb3f972fa17099a55e85f7ff700c71050a79b9290893fee2814755c4b655c01944bc669f4c32dbd6881e1b92f139d927a1ffcc6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -20 111</string>
-          <string>hstem -20 187</string>
-          <string>hstem 331 189</string>
-          <string>hstem 409 111</string>
-          <string>vstem 14 159</string>
-          <string>vstem 306 163</string>
-          <string>vstem 323 163</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

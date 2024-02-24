@@ -2,36 +2,12 @@
 <glyph name="at.case" format="2">
   <advance width="885"/>
   <outline>
-    <component base="at" xOffset="-2.27374e-13" yOffset="61"/>
+    <component base="at" yOffset="61"/>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.783,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w885</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -99 50</string>
-          <string>hstem 81 70</string>
-          <string>hstem 83 60</string>
-          <string>hstem 448 72</string>
-          <string>hstem 671 50</string>
-          <string>vstem 44 60</string>
-          <string>vstem 214 100</string>
-          <string>vstem 523 77</string>
-          <string>vstem 781 60</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

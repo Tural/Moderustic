@@ -1,65 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y.ss04" format="2">
-  <advance width="565"/>
-  <anchor x="283" y="520" name="top"/>
-  <anchor x="428" y="0" name="bottom"/>
+  <advance width="586"/>
+  <anchor x="550" y="0" name="bottom"/>
+  <anchor x="298" y="520" name="top"/>
   <outline>
     <contour>
-      <point x="76" y="-198" type="line"/>
-      <point x="113" y="-214"/>
-      <point x="141" y="-221"/>
-      <point x="173" y="-221" type="curve" smooth="yes" name="dv01"/>
-      <point x="260" y="-221"/>
-      <point x="281.553" y="-170.845"/>
-      <point x="314" y="-78" type="curve" smooth="yes"/>
-      <point x="516" y="500" type="line" name="av01"/>
-      <point x="453" y="500" type="line"/>
-      <point x="263" y="-57" type="line" smooth="yes"/>
-      <point x="234.31" y="-141.106"/>
-      <point x="209" y="-170"/>
-      <point x="168" y="-170" type="curve" smooth="yes" name="dv02"/>
-      <point x="150" y="-170"/>
-      <point x="116" y="-164"/>
-      <point x="91" y="-155" type="curve"/>
+      <point x="453" y="233" type="line" name="iv01"/>
+      <point x="453" y="124"/>
+      <point x="383" y="50"/>
+      <point x="279" y="50" type="curve" smooth="yes" name="sv01"/>
+      <point x="181" y="50"/>
+      <point x="144" y="116"/>
+      <point x="144" y="234" type="curve" smooth="yes"/>
+      <point x="144" y="500" type="line" name="av01"/>
+      <point x="84" y="500" type="line"/>
+      <point x="84" y="216" type="line" smooth="yes"/>
+      <point x="84" y="83"/>
+      <point x="147" y="0"/>
+      <point x="259" y="0" type="curve" smooth="yes" name="ab01"/>
+      <point x="371" y="0"/>
+      <point x="446" y="82"/>
+      <point x="459" y="160" type="curve"/>
     </contour>
     <contour>
-      <point x="232" y="0" type="line"/>
-      <point x="290" y="0" type="line"/>
-      <point x="113" y="500" type="line" name="av02"/>
-      <point x="50" y="500" type="line"/>
+      <point x="82" y="-130" type="line"/>
+      <point x="122" y="-183"/>
+      <point x="190" y="-220"/>
+      <point x="282" y="-220" type="curve" smooth="yes" name="at01"/>
+      <point x="433" y="-220"/>
+      <point x="513" y="-121"/>
+      <point x="513" y="52" type="curve" smooth="yes"/>
+      <point x="513" y="500" type="line" name="av01"/>
+      <point x="453" y="500" type="line"/>
+      <point x="453" y="43" type="line" smooth="yes"/>
+      <point x="453" y="-97"/>
+      <point x="387" y="-169"/>
+      <point x="273" y="-169" type="curve" smooth="yes" name="sv01"/>
+      <point x="215" y="-169"/>
+      <point x="164" y="-150"/>
+      <point x="118" y="-94" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>av01</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignv</string>
-      <key>point</key>
-      <string>av02</string>
-      <key>align</key>
-      <string>round</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>90</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

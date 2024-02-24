@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="103" y="195" type="line"/>
-      <point x="115.736" y="47.2134"/>
+      <point x="115.736" y="47.213"/>
       <point x="187.266" y="-20"/>
       <point x="326.447" y="-20" type="curve" smooth="yes"/>
       <point x="465.628" y="-20"/>
@@ -21,10 +21,10 @@
       <point x="223" y="195" type="curve"/>
     </contour>
     <contour>
-      <point x="103" y="250" type="line"/>
+      <point x="103" y="250" type="line" name="ab01"/>
       <point x="223" y="250" type="line"/>
       <point x="223" y="700" type="line"/>
-      <point x="103" y="700" type="line"/>
+      <point x="103" y="700" type="line" name="av01"/>
     </contour>
   </outline>
   <lib>

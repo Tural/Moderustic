@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.osf" format="2">
+  <advance width="662"/>
+  <outline>
+    <contour>
+      <point x="130" y="-63" type="line"/>
+      <point x="533" y="-63" type="line"/>
+      <point x="533" y="12" type="line"/>
+      <point x="130" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="68" type="line"/>
+      <point x="533" y="68" type="line"/>
+      <point x="533" y="143" type="line"/>
+      <point x="130" y="143" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="-160" type="line" name="ab01"/>
+      <point x="414" y="-160" type="line"/>
+      <point x="414" y="124" type="line" name="iv04"/>
+      <point x="654" y="540" type="line" name="at01"/>
+      <point x="463" y="540" type="line"/>
+      <point x="331" y="272" type="line" name="iv05"/>
+      <point x="199" y="540" type="line" name="at02"/>
+      <point x="8" y="540" type="line"/>
+      <point x="248" y="124" type="line" name="iv01"/>
+    </contour>
+  </outline>
+</glyph>

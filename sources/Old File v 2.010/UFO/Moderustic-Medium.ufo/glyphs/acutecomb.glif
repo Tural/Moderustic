@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="287"/>
+  <unicode hex="0301"/>
+  <anchor x="143" y="700" name="top"/>
+  <anchor x="127" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="83" y="550" type="line"/>
+      <point x="167" y="550" type="line"/>
+      <point x="268" y="701" type="line"/>
+      <point x="154" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

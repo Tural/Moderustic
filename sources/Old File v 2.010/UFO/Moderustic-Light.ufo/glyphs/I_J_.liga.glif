@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ.liga" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="J" xOffset="67"/>
+    <component base="dotlessi" yScale="0.90924" xOffset="-2" yOffset="245.38"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>J+^&lt;ı</string>
+  </dict>
+  </lib>
+</glyph>

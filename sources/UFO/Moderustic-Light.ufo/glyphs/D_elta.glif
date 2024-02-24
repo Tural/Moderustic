@@ -4,9 +4,9 @@
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="72.1019" y="0" type="line" name="dv01"/>
-      <point x="576.872" y="-0.1814" type="line"/>
-      <point x="542.872" y="53.8186" type="line" name="dv03"/>
+      <point x="72.102" y="0" type="line" name="dv01"/>
+      <point x="576.872" y="-0.181" type="line"/>
+      <point x="542.872" y="53.819" type="line" name="dv03"/>
       <point x="106.102" y="54" type="line" name="dv02"/>
     </contour>
     <contour>

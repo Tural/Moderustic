@@ -26,21 +26,4 @@
       <point x="287" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv03</string>
-      <key>stem</key>
-      <string>100</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

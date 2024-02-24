@@ -1,73 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="736"/>
+  <advance width="716"/>
   <unicode hex="0048"/>
-  <anchor x="368" y="719" name="top"/>
-  <anchor x="368" y="-20" name="bottom"/>
-  <anchor x="-12" y="500" name="topgr"/>
+  <anchor x="358" y="-20" name="bottom"/>
+  <anchor x="358" y="719" name="top"/>
+  <anchor x="-22" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="107" y="0" type="line" name="ab01"/>
-      <point x="167" y="0" type="line"/>
-      <point x="167" y="343" type="line" name="dv01"/>
-      <point x="569" y="343" type="line"/>
-      <point x="569" y="0" type="line" name="ab02"/>
-      <point x="629" y="0" type="line"/>
-      <point x="629" y="700" type="line" name="at01"/>
-      <point x="569" y="700" type="line"/>
-      <point x="569" y="397" type="line"/>
-      <point x="167" y="397" type="line" name="dv02"/>
-      <point x="167" y="700" type="line" name="at02"/>
-      <point x="107" y="700" type="line"/>
+      <point x="97" y="0" type="line" name="ab01"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="343" type="line" name="dv01"/>
+      <point x="559" y="343" type="line"/>
+      <point x="559" y="0" type="line" name="ab02"/>
+      <point x="619" y="0" type="line"/>
+      <point x="619" y="700" type="line" name="at01"/>
+      <point x="559" y="700" type="line"/>
+      <point x="559" y="397" type="line"/>
+      <point x="157" y="397" type="line" name="dv02"/>
+      <point x="157" y="700" type="line" name="at02"/>
+      <point x="97" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at02</string>
-      <key>zone</key>
-      <string>fig</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab02</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>90</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

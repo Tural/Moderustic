@@ -6,12 +6,14 @@
   <anchor x="324" y="921" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caron.case" xOffset="151" yOffset="219"/>
+    <component base="caroncomb" xOffset="151" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+caroncomb</string>
   </dict>
   </lib>
 </glyph>

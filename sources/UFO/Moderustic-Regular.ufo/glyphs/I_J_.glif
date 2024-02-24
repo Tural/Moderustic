@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="2">
-  <advance width="906"/>
+  <advance width="866"/>
   <unicode hex="0132"/>
-  <anchor x="774" y="719" name="top"/>
-  <anchor x="604" y="-20" name="bottom"/>
+  <anchor x="744" y="719" name="top"/>
+  <anchor x="574" y="-20" name="bottom"/>
   <anchor x="205" y="-3" name="ogonek"/>
   <anchor x="1" y="500" name="topgr"/>
   <outline>

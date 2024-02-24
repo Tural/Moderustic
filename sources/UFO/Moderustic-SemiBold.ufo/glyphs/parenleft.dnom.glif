@@ -2,6 +2,6 @@
 <glyph name="parenleft.dnom" format="2">
   <advance width="285"/>
   <outline>
-    <component base="parenleft.superior" xOffset="-4" yOffset="-380"/>
+    <component base="parenleft.superior" xOffset="-4" yOffset="-360"/>
   </outline>
 </glyph>

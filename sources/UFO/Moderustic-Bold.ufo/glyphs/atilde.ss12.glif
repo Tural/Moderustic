@@ -2,7 +2,7 @@
 <glyph name="atilde.ss12" format="2">
   <advance width="544"/>
   <anchor x="272" y="-20" name="bottom"/>
-  <anchor x="480" y="-3" name="ogonek"/>
+  <anchor x="492" y="-3" name="ogonek"/>
   <anchor x="272" y="690" name="top"/>
   <outline>
     <component base="a.ss12"/>

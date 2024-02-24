@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="2">
-  <advance width="483"/>
+  <advance width="473"/>
   <unicode hex="017A"/>
-  <anchor x="241" y="-20" name="bottom"/>
-  <anchor x="257" y="720" name="top"/>
+  <anchor x="236" y="-20" name="bottom"/>
+  <anchor x="262" y="720" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="acutecomb" xOffset="118" yOffset="20"/>
+    <component base="acutecomb" xOffset="123" yOffset="20"/>
   </outline>
   <lib>
   <dict>

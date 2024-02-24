@@ -1,48 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="550"/>
+  <advance width="530"/>
   <unicode hex="0045"/>
-  <anchor x="275" y="719" name="top"/>
-  <anchor x="286" y="-20" name="bottom"/>
-  <anchor x="498" y="-2" name="ogonek"/>
-  <anchor x="-50" y="500" name="topgr"/>
+  <anchor x="265" y="719" name="top"/>
+  <anchor x="276" y="-20" name="bottom"/>
+  <anchor x="488" y="-2" name="ogonek"/>
+  <anchor x="-60" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="68" y="0" type="line"/>
-      <point x="505" y="0" type="line"/>
-      <point x="505" y="140" type="line"/>
-      <point x="258" y="140" type="line"/>
-      <point x="258" y="297" type="line"/>
-      <point x="465" y="297" type="line"/>
-      <point x="465" y="437" type="line"/>
-      <point x="258" y="437" type="line"/>
-      <point x="258" y="560" type="line"/>
-      <point x="490" y="560" type="line"/>
-      <point x="490" y="700" type="line"/>
-      <point x="68" y="700" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="495" y="0" type="line" name="ab01"/>
+      <point x="495" y="140" type="line" name="sv01"/>
+      <point x="248" y="140" type="line"/>
+      <point x="248" y="297" type="line" name="dv01"/>
+      <point x="455" y="297" type="line"/>
+      <point x="455" y="437" type="line"/>
+      <point x="248" y="437" type="line" name="dv02"/>
+      <point x="248" y="560" type="line" name="sv02"/>
+      <point x="480" y="560" type="line"/>
+      <point x="480" y="700" type="line" name="at01"/>
+      <point x="58" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w550m68,0l505,0l505,140l258,140l258,297l465,297l465,437l258,437l258,560l490,560l490,700l68,700</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 140</string>
-          <string>hstem 297 140</string>
-          <string>hstem 560 140</string>
-          <string>vstem 68 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

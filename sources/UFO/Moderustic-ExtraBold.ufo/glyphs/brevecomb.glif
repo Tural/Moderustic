@@ -28,23 +28,6 @@
   <string>breve%</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w336m22,702c31,597.15 81,550 165,550c252,550 308,601.43 317,702l216,702c211,658.02 192,640 168,640c144,640 129,656.83 123,702</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 584 86</string>
-          <string>hstem 584 139</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

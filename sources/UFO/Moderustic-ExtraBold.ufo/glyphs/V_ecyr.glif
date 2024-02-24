@@ -11,8 +11,6 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
-  <key>com.fontlab.recipe</key>
-  <string>B</string>
   </dict>
   </lib>
 </glyph>

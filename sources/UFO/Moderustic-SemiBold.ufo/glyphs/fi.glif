@@ -1,18 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
-  <advance width="695"/>
+  <advance width="685"/>
   <unicode hex="FB01"/>
-  <anchor x="559" y="703" name="top"/>
-  <anchor x="559" y="-20" name="bottom"/>
-  <anchor x="627" y="-2" name="ogonek"/>
   <outline>
-    <component base="f"/>
-    <component base="i" xOffset="423"/>
+    <contour>
+      <point x="99" y="0" type="line" name="ab01"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="390" type="line" name="sv01"/>
+      <point x="522.389" y="390" type="line"/>
+      <point x="522.389" y="500" type="line" name="sv02"/>
+      <point x="244" y="500" type="line"/>
+      <point x="244" y="569" type="line" smooth="yes"/>
+      <point x="244" y="620"/>
+      <point x="263" y="637"/>
+      <point x="300" y="637" type="curve" smooth="yes" name="dv01"/>
+      <point x="316" y="637"/>
+      <point x="347" y="634"/>
+      <point x="365" y="627" type="curve"/>
+      <point x="386" y="728" type="line"/>
+      <point x="327" y="746"/>
+      <point x="297" y="751"/>
+      <point x="266" y="751" type="curve" smooth="yes" name="dv02"/>
+      <point x="154" y="751"/>
+      <point x="99" y="684"/>
+      <point x="99" y="588" type="curve" smooth="yes"/>
+      <point x="99" y="500" type="line" name="dv04"/>
+      <point x="12" y="500" type="line"/>
+      <point x="12" y="390" type="line"/>
+      <point x="99" y="390" type="line" name="dv03"/>
+    </contour>
+    <contour>
+      <point x="477" y="0" type="line" name="ab01"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="500" type="line"/>
+      <point x="477" y="500" type="line" name="av01"/>
+    </contour>
+    <contour>
+      <point x="474" y="634" type="curve" smooth="yes"/>
+      <point x="474" y="600"/>
+      <point x="500" y="560"/>
+      <point x="551" y="560" type="curve" smooth="yes" name="dv01"/>
+      <point x="602" y="560"/>
+      <point x="625" y="598"/>
+      <point x="625" y="635" type="curve" smooth="yes"/>
+      <point x="625" y="672"/>
+      <point x="600" y="706"/>
+      <point x="552" y="706" type="curve" smooth="yes" name="dv02"/>
+      <point x="500" y="706"/>
+      <point x="474" y="668"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>f_i</string>
   </dict>

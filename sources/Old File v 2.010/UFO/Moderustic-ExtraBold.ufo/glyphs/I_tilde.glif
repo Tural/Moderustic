@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+  <advance width="326"/>
+  <unicode hex="0128"/>
+  <anchor x="163" y="-20" name="bottom"/>
+  <anchor x="251" y="-3" name="ogonek"/>
+  <anchor x="-50" y="500" name="topgr"/>
+  <anchor x="163" y="894" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="tilde.case" xOffset="-59" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

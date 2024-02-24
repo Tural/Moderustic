@@ -224,6 +224,8 @@
   <string>E_ukrcyr.ss12.glif</string>
   <key>Euro</key>
   <string>E_uro.glif</string>
+  <key>Euro.osf</key>
+  <string>E_uro.osf.glif</string>
   <key>Euro.ss09</key>
   <string>E_uro.ss09.glif</string>
   <key>Euro.ss10</key>
@@ -842,6 +844,8 @@
   <string>Z_hecyr.glif</string>
   <key>a</key>
   <string>a.glif</string>
+  <key>a.ss01</key>
+  <string>a.ss01.glif</string>
   <key>a.ss02</key>
   <string>a.ss02.glif</string>
   <key>a.ss09</key>
@@ -852,6 +856,8 @@
   <string>a.ss12.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
+  <key>aacute.ss01</key>
+  <string>aacute.ss01.glif</string>
   <key>aacute.ss02</key>
   <string>aacute.ss02.glif</string>
   <key>aacute.ss09</key>
@@ -862,6 +868,8 @@
   <string>aacute.ss12.glif</string>
   <key>abreve</key>
   <string>abreve.glif</string>
+  <key>abreve.ss01</key>
+  <string>abreve.ss01.glif</string>
   <key>abreve.ss02</key>
   <string>abreve.ss02.glif</string>
   <key>abreve.ss09</key>
@@ -872,6 +880,8 @@
   <string>abreve.ss12.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
+  <key>acircumflex.ss01</key>
+  <string>acircumflex.ss01.glif</string>
   <key>acircumflex.ss02</key>
   <string>acircumflex.ss02.glif</string>
   <key>acircumflex.ss09</key>
@@ -894,6 +904,8 @@
   <string>acutecomb.loclP_L_K_.glif</string>
   <key>acyr</key>
   <string>acyr.glif</string>
+  <key>acyr.ss01</key>
+  <string>acyr.ss01.glif</string>
   <key>acyr.ss02</key>
   <string>acyr.ss02.glif</string>
   <key>acyr.ss09</key>
@@ -904,6 +916,8 @@
   <string>acyr.ss12.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
+  <key>adieresis.ss01</key>
+  <string>adieresis.ss01.glif</string>
   <key>adieresis.ss02</key>
   <string>adieresis.ss02.glif</string>
   <key>adieresis.ss09</key>
@@ -934,6 +948,8 @@
   <string>aeacute.ss15.glif</string>
   <key>agrave</key>
   <string>agrave.glif</string>
+  <key>agrave.ss01</key>
+  <string>agrave.ss01.glif</string>
   <key>agrave.ss02</key>
   <string>agrave.ss02.glif</string>
   <key>agrave.ss09</key>
@@ -952,6 +968,8 @@
   <string>alphatonos.ss01.glif</string>
   <key>amacron</key>
   <string>amacron.glif</string>
+  <key>amacron.ss01</key>
+  <string>amacron.ss01.glif</string>
   <key>amacron.ss02</key>
   <string>amacron.ss02.glif</string>
   <key>amacron.ss09</key>
@@ -968,6 +986,8 @@
   <string>anoteleia.glif</string>
   <key>aogonek</key>
   <string>aogonek.glif</string>
+  <key>aogonek.ss01</key>
+  <string>aogonek.ss01.glif</string>
   <key>aogonek.ss02</key>
   <string>aogonek.ss02.glif</string>
   <key>aogonek.ss09</key>
@@ -984,6 +1004,8 @@
   <string>approxequal.case.glif</string>
   <key>aring</key>
   <string>aring.glif</string>
+  <key>aring.ss01</key>
+  <string>aring.ss01.glif</string>
   <key>aring.ss02</key>
   <string>aring.ss02.glif</string>
   <key>aring.ss09</key>
@@ -1006,6 +1028,8 @@
   <string>at.case.glif</string>
   <key>atilde</key>
   <string>atilde.glif</string>
+  <key>atilde.ss01</key>
+  <string>atilde.ss01.glif</string>
   <key>atilde.ss02</key>
   <string>atilde.ss02.glif</string>
   <key>atilde.ss09</key>
@@ -1016,6 +1040,8 @@
   <string>atilde.ss12.glif</string>
   <key>austral</key>
   <string>austral.glif</string>
+  <key>austral.osf</key>
+  <string>austral.osf.glif</string>
   <key>b</key>
   <string>b.glif</string>
   <key>b.ss11</key>
@@ -1030,6 +1056,8 @@
   <string>bar.case.glif</string>
   <key>becyr</key>
   <string>becyr.glif</string>
+  <key>becyr.loclMKD</key>
+  <string>becyr.loclM_K_D_.glif</string>
   <key>becyr.loclSRB</key>
   <string>becyr.loclS_R_B_.glif</string>
   <key>beta</key>
@@ -1138,6 +1166,8 @@
   <string>cedillacomb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
+  <key>cent.osf</key>
+  <string>cent.osf.glif</string>
   <key>cent.ss09</key>
   <string>cent.ss09.glif</string>
   <key>cent.ss10</key>
@@ -1168,6 +1198,8 @@
   <string>copyright.glif</string>
   <key>d</key>
   <string>d.glif</string>
+  <key>d.ss02</key>
+  <string>d.ss02.glif</string>
   <key>d.ss11</key>
   <string>d.ss11.glif</string>
   <key>dagger</key>
@@ -1176,10 +1208,14 @@
   <string>daggerdbl.glif</string>
   <key>dcaron</key>
   <string>dcaron.glif</string>
+  <key>dcaron.ss02</key>
+  <string>dcaron.ss02.glif</string>
   <key>dcaron.ss11</key>
   <string>dcaron.ss11.glif</string>
   <key>dcroat</key>
   <string>dcroat.glif</string>
+  <key>dcroat.ss02</key>
+  <string>dcroat.ss02.glif</string>
   <key>dcroat.ss11</key>
   <string>dcroat.ss11.glif</string>
   <key>decyr</key>
@@ -1216,6 +1252,8 @@
   <string>djecyr.ss11.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
+  <key>dollar.osf</key>
+  <string>dollar.osf.glif</string>
   <key>dollar.ss09</key>
   <string>dollar.ss09.glif</string>
   <key>dollar.ss10</key>
@@ -1230,14 +1268,20 @@
   <string>dotaccentcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>dotlessi.ss11</key>
+  <string>dotlessi.ss11.glif</string>
   <key>dotlessj</key>
   <string>dotlessj.glif</string>
   <key>dz</key>
   <string>dz.glif</string>
+  <key>dz.ss02</key>
+  <string>dz.ss02.glif</string>
   <key>dz.ss11</key>
   <string>dz.ss11.glif</string>
   <key>dzcaron</key>
   <string>dzcaron.glif</string>
+  <key>dzcaron.ss02</key>
+  <string>dzcaron.ss02.glif</string>
   <key>dzcaron.ss11</key>
   <string>dzcaron.ss11.glif</string>
   <key>dzecyr</key>
@@ -1422,6 +1466,10 @@
   <string>etatonos.glif</string>
   <key>eth</key>
   <string>eth.glif</string>
+  <key>eth_i</key>
+  <string>eth_i.glif</string>
+  <key>eth_i.ss11</key>
+  <string>eth_i.ss11.glif</string>
   <key>etilde</key>
   <string>etilde.glif</string>
   <key>etilde.ss09</key>
@@ -1448,10 +1496,14 @@
   <string>f.glif</string>
   <key>f.ss11</key>
   <string>f.ss11.glif</string>
+  <key>f_eth</key>
+  <string>f_eth.glif</string>
   <key>f_f</key>
   <string>f_f.glif</string>
   <key>f_f.ss11</key>
   <string>f_f.ss11.glif</string>
+  <key>f_thorn</key>
+  <string>f_thorn.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
   <key>fi.ss11</key>
@@ -1504,8 +1556,8 @@
   <string>fraction.glif</string>
   <key>g</key>
   <string>g.glif</string>
-  <key>g.ss03</key>
-  <string>g.ss03.glif</string>
+  <key>g.ss09</key>
+  <string>g.ss09.glif</string>
   <key>g.ss12</key>
   <string>g.ss12.glif</string>
   <key>gacute</key>
@@ -1518,32 +1570,32 @@
   <string>gamma.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
-  <key>gbreve.ss03</key>
-  <string>gbreve.ss03.glif</string>
+  <key>gbreve.ss09</key>
+  <string>gbreve.ss09.glif</string>
   <key>gbreve.ss12</key>
   <string>gbreve.ss12.glif</string>
   <key>gcaron</key>
   <string>gcaron.glif</string>
-  <key>gcaron.ss03</key>
-  <string>gcaron.ss03.glif</string>
+  <key>gcaron.ss09</key>
+  <string>gcaron.ss09.glif</string>
   <key>gcaron.ss12</key>
   <string>gcaron.ss12.glif</string>
   <key>gcircumflex</key>
   <string>gcircumflex.glif</string>
-  <key>gcircumflex.ss03</key>
-  <string>gcircumflex.ss03.glif</string>
+  <key>gcircumflex.ss09</key>
+  <string>gcircumflex.ss09.glif</string>
   <key>gcircumflex.ss12</key>
   <string>gcircumflex.ss12.glif</string>
   <key>gcommaaccent</key>
   <string>gcommaaccent.glif</string>
-  <key>gcommaaccent.ss03</key>
-  <string>gcommaaccent.ss03.glif</string>
+  <key>gcommaaccent.ss09</key>
+  <string>gcommaaccent.ss09.glif</string>
   <key>gcommaaccent.ss12</key>
   <string>gcommaaccent.ss12.glif</string>
   <key>gdotaccent</key>
   <string>gdotaccent.glif</string>
-  <key>gdotaccent.ss03</key>
-  <string>gdotaccent.ss03.glif</string>
+  <key>gdotaccent.ss09</key>
+  <string>gdotaccent.ss09.glif</string>
   <key>gdotaccent.ss12</key>
   <string>gdotaccent.ss12.glif</string>
   <key>gecyr</key>
@@ -1622,6 +1674,8 @@
   <string>hdot.ss11.glif</string>
   <key>hryvnia</key>
   <string>hryvnia.glif</string>
+  <key>hryvnia.osf</key>
+  <string>hryvnia.osf.glif</string>
   <key>hryvnia.ss09</key>
   <string>hryvnia.ss09.glif</string>
   <key>hryvnia.ss10</key>
@@ -1650,24 +1704,40 @@
   <string>i.glif</string>
   <key>i.loclTRK</key>
   <string>i.loclT_R_K_.glif</string>
+  <key>i.loclTRK.ss11</key>
+  <string>i.loclT_R_K_.ss11.glif</string>
+  <key>i.ss11</key>
+  <string>i.ss11.glif</string>
   <key>iacute</key>
   <string>iacute.glif</string>
+  <key>iacute.ss11</key>
+  <string>iacute.ss11.glif</string>
   <key>iacute_j.loclNLD</key>
   <string>iacute_j.loclN_L_D_.glif</string>
   <key>iacute_j.loclNLD.liga</key>
   <string>iacute_j.loclN_L_D_.liga.glif</string>
-  <key>iacute_j.loclNLD.liga.ss12</key>
-  <string>iacute_j.loclN_L_D_.liga.ss12.glif</string>
+  <key>iacute_j.loclNLD.liga.ss09</key>
+  <string>iacute_j.loclN_L_D_.liga.ss09.glif</string>
+  <key>iacute_j.loclNLD.ss11</key>
+  <string>iacute_j.loclN_L_D_.ss11.glif</string>
   <key>ibreve</key>
   <string>ibreve.glif</string>
+  <key>ibreve.ss11</key>
+  <string>ibreve.ss11.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
+  <key>icircumflex.ss11</key>
+  <string>icircumflex.ss11.glif</string>
   <key>icyr</key>
   <string>icyr.glif</string>
   <key>icyr.loclBGR</key>
   <string>icyr.loclB_G_R_.glif</string>
+  <key>icyr.loclBGR.ss02</key>
+  <string>icyr.loclB_G_R_.ss02.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
+  <key>idieresis.ss11</key>
+  <string>idieresis.ss11.glif</string>
   <key>iecyr</key>
   <string>iecyr.glif</string>
   <key>iecyr.ss09</key>
@@ -1686,16 +1756,22 @@
   <string>iegravecyr.ss12.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>igrave.ss11</key>
+  <string>igrave.ss11.glif</string>
   <key>igravecyr</key>
   <string>igravecyr.glif</string>
   <key>ij</key>
   <string>ij.glif</string>
   <key>ij.liga</key>
   <string>ij.liga.glif</string>
-  <key>ij.liga.ss12</key>
-  <string>ij.liga.ss12.glif</string>
+  <key>ij.liga.ss09</key>
+  <string>ij.liga.ss09.glif</string>
+  <key>ij.ss11</key>
+  <string>ij.ss11.glif</string>
   <key>imacron</key>
   <string>imacron.glif</string>
+  <key>imacron.ss11</key>
+  <string>imacron.ss11.glif</string>
   <key>infinity</key>
   <string>infinity.glif</string>
   <key>integral</key>
@@ -1710,6 +1786,8 @@
   <string>iocyr.ss12.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
+  <key>iogonek.ss11</key>
+  <string>iogonek.ss11.glif</string>
   <key>iota</key>
   <string>iota.glif</string>
   <key>iotadieresis</key>
@@ -1722,10 +1800,16 @@
   <string>ishortcyr.glif</string>
   <key>ishortcyr.loclBGR</key>
   <string>ishortcyr.loclB_G_R_.glif</string>
+  <key>ishortcyr.loclBGR.ss02</key>
+  <string>ishortcyr.loclB_G_R_.ss02.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
+  <key>itilde.ss11</key>
+  <string>itilde.ss11.glif</string>
   <key>iukrcyr</key>
   <string>iukrcyr.glif</string>
+  <key>iukrcyr.ss11</key>
+  <string>iukrcyr.ss11.glif</string>
   <key>j</key>
   <string>j.glif</string>
   <key>jacute</key>
@@ -1788,6 +1872,8 @@
   <string>lessequal.case.glif</string>
   <key>lira</key>
   <string>lira.glif</string>
+  <key>lira.osf</key>
+  <string>lira.osf.glif</string>
   <key>lira.ss09</key>
   <string>lira.ss09.glif</string>
   <key>lira.ss10</key>
@@ -1822,8 +1908,14 @@
   <string>macroncomb.glif</string>
   <key>manat</key>
   <string>manat.glif</string>
+  <key>manat.osf</key>
+  <string>manat.osf.glif</string>
+  <key>manat.ss09</key>
+  <string>manat.ss09.glif</string>
   <key>micro</key>
   <string>micro.glif</string>
+  <key>micro.ss01</key>
+  <string>micro.ss01.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>minus.case</key>
@@ -1838,6 +1930,8 @@
   <string>minus.superior.glif</string>
   <key>mu</key>
   <string>mu.glif</string>
+  <key>mu.ss01</key>
+  <string>mu.ss01.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
   <key>multiply.case</key>
@@ -2130,6 +2224,8 @@
   <string>ringcomb.glif</string>
   <key>ruble</key>
   <string>ruble.glif</string>
+  <key>ruble.osf</key>
+  <string>ruble.osf.glif</string>
   <key>s</key>
   <string>s.glif</string>
   <key>s.ss09</key>
@@ -2216,6 +2312,8 @@
   <string>shacyr.glif</string>
   <key>shacyr.loclBGR</key>
   <string>shacyr.loclB_G_R_.glif</string>
+  <key>shacyr.loclBGR.ss02</key>
+  <string>shacyr.loclB_G_R_.ss02.glif</string>
   <key>shchacyr</key>
   <string>shchacyr.glif</string>
   <key>shchacyr.loclBGR</key>
@@ -2268,6 +2366,8 @@
   <string>space.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
+  <key>sterling.osf</key>
+  <string>sterling.osf.glif</string>
   <key>sterling.ss09</key>
   <string>sterling.ss09.glif</string>
   <key>sterling.ss10</key>
@@ -2366,6 +2466,8 @@
   <string>tshecyr.ss11.glif</string>
   <key>turkishlira</key>
   <string>turkishlira.glif</string>
+  <key>turkishlira.osf</key>
+  <string>turkishlira.osf.glif</string>
   <key>two</key>
   <string>two.glif</string>
   <key>two.dnom</key>
@@ -2396,68 +2498,98 @@
   <string>twothirds.glif</string>
   <key>u</key>
   <string>u.glif</string>
+  <key>u.ss02</key>
+  <string>u.ss02.glif</string>
   <key>u.ss05</key>
   <string>u.ss05.glif</string>
   <key>uacute</key>
   <string>uacute.glif</string>
+  <key>uacute.ss02</key>
+  <string>uacute.ss02.glif</string>
   <key>uacute.ss05</key>
   <string>uacute.ss05.glif</string>
   <key>ubreve</key>
   <string>ubreve.glif</string>
+  <key>ubreve.ss02</key>
+  <string>ubreve.ss02.glif</string>
   <key>ubreve.ss05</key>
   <string>ubreve.ss05.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
+  <key>ucircumflex.ss02</key>
+  <string>ucircumflex.ss02.glif</string>
   <key>ucircumflex.ss05</key>
   <string>ucircumflex.ss05.glif</string>
   <key>ucyr</key>
   <string>ucyr.glif</string>
   <key>ucyr.ss04</key>
   <string>ucyr.ss04.glif</string>
-  <key>ucyr.ss12</key>
-  <string>ucyr.ss12.glif</string>
+  <key>ucyr.ss09</key>
+  <string>ucyr.ss09.glif</string>
   <key>udieresis</key>
   <string>udieresis.glif</string>
+  <key>udieresis.ss02</key>
+  <string>udieresis.ss02.glif</string>
   <key>udieresis.ss05</key>
   <string>udieresis.ss05.glif</string>
   <key>ugrave</key>
   <string>ugrave.glif</string>
+  <key>ugrave.ss02</key>
+  <string>ugrave.ss02.glif</string>
   <key>ugrave.ss05</key>
   <string>ugrave.ss05.glif</string>
   <key>uhungarumlaut</key>
   <string>uhungarumlaut.glif</string>
+  <key>uhungarumlaut.ss02</key>
+  <string>uhungarumlaut.ss02.glif</string>
   <key>uhungarumlaut.ss05</key>
   <string>uhungarumlaut.ss05.glif</string>
   <key>umacron</key>
   <string>umacron.glif</string>
+  <key>umacron.ss02</key>
+  <string>umacron.ss02.glif</string>
   <key>umacron.ss05</key>
   <string>umacron.ss05.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
+  <key>uogonek.ss02</key>
+  <string>uogonek.ss02.glif</string>
   <key>uogonek.ss05</key>
   <string>uogonek.ss05.glif</string>
   <key>upsilon</key>
   <string>upsilon.glif</string>
+  <key>upsilon.ss16</key>
+  <string>upsilon.ss16.glif</string>
   <key>upsilondieresis</key>
   <string>upsilondieresis.glif</string>
+  <key>upsilondieresis.ss16</key>
+  <string>upsilondieresis.ss16.glif</string>
   <key>upsilondieresistonos</key>
   <string>upsilondieresistonos.glif</string>
+  <key>upsilondieresistonos.ss16</key>
+  <string>upsilondieresistonos.ss16.glif</string>
   <key>upsilontonos</key>
   <string>upsilontonos.glif</string>
+  <key>upsilontonos.ss16</key>
+  <string>upsilontonos.ss16.glif</string>
   <key>uring</key>
   <string>uring.glif</string>
+  <key>uring.ss02</key>
+  <string>uring.ss02.glif</string>
   <key>uring.ss05</key>
   <string>uring.ss05.glif</string>
   <key>ushortcyr</key>
   <string>ushortcyr.glif</string>
   <key>ushortcyr.ss04</key>
   <string>ushortcyr.ss04.glif</string>
-  <key>ushortcyr.ss12</key>
-  <string>ushortcyr.ss12.glif</string>
+  <key>ushortcyr.ss09</key>
+  <string>ushortcyr.ss09.glif</string>
   <key>utilde</key>
   <string>utilde.glif</string>
+  <key>utilde.ss02</key>
+  <string>utilde.ss02.glif</string>
   <key>utilde.ss05</key>
   <string>utilde.ss05.glif</string>
   <key>v</key>
@@ -2484,14 +2616,14 @@
   <string>y.glif</string>
   <key>y.ss04</key>
   <string>y.ss04.glif</string>
-  <key>y.ss12</key>
-  <string>y.ss12.glif</string>
+  <key>y.ss09</key>
+  <string>y.ss09.glif</string>
   <key>yacute</key>
   <string>yacute.glif</string>
   <key>yacute.ss04</key>
   <string>yacute.ss04.glif</string>
-  <key>yacute.ss12</key>
-  <string>yacute.ss12.glif</string>
+  <key>yacute.ss09</key>
+  <string>yacute.ss09.glif</string>
   <key>yacyr</key>
   <string>yacyr.glif</string>
   <key>yacyr.ss08</key>
@@ -2504,30 +2636,32 @@
   <string>ydieresis.glif</string>
   <key>ydieresis.ss04</key>
   <string>ydieresis.ss04.glif</string>
-  <key>ydieresis.ss12</key>
-  <string>ydieresis.ss12.glif</string>
+  <key>ydieresis.ss09</key>
+  <string>ydieresis.ss09.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
+  <key>yen.osf</key>
+  <string>yen.osf.glif</string>
   <key>ygrave</key>
   <string>ygrave.glif</string>
   <key>ygrave.ss04</key>
   <string>ygrave.ss04.glif</string>
-  <key>ygrave.ss12</key>
-  <string>ygrave.ss12.glif</string>
+  <key>ygrave.ss09</key>
+  <string>ygrave.ss09.glif</string>
   <key>ylongcyr</key>
   <string>ylongcyr.glif</string>
   <key>ymacron</key>
   <string>ymacron.glif</string>
   <key>ymacron.ss04</key>
   <string>ymacron.ss04.glif</string>
-  <key>ymacron.ss12</key>
-  <string>ymacron.ss12.glif</string>
+  <key>ymacron.ss09</key>
+  <string>ymacron.ss09.glif</string>
   <key>ytilde</key>
   <string>ytilde.glif</string>
   <key>ytilde.ss04</key>
   <string>ytilde.ss04.glif</string>
-  <key>ytilde.ss12</key>
-  <string>ytilde.ss12.glif</string>
+  <key>ytilde.ss09</key>
+  <string>ytilde.ss09.glif</string>
   <key>yucyr</key>
   <string>yucyr.glif</string>
   <key>yucyr.loclBGR</key>
@@ -2536,6 +2670,8 @@
   <string>yucyr.loclB_G_R_.ss11.glif</string>
   <key>yukrcyr</key>
   <string>yukrcyr.glif</string>
+  <key>yukrcyr.ss11</key>
+  <string>yukrcyr.ss11.glif</string>
   <key>z</key>
   <string>z.glif</string>
   <key>zacute</key>

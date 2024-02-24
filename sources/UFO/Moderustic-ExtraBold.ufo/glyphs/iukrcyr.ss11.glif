@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iukrcyr.ss11" format="2">
+  <advance width="370"/>
+  <anchor x="185" y="-20" name="bottom"/>
+  <anchor x="353" y="-2" name="ogonek"/>
+  <anchor x="185" y="717" name="top"/>
+  <outline>
+    <component base="i.ss11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i.ss11</string>
+  </dict>
+  </lib>
+</glyph>

@@ -21,16 +21,16 @@
       <point x="116" y="130" type="curve"/>
     </contour>
     <contour>
-      <point x="90" y="200" type="line"/>
+      <point x="90" y="200" type="line" name="ab01"/>
       <point x="235" y="200" type="line"/>
       <point x="235" y="700" type="line"/>
-      <point x="90" y="700" type="line"/>
+      <point x="90" y="700" type="line" name="av01"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>J.ss12+^&lt;39ı</string>
+  <string>J.ss12+^&lt;8ı</string>
   </dict>
   </lib>
 </glyph>

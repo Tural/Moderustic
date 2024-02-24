@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute.ss10" format="2">
-  <advance width="527"/>
-  <anchor x="150" y="-20" name="bottom"/>
-  <anchor x="303" y="720" name="top"/>
+  <advance width="517"/>
+  <anchor x="131" y="-20" name="bottom"/>
+  <anchor x="284" y="720" name="top"/>
   <outline>
     <component base="r.ss10"/>
-    <component base="acutecomb" xOffset="164" yOffset="20"/>
+    <component base="acutecomb" xOffset="145" yOffset="20"/>
   </outline>
   <lib>
   <dict>

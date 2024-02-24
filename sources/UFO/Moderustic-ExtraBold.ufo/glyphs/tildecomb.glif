@@ -6,26 +6,26 @@
   <anchor x="222" y="500" name="_top"/>
   <outline>
     <contour>
-      <point x="39" y="562" type="line"/>
-      <point x="39" y="662.114"/>
-      <point x="92" y="708"/>
-      <point x="142" y="708" type="curve" smooth="yes"/>
-      <point x="198" y="708"/>
-      <point x="228" y="664"/>
-      <point x="271" y="664" type="curve" smooth="yes"/>
-      <point x="294" y="664"/>
-      <point x="302" y="677.657"/>
-      <point x="305" y="700" type="curve"/>
-      <point x="406" y="700" type="line"/>
-      <point x="406" y="600.611"/>
-      <point x="354" y="554"/>
-      <point x="300" y="554" type="curve" smooth="yes"/>
-      <point x="243" y="554"/>
-      <point x="212" y="598"/>
-      <point x="175" y="598" type="curve" smooth="yes"/>
-      <point x="156" y="598"/>
+      <point x="140" y="562" type="line"/>
       <point x="143" y="585"/>
-      <point x="140" y="562" type="curve"/>
+      <point x="156" y="598"/>
+      <point x="175" y="598" type="curve" smooth="yes"/>
+      <point x="212" y="598"/>
+      <point x="243" y="554"/>
+      <point x="300" y="554" type="curve" smooth="yes"/>
+      <point x="354" y="554"/>
+      <point x="406" y="600.611"/>
+      <point x="406" y="700" type="curve"/>
+      <point x="305" y="700" type="line"/>
+      <point x="302" y="677.657"/>
+      <point x="294" y="664"/>
+      <point x="271" y="664" type="curve" smooth="yes"/>
+      <point x="228" y="664"/>
+      <point x="198" y="708"/>
+      <point x="142" y="708" type="curve" smooth="yes"/>
+      <point x="92" y="708"/>
+      <point x="39" y="662.114"/>
+      <point x="39" y="562" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -34,24 +34,6 @@
   <string>tilde%</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a5b7bd653dfe3a7c941ff0ee60811bfc133c89a11026d541bdecd9e4113fbe39c0ced6ba62ff2cdb785fd812b578572be386fe4232846840158a01bfff9b7ebe</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 596 92</string>
-          <string>hstem 602 128</string>
-          <string>hstem 638 92</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

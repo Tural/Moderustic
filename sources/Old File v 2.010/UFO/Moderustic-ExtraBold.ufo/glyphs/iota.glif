@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="2">
+  <advance width="310"/>
+  <unicode hex="03B9"/>
+  <anchor x="147" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="299" y="0" type="line"/>
+      <point x="226" y="0" type="line" smooth="yes"/>
+      <point x="107" y="0"/>
+      <point x="53" y="47"/>
+      <point x="53" y="153" type="curve" smooth="yes"/>
+      <point x="53" y="500" type="line"/>
+      <point x="243" y="500" type="line"/>
+      <point x="243" y="210" type="line" smooth="yes"/>
+      <point x="243" y="148"/>
+      <point x="262" y="133"/>
+      <point x="299" y="133" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w310m299,0l226,0c107,0 53,47 53,153l53,500l243,500l243,210c243,148 262,133 299,133</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 130</string>
+          <string>hstem 500 -20</string>
+          <string>vstem 53 190</string>
+          <string>vstem 53 246</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.ss09" format="2">
+  <advance width="551"/>
+  <outline>
+    <contour>
+      <point x="173" y="58" type="curve" smooth="yes"/>
+      <point x="173" y="16"/>
+      <point x="206" y="-20"/>
+      <point x="251" y="-20" type="curve" smooth="yes"/>
+      <point x="297" y="-20"/>
+      <point x="331" y="16"/>
+      <point x="331" y="58" type="curve" smooth="yes"/>
+      <point x="331" y="104"/>
+      <point x="297" y="138"/>
+      <point x="251" y="138" type="curve" smooth="yes"/>
+      <point x="206" y="138"/>
+      <point x="173" y="104"/>
+    </contour>
+    <contour>
+      <point x="178" y="250" type="line"/>
+      <point x="324" y="250" type="line"/>
+      <point x="324" y="332" type="line"/>
+      <point x="428" y="364"/>
+      <point x="531" y="452"/>
+      <point x="531" y="567" type="curve" smooth="yes"/>
+      <point x="531" y="690"/>
+      <point x="441" y="767"/>
+      <point x="284" y="767" type="curve" smooth="yes"/>
+      <point x="127" y="767"/>
+      <point x="38" y="680"/>
+      <point x="14" y="549" type="curve"/>
+      <point x="157" y="549" type="line"/>
+      <point x="171" y="617"/>
+      <point x="208" y="646"/>
+      <point x="284" y="646" type="curve" smooth="yes"/>
+      <point x="351" y="646"/>
+      <point x="385" y="613"/>
+      <point x="385" y="544" type="curve" smooth="yes"/>
+      <point x="385" y="462"/>
+      <point x="329" y="407"/>
+      <point x="178" y="345" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

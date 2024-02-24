@@ -16,37 +16,15 @@
       <point x="130" y="313" type="line"/>
     </contour>
     <contour>
-      <point x="235" y="0" type="line"/>
+      <point x="235" y="0" type="line" name="ab01"/>
       <point x="425" y="0" type="line"/>
-      <point x="425" y="279" type="line"/>
-      <point x="658" y="700" type="line"/>
+      <point x="425" y="279" type="line" name="iv04"/>
+      <point x="658" y="700" type="line" name="at01"/>
       <point x="441" y="700" type="line"/>
-      <point x="330" y="482" type="line"/>
-      <point x="219" y="700" type="line"/>
+      <point x="330" y="482" type="line" name="iv05"/>
+      <point x="219" y="700" type="line" name="at02"/>
       <point x="2" y="700" type="line"/>
-      <point x="235" y="279" type="line"/>
+      <point x="235" y="279" type="line" name="iv01"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b16f277b4dd631c6b4dfd0288cfb208c75551912d220ce4240aa917cb990123879d8897a7062c03a102a8158d8e44d77e89919d2b0662598c234ae77aedd4f25</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 238 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

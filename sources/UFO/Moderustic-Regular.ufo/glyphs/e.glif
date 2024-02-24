@@ -1,112 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-  <advance width="598"/>
+  <advance width="570"/>
   <unicode hex="0065"/>
-  <anchor x="299" y="520" name="top"/>
-  <anchor x="299" y="-20" name="bottom"/>
-  <anchor x="418" y="-3" name="ogonek"/>
+  <anchor x="271" y="520" name="top"/>
+  <anchor x="271" y="-20" name="bottom"/>
+  <anchor x="390" y="-3" name="ogonek"/>
   <outline>
     <contour>
-      <point x="152" y="296" type="line" name="sv02"/>
-      <point x="162" y="398.329"/>
-      <point x="221.207" y="450"/>
-      <point x="303.495" y="450" type="curve" smooth="yes" name="sv01"/>
-      <point x="385.782" y="450"/>
-      <point x="437.965" y="398.329"/>
-      <point x="448" y="296" type="curve" name="dv04"/>
+      <point x="141" y="296" type="line" name="sv02"/>
+      <point x="151" y="398.329"/>
+      <point x="208.137" y="450"/>
+      <point x="287.547" y="450" type="curve" smooth="yes" name="sv01"/>
+      <point x="366.958" y="450"/>
+      <point x="417.316" y="398.329"/>
+      <point x="427" y="296" type="curve" name="dv04"/>
     </contour>
     <contour>
-      <point x="464" y="123" type="line"/>
-      <point x="427.886" y="76.3611"/>
-      <point x="373.714" y="50"/>
-      <point x="309.511" y="50" type="curve" smooth="yes" name="dv02"/>
-      <point x="199.162" y="50"/>
-      <point x="148" y="128.419"/>
-      <point x="148" y="237" type="curve" name="sv04"/>
-      <point x="541" y="237" type="line" name="dv03"/>
-      <point x="541" y="421"/>
-      <point x="456" y="520"/>
-      <point x="304" y="520" type="curve" smooth="yes" name="at01"/>
-      <point x="157" y="520"/>
-      <point x="58" y="427"/>
-      <point x="58" y="251" type="curve" smooth="yes" name="sv03"/>
-      <point x="58" y="72"/>
-      <point x="160" y="-20"/>
-      <point x="309" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="404" y="-20"/>
-      <point x="476" y="17"/>
-      <point x="517" y="70" type="curve"/>
+      <point x="443" y="123" type="line"/>
+      <point x="408.029" y="76.361"/>
+      <point x="355.571" y="50"/>
+      <point x="293.4" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="186.543" y="50"/>
+      <point x="137" y="128.419"/>
+      <point x="137" y="237" type="curve" name="sv04"/>
+      <point x="520" y="237" type="line" name="dv03"/>
+      <point x="530" y="421"/>
+      <point x="436.76" y="520"/>
+      <point x="287.907" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="143.95" y="520"/>
+      <point x="47" y="427"/>
+      <point x="47" y="251" type="curve" smooth="yes" name="sv03"/>
+      <point x="47" y="72"/>
+      <point x="146.778" y="-20"/>
+      <point x="292.532" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="385.462" y="-20"/>
+      <point x="455.893" y="17"/>
+      <point x="496" y="70" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignt</string>
-      <key>point</key>
-      <string>at01</string>
-      <key>zone</key>
-      <string>xhgt</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv01</string>
-      <key>point2</key>
-      <string>dv02</string>
-      <key>stem</key>
-      <string>90</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>doublev</string>
-      <key>point1</key>
-      <string>dv03</string>
-      <key>point2</key>
-      <string>dv04</string>
-      <key>stem</key>
-      <string>90</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>singlev</string>
-      <key>point1</key>
-      <string>at01</string>
-      <key>point2</key>
-      <string>sv01</string>
-      <key>stem</key>
-      <string>90</string>
-      <key>align</key>
-      <string>center</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltav</string>
-      <key>point</key>
-      <string>sv01</string>
-      <key>delta</key>
-      <integer>2</integer>
-      <key>ppm1</key>
-      <integer>15</integer>
-      <key>ppm2</key>
-      <integer>16</integer>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>mdeltav</string>
-      <key>point</key>
-      <string>sv01</string>
-      <key>delta</key>
-      <integer>1</integer>
-      <key>ppm1</key>
-      <integer>9</integer>
-      <key>ppm2</key>
-      <integer>14</integer>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

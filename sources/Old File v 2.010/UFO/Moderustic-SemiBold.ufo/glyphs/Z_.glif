@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="594"/>
+  <unicode hex="005A"/>
+  <anchor x="307" y="719" name="top"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="27" y="0" type="line" name="ab01"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="120" type="line" name="sv01"/>
+      <point x="211" y="120" type="line"/>
+      <point x="565" y="590" type="line"/>
+      <point x="565" y="700" type="line" name="at01"/>
+      <point x="55" y="700" type="line"/>
+      <point x="55" y="580" type="line" name="sv02"/>
+      <point x="381" y="580" type="line"/>
+      <point x="27" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.ttcommands</key>
+  <array>
+    <dict>
+      <key>code</key>
+      <string>alignt</string>
+      <key>point</key>
+      <string>at01</string>
+      <key>zone</key>
+      <string>fig</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>alignb</string>
+      <key>point</key>
+      <string>ab01</string>
+      <key>zone</key>
+      <string>base</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>ab01</string>
+      <key>point2</key>
+      <string>sv01</string>
+      <key>stem</key>
+      <string>100</string>
+      <key>align</key>
+      <string>right</string>
+    </dict>
+    <dict>
+      <key>code</key>
+      <string>singlev</string>
+      <key>point1</key>
+      <string>at01</string>
+      <key>point2</key>
+      <string>sv02</string>
+      <key>stem</key>
+      <string>100</string>
+      <key>align</key>
+      <string>round</string>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

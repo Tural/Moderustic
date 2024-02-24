@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="etatonos" format="2">
-  <advance width="630"/>
+  <advance width="601"/>
   <unicode hex="03AE"/>
-  <anchor x="300" y="719" name="topgr"/>
+  <anchor x="290" y="719" name="topgr"/>
   <outline>
     <component base="eta"/>
-    <component base="tonos" xOffset="242" yOffset="20"/>
+    <component base="tonos" xOffset="232" yOffset="20"/>
   </outline>
   <lib>
   <dict>

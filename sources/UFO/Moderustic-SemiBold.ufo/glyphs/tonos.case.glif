@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="2">
   <advance width="167"/>
-  <anchor x="62" y="500" name="_topgr"/>
   <anchor x="46" y="699" name="topgr"/>
+  <anchor x="62" y="500" name="_topgr"/>
   <outline>
     <contour>
       <point x="13" y="549.508" type="line"/>

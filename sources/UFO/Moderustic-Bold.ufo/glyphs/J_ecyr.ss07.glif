@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jecyr.ss07" format="2">
-  <advance width="400"/>
-  <anchor x="254" y="719" name="top"/>
-  <anchor x="164" y="-89" name="bottom"/>
+  <advance width="380"/>
+  <anchor x="244" y="719" name="top"/>
+  <anchor x="154" y="-89" name="bottom"/>
   <outline>
     <component base="J.ss07"/>
   </outline>

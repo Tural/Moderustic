@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij.liga" format="2">
-  <advance width="626"/>
+  <advance width="586"/>
   <outline>
-    <component base="y"/>
-    <component base="dotaccentcomb" xOffset="39.5037" yOffset="20"/>
-    <component base="dotaccent" xOffset="372.492" yOffset="20"/>
+    <component base="y.ss04"/>
+    <component base="dotaccentcomb" xOffset="26.504" yOffset="20.318"/>
+    <component base="dotaccent" xOffset="348.492" yOffset="20.318"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>y+dotaccentcomb+dotaccent</string>
+  <string>y.ss04+dotaccentcomb+dotaccent</string>
   </dict>
   </lib>
 </glyph>

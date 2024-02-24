@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R.ss08" format="2">
-  <advance width="645"/>
+  <advance width="635"/>
   <anchor x="323" y="719" name="top"/>
   <anchor x="323" y="-20" name="bottom"/>
   <outline>
@@ -34,15 +34,15 @@
       <point x="411" y="232"/>
       <point x="432" y="183" type="curve" smooth="yes"/>
       <point x="449" y="143"/>
-      <point x="432" y="60"/>
-      <point x="447" y="0" type="curve"/>
-      <point x="570" y="0" type="line"/>
-      <point x="550" y="56"/>
+      <point x="432" y="70"/>
+      <point x="457" y="0" type="curve"/>
+      <point x="580" y="0" type="line"/>
+      <point x="550" y="66"/>
       <point x="570" y="171"/>
       <point x="545" y="222" type="curve" smooth="yes"/>
       <point x="520" y="273"/>
-      <point x="478" y="279"/>
-      <point x="382" y="305" type="curve"/>
+      <point x="478" y="287"/>
+      <point x="382" y="313" type="curve"/>
     </contour>
   </outline>
 </glyph>

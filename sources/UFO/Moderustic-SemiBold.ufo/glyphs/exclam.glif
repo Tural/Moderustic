@@ -13,15 +13,15 @@
       <point x="127" y="-20" type="curve" smooth="yes"/>
       <point x="167.4" y="-20"/>
       <point x="197.924" y="12.32"/>
-      <point x="197.924" y="51.8222" type="curve" smooth="yes"/>
-      <point x="197.924" y="91.3245"/>
+      <point x="197.924" y="51.822" type="curve" smooth="yes"/>
+      <point x="197.924" y="91.324"/>
       <point x="167.4" y="121.849"/>
       <point x="127" y="121.849" type="curve" smooth="yes"/>
-      <point x="85.7022" y="121.849"/>
-      <point x="56.0755" y="91.3245"/>
-      <point x="56.0755" y="51.8222" type="curve" smooth="yes"/>
-      <point x="56.0755" y="12.32"/>
-      <point x="85.7022" y="-20"/>
+      <point x="85.702" y="121.849"/>
+      <point x="56.076" y="91.324"/>
+      <point x="56.076" y="51.822" type="curve" smooth="yes"/>
+      <point x="56.076" y="12.32"/>
+      <point x="85.702" y="-20"/>
     </contour>
   </outline>
 </glyph>

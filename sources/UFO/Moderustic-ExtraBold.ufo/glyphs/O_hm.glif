@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohm" format="2">
-  <advance width="800"/>
+  <advance width="790"/>
   <unicode hex="2126"/>
   <anchor x="-20" y="500" name="topgr"/>
   <outline>
@@ -39,27 +39,4 @@
       <point x="51" y="140" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a5db1003a322f4a4dc8ad6b4d6411bc0ab8c413ddd8f08f28f8dd745ca0e1928585336a9d18aa573b04b55ec833e35abde356084af86cf03bf16522104f4569b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 141</string>
-          <string>hstem 579 141</string>
-          <string>vstem 33 190</string>
-          <string>vstem 577 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

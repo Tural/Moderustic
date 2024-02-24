@@ -30,8 +30,8 @@
       <point x="267" y="-87"/>
       <point x="234" y="-64"/>
       <point x="166" y="-64" type="curve"/>
-      <point x="213.423" y="20.4105" type="line"/>
-      <point x="111.423" y="20.4105" type="line"/>
+      <point x="213.423" y="20.41" type="line"/>
+      <point x="111.423" y="20.41" type="line"/>
       <point x="43" y="-109" type="line"/>
       <point x="59" y="-107"/>
       <point x="84" y="-105"/>
@@ -50,7 +50,7 @@
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>t.ss11+cedilla</string>
+  <string>t.ss11+cedillacomb</string>
   </dict>
   </lib>
 </glyph>

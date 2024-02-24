@@ -6,15 +6,6 @@
   <dict>
     <key>zones</key>
     <dict>
-      <key>base</key>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>10</integer>
-        <key>top</key>
-        <false/>
-      </dict>
       <key>B1</key>
       <dict>
         <key>position</key>
@@ -24,14 +15,14 @@
         <key>top</key>
         <false/>
       </dict>
-      <key>xhgt</key>
+      <key>base</key>
       <dict>
         <key>position</key>
-        <integer>520</integer>
+        <integer>0</integer>
         <key>width</key>
-        <integer>14</integer>
+        <integer>10</integer>
         <key>top</key>
-        <true/>
+        <false/>
       </dict>
       <key>fig</key>
       <dict>
@@ -42,20 +33,51 @@
         <key>top</key>
         <true/>
       </dict>
+      <key>xhgt</key>
+      <dict>
+        <key>position</key>
+        <integer>520</integer>
+        <key>width</key>
+        <integer>14</integer>
+        <key>top</key>
+        <true/>
+      </dict>
     </dict>
     <key>stems</key>
     <dict>
-      <key>4</key>
+      <key>100</key>
       <dict>
         <key>width</key>
-        <integer>4</integer>
+        <integer>100</integer>
         <key>horizontal</key>
         <true/>
+        <key>round</key>
+        <dict>
+          <key>16</key>
+          <integer>2</integer>
+          <key>27</key>
+          <integer>3</integer>
+          <key>37</key>
+          <integer>4</integer>
+          <key>48</key>
+          <integer>5</integer>
+          <key>59</key>
+          <integer>6</integer>
+          <key>69</key>
+          <integer>7</integer>
+        </dict>
       </dict>
       <key>13</key>
       <dict>
         <key>width</key>
         <integer>13</integer>
+        <key>horizontal</key>
+        <true/>
+      </dict>
+      <key>4</key>
+      <dict>
+        <key>width</key>
+        <integer>4</integer>
         <key>horizontal</key>
         <true/>
       </dict>
@@ -65,25 +87,26 @@
         <integer>90</integer>
         <key>horizontal</key>
         <true/>
-      </dict>
-      <key>100</key>
-      <dict>
-        <key>width</key>
-        <integer>100</integer>
-        <key>horizontal</key>
-        <true/>
+        <key>round</key>
+        <dict>
+          <key>16</key>
+          <integer>2</integer>
+          <key>27</key>
+          <integer>3</integer>
+          <key>37</key>
+          <integer>4</integer>
+          <key>48</key>
+          <integer>5</integer>
+          <key>59</key>
+          <integer>6</integer>
+          <key>69</key>
+          <integer>7</integer>
+        </dict>
       </dict>
       <key>13</key>
       <dict>
         <key>width</key>
         <integer>13</integer>
-        <key>horizontal</key>
-        <false/>
-      </dict>
-      <key>48</key>
-      <dict>
-        <key>width</key>
-        <integer>48</integer>
         <key>horizontal</key>
         <false/>
       </dict>
@@ -93,6 +116,19 @@
         <integer>179</integer>
         <key>horizontal</key>
         <false/>
+        <key>round</key>
+        <dict>
+          <key>8</key>
+          <integer>2</integer>
+          <key>13</key>
+          <integer>3</integer>
+          <key>19</key>
+          <integer>4</integer>
+          <key>30</key>
+          <integer>6</integer>
+          <key>36</key>
+          <integer>7</integer>
+        </dict>
       </dict>
       <key>189</key>
       <dict>
@@ -100,11 +136,40 @@
         <integer>189</integer>
         <key>horizontal</key>
         <false/>
+        <key>round</key>
+        <dict>
+          <key>13</key>
+          <integer>3</integer>
+          <key>23</key>
+          <integer>5</integer>
+          <key>36</key>
+          <integer>7</integer>
+          <key>38</key>
+          <integer>8</integer>
+        </dict>
       </dict>
       <key>213</key>
       <dict>
         <key>width</key>
         <integer>213</integer>
+        <key>horizontal</key>
+        <false/>
+        <key>round</key>
+        <dict>
+          <key>13</key>
+          <integer>3</integer>
+          <key>19</key>
+          <integer>4</integer>
+          <key>23</key>
+          <integer>5</integer>
+          <key>38</key>
+          <integer>8</integer>
+        </dict>
+      </dict>
+      <key>48</key>
+      <dict>
+        <key>width</key>
+        <integer>48</integer>
         <key>horizontal</key>
         <false/>
       </dict>
@@ -267,7 +332,7 @@
     <string>fraction</string>
     <string>fi</string>
     <string>ampersand.ss09</string>
-    <string>g.ss03</string>
+    <string>g.ss09</string>
     <string>y.ss04</string>
     <string>n</string>
     <string>Schwa</string>
@@ -829,10 +894,10 @@
     <string>Gcircumflex.ss14</string>
     <string>Gcommaaccent.ss14</string>
     <string>Gdotaccent.ss14</string>
-    <string>gcircumflex.ss03</string>
-    <string>gbreve.ss03</string>
-    <string>gdotaccent.ss03</string>
-    <string>gcommaaccent.ss03</string>
+    <string>gcircumflex.ss09</string>
+    <string>gbreve.ss09</string>
+    <string>gdotaccent.ss09</string>
+    <string>gcommaaccent.ss09</string>
     <string>agrave.ss02</string>
     <string>aacute.ss02</string>
     <string>acircumflex.ss02</string>
@@ -952,7 +1017,7 @@
     <string>schwa.ss12</string>
     <string>e.ss12</string>
     <string>g.ss12</string>
-    <string>y.ss12</string>
+    <string>y.ss09</string>
     <string>r.ss10</string>
     <string>germandbls.ss12</string>
     <string>Germandbls.ss12</string>
@@ -962,8 +1027,8 @@
     <string>eacute.ss12</string>
     <string>ecircumflex.ss12</string>
     <string>edieresis.ss12</string>
-    <string>yacute.ss12</string>
-    <string>ydieresis.ss12</string>
+    <string>yacute.ss09</string>
+    <string>ydieresis.ss09</string>
     <string>Cacute.ss12</string>
     <string>cacute.ss12</string>
     <string>Ccircumflex.ss12</string>
@@ -1002,7 +1067,7 @@
     <string>gacute.ss12</string>
     <string>Scommaaccent.ss12</string>
     <string>scommaaccent.ss12</string>
-    <string>ymacron.ss12</string>
+    <string>ymacron.ss09</string>
     <string>ae.ss15</string>
     <string>Gacute.ss15</string>
     <string>Gbreve.ss15</string>
@@ -1020,13 +1085,13 @@
     <string>iecyr.ss12</string>
     <string>zecyr.ss12</string>
     <string>escyr.ss12</string>
-    <string>ucyr.ss12</string>
+    <string>ucyr.ss09</string>
     <string>ereversedcyr.ss12</string>
     <string>iegravecyr.ss12</string>
     <string>iocyr.ss12</string>
     <string>eukrcyr.ss12</string>
     <string>dzecyr.ss12</string>
-    <string>ushortcyr.ss12</string>
+    <string>ushortcyr.ss09</string>
     <string>Djecyr.ss12</string>
     <string>yacyr.ss08</string>
     <string>epsilontonos.ss12</string>
@@ -1208,7 +1273,7 @@
     <string>hdot.ss11</string>
     <string>tdot.ss11</string>
     <string>gcaron.ss12</string>
-    <string>gcaron.ss03</string>
+    <string>gcaron.ss09</string>
     <string>i.loclTRK</string>
     <string>f_f.ss11</string>
     <string>fi.ss11</string>
@@ -1254,8 +1319,8 @@
     <string>Jacute.ss12</string>
     <string>ij.liga</string>
     <string>iacute_j.loclNLD.liga</string>
-    <string>ij.liga.ss12</string>
-    <string>iacute_j.loclNLD.liga.ss12</string>
+    <string>ij.liga.ss09</string>
+    <string>iacute_j.loclNLD.liga.ss09</string>
     <string>IJ.liga</string>
     <string>Iacute_J.loclNLD.liga</string>
     <string>IJ.liga.ss07</string>
@@ -1359,8 +1424,8 @@
     <string>Ytilde</string>
     <string>ytilde</string>
     <string>etilde.ss12</string>
-    <string>ygrave.ss12</string>
-    <string>ytilde.ss12</string>
+    <string>ygrave.ss09</string>
+    <string>ytilde.ss09</string>
     <string>ygrave.ss04</string>
     <string>ytilde.ss04</string>
     <string>etilde.ss09</string>
@@ -1404,6 +1469,74 @@
     <string>questiondown.ss12.case</string>
     <string>brevecy</string>
     <string>brevecycomb</string>
+    <string>manat.ss09</string>
+    <string>dollar.osf</string>
+    <string>cent.osf</string>
+    <string>sterling.osf</string>
+    <string>yen.osf</string>
+    <string>lira.osf</string>
+    <string>Euro.osf</string>
+    <string>austral.osf</string>
+    <string>hryvnia.osf</string>
+    <string>turkishlira.osf</string>
+    <string>manat.osf</string>
+    <string>ruble.osf</string>
+    <string>f_eth</string>
+    <string>f_thorn</string>
+    <string>eth_i</string>
+    <string>dotlessi.ss11</string>
+    <string>i.ss11</string>
+    <string>igrave.ss11</string>
+    <string>iacute.ss11</string>
+    <string>icircumflex.ss11</string>
+    <string>idieresis.ss11</string>
+    <string>itilde.ss11</string>
+    <string>imacron.ss11</string>
+    <string>ibreve.ss11</string>
+    <string>iogonek.ss11</string>
+    <string>ij.ss11</string>
+    <string>iukrcyr.ss11</string>
+    <string>yukrcyr.ss11</string>
+    <string>i.loclTRK.ss11</string>
+    <string>iacute_j.loclNLD.ss11</string>
+    <string>eth_i.ss11</string>
+    <string>u.ss02</string>
+    <string>ugrave.ss02</string>
+    <string>uacute.ss02</string>
+    <string>ucircumflex.ss02</string>
+    <string>udieresis.ss02</string>
+    <string>utilde.ss02</string>
+    <string>umacron.ss02</string>
+    <string>ubreve.ss02</string>
+    <string>uring.ss02</string>
+    <string>uhungarumlaut.ss02</string>
+    <string>uogonek.ss02</string>
+    <string>icyr.loclBGR.ss02</string>
+    <string>ishortcyr.loclBGR.ss02</string>
+    <string>shacyr.loclBGR.ss02</string>
+    <string>upsilondieresistonos.ss16</string>
+    <string>upsilon.ss16</string>
+    <string>upsilondieresis.ss16</string>
+    <string>upsilontonos.ss16</string>
+    <string>mu.ss01</string>
+    <string>micro.ss01</string>
+    <string>d.ss02</string>
+    <string>dcaron.ss02</string>
+    <string>dcroat.ss02</string>
+    <string>dzcaron.ss02</string>
+    <string>dz.ss02</string>
+    <string>a.ss01</string>
+    <string>agrave.ss01</string>
+    <string>aacute.ss01</string>
+    <string>acircumflex.ss01</string>
+    <string>atilde.ss01</string>
+    <string>adieresis.ss01</string>
+    <string>aring.ss01</string>
+    <string>amacron.ss01</string>
+    <string>abreve.ss01</string>
+    <string>aogonek.ss01</string>
+    <string>acyr.ss01</string>
+    <string>becyr.loclMKD</string>
   </array>
 </dict>
 </plist>

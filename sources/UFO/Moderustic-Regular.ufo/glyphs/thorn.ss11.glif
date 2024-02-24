@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn.ss11" format="2">
-  <advance width="635"/>
+  <advance width="615"/>
   <outline>
     <contour>
-      <point x="93" y="-200" type="line" name="av01"/>
-      <point x="183" y="-200" type="line"/>
-      <point x="183.1" y="116.87" type="line"/>
-      <point x="211.71" y="36.2"/>
-      <point x="267.5" y="-20"/>
-      <point x="347" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="489" y="-20"/>
-      <point x="575" y="99"/>
-      <point x="575" y="255" type="curve" smooth="yes"/>
-      <point x="575" y="411"/>
-      <point x="498" y="520"/>
-      <point x="353" y="520" type="curve" smooth="yes" name="at01"/>
-      <point x="270.68" y="520"/>
-      <point x="212.55" y="467.14"/>
-      <point x="183.1" y="388.1" type="curve"/>
-      <point x="183.1" y="700" type="line"/>
-      <point x="93.41" y="700" type="line"/>
+      <point x="83" y="-200" type="line" name="av01"/>
+      <point x="173" y="-200" type="line"/>
+      <point x="173.1" y="116.87" type="line"/>
+      <point x="201.71" y="36.2"/>
+      <point x="257.5" y="-20"/>
+      <point x="337" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="479" y="-20"/>
+      <point x="565" y="99"/>
+      <point x="565" y="255" type="curve" smooth="yes"/>
+      <point x="565" y="411"/>
+      <point x="488" y="520"/>
+      <point x="343" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="260.68" y="520"/>
+      <point x="202.55" y="467.14"/>
+      <point x="173.1" y="388.1" type="curve"/>
+      <point x="173.1" y="700" type="line"/>
+      <point x="83.41" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="338" y="50" type="curve" smooth="yes" name="dv02"/>
-      <point x="248.01" y="50"/>
-      <point x="183.1" y="139.257"/>
-      <point x="183.1" y="250.99" type="curve" smooth="yes"/>
-      <point x="183.1" y="369.835"/>
-      <point x="245.899" y="450"/>
-      <point x="339" y="450" type="curve" smooth="yes" name="sv01"/>
-      <point x="431" y="450"/>
-      <point x="485" y="378.82"/>
-      <point x="485" y="255.51" type="curve" smooth="yes"/>
-      <point x="485" y="130.19"/>
-      <point x="428" y="50"/>
+      <point x="328" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="238.01" y="50"/>
+      <point x="173.1" y="139.257"/>
+      <point x="173.1" y="250.99" type="curve" smooth="yes"/>
+      <point x="173.1" y="369.835"/>
+      <point x="235.899" y="450"/>
+      <point x="329" y="450" type="curve" smooth="yes" name="sv01"/>
+      <point x="421" y="450"/>
+      <point x="475" y="378.82"/>
+      <point x="475" y="255.51" type="curve" smooth="yes"/>
+      <point x="475" y="130.19"/>
+      <point x="418" y="50"/>
     </contour>
   </outline>
 </glyph>

@@ -1,57 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="594"/>
+  <advance width="574"/>
   <unicode hex="006B"/>
-  <anchor x="297" y="-20" name="bottom"/>
-  <anchor x="135" y="750" name="top"/>
+  <anchor x="277" y="-20" name="bottom"/>
+  <anchor x="120" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="74" y="0" type="line" name="sv03"/>
-      <point x="194" y="0" type="line" name="ab02"/>
-      <point x="194" y="750" type="line" name="ab01"/>
-      <point x="74" y="750" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="176" y="0" type="line" name="ab02"/>
+      <point x="176" y="750" type="line" name="ab01"/>
+      <point x="56" y="750" type="line" name="sh01"/>
     </contour>
     <contour>
-      <point x="95" y="222" type="line"/>
-      <point x="323" y="222" type="line" name="iv01"/>
-      <point x="422" y="0" type="line" name="ab02"/>
-      <point x="558" y="0" type="line"/>
-      <point x="418" y="263" type="line"/>
-      <point x="544" y="500" type="line" name="av02"/>
-      <point x="419" y="500" type="line"/>
-      <point x="331" y="312" type="line" name="iv02"/>
-      <point x="88" y="312" type="line"/>
+      <point x="81" y="222" type="line"/>
+      <point x="309" y="222" type="line" name="iv01"/>
+      <point x="408" y="0" type="line" name="ab02"/>
+      <point x="544" y="0" type="line"/>
+      <point x="404" y="263" type="line"/>
+      <point x="530" y="500" type="line" name="av02"/>
+      <point x="405" y="500" type="line"/>
+      <point x="315" y="312" type="line" name="iv02"/>
+      <point x="74" y="312" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.ttcommands</key>
-  <array>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab01</string>
-      <key>zone</key>
-      <string>B1</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>ab02</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-    <dict>
-      <key>code</key>
-      <string>alignb</string>
-      <key>point</key>
-      <string>sv03</string>
-      <key>zone</key>
-      <string>base</string>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

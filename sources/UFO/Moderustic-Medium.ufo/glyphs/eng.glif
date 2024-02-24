@@ -4,8 +4,8 @@
   <unicode hex="014B"/>
   <outline>
     <contour>
-      <point x="84" y="0" type="line" name="ab02"/>
-      <point x="204" y="0" type="line"/>
+      <point x="84" y="0" type="line" name="ab01"/>
+      <point x="204" y="0" type="line" name="sh01"/>
       <point x="204" y="217" type="line" smooth="yes" name="iv01"/>
       <point x="204" y="344"/>
       <point x="252" y="428"/>

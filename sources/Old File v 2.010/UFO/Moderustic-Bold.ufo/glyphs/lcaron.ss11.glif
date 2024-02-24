@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.ss11" format="2">
+  <advance width="272"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="136" y="750" name="top"/>
+  <outline>
+    <component base="l.ss11"/>
+    <component base="caron.salt" xOffset="262"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l.ss11+caron.salt</string>
+  </dict>
+  </lib>
+</glyph>

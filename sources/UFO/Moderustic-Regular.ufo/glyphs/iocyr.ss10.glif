@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iocyr.ss10" format="2">
-  <advance width="585"/>
-  <anchor x="297" y="-20" name="bottom"/>
-  <anchor x="417" y="-3" name="ogonek"/>
-  <anchor x="297" y="667" name="top"/>
+  <advance width="574"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="409" y="-3" name="ogonek"/>
+  <anchor x="289" y="667" name="top"/>
   <outline>
     <component base="iecyr.ss10"/>
-    <component base="dieresiscomb" xOffset="93" yOffset="20"/>
+    <component base="dieresiscomb" xOffset="85" yOffset="20"/>
   </outline>
   <lib>
   <dict>

@@ -16,7 +16,7 @@
     </contour>
     <contour>
       <point x="459" y="138" type="line"/>
-      <point x="427.893" y="94.3582"/>
+      <point x="427.893" y="94.358"/>
       <point x="363.672" y="70"/>
       <point x="303.466" y="70" type="curve" smooth="yes" name="dv02"/>
       <point x="213.155" y="70"/>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="2">
-  <advance width="365"/>
+  <advance width="395"/>
   <unicode hex="021B"/>
   <anchor x="175" y="630" name="top"/>
   <anchor x="272" y="700" name="topright"/>
-  <anchor x="220" y="-268" name="bottom"/>
+  <anchor x="230" y="-268" name="bottom"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="97" yOffset="-20"/>
+    <component base="commaaccentcomb" xOffset="107" yOffset="-20"/>
   </outline>
   <lib>
   <dict>

@@ -2,6 +2,6 @@
 <glyph name="periodcentered.case" format="2">
   <advance width="272"/>
   <outline>
-    <component base="period" xScale="1.0635" yScale="1.1047" xOffset="-3.41729" yOffset="351.677"/>
+    <component base="period" xScale="1.0635" yScale="1.1047" xOffset="-3.417" yOffset="351.677"/>
   </outline>
 </glyph>

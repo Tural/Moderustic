@@ -13,12 +13,12 @@
       <point x="134.63" y="243.46" type="curve"/>
       <point x="26" y="0" type="line"/>
       <point x="157" y="0" type="line" name="ab02"/>
-      <point x="255.53" y="221" type="line" name="iv01"/>
-      <point x="342" y="221" type="line"/>
-      <point x="342" y="0" type="line"/>
-      <point x="462" y="0" type="line" name="ab01"/>
-      <point x="462" y="221" type="line"/>
-      <point x="544.47" y="221" type="line" name="iv01"/>
+      <point x="255.53" y="221" type="line"/>
+      <point x="342" y="221" type="line" name="dv01"/>
+      <point x="342" y="0" type="line" name="ab01"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="221" type="line" name="dv01"/>
+      <point x="544.47" y="221" type="line"/>
       <point x="643" y="0" type="line" name="ab02"/>
       <point x="774" y="0" type="line"/>
       <point x="665.36" y="243.46" type="line"/>
@@ -31,10 +31,10 @@
       <point x="596" y="338"/>
       <point x="581" y="311"/>
       <point x="523" y="311" type="curve" smooth="yes"/>
-      <point x="462" y="311" type="line"/>
-      <point x="462" y="500" type="line" name="av01"/>
-      <point x="342" y="500" type="line"/>
-      <point x="342" y="311" type="line"/>
+      <point x="462" y="311" type="line" name="dv02"/>
+      <point x="462" y="500" type="line"/>
+      <point x="342" y="500" type="line" name="av01"/>
+      <point x="342" y="311" type="line" name="dv02"/>
       <point x="277" y="311" type="line" smooth="yes"/>
       <point x="219" y="311"/>
       <point x="204" y="338"/>

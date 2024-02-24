@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute.ss02" format="2">
-  <advance width="580"/>
-  <anchor x="280" y="-20" name="bottom"/>
-  <anchor x="483" y="-3" name="ogonek"/>
-  <anchor x="303" y="720" name="top"/>
+  <advance width="551"/>
+  <anchor x="251" y="-20" name="bottom"/>
+  <anchor x="548" y="-3" name="ogonek"/>
+  <anchor x="274" y="720" name="top"/>
   <outline>
     <component base="a.ss02"/>
-    <component base="acutecomb" xOffset="163" yOffset="20"/>
+    <component base="acutecomb" xOffset="134" yOffset="20"/>
   </outline>
   <lib>
   <dict>

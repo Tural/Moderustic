@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Escyr.ss10" format="2">
-  <advance width="735"/>
-  <anchor x="407" y="-19" name="bottom"/>
-  <anchor x="387" y="719" name="top"/>
+  <advance width="715"/>
+  <anchor x="397" y="-19" name="bottom"/>
+  <anchor x="377" y="719" name="top"/>
   <outline>
     <component base="C.ss10"/>
   </outline>

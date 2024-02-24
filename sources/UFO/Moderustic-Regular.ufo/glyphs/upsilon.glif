@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilon" format="2">
-  <advance width="608"/>
+  <advance width="589"/>
   <unicode hex="03C5"/>
   <anchor x="283" y="520" name="topgr"/>
   <outline>

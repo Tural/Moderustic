@@ -30,15 +30,15 @@
     <contour>
       <point x="242" y="-20" type="curve" smooth="yes"/>
       <point x="271.192" y="-20"/>
-      <point x="294.5" y="3.25876"/>
-      <point x="294.5" y="31.8947" type="curve" smooth="yes"/>
-      <point x="294.5" y="59.6361"/>
+      <point x="294.5" y="3.259"/>
+      <point x="294.5" y="31.895" type="curve" smooth="yes"/>
+      <point x="294.5" y="59.636"/>
       <point x="271.192" y="82"/>
       <point x="242" y="82" type="curve" smooth="yes"/>
       <point x="211.896" y="82"/>
-      <point x="189.5" y="59.6361"/>
-      <point x="189.5" y="31.8947" type="curve" smooth="yes"/>
-      <point x="189.5" y="3.25876"/>
+      <point x="189.5" y="59.636"/>
+      <point x="189.5" y="31.895" type="curve" smooth="yes"/>
+      <point x="189.5" y="3.259"/>
       <point x="211.896" y="-20"/>
     </contour>
   </outline>

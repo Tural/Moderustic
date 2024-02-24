@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="2">
-  <advance width="365"/>
+  <advance width="395"/>
   <unicode hex="021B"/>
   <anchor x="167" y="630" name="top"/>
   <anchor x="262" y="700" name="topright"/>

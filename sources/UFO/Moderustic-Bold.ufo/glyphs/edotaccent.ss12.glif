@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent.ss12" format="2">
-  <advance width="585"/>
-  <anchor x="298" y="-20" name="bottom"/>
-  <anchor x="407" y="-3" name="ogonek"/>
-  <anchor x="298" y="706" name="top"/>
+  <advance width="574"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="399" y="-3" name="ogonek"/>
+  <anchor x="290" y="706" name="top"/>
   <outline>
     <component base="e.ss12"/>
-    <component base="dotaccentcomb" xOffset="193" yOffset="20"/>
+    <component base="dotaccentcomb" xOffset="185" yOffset="20"/>
   </outline>
   <lib>
   <dict>

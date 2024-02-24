@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron.ss09" format="2">
   <advance width="780"/>
-  <anchor x="390" y="-19" name="bottom"/>
-  <anchor x="390" y="921" name="top"/>
+  <anchor x="380" y="-19" name="bottom"/>
+  <anchor x="380" y="921" name="top"/>
   <outline>
     <component base="G.ss09"/>
-    <component base="caron.case" xOffset="217" yOffset="219"/>
+    <component base="caroncomb" xOffset="207" yOffset="219"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>G.ss09+caron.case</string>
+  <string>G.ss09+caroncomb</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

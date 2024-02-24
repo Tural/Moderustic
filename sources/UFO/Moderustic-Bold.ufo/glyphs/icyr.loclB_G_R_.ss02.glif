@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr.loclBGR.ss02" format="2">
+  <advance width="593"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="290" y="520" name="top"/>
+  <anchor x="598" y="-3" name="ogonek"/>
+  <outline>
+    <component base="u.ss02"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u.ss02</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
