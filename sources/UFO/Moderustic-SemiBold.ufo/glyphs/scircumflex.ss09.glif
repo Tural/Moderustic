@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex.ss09" format="2">
-  <advance width="510"/>
-  <anchor x="260" y="-20" name="bottom"/>
-  <anchor x="245" y="720" name="top"/>
+  <advance width="490"/>
+  <anchor x="250" y="-20" name="bottom"/>
+  <anchor x="235" y="720" name="top"/>
   <outline>
     <component base="s.ss09"/>
-    <component base="circumflexcomb" xOffset="72" yOffset="20"/>
+    <component base="circumflexcomb" xOffset="62" yOffset="20"/>
   </outline>
   <lib>
   <dict>

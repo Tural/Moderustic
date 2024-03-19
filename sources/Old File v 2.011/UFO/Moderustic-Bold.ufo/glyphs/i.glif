@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="272"/>
+  <unicode hex="0069"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="212" y="-3" name="ogonek"/>
+  <anchor x="136" y="706" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="31" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.numr" format="2">
+  <advance width="425"/>
+  <outline>
+    <component base="zero.superior" xScale="0.962" yScale="0.962" xOffset="1" yOffset="-83"/>
+  </outline>
+</glyph>

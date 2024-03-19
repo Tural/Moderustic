@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+  <advance width="716"/>
+  <unicode hex="0397"/>
+  <anchor x="358" y="-20" name="bottom"/>
+  <anchor x="358" y="719" name="top"/>
+  <anchor x="-22" y="500" name="topgr"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>H</string>
+  </dict>
+  </lib>
+</glyph>

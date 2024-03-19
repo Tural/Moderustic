@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.loclTRK" format="2">
+  <advance width="272"/>
+  <anchor x="134" y="-20" name="bottom"/>
+  <anchor x="166" y="-3" name="ogonek"/>
+  <anchor x="136" y="683" name="top"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i</string>
+  </dict>
+  </lib>
+</glyph>

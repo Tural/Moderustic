@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent.ss15" format="2">
+  <advance width="747"/>
+  <anchor x="383" y="719" name="top"/>
+  <anchor x="383" y="-267" name="bottom"/>
+  <outline>
+    <component base="G.ss15"/>
+    <component base="commaaccentcomb" xOffset="260" yOffset="-19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G.ss15+commaaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

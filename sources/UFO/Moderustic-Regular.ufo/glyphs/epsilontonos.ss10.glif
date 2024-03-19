@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos.ss10" format="2">
-  <advance width="500"/>
-  <anchor x="247" y="718" name="topgr"/>
+  <advance width="480"/>
+  <anchor x="237" y="718" name="topgr"/>
   <outline>
     <component base="epsilon.ss10"/>
-    <component base="tonos" xOffset="187" yOffset="19"/>
+    <component base="tonos" xOffset="177" yOffset="19"/>
   </outline>
   <lib>
   <dict>

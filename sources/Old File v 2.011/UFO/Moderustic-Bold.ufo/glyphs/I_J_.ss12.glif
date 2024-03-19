@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ.ss12" format="2">
+  <advance width="806"/>
+  <anchor x="675" y="719" name="top"/>
+  <anchor x="526" y="-20" name="bottom"/>
+  <anchor x="239" y="-3" name="ogonek"/>
+  <anchor x="-33" y="500" name="topgr"/>
+  <outline>
+    <component base="I"/>
+    <component base="J.ss12" xOffset="326"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I_J.ss12</string>
+  </dict>
+  </lib>
+</glyph>

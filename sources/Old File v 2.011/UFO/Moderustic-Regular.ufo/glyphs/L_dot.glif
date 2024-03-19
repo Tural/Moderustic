@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="524"/>
+  <unicode hex="013F"/>
+  <anchor x="133" y="719" name="top"/>
+  <anchor x="277" y="-20" name="bottom"/>
+  <anchor x="296" y="700" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered.case" xOffset="232.888"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+>-74periodcentered.case</string>
+  </dict>
+  </lib>
+</glyph>

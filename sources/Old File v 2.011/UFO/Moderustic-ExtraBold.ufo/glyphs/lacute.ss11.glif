@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss11" format="2">
+  <advance width="272"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="272" y="700" name="topright"/>
+  <anchor x="152" y="950" name="top"/>
+  <outline>
+    <component base="l.ss11"/>
+    <component base="acutecomb" xOffset="11" yOffset="250"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l.ss11+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

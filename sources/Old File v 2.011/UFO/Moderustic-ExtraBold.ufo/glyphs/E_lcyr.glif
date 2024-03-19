@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr" format="2">
+  <advance width="720"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="1" y="9" type="line"/>
+      <point x="42" y="-9"/>
+      <point x="78" y="-20"/>
+      <point x="139" y="-20" type="curve" smooth="yes"/>
+      <point x="262.319" y="-20"/>
+      <point x="313.115" y="25.805"/>
+      <point x="331.25" y="249.488" type="curve" smooth="yes"/>
+      <point x="337.674" y="328.718"/>
+      <point x="340" y="430.266"/>
+      <point x="340" y="560" type="curve"/>
+      <point x="472" y="560" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="662" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="150" y="528.72"/>
+      <point x="149.188" y="407.416"/>
+      <point x="145.946" y="321.912" type="curve" smooth="yes"/>
+      <point x="139.667" y="156.314"/>
+      <point x="124.272" y="125"/>
+      <point x="88" y="125" type="curve" smooth="yes"/>
+      <point x="69" y="125"/>
+      <point x="47" y="136"/>
+      <point x="31" y="150" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="606"/>
+  <unicode hex="0149"/>
+  <anchor x="308" y="520" name="top"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <outline>
+    <component base="n"/>
+    <component base="quotesingle" xOffset="-49" yOffset="-10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+quotesingle</string>
+  </dict>
+  </lib>
+</glyph>

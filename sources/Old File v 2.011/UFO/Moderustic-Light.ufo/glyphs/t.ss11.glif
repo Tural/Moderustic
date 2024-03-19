@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.ss11" format="2">
+  <advance width="353"/>
+  <anchor x="144" y="-20" name="bottom"/>
+  <anchor x="145" y="630" name="top"/>
+  <anchor x="222" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="450" type="line"/>
+      <point x="324" y="450" type="line"/>
+      <point x="324" y="500" type="line"/>
+      <point x="174" y="500" type="line"/>
+      <point x="174" y="620" type="line"/>
+      <point x="114" y="620" type="line"/>
+      <point x="114" y="500" type="line"/>
+      <point x="24" y="500" type="line"/>
+      <point x="24" y="450" type="line"/>
+      <point x="114" y="450" type="line"/>
+    </contour>
+  </outline>
+</glyph>

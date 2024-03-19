@@ -4,7 +4,7 @@
   <anchor x="253" y="-20" name="bottom"/>
   <anchor x="269" y="720" name="top"/>
   <outline>
-    <component base="s"/>
+    <component base="s" xOffset="10"/>
     <component base="acute.loclPLK" xOffset="129" yOffset="20"/>
   </outline>
   <lib>

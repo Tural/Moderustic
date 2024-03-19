@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.ss11" format="2">
+  <advance width="635"/>
+  <anchor x="148" y="750" name="top"/>
+  <anchor x="318" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="219" y="700" type="line"/>
+      <point x="74" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="line" name="ab01"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="314" type="line" smooth="yes"/>
+      <point x="561" y="462"/>
+      <point x="492" y="520"/>
+      <point x="389" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="301" y="520"/>
+      <point x="230" y="456"/>
+      <point x="211" y="361" type="curve"/>
+      <point x="212" y="282" type="line"/>
+      <point x="219" y="217" type="line" name="iv01"/>
+      <point x="219" y="333.604"/>
+      <point x="261" y="410"/>
+      <point x="336" y="410" type="curve" smooth="yes" name="sv01"/>
+      <point x="386" y="410"/>
+      <point x="416" y="383.936"/>
+      <point x="416" y="278.68" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

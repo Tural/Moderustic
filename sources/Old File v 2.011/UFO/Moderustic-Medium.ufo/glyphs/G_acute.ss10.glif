@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gacute.ss10" format="2">
+  <advance width="780"/>
+  <anchor x="384" y="-19" name="bottom"/>
+  <anchor x="400" y="919" name="top"/>
+  <outline>
+    <component base="G.ss10"/>
+    <component base="acutecomb" xOffset="257" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G.ss10+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

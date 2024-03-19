@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+  <advance width="598"/>
+  <unicode hex="0119"/>
+  <anchor x="299" y="520" name="top"/>
+  <anchor x="299" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="152" y="296" type="line" name="sv02"/>
+      <point x="162" y="398.329"/>
+      <point x="221.207" y="450"/>
+      <point x="303.495" y="450" type="curve" smooth="yes" name="sv01"/>
+      <point x="385.782" y="450"/>
+      <point x="437.965" y="398.329"/>
+      <point x="448" y="296" type="curve" name="dv04"/>
+    </contour>
+    <contour>
+      <point x="464" y="123" type="line"/>
+      <point x="427.886" y="76.361"/>
+      <point x="373.714" y="50"/>
+      <point x="309.511" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="199.162" y="50"/>
+      <point x="148" y="128.419"/>
+      <point x="148" y="237" type="curve" name="sv04"/>
+      <point x="541" y="237" type="line" name="dv03"/>
+      <point x="541" y="421"/>
+      <point x="456" y="520"/>
+      <point x="304" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="157" y="520"/>
+      <point x="58" y="427"/>
+      <point x="58" y="251" type="curve" smooth="yes" name="sv03"/>
+      <point x="58" y="72"/>
+      <point x="160" y="-20"/>
+      <point x="309" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="404" y="-20"/>
+      <point x="476" y="17"/>
+      <point x="517" y="70" type="curve"/>
+    </contour>
+    <contour>
+      <point x="422" y="-183" type="line"/>
+      <point x="378" y="-171"/>
+      <point x="355" y="-143"/>
+      <point x="355" y="-103" type="curve" smooth="yes"/>
+      <point x="355" y="-62"/>
+      <point x="380" y="-22"/>
+      <point x="421" y="0" type="curve"/>
+      <point x="400" y="3" type="line"/>
+      <point x="327" y="-12"/>
+      <point x="280" y="-59"/>
+      <point x="280" y="-110" type="curve" smooth="yes"/>
+      <point x="280" y="-157"/>
+      <point x="320" y="-196"/>
+      <point x="380" y="-206" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+ogonekcomb</string>
+  </dict>
+  </lib>
+</glyph>

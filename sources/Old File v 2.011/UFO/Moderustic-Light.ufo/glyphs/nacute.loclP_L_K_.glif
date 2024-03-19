@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute.loclPLK" format="2">
+  <advance width="606"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="324" y="720" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="acutecomb.loclPLK" xOffset="180" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+acutecomb.loclPLK</string>
+  <key>public.markColor</key>
+  <string>0.798,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

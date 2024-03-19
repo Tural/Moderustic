@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="2">
+  <advance width="960"/>
+  <unicode hex="1E80"/>
+  <anchor x="480" y="-20" name="bottom"/>
+  <anchor x="450" y="919" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="gravecomb" xOffset="302" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+~gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

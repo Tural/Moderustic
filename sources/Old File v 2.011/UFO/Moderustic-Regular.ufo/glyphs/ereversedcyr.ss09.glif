@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversedcyr.ss09" format="2">
+  <advance width="573"/>
+  <anchor x="286" y="520" name="top"/>
+  <anchor x="286" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="518" y="217" type="line"/>
+      <point x="518" y="282" type="line"/>
+      <point x="244" y="282" type="line"/>
+      <point x="244" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="167" type="line"/>
+      <point x="62" y="47"/>
+      <point x="146" y="-20"/>
+      <point x="271" y="-20" type="curve" smooth="yes"/>
+      <point x="427" y="-20"/>
+      <point x="523" y="85"/>
+      <point x="523" y="255" type="curve" smooth="yes"/>
+      <point x="523" y="417"/>
+      <point x="431" y="520"/>
+      <point x="276" y="520" type="curve" smooth="yes"/>
+      <point x="153" y="520"/>
+      <point x="68" y="457"/>
+      <point x="50" y="331" type="curve"/>
+      <point x="140" y="331" type="line"/>
+      <point x="148" y="401.593"/>
+      <point x="203" y="450"/>
+      <point x="275" y="450" type="curve" smooth="yes"/>
+      <point x="379" y="450"/>
+      <point x="433" y="373.618"/>
+      <point x="433" y="246.985" type="curve" smooth="yes"/>
+      <point x="433" y="122.362"/>
+      <point x="374" y="50"/>
+      <point x="268" y="50" type="curve" smooth="yes"/>
+      <point x="196" y="50"/>
+      <point x="145" y="98.414"/>
+      <point x="142" y="167" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

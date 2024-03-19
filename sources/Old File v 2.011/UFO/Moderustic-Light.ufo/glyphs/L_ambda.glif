@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="655"/>
+  <unicode hex="039B"/>
+  <anchor x="328" y="-20" name="bottom"/>
+  <anchor x="328" y="719" name="top"/>
+  <outline>
+    <component base="V" yScale="-1" yOffset="700"/>
+  </outline>
+</glyph>

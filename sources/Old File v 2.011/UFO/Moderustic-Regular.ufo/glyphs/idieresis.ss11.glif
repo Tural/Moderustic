@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis.ss11" format="2">
+  <advance width="370"/>
+  <anchor x="185" y="-20" name="bottom"/>
+  <anchor x="332" y="-3" name="ogonek"/>
+  <anchor x="185" y="667" name="top"/>
+  <outline>
+    <component base="dotlessi.ss11"/>
+    <component base="dieresiscomb" xOffset="-19" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi.ss11+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

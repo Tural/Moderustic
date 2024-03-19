@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversedcyr.ss12" format="2">
+  <advance width="669"/>
+  <anchor x="304" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.349" y="70.951" type="line"/>
+      <point x="111.469" y="15.957"/>
+      <point x="205.635" y="-20"/>
+      <point x="295" y="-20" type="curve" smooth="yes"/>
+      <point x="493" y="-20"/>
+      <point x="606" y="123"/>
+      <point x="606" y="348" type="curve" smooth="yes"/>
+      <point x="606" y="572"/>
+      <point x="493.42" y="720"/>
+      <point x="293.42" y="720" type="curve" smooth="yes"/>
+      <point x="204.054" y="720"/>
+      <point x="111.469" y="683.549"/>
+      <point x="63.349" y="628.555" type="curve"/>
+      <point x="71.369" y="554.084" type="line"/>
+      <point x="142.034" y="619.92"/>
+      <point x="226.406" y="640"/>
+      <point x="289.42" y="640" type="curve" smooth="yes"/>
+      <point x="445.42" y="640"/>
+      <point x="516" y="530.812"/>
+      <point x="516" y="344.491" type="curve" smooth="yes"/>
+      <point x="516" y="163.178"/>
+      <point x="445" y="60"/>
+      <point x="291" y="60" type="curve" smooth="yes"/>
+      <point x="227.986" y="60"/>
+      <point x="142.034" y="78.806"/>
+      <point x="71.369" y="145.423" type="curve"/>
+    </contour>
+    <contour>
+      <point x="196" y="320" type="line"/>
+      <point x="551" y="320" type="line"/>
+      <point x="551" y="400" type="line"/>
+      <point x="196" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

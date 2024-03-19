@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="2">
+  <advance width="577"/>
+  <unicode hex="0396"/>
+  <anchor x="300" y="719" name="top"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

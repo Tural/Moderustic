@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gecyr.loclBGR" format="2">
-  <advance width="507"/>
-  <anchor x="253" y="520" name="top"/>
-  <anchor x="253" y="-20" name="bottom"/>
+  <advance width="487"/>
+  <anchor x="243" y="520" name="top"/>
+  <anchor x="243" y="-20" name="bottom"/>
   <outline>
-    <component base="s" xScale="-1" xOffset="495"/>
+    <component base="s" xScale="-1" xOffset="481"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

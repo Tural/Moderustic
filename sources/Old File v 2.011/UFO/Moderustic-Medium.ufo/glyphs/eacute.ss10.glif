@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.ss10" format="2">
+  <advance width="574"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="407" y="-2" name="ogonek"/>
+  <anchor x="305" y="720" name="top"/>
+  <outline>
+    <component base="e.ss10"/>
+    <component base="acutecomb" xOffset="162" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss10+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

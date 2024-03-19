@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="580"/>
+  <unicode hex="0171"/>
+  <anchor x="389" y="-3" name="ogonek"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="356" y="722" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="hungarumlautcomb" xOffset="142" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+hungarumlautcomb</string>
+  </dict>
+  </lib>
+</glyph>

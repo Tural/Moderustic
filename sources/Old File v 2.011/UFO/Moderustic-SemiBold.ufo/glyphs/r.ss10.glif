@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.ss10" format="2">
+  <advance width="517"/>
+  <anchor x="268" y="520" name="top"/>
+  <anchor x="131" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line" name="ab02"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="222.111" type="line" smooth="yes" name="iv01"/>
+      <point x="200" y="339.055"/>
+      <point x="238.52" y="400"/>
+      <point x="300.96" y="400" type="curve" smooth="yes" name="sv01"/>
+      <point x="332.38" y="400"/>
+      <point x="348.76" y="380.754"/>
+      <point x="350.86" y="339.74" type="curve"/>
+      <point x="486.44" y="363.69" type="line"/>
+      <point x="489.74" y="475.15"/>
+      <point x="419.34" y="520"/>
+      <point x="346.6" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="280.06" y="520"/>
+      <point x="228.398" y="482.47"/>
+      <point x="200" y="422.22" type="curve"/>
+      <point x="200" y="500" type="line" name="av01"/>
+      <point x="55" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

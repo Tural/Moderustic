@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.numr" format="2">
+  <advance width="267"/>
+  <outline>
+    <component base="parenright" xScale="0.7065" yScale="0.7065" xOffset="-10" yOffset="259"/>
+  </outline>
+</glyph>

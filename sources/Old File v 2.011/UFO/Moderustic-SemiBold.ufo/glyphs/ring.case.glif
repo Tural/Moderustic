@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.case" format="2">
+  <advance width="270"/>
+  <anchor x="135" y="723" name="top"/>
+  <anchor x="135" y="500" name="_top"/>
+  <outline>
+    <component base="ringcomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ringcomb</string>
+  </dict>
+  </lib>
+</glyph>

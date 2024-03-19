@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocyr" format="2">
+  <advance width="795"/>
+  <unicode hex="041E"/>
+  <outline>
+    <component base="O" xOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

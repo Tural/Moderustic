@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="2">
+  <advance width="775"/>
+  <unicode hex="039F"/>
+  <anchor x="388" y="719" name="top"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <anchor x="2" y="500" name="topgr"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

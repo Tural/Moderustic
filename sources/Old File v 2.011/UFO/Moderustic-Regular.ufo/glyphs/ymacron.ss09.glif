@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ymacron.ss09" format="2">
+  <advance width="595"/>
+  <anchor x="548" y="-59" name="bottom"/>
+  <anchor x="298" y="660" name="top"/>
+  <outline>
+    <component base="y.ss09"/>
+    <component base="macroncomb" xOffset="118" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y.ss09+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="326"/>
+  <unicode hex="0130"/>
+  <anchor x="163" y="-20" name="bottom"/>
+  <anchor x="205" y="-3" name="ogonek"/>
+  <anchor x="1" y="500" name="topgr"/>
+  <anchor x="163" y="882" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccentcomb" xOffset="58" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+~dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

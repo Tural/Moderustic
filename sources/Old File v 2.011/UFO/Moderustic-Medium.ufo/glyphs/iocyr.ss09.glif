@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iocyr.ss09" format="2">
+  <advance width="587"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="401" y="-2" name="ogonek"/>
+  <anchor x="290" y="667" name="top"/>
+  <outline>
+    <component base="edieresis.ss09"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>edieresis.ss09</string>
+  </dict>
+  </lib>
+</glyph>

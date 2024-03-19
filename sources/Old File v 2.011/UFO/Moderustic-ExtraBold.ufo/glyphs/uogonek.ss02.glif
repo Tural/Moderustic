@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek.ss02" format="2">
+  <advance width="593"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="290" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="361" y="213" type="line"/>
+      <point x="345" y="283" type="line"/>
+      <point x="345" y="173.366"/>
+      <point x="318.895" y="110"/>
+      <point x="271.035" y="110" type="curve" smooth="yes"/>
+      <point x="235.14" y="110"/>
+      <point x="221" y="147.095"/>
+      <point x="221" y="248.355" type="curve" smooth="yes"/>
+      <point x="221" y="500" type="line"/>
+      <point x="31" y="500" type="line"/>
+      <point x="31" y="196" type="line" smooth="yes"/>
+      <point x="31" y="58"/>
+      <point x="94.925" y="-20"/>
+      <point x="200.093" y="-20" type="curve" smooth="yes"/>
+      <point x="282.578" y="-20"/>
+      <point x="337.224" y="29"/>
+      <point x="363" y="121" type="curve"/>
+    </contour>
+    <contour>
+      <point x="580" y="133" type="line"/>
+      <point x="574" y="126.953"/>
+      <point x="563.254" y="122"/>
+      <point x="552.156" y="122" type="curve" smooth="yes" name="dv02"/>
+      <point x="540.723" y="122"/>
+      <point x="535" y="143.033"/>
+      <point x="535" y="209.138" type="curve" smooth="yes"/>
+      <point x="535" y="500" type="line" name="ab01"/>
+      <point x="345" y="500" type="line"/>
+      <point x="345" y="132" type="line" smooth="yes"/>
+      <point x="345" y="26"/>
+      <point x="389.878" y="-20"/>
+      <point x="491.732" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="533.878" y="-20"/>
+      <point x="569" y="-12"/>
+      <point x="614" y="6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="599" y="-183" type="line"/>
+      <point x="556.672" y="-169"/>
+      <point x="536" y="-138"/>
+      <point x="536" y="-104" type="curve" smooth="yes"/>
+      <point x="536" y="-67"/>
+      <point x="559.619" y="-24"/>
+      <point x="598" y="0" type="curve"/>
+      <point x="538.709" y="3" type="line"/>
+      <point x="442.236" y="-14"/>
+      <point x="394" y="-53"/>
+      <point x="394" y="-105" type="curve" smooth="yes"/>
+      <point x="394" y="-158"/>
+      <point x="445.25" y="-196"/>
+      <point x="524.637" y="-206" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u.ss02+ogonekcomb</string>
+  </dict>
+  </lib>
+</glyph>

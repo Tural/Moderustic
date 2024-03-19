@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr" format="2">
+  <advance width="859"/>
+  <unicode hex="0448"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="779" y="500" type="line"/>
+      <point x="689" y="500" type="line"/>
+      <point x="689" y="80" type="line"/>
+      <point x="475" y="80" type="line"/>
+      <point x="475" y="500" type="line"/>
+      <point x="385" y="500" type="line"/>
+      <point x="385" y="80" type="line"/>
+      <point x="170" y="80" type="line"/>
+      <point x="170" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

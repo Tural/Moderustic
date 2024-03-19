@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="613"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="108" y="569" type="line"/>
+      <point x="535" y="569" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="75" y="700" type="line"/>
+      <point x="75" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="333" y="0" type="line" smooth="yes"/>
+      <point x="494" y="0"/>
+      <point x="584" y="95.118"/>
+      <point x="584" y="225.011" type="curve" smooth="yes"/>
+      <point x="584" y="355.927"/>
+      <point x="493" y="449"/>
+      <point x="332" y="449" type="curve" smooth="yes"/>
+      <point x="223" y="449" type="line"/>
+      <point x="223" y="700" type="line"/>
+      <point x="57" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="130" type="line"/>
+      <point x="223" y="318" type="line"/>
+      <point x="293" y="318" type="line" smooth="yes"/>
+      <point x="376" y="318"/>
+      <point x="418" y="298.989"/>
+      <point x="418" y="229.281" type="curve" smooth="yes"/>
+      <point x="418" y="158.517"/>
+      <point x="376" y="130"/>
+      <point x="293" y="130" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

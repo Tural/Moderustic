@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss10" format="2">
+  <advance width="780"/>
+  <anchor x="384" y="-19" name="bottom"/>
+  <anchor x="384" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="353" y="241" type="line"/>
+      <point x="607" y="241" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="727" y="371" type="line"/>
+      <point x="353" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="344" type="line"/>
+      <point x="553" y="339.982"/>
+      <point x="554" y="327.928"/>
+      <point x="554" y="310.852" type="curve" smooth="yes"/>
+      <point x="554" y="189.309"/>
+      <point x="493" y="120"/>
+      <point x="393" y="120" type="curve" smooth="yes"/>
+      <point x="283" y="120"/>
+      <point x="214" y="202.358"/>
+      <point x="214" y="351.004" type="curve" smooth="yes"/>
+      <point x="214" y="490.611"/>
+      <point x="274" y="580"/>
+      <point x="398" y="580" type="curve" smooth="yes"/>
+      <point x="487" y="580"/>
+      <point x="557" y="534.727"/>
+      <point x="634" y="414" type="curve"/>
+      <point x="679" y="578" type="line"/>
+      <point x="610" y="664"/>
+      <point x="500" y="720"/>
+      <point x="372" y="720" type="curve" smooth="yes"/>
+      <point x="156" y="720"/>
+      <point x="23" y="560"/>
+      <point x="23" y="354" type="curve" smooth="yes"/>
+      <point x="23" y="129.6"/>
+      <point x="163.8" y="-20"/>
+      <point x="375" y="-20" type="curve" smooth="yes"/>
+      <point x="523" y="-20"/>
+      <point x="612" y="61"/>
+      <point x="651" y="229" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

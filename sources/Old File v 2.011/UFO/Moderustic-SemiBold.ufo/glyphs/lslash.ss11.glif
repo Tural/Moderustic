@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.ss11" format="2">
+  <advance width="272"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line" name="av01"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="700" type="line" name="av02"/>
+      <point x="63" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="237" type="line"/>
+      <point x="259" y="409" type="line"/>
+      <point x="259" y="505" type="line"/>
+      <point x="13" y="333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="2">
+  <advance width="272"/>
+  <unicode hex="0129"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="190" y="-2" name="ogonek"/>
+  <anchor x="136" y="690" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tildecomb" xOffset="-86" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

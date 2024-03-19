@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.ss11" format="2">
+  <advance width="635"/>
+  <anchor x="318" y="-20" name="bottom"/>
+  <anchor x="136" y="950" name="top"/>
+  <outline>
+    <component base="h.ss11"/>
+    <component base="circumflexcomb" xOffset="-37" yOffset="250"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>h.ss11+circumflexcomb</string>
+  </dict>
+  </lib>
+</glyph>

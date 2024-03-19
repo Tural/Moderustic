@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ.ss07" format="2">
+  <advance width="1112"/>
+  <anchor x="994" y="719" name="top"/>
+  <anchor x="894" y="-71" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="J.ss07" xOffset="732"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N_J.ss07</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

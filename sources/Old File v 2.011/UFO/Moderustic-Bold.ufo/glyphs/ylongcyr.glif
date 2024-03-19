@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr" format="2">
+  <advance width="753"/>
+  <unicode hex="044B"/>
+  <anchor x="376" y="-20" name="bottom"/>
+  <anchor x="376" y="520" name="top"/>
+  <outline>
+    <component base="softcyr" xOffset="-2"/>
+    <component base="dotlessi" xOffset="493"/>
+  </outline>
+</glyph>

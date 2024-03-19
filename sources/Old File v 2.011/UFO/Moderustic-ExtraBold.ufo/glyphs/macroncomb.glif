@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+  <advance width="360"/>
+  <unicode hex="0304"/>
+  <anchor x="180" y="640" name="top"/>
+  <anchor x="180" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="20.5" y="584" type="line"/>
+      <point x="339.5" y="584" type="line"/>
+      <point x="339.5" y="652" type="line"/>
+      <point x="20.5" y="652" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>macron%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

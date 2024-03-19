@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecy" format="2">
+  <advance width="336"/>
+  <anchor x="168" y="500" name="_top"/>
+  <anchor x="168" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="701" type="line"/>
+      <point x="32.538" y="608.891"/>
+      <point x="86.165" y="552"/>
+      <point x="168.938" y="552" type="curve" smooth="yes"/>
+      <point x="250.545" y="552"/>
+      <point x="305.339" y="607.536"/>
+      <point x="314" y="701" type="curve"/>
+      <point x="253" y="701" type="line"/>
+      <point x="248.35" y="643.321"/>
+      <point x="216.527" y="606"/>
+      <point x="167.467" y="606" type="curve" smooth="yes"/>
+      <point x="119.733" y="606"/>
+      <point x="90.562" y="639.929"/>
+      <point x="86" y="701" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>brevecycomb</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  </dict>
+  </lib>
+</glyph>

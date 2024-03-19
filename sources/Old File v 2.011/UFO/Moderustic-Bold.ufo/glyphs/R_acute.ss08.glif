@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute.ss08" format="2">
+  <advance width="635"/>
+  <anchor x="323" y="-20" name="bottom"/>
+  <anchor x="339" y="919" name="top"/>
+  <outline>
+    <component base="R.ss08"/>
+    <component base="acutecomb" xOffset="197" yOffset="219"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R.ss08+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

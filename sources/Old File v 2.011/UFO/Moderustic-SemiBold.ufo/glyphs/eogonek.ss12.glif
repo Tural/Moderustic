@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek.ss12" format="2">
+  <advance width="585"/>
+  <anchor x="298" y="520" name="top"/>
+  <anchor x="298" y="-20" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="188" y="318" type="line"/>
+      <point x="188" y="368"/>
+      <point x="231" y="409"/>
+      <point x="296" y="409" type="curve" smooth="yes"/>
+      <point x="358" y="409"/>
+      <point x="399" y="369"/>
+      <point x="399" y="318" type="curve"/>
+    </contour>
+    <contour>
+      <point x="548" y="236" type="line"/>
+      <point x="548" y="416"/>
+      <point x="450" y="520"/>
+      <point x="298" y="520" type="curve" smooth="yes"/>
+      <point x="140" y="520"/>
+      <point x="38" y="410"/>
+      <point x="38" y="255" type="curve" smooth="yes"/>
+      <point x="38" y="93"/>
+      <point x="141" y="-20"/>
+      <point x="312" y="-20" type="curve" smooth="yes"/>
+      <point x="391" y="-20"/>
+      <point x="456" y="15"/>
+      <point x="519" y="91" type="curve"/>
+      <point x="512" y="174" type="line"/>
+      <point x="461" y="117"/>
+      <point x="407" y="90"/>
+      <point x="343" y="90" type="curve" smooth="yes"/>
+      <point x="244" y="90"/>
+      <point x="185" y="144"/>
+      <point x="185" y="236" type="curve"/>
+    </contour>
+    <contour>
+      <point x="408" y="-182" type="line"/>
+      <point x="365" y="-168"/>
+      <point x="344" y="-137"/>
+      <point x="344" y="-103" type="curve" smooth="yes"/>
+      <point x="344" y="-66"/>
+      <point x="368" y="-24"/>
+      <point x="407" y="0" type="curve"/>
+      <point x="374" y="3" type="line"/>
+      <point x="285" y="-13"/>
+      <point x="234" y="-55"/>
+      <point x="234" y="-108" type="curve" smooth="yes"/>
+      <point x="234" y="-158"/>
+      <point x="278" y="-195"/>
+      <point x="351" y="-205" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss12+ogonekcomb</string>
+  </dict>
+  </lib>
+</glyph>

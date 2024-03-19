@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="2">
+  <advance width="601"/>
+  <unicode hex="03B7"/>
+  <anchor x="290" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="199" y="384" type="line" smooth="yes"/>
+      <point x="199" y="482"/>
+      <point x="150" y="520"/>
+      <point x="13" y="520" type="curve"/>
+      <point x="13" y="430" type="line"/>
+      <point x="50" y="430"/>
+      <point x="79" y="416"/>
+      <point x="79" y="356" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="426" y="-200" type="line" name="ab01"/>
+      <point x="546" y="-200" type="line"/>
+      <point x="546" y="304" type="line" smooth="yes"/>
+      <point x="546" y="448"/>
+      <point x="494.551" y="520"/>
+      <point x="383.42" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="280.522" y="520"/>
+      <point x="211.58" y="459"/>
+      <point x="191" y="370" type="curve"/>
+      <point x="192" y="287" type="line"/>
+      <point x="199" y="217" type="line" name="iv01"/>
+      <point x="199" y="345.204"/>
+      <point x="247.12" y="430"/>
+      <point x="339.175" y="430" type="curve" smooth="yes" name="sv01"/>
+      <point x="404.032" y="430"/>
+      <point x="426" y="388.869"/>
+      <point x="426" y="279.522" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

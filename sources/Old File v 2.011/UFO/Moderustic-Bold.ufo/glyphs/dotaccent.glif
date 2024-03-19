@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="211"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="20.769" y="609.957" type="curve" smooth="yes"/>
+      <point x="20.769" y="572.618"/>
+      <point x="50.449" y="527.62"/>
+      <point x="106.936" y="527.62" type="curve" smooth="yes" name="dv01"/>
+      <point x="161.509" y="527.62"/>
+      <point x="190.231" y="568.789"/>
+      <point x="190.231" y="610.915" type="curve" smooth="yes"/>
+      <point x="190.231" y="652.084"/>
+      <point x="161.509" y="690.38"/>
+      <point x="107.894" y="690.38" type="curve" smooth="yes" name="dv02"/>
+      <point x="50.449" y="690.38"/>
+      <point x="20.769" y="647.297"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

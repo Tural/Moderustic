@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.ss11" format="2">
+  <advance width="625"/>
+  <outline>
+    <component base="d.ss11"/>
+    <component base="softhyphen" xScale="1.1019" xOffset="146" yOffset="339"/>
+  </outline>
+</glyph>

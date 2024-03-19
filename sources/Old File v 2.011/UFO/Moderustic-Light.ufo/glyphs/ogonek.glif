@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="209"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="174" y="-180" type="line"/>
+      <point x="130" y="-168"/>
+      <point x="107" y="-140"/>
+      <point x="107" y="-100" type="curve" smooth="yes"/>
+      <point x="107" y="-59"/>
+      <point x="132" y="-19"/>
+      <point x="173" y="3" type="curve"/>
+      <point x="155" y="6" type="line"/>
+      <point x="95" y="-9"/>
+      <point x="52" y="-56"/>
+      <point x="52" y="-105" type="curve" smooth="yes"/>
+      <point x="52" y="-151"/>
+      <point x="91" y="-193"/>
+      <point x="138" y="-203" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ogonekcomb</string>
+  </dict>
+  </lib>
+</glyph>

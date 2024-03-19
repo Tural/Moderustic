@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etilde.ss10" format="2">
+  <advance width="574"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="409" y="-3" name="ogonek"/>
+  <anchor x="289" y="690" name="top"/>
+  <outline>
+    <component base="e.ss10"/>
+    <component base="tildecomb" xOffset="67" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e.ss10+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

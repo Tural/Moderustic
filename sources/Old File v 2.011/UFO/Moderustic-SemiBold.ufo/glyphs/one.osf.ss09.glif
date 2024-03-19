@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf.ss09" format="2">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="213.5" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="548" type="line"/>
+      <point x="220" y="548" type="line"/>
+      <point x="220" y="463.4"/>
+      <point x="159.187" y="407"/>
+      <point x="49.5" y="407" type="curve"/>
+      <point x="49.5" y="287" type="line"/>
+      <point x="109.129" y="287"/>
+      <point x="213" y="327.389"/>
+      <point x="213" y="395" type="curve"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="120" type="line"/>
+      <point x="46" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.783,1</string>
+  </dict>
+  </lib>
+</glyph>

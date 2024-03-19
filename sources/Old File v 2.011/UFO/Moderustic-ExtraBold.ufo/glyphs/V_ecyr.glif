@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vecyr" format="2">
+  <advance width="634"/>
+  <unicode hex="0412"/>
+  <anchor x="308" y="719" name="top"/>
+  <anchor x="328" y="-20" name="bottom"/>
+  <outline>
+    <component base="B"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

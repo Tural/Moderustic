@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="2">
+  <advance width="854"/>
+  <unicode hex="1E83"/>
+  <anchor x="427" y="-20" name="bottom"/>
+  <anchor x="443" y="720" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="acutecomb" xOffset="300" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

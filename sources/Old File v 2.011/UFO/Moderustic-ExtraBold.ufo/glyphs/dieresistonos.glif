@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="333"/>
+  <unicode hex="0385"/>
+  <anchor x="166" y="688" name="topgr"/>
+  <anchor x="166" y="500" name="_topgr"/>
+  <outline>
+    <contour>
+      <point x="106" y="538" type="line"/>
+      <point x="186" y="538" type="line"/>
+      <point x="240" y="708" type="line"/>
+      <point x="140" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.41" y="550.507" type="curve" smooth="yes" name="dv01"/>
+      <point x="335.641" y="550.507"/>
+      <point x="358.318" y="581.43"/>
+      <point x="358.318" y="616.476" type="curve" smooth="yes"/>
+      <point x="358.318" y="651.522"/>
+      <point x="335.641" y="681.414"/>
+      <point x="294.41" y="681.414" type="curve" smooth="yes" name="dv02"/>
+      <point x="251.118" y="681.414"/>
+      <point x="228.441" y="646.368"/>
+      <point x="228.441" y="616.476" type="curve" smooth="yes"/>
+      <point x="228.441" y="586.584"/>
+      <point x="251.118" y="550.507"/>
+    </contour>
+    <contour>
+      <point x="41.651" y="550.507" type="curve" smooth="yes" name="dv01"/>
+      <point x="82.882" y="550.507"/>
+      <point x="105.559" y="581.43"/>
+      <point x="105.559" y="616.476" type="curve" smooth="yes"/>
+      <point x="105.559" y="651.522"/>
+      <point x="82.882" y="681.414"/>
+      <point x="41.651" y="681.414" type="curve" smooth="yes" name="dv02"/>
+      <point x="-1.641" y="681.414"/>
+      <point x="-24.318" y="646.368"/>
+      <point x="-24.318" y="616.476" type="curve" smooth="yes"/>
+      <point x="-24.318" y="586.584"/>
+      <point x="-1.641" y="550.507"/>
+    </contour>
+  </outline>
+</glyph>

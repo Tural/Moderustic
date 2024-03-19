@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ishortcyr" format="2">
+  <advance width="609"/>
+  <unicode hex="0439"/>
+  <anchor x="305" y="-20" name="bottom"/>
+  <anchor x="305" y="700" name="top"/>
+  <outline>
+    <component base="icyr"/>
+    <component base="brevecycomb" xOffset="137" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>icyr+brevecycomb</string>
+  </dict>
+  </lib>
+</glyph>

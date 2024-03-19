@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhecyr" format="2">
+  <advance width="605"/>
+  <unicode hex="045F"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="279" y="-42"/>
+      <point x="277" y="-97"/>
+      <point x="268" y="-141" type="curve"/>
+      <point x="347" y="-141" type="line"/>
+      <point x="363" y="-88"/>
+      <point x="359" y="-52"/>
+      <point x="341" y="0" type="curve"/>
+      <point x="515" y="0" type="line"/>
+      <point x="515" y="500" type="line"/>
+      <point x="425" y="500" type="line"/>
+      <point x="425" y="71" type="line"/>
+      <point x="180" y="71" type="line"/>
+      <point x="180" y="500" type="line"/>
+      <point x="90" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

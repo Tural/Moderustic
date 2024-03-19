@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="680"/>
+  <unicode hex="03A0"/>
+  <anchor x="340" y="-20" name="bottom"/>
+  <anchor x="340" y="719" name="top"/>
+  <outline>
+    <component base="Pecyr"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Pecyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="2">
+  <advance width="395"/>
+  <unicode hex="0163"/>
+  <anchor x="175" y="630" name="top"/>
+  <anchor x="272" y="700" name="topright"/>
+  <anchor x="210" y="-218" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="352.72" y="108.75" type="line"/>
+      <point x="321.82" y="95.7"/>
+      <point x="299.26" y="90"/>
+      <point x="282" y="90" type="curve" smooth="yes" name="dv02"/>
+      <point x="249" y="90"/>
+      <point x="243" y="110.03"/>
+      <point x="243" y="175.12" type="curve" smooth="yes"/>
+      <point x="243" y="620" type="line" name="ab01"/>
+      <point x="98" y="620" type="line"/>
+      <point x="98" y="132" type="line" smooth="yes"/>
+      <point x="98" y="30"/>
+      <point x="143" y="-20"/>
+      <point x="254" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="299.58" y="-20"/>
+      <point x="327.49" y="-10.57"/>
+      <point x="379.93" y="6.99" type="curve"/>
+    </contour>
+    <contour>
+      <point x="11" y="390" type="line" name="dv03"/>
+      <point x="368" y="390" type="line"/>
+      <point x="368" y="500" type="line"/>
+      <point x="11" y="500" type="line" name="dv04"/>
+    </contour>
+    <contour>
+      <point x="93" y="-205" type="line"/>
+      <point x="117" y="-213"/>
+      <point x="151" y="-218"/>
+      <point x="190" y="-218" type="curve" smooth="yes"/>
+      <point x="285" y="-218"/>
+      <point x="334" y="-188"/>
+      <point x="334" y="-135" type="curve" smooth="yes"/>
+      <point x="334" y="-89"/>
+      <point x="298" y="-64"/>
+      <point x="236" y="-64" type="curve"/>
+      <point x="280.665" y="16.274" type="line"/>
+      <point x="194.665" y="16.274" type="line"/>
+      <point x="137" y="-96" type="line"/>
+      <point x="153" y="-94"/>
+      <point x="166" y="-92"/>
+      <point x="180" y="-92" type="curve" smooth="yes"/>
+      <point x="214" y="-92"/>
+      <point x="234" y="-105"/>
+      <point x="234" y="-132" type="curve" smooth="yes"/>
+      <point x="234" y="-158"/>
+      <point x="214" y="-172"/>
+      <point x="181" y="-172" type="curve" smooth="yes"/>
+      <point x="161" y="-172"/>
+      <point x="133" y="-167"/>
+      <point x="113" y="-161" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>t+cedillacomb</string>
+  </dict>
+  </lib>
+</glyph>

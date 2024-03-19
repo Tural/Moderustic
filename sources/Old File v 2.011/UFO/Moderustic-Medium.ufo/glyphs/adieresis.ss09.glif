@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis.ss09" format="2">
+  <advance width="541"/>
+  <anchor x="266" y="-20" name="bottom"/>
+  <anchor x="467" y="-2" name="ogonek"/>
+  <anchor x="271" y="667" name="top"/>
+  <outline>
+    <component base="a.ss09"/>
+    <component base="dieresiscomb" xOffset="67" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.ss09+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

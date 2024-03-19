@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyr" format="2">
+  <advance width="431"/>
+  <unicode hex="0453"/>
+  <anchor x="231" y="-20" name="bottom"/>
+  <anchor x="247" y="720" name="top"/>
+  <outline>
+    <component base="gecyr"/>
+    <component base="acutecomb" xOffset="107" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>gecyr+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

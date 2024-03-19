@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="2">
+  <advance width="360"/>
+  <anchor x="180" y="640" name="top"/>
+  <anchor x="180" y="500" name="_top"/>
+  <outline>
+    <component base="macroncomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

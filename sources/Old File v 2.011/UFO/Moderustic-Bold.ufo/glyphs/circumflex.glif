@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="346"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="17" y="550" type="line"/>
+      <point x="125" y="550" type="line"/>
+      <point x="174" y="638" type="line"/>
+      <point x="222" y="550" type="line"/>
+      <point x="330" y="550" type="line"/>
+      <point x="228" y="701" type="line"/>
+      <point x="119" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>circumflexcomb</string>
+  </dict>
+  </lib>
+</glyph>

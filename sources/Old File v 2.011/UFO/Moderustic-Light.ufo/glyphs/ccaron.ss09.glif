@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccaron.ss09" format="2">
+  <advance width="573"/>
+  <anchor x="307" y="-20" name="bottom"/>
+  <anchor x="287" y="722" name="top"/>
+  <outline>
+    <component base="c.ss09"/>
+    <component base="caroncomb" xOffset="114" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c.ss09+caroncomb</string>
+  </dict>
+  </lib>
+</glyph>

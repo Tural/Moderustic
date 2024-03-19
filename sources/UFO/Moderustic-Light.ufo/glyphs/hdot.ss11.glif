@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hdot.ss11" format="2">
-  <advance width="635"/>
-  <anchor x="318" y="-20" name="bottom"/>
-  <anchor x="136" y="913" name="top"/>
+  <advance width="606"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="126" y="913" name="top"/>
   <outline>
     <component base="h.ss11"/>
-    <component base="dotaccentcomb" xOffset="31" yOffset="250"/>
+    <component base="dotaccentcomb" xOffset="21" yOffset="250"/>
   </outline>
   <lib>
   <dict>

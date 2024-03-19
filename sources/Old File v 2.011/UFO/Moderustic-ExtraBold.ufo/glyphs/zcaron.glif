@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="2">
+  <advance width="473"/>
+  <unicode hex="017E"/>
+  <anchor x="236" y="-20" name="bottom"/>
+  <anchor x="246" y="722" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="caroncomb" xOffset="73" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>z+caroncomb</string>
+  </dict>
+  </lib>
+</glyph>

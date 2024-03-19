@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss06" format="2">
+  <advance width="775"/>
+  <anchor x="388" y="719" name="top"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="390" y="35" type="curve" smooth="yes" name="dv02"/>
+      <point x="221" y="35"/>
+      <point x="124" y="146"/>
+      <point x="124" y="350" type="curve" smooth="yes"/>
+      <point x="124" y="548"/>
+      <point x="220" y="665"/>
+      <point x="386" y="665" type="curve" smooth="yes" name="dv03"/>
+      <point x="558" y="665"/>
+      <point x="651" y="554"/>
+      <point x="651" y="350" type="curve" smooth="yes" name="dv05"/>
+      <point x="651" y="153"/>
+      <point x="550" y="35"/>
+    </contour>
+    <contour>
+      <point x="388" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="577" y="-20"/>
+      <point x="712" y="110"/>
+      <point x="712" y="350" type="curve" smooth="yes" name="dv06"/>
+      <point x="712" y="578"/>
+      <point x="590" y="720"/>
+      <point x="389" y="720" type="curve" smooth="yes" name="dv04"/>
+      <point x="194" y="720"/>
+      <point x="63" y="587"/>
+      <point x="63" y="350" type="curve" smooth="yes"/>
+      <point x="63" y="110"/>
+      <point x="198" y="-20"/>
+    </contour>
+    <contour>
+      <point x="260.518" y="58.075" type="line"/>
+      <point x="280.193" y="100.075"/>
+      <point x="317.497" y="162"/>
+      <point x="378.243" y="162" type="curve" smooth="yes"/>
+      <point x="438.49" y="162"/>
+      <point x="455.714" y="109.638"/>
+      <point x="475.048" y="50.862" type="curve" smooth="yes"/>
+      <point x="499.779" y="-24.322"/>
+      <point x="527.962" y="-110"/>
+      <point x="654.061" y="-110" type="curve"/>
+      <point x="654.061" y="-45" type="line"/>
+      <point x="583.426" y="-45"/>
+      <point x="561.623" y="12.75"/>
+      <point x="539.453" y="71.474" type="curve" smooth="yes"/>
+      <point x="516.52" y="132.216"/>
+      <point x="493.194" y="194"/>
+      <point x="415.029" y="194" type="curve" smooth="yes"/>
+      <point x="318.75" y="194"/>
+      <point x="276.167" y="109.075"/>
+      <point x="253.518" y="62.075" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

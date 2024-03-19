@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phi" format="2">
+  <advance width="712"/>
+  <unicode hex="03C6"/>
+  <anchor x="356" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="271.5" y="-200" type="line"/>
+      <point x="436.5" y="-200" type="line"/>
+      <point x="436.5" y="-20" type="line"/>
+      <point x="593.808" y="-12"/>
+      <point x="692" y="91"/>
+      <point x="692" y="250" type="curve" smooth="yes"/>
+      <point x="692" y="414"/>
+      <point x="589.122" y="520"/>
+      <point x="429.312" y="520" type="curve" smooth="yes"/>
+      <point x="327.433" y="520"/>
+      <point x="271.5" y="467"/>
+      <point x="271.5" y="366" type="curve" smooth="yes"/>
+      <point x="271.5" y="104" type="line"/>
+      <point x="215.174" y="111"/>
+      <point x="185" y="163"/>
+      <point x="185" y="254" type="curve" smooth="yes"/>
+      <point x="185" y="332"/>
+      <point x="204" y="368"/>
+      <point x="232" y="396" type="curve"/>
+      <point x="128" y="500" type="line"/>
+      <point x="61" y="447"/>
+      <point x="20" y="365"/>
+      <point x="20" y="251" type="curve" smooth="yes"/>
+      <point x="20" y="87"/>
+      <point x="125.209" y="-15"/>
+      <point x="271.5" y="-20" type="curve"/>
+    </contour>
+    <contour>
+      <point x="436.5" y="104" type="curve"/>
+      <point x="436.5" y="373" type="line" smooth="yes"/>
+      <point x="436.5" y="386"/>
+      <point x="436.5" y="396"/>
+      <point x="452.589" y="396" type="curve" smooth="yes"/>
+      <point x="489.794" y="396"/>
+      <point x="527" y="343"/>
+      <point x="527" y="252" type="curve" smooth="yes"/>
+      <point x="527" y="165"/>
+      <point x="489.794" y="104"/>
+    </contour>
+  </outline>
+</glyph>

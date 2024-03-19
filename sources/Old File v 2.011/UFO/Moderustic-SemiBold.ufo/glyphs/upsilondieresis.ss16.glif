@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresis.ss16" format="2">
+  <advance width="580"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="292" y="677" name="top"/>
+  <outline>
+    <component base="upsilon.ss16"/>
+    <component base="dieresiscomb" xOffset="88" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon.ss16+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>
