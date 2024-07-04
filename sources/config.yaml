@@ -1,11 +1,6 @@
 sources:
-  - Moderustic-Light.vfc
-  - Moderustic-Regular.vfc
-  - Moderustic-Medium.vfc
-  - Moderustic-SemiBold.vfc
-  - Moderustic-Bold.vfc
-  - Moderustic-ExBold.vfc
+  - Moderustic.glyphs
 axisOrder:
   - wght
-  - norm
 familyName: Moderustic
+buildOTF: False
