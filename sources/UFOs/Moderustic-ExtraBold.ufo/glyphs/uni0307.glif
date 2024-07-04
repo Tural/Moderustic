@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0307" format="2">
+  <advance width="0"/>
+  <unicode hex="0307"/>
+  <anchor x="105" y="500" name="_top"/>
+  <anchor x="105" y="697" name="top"/>
+  <outline>
+    <contour>
+      <point x="106.927" y="524.688" type="curve" smooth="yes"/>
+      <point x="168.753" y="524.688"/>
+      <point x="201.092" y="571.295"/>
+      <point x="200.5" y="617.902" type="curve" smooth="yes"/>
+      <point x="201.092" y="664.51"/>
+      <point x="168.753" y="707.312"/>
+      <point x="107.878" y="707.312" type="curve" smooth="yes"/>
+      <point x="43.198" y="707.312"/>
+      <point x="10.092" y="658.805"/>
+      <point x="10.5" y="616.951" type="curve" smooth="yes"/>
+      <point x="10.908" y="575.1"/>
+      <point x="43.199" y="524.688"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

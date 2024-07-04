@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eukrcyr.ss12" format="2">
+  <advance width="669"/>
+  <anchor x="365" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="369.188" y="-21.067" type="curve" smooth="yes"/>
+      <point x="484.171" y="-21.067"/>
+      <point x="580.473" y="33.731"/>
+      <point x="616" y="87.206" type="curve"/>
+      <point x="607.893" y="170.742" type="line"/>
+      <point x="532.166" y="110.376"/>
+      <point x="459.646" y="78.933"/>
+      <point x="378.188" y="78.933" type="curve" smooth="yes"/>
+      <point x="229.188" y="78.933"/>
+      <point x="173.188" y="182.328"/>
+      <point x="173.188" y="345.953" type="curve" smooth="yes"/>
+      <point x="173.188" y="513.594"/>
+      <point x="223.872" y="619.699"/>
+      <point x="372.872" y="619.699" type="curve" smooth="yes"/>
+      <point x="454.33" y="619.699"/>
+      <point x="532.166" y="587.855"/>
+      <point x="607.893" y="528.19" type="curve"/>
+      <point x="616" y="611.727" type="line"/>
+      <point x="580.473" y="665.201"/>
+      <point x="484.171" y="720"/>
+      <point x="369.188" y="720" type="curve" smooth="yes"/>
+      <point x="169.188" y="720"/>
+      <point x="53.188" y="572"/>
+      <point x="53.188" y="349" type="curve" smooth="yes"/>
+      <point x="53.188" y="126"/>
+      <point x="169.188" y="-21.067"/>
+    </contour>
+    <contour>
+      <point x="491.188" y="310" type="line"/>
+      <point x="491.188" y="410" type="line"/>
+      <point x="146.188" y="410" type="line"/>
+      <point x="146.188" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

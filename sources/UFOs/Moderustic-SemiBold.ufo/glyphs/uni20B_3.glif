@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20B3" format="2">
+  <advance width="718"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="526.5" y="0" type="line"/>
+      <point x="669.5" y="0" type="line"/>
+      <point x="442.5" y="700" type="line"/>
+      <point x="328.5" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="136" type="line"/>
+      <point x="705" y="136" type="line"/>
+      <point x="705" y="199" type="line"/>
+      <point x="13" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="48.5" y="0" type="line"/>
+      <point x="191.5" y="0" type="line"/>
+      <point x="389.5" y="700" type="line"/>
+      <point x="275.5" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="275" type="line"/>
+      <point x="705" y="275" type="line"/>
+      <point x="705" y="338" type="line"/>
+      <point x="13" y="338" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat.ss02" format="2">
+  <advance width="625"/>
+  <outline>
+    <contour>
+      <point x="249" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="366" y="-20"/>
+      <point x="429" y="89"/>
+      <point x="429" y="255" type="curve" smooth="yes"/>
+      <point x="429" y="423"/>
+      <point x="361" y="520"/>
+      <point x="243" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="104" y="520"/>
+      <point x="30" y="411"/>
+      <point x="30" y="255" type="curve" smooth="yes"/>
+      <point x="30" y="99"/>
+      <point x="113" y="-20"/>
+    </contour>
+    <contour>
+      <point x="285.498" y="90" type="curve" smooth="yes" name="dv02"/>
+      <point x="218.195" y="90"/>
+      <point x="175" y="154.201"/>
+      <point x="175" y="255.517" type="curve" smooth="yes"/>
+      <point x="175" y="352.821"/>
+      <point x="216.186" y="410"/>
+      <point x="286.502" y="410" type="curve" smooth="yes" name="sv01"/>
+      <point x="353.805" y="410"/>
+      <point x="397" y="348.809"/>
+      <point x="397" y="256.52" type="curve" smooth="yes"/>
+      <point x="397" y="153.197"/>
+      <point x="354.81" y="90"/>
+    </contour>
+    <contour>
+      <point x="525.267" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="559.8" y="-20"/>
+      <point x="582" y="-12"/>
+      <point x="627" y="3" type="curve"/>
+      <point x="600" y="104" type="line"/>
+      <point x="590.211" y="96.282"/>
+      <point x="573.021" y="90"/>
+      <point x="558.621" y="90" type="curve" smooth="yes" name="dv02"/>
+      <point x="544.712" y="90"/>
+      <point x="542" y="110.03"/>
+      <point x="542" y="175.129" type="curve" smooth="yes"/>
+      <point x="542" y="318.541" type="line" name="ab01"/>
+      <point x="397" y="318.541" type="line"/>
+      <point x="397" y="132" type="line" smooth="yes"/>
+      <point x="397" y="30"/>
+      <point x="434" y="-20"/>
+    </contour>
+    <contour>
+      <point x="397" y="110" type="line" name="ab02"/>
+      <point x="542" y="110" type="line"/>
+      <point x="542" y="750" type="line" name="ab01"/>
+      <point x="397" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="206.455" y="631" type="line"/>
+      <point x="617.447" y="631" type="line"/>
+      <point x="617.447" y="665" type="line"/>
+      <point x="206.455" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

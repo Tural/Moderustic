@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ushortcyr.ss09" format="2">
+  <advance width="595"/>
+  <anchor x="548" y="-59" name="bottom"/>
+  <anchor x="298" y="700" name="top"/>
+  <outline>
+    <component base="ucyr.ss09" identifier="7250A981"/>
+    <component base="brevecycomb" xOffset="130" yOffset="20" identifier="7BE176D2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7250A981</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7BE176D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

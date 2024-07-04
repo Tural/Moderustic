@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ugrave" format="2">
+  <advance width="580"/>
+  <unicode hex="00F9"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="387" y="-3" name="ogonek"/>
+  <anchor x="260" y="720" name="top"/>
+  <outline>
+    <component base="u" identifier="15A8483E"/>
+    <component base="gravecomb" xOffset="112" yOffset="20" identifier="D9C259CC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>15A8483E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D9C259CC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

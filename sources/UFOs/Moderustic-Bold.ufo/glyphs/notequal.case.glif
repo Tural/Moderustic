@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.case" format="2">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="135" y="184" type="line"/>
+      <point x="183" y="184" type="line"/>
+      <point x="230" y="280" type="line"/>
+      <point x="469" y="280" type="line"/>
+      <point x="469" y="300" type="line"/>
+      <point x="239" y="300" type="line"/>
+      <point x="341" y="510" type="line"/>
+      <point x="469" y="510" type="line"/>
+      <point x="469" y="530" type="line"/>
+      <point x="351" y="530" type="line"/>
+      <point x="388" y="606" type="line"/>
+      <point x="340" y="606" type="line"/>
+      <point x="303" y="530" type="line"/>
+      <point x="55" y="530" type="line"/>
+      <point x="55" y="510" type="line"/>
+      <point x="293" y="510" type="line"/>
+      <point x="191" y="300" type="line"/>
+      <point x="55" y="300" type="line"/>
+      <point x="55" y="280" type="line"/>
+      <point x="182" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

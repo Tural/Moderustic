@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde.ss02" format="2">
+  <advance width="551"/>
+  <anchor x="251" y="-20" name="bottom"/>
+  <anchor x="557" y="-3" name="ogonek"/>
+  <anchor x="261" y="695" name="top"/>
+  <outline>
+    <component base="a.ss02" identifier="62843F7F"/>
+    <component base="tildecomb" xOffset="39" yOffset="20" identifier="01C56572"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>01C56572</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>62843F7F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

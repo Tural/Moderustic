@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="606"/>
+  <unicode hex="0105"/>
+  <anchor x="294" y="-20" name="bottom"/>
+  <anchor x="300" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="235" y="-20" type="curve" smooth="yes"/>
+      <point x="359" y="-20"/>
+      <point x="433" y="90"/>
+      <point x="433" y="257" type="curve" smooth="yes"/>
+      <point x="433" y="421"/>
+      <point x="361" y="520"/>
+      <point x="232" y="520" type="curve" smooth="yes"/>
+      <point x="97" y="520"/>
+      <point x="20" y="411"/>
+      <point x="20" y="259" type="curve" smooth="yes"/>
+      <point x="20" y="99"/>
+      <point x="106" y="-20"/>
+    </contour>
+    <contour>
+      <point x="492" y="-206" type="curve"/>
+      <point x="556" y="-183" type="line"/>
+      <point x="513" y="-169"/>
+      <point x="492" y="-138"/>
+      <point x="492" y="-104" type="curve" smooth="yes"/>
+      <point x="492" y="-67"/>
+      <point x="516" y="-24"/>
+      <point x="555" y="0" type="curve"/>
+      <point x="516" y="3" type="line"/>
+      <point x="420" y="-14"/>
+      <point x="372" y="-53"/>
+      <point x="372" y="-106" type="curve" smooth="yes"/>
+      <point x="372" y="-158"/>
+      <point x="418" y="-196"/>
+    </contour>
+    <contour>
+      <point x="294.517" y="106" type="curve" smooth="yes"/>
+      <point x="231.218" y="106"/>
+      <point x="185" y="168"/>
+      <point x="185" y="256" type="curve" smooth="yes"/>
+      <point x="185" y="341"/>
+      <point x="227.199" y="393"/>
+      <point x="290.498" y="393" type="curve" smooth="yes"/>
+      <point x="355.806" y="393"/>
+      <point x="397" y="337"/>
+      <point x="397" y="251" type="curve" smooth="yes"/>
+      <point x="397" y="166"/>
+      <point x="356.81" y="106"/>
+    </contour>
+    <contour>
+      <point x="397" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="500" type="line"/>
+      <point x="397" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

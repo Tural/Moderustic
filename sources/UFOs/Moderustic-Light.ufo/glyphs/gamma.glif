@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma" format="2">
+  <advance width="543"/>
+  <unicode hex="03B3"/>
+  <anchor x="272" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="241" y="-200" type="line"/>
+      <point x="301" y="-200" type="line"/>
+      <point x="301" y="60" type="line"/>
+      <point x="296" y="-29" type="line"/>
+      <point x="498" y="500" type="line"/>
+      <point x="433" y="500" type="line"/>
+      <point x="267" y="40" type="line"/>
+      <point x="275" y="42" type="line"/>
+      <point x="110" y="500" type="line"/>
+      <point x="45" y="500" type="line"/>
+      <point x="246" y="-29" type="line"/>
+      <point x="241" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

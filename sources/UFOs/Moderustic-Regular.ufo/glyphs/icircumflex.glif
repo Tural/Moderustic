@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="272"/>
+  <unicode hex="00EE"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="178" y="-3" name="ogonek"/>
+  <anchor x="136" y="720" name="top"/>
+  <outline>
+    <component base="dotlessi" identifier="36F96985"/>
+    <component base="uni0302" xOffset="-37" yOffset="20" identifier="4EF214AF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>36F96985</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4EF214AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent.ss14" format="2">
+  <advance width="765"/>
+  <anchor x="378" y="-19" name="bottom"/>
+  <anchor x="378" y="905" name="top"/>
+  <outline>
+    <component base="G.ss14" identifier="3885AC8E"/>
+    <component base="uni0307" xOffset="273" yOffset="219" identifier="CE5AE6D7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3885AC8E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CE5AE6D7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gecyr.loclBGR" format="2">
+  <advance width="487"/>
+  <anchor x="243" y="-20" name="bottom"/>
+  <anchor x="243" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="243" y="-20" type="curve" smooth="yes"/>
+      <point x="333" y="-20"/>
+      <point x="406" y="13"/>
+      <point x="453" y="67" type="curve"/>
+      <point x="375" y="145" type="line"/>
+      <point x="345" y="110.37"/>
+      <point x="300" y="90"/>
+      <point x="253" y="90" type="curve" smooth="yes"/>
+      <point x="207" y="90"/>
+      <point x="176" y="109.044"/>
+      <point x="176" y="144.126" type="curve" smooth="yes"/>
+      <point x="176" y="173.193"/>
+      <point x="195.933" y="185.484"/>
+      <point x="254" y="200.256" type="curve" smooth="yes"/>
+      <point x="392.933" y="235.601"/>
+      <point x="444" y="288.462"/>
+      <point x="444" y="363.636" type="curve" smooth="yes"/>
+      <point x="444" y="453.846"/>
+      <point x="370" y="520"/>
+      <point x="251" y="520" type="curve" smooth="yes"/>
+      <point x="167" y="520"/>
+      <point x="94" y="487"/>
+      <point x="47" y="433" type="curve"/>
+      <point x="125" y="355" type="line"/>
+      <point x="155" y="389.63"/>
+      <point x="200" y="410"/>
+      <point x="239" y="410" type="curve" smooth="yes"/>
+      <point x="279" y="410"/>
+      <point x="299" y="388.951"/>
+      <point x="299" y="359.883" type="curve" smooth="yes"/>
+      <point x="299" y="330.816"/>
+      <point x="278.967" y="317.905"/>
+      <point x="210" y="298.741" type="curve" smooth="yes"/>
+      <point x="76.967" y="261.775"/>
+      <point x="31" y="222.564"/>
+      <point x="31" y="148.392" type="curve" smooth="yes"/>
+      <point x="31" y="42.145"/>
+      <point x="120" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

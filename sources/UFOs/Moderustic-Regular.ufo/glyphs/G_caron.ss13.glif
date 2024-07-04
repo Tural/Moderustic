@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcaron.ss13" format="2">
+  <advance width="763"/>
+  <anchor x="382" y="-19" name="bottom"/>
+  <anchor x="382" y="921" name="top"/>
+  <outline>
+    <component base="G.ss13" identifier="81973F9F"/>
+    <component base="uni030C" xOffset="209" yOffset="219" identifier="2E2DE638"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E2DE638</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>81973F9F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

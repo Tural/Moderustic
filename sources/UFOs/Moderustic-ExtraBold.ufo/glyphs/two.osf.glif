@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.osf" format="2">
+  <advance width="632"/>
+  <outline>
+    <contour>
+      <point x="47" y="175" type="curve"/>
+      <point x="47" y="75" type="line"/>
+      <point x="393.009" y="125.499"/>
+      <point x="562" y="183.371"/>
+      <point x="562" y="359.953" type="curve" smooth="yes"/>
+      <point x="562" y="490.532"/>
+      <point x="469.589" y="571"/>
+      <point x="300.168" y="571" type="curve" smooth="yes"/>
+      <point x="164.439" y="571"/>
+      <point x="83.579" y="512"/>
+      <point x="47" y="475" type="curve"/>
+      <point x="155" y="367" type="line"/>
+      <point x="180.637" y="401"/>
+      <point x="219.093" y="431"/>
+      <point x="276.776" y="431" type="curve" smooth="yes"/>
+      <point x="341.785" y="431"/>
+      <point x="372" y="397.134"/>
+      <point x="372" y="340.948" type="curve" smooth="yes"/>
+      <point x="372" y="280.144"/>
+      <point x="335.261" y="208.575"/>
+    </contour>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="582" y="135" type="line"/>
+      <point x="47" y="135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

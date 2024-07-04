@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi.ss11" format="2">
+  <advance width="370"/>
+  <anchor x="185" y="-20" name="bottom"/>
+  <anchor x="348" y="-2" name="ogonek"/>
+  <anchor x="185" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="500" type="line"/>
+      <point x="113" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="110" type="line"/>
+      <point x="18" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="390" type="line"/>
+      <point x="353" y="390" type="line"/>
+      <point x="353" y="500" type="line"/>
+      <point x="18" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

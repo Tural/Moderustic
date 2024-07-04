@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.ss01" format="2">
+  <advance width="606"/>
+  <anchor x="293" y="-20" name="bottom"/>
+  <anchor x="594" y="-3" name="ogonek"/>
+  <anchor x="294" y="743" name="top"/>
+  <outline>
+    <component base="a.ss01" identifier="4A37873D"/>
+    <component base="uni030A" xOffset="159" yOffset="20" identifier="BB4EB4AB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4A37873D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BB4EB4AB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecaron.ss10" format="2">
+  <advance width="574"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="407" y="-2" name="ogonek"/>
+  <anchor x="289" y="722" name="top"/>
+  <outline>
+    <component base="e.ss10" identifier="6D809DD2"/>
+    <component base="uni030C" xOffset="116" yOffset="20" identifier="BBB27AD1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6D809DD2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBB27AD1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

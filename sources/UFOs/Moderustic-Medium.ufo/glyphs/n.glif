@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="606"/>
+  <unicode hex="006E"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="308" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="431" y="291.355" type="curve" smooth="yes"/>
+      <point x="431" y="0" type="line" name="ab01"/>
+      <point x="551" y="0" type="line"/>
+      <point x="551" y="314" type="line" smooth="yes"/>
+      <point x="551" y="458"/>
+      <point x="480.148" y="520"/>
+      <point x="370.168" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="271.821" y="520"/>
+      <point x="190.394" y="452"/>
+      <point x="176" y="355" type="curve"/>
+      <point x="177" y="280" type="line"/>
+      <point x="184" y="217" type="line" name="iv01"/>
+      <point x="184" y="345.204"/>
+      <point x="236.229" y="430"/>
+      <point x="331.982" y="430" type="curve" smooth="yes" name="sv01"/>
+      <point x="396.181" y="430"/>
+      <point x="431" y="399.86"/>
+    </contour>
+    <contour>
+      <point x="64" y="0" type="line" name="ab02"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="500" type="line" name="av01"/>
+      <point x="64" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcircumflex.ss12" format="2">
+  <advance width="606"/>
+  <anchor x="298" y="-220" name="bottom"/>
+  <anchor x="307" y="720" name="top"/>
+  <outline>
+    <component base="g.ss12" identifier="2EF289C7"/>
+    <component base="uni0302" xOffset="134" yOffset="20" identifier="EB5CE46A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2EF289C7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EB5CE46A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacron" format="2">
+  <advance width="580"/>
+  <unicode hex="016B"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="398" y="-3" name="ogonek"/>
+  <anchor x="290" y="660" name="top"/>
+  <outline>
+    <component base="u" identifier="E3460DC4"/>
+    <component base="uni0304" xOffset="110" yOffset="20" identifier="61EB5E36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>61EB5E36</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E3460DC4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

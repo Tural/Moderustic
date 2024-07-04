@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="530"/>
+  <unicode hex="00C9"/>
+  <anchor x="260" y="-20" name="bottom"/>
+  <anchor x="472" y="-2" name="ogonek"/>
+  <anchor x="281" y="919" name="top"/>
+  <anchor x="-28" y="500" name="topgr"/>
+  <outline>
+    <component base="E" identifier="5A88A7D5"/>
+    <component base="acutecomb" xOffset="141" yOffset="219" identifier="C65D4B33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A88A7D5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C65D4B33</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

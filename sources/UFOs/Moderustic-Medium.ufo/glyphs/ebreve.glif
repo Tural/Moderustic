@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ebreve" format="2">
+  <advance width="570"/>
+  <unicode hex="0115"/>
+  <anchor x="271" y="-20" name="bottom"/>
+  <anchor x="393" y="-2" name="ogonek"/>
+  <anchor x="271" y="700" name="top"/>
+  <outline>
+    <component base="e" identifier="51B2CEA4"/>
+    <component base="uni0306" xOffset="103" yOffset="20" identifier="8CFFF431"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>51B2CEA4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8CFFF431</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

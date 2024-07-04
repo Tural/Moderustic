@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="775"/>
+  <unicode hex="014C"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <anchor x="388" y="859" name="top"/>
+  <anchor x="2" y="500" name="topgr"/>
+  <outline>
+    <component base="O" identifier="D76DF548"/>
+    <component base="uni0304" xOffset="208" yOffset="219" identifier="BA18E735"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BA18E735</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D76DF548</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

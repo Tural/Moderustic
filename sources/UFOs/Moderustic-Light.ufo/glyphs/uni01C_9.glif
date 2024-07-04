@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C9" format="2">
+  <advance width="590"/>
+  <unicode hex="01C9"/>
+  <anchor x="400" y="-217" name="bottom"/>
+  <anchor x="467" y="683" name="top"/>
+  <anchor x="210" y="750" name="topright"/>
+  <outline>
+    <component base="l" identifier="571E23EF"/>
+    <component base="j" xOffset="300" identifier="FDFC799B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>571E23EF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FDFC799B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scircumflex.ss10" format="2">
+  <advance width="502"/>
+  <anchor x="255" y="-20" name="bottom"/>
+  <anchor x="240" y="720" name="top"/>
+  <outline>
+    <component base="s.ss10" identifier="46EB1022"/>
+    <component base="uni0302" xOffset="67" yOffset="20" identifier="65BA731C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>46EB1022</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>65BA731C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

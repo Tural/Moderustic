@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0400" format="2">
+  <advance width="530"/>
+  <unicode hex="0400"/>
+  <anchor x="265" y="-20" name="bottom"/>
+  <anchor x="465" y="-3" name="ogonek"/>
+  <anchor x="235" y="919" name="top"/>
+  <anchor x="-22" y="500" name="topgr"/>
+  <outline>
+    <component base="uni0415" identifier="EDC7CF89"/>
+    <component base="gravecomb" xOffset="87" yOffset="219" identifier="3B51F5C4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3B51F5C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EDC7CF89</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

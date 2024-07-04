@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EF8" format="2">
+  <advance width="662"/>
+  <unicode hex="1EF8"/>
+  <anchor x="331" y="-20" name="bottom"/>
+  <anchor x="331" y="889" name="top"/>
+  <anchor x="-75" y="500" name="topgr"/>
+  <outline>
+    <component base="Y" identifier="5E742D44"/>
+    <component base="tildecomb" xOffset="109" yOffset="219" identifier="C98F5366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5E742D44</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C98F5366</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

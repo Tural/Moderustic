@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute.loclPLK" format="2">
+  <advance width="578"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="391" y="-3" name="ogonek"/>
+  <anchor x="305" y="720" name="top"/>
+  <anchor x="289" y="520" name="topgr"/>
+  <outline>
+    <component base="o" identifier="08D8E207"/>
+    <component base="acutecomb.loclPLK" xOffset="165" yOffset="20" identifier="5D9AFEC6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>08D8E207</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5D9AFEC6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

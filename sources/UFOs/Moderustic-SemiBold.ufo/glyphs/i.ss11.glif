@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.ss11" format="2">
+  <advance width="370"/>
+  <anchor x="185" y="-20" name="bottom"/>
+  <anchor x="348" y="-2" name="ogonek"/>
+  <anchor x="185" y="703" name="top"/>
+  <outline>
+    <component base="dotlessi.ss11" identifier="42969735"/>
+    <component base="uni0307" xOffset="80" yOffset="20" identifier="F53A708D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>42969735</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F53A708D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

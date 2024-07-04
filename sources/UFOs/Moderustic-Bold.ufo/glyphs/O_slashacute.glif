@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance width="795"/>
+  <unicode hex="01FE"/>
+  <anchor x="398" y="-20" name="bottom"/>
+  <anchor x="522" y="-1" name="ogonek"/>
+  <anchor x="414" y="919" name="top"/>
+  <outline>
+    <component base="Oslash" identifier="97560280"/>
+    <component base="acutecomb" xOffset="272" yOffset="219" identifier="5DF92BDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5DF92BDA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>97560280</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

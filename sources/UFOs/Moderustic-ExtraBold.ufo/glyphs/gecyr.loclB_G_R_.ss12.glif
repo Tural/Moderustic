@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gecyr.loclBGR.ss12" format="2">
+  <advance width="490"/>
+  <anchor x="255" y="-20" name="bottom"/>
+  <anchor x="235" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="240" y="-20" type="curve" smooth="yes"/>
+      <point x="332" y="-20"/>
+      <point x="396" y="8"/>
+      <point x="464" y="80" type="curve"/>
+      <point x="453" y="196" type="line"/>
+      <point x="402.177" y="139.341"/>
+      <point x="339.156" y="110"/>
+      <point x="257.43" y="110" type="curve" smooth="yes"/>
+      <point x="217.181" y="110"/>
+      <point x="206" y="127.117"/>
+      <point x="206" y="145.796" type="curve" smooth="yes"/>
+      <point x="206" y="167.727"/>
+      <point x="240.743" y="175.81"/>
+      <point x="284.73" y="186.045" type="curve" smooth="yes"/>
+      <point x="360.61" y="203.701"/>
+      <point x="464" y="227.757"/>
+      <point x="464" y="340.337" type="curve" smooth="yes"/>
+      <point x="464" y="455"/>
+      <point x="381" y="520"/>
+      <point x="250" y="520" type="curve" smooth="yes"/>
+      <point x="158" y="520"/>
+      <point x="85" y="488"/>
+      <point x="37" y="431" type="curve"/>
+      <point x="48" y="315" type="line"/>
+      <point x="115.168" y="367.703"/>
+      <point x="163" y="390"/>
+      <point x="223.749" y="390" type="curve" smooth="yes"/>
+      <point x="264.77" y="390"/>
+      <point x="278" y="379.833"/>
+      <point x="278" y="359.318" type="curve" smooth="yes"/>
+      <point x="278" y="335.076"/>
+      <point x="241.971" y="326.627"/>
+      <point x="196.841" y="316.043" type="curve" smooth="yes"/>
+      <point x="121.203" y="298.306"/>
+      <point x="20" y="274.572"/>
+      <point x="20" y="160.444" type="curve" smooth="yes"/>
+      <point x="20" y="45"/>
+      <point x="101" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

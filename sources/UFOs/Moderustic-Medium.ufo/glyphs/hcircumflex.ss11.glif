@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex.ss11" format="2">
+  <advance width="606"/>
+  <anchor x="308" y="-20" name="bottom"/>
+  <anchor x="134" y="950" name="top"/>
+  <outline>
+    <component base="h.ss11" identifier="AD32F241"/>
+    <component base="uni0302" xOffset="-39" yOffset="250" identifier="CA1756EE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AD32F241</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CA1756EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

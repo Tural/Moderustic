@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="326"/>
+  <unicode hex="012C"/>
+  <anchor x="163" y="-20" name="bottom"/>
+  <anchor x="205" y="-3" name="ogonek"/>
+  <anchor x="163" y="899" name="top"/>
+  <anchor x="1" y="500" name="topgr"/>
+  <outline>
+    <component base="I" identifier="2BB0E06A"/>
+    <component base="uni0306" xOffset="-5" yOffset="219" identifier="ACC347F7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2BB0E06A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ACC347F7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

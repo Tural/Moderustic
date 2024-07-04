@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.ss11" format="2">
+  <advance width="484"/>
+  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="136" y="750" name="top"/>
+  <anchor x="222" y="700" name="topright"/>
+  <outline>
+    <component base="l.ss11" identifier="84D21D33"/>
+    <component base="periodcentered" xOffset="225.483" identifier="F6B3A3B6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>84D21D33</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F6B3A3B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

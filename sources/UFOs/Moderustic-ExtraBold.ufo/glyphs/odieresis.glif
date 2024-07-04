@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odieresis" format="2">
+  <advance width="578"/>
+  <unicode hex="00F6"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="401" y="-3" name="ogonek"/>
+  <anchor x="289" y="707" name="top"/>
+  <anchor x="289" y="520" name="topgr"/>
+  <outline>
+    <component base="o" identifier="BF5FCE3E"/>
+    <component base="uni0308" xOffset="85" yOffset="20" identifier="C16262CA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BF5FCE3E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C16262CA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

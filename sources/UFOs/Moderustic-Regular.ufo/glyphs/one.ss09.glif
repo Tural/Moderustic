@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.ss09" format="2">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="232" y="581" type="curve"/>
+      <point x="232" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="700" type="line"/>
+      <point x="238" y="700" type="line"/>
+      <point x="238" y="616"/>
+      <point x="169.596" y="560"/>
+      <point x="59" y="560" type="curve"/>
+      <point x="59" y="480" type="line"/>
+      <point x="166.004" y="480"/>
+      <point x="232" y="520.4"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="474" y="80" type="line"/>
+      <point x="50" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

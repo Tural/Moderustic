@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicrontonos" format="2">
+  <advance width="578"/>
+  <unicode hex="03CC"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="392" y="-3" name="ogonek"/>
+  <anchor x="289" y="520" name="top"/>
+  <anchor x="310" y="719" name="topgr"/>
+  <outline>
+    <component base="omicron" identifier="83F43E45"/>
+    <component base="tonos" xOffset="231" yOffset="20" identifier="1807BBB7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1807BBB7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>83F43E45</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

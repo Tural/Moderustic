@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ.ss09" format="2">
+  <advance width="910"/>
+  <anchor x="600" y="-20" name="bottom"/>
+  <anchor x="217" y="-2" name="ogonek"/>
+  <anchor x="779" y="719" name="top"/>
+  <anchor x="-13" y="500" name="topgr"/>
+  <outline>
+    <component base="I" identifier="4EC54996"/>
+    <component base="J.ss09" xOffset="326" identifier="0F3B1C04"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0F3B1C04</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4EC54996</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

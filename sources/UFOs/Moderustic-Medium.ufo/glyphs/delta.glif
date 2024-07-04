@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="delta" format="2">
+  <advance width="578"/>
+  <unicode hex="03B4"/>
+  <anchor x="289" y="721" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="290" y="-20" type="curve" smooth="yes"/>
+      <point x="445" y="-20"/>
+      <point x="538" y="75"/>
+      <point x="538" y="226" type="curve" smooth="yes"/>
+      <point x="538" y="376"/>
+      <point x="446" y="467"/>
+      <point x="290" y="467" type="curve" smooth="yes"/>
+      <point x="129" y="467"/>
+      <point x="40" y="369"/>
+      <point x="40" y="226" type="curve" smooth="yes"/>
+      <point x="40" y="82"/>
+      <point x="130" y="-20"/>
+    </contour>
+    <contour>
+      <point x="287" y="70" type="curve" smooth="yes"/>
+      <point x="201" y="70"/>
+      <point x="160" y="123"/>
+      <point x="160" y="224" type="curve" smooth="yes"/>
+      <point x="160" y="326"/>
+      <point x="202" y="377"/>
+      <point x="284" y="377" type="curve" smooth="yes"/>
+      <point x="379" y="377"/>
+      <point x="418" y="307"/>
+      <point x="418" y="219" type="curve" smooth="yes"/>
+      <point x="418" y="129"/>
+      <point x="377" y="70"/>
+    </contour>
+    <contour>
+      <point x="288" y="438" type="curve"/>
+      <point x="371" y="457" type="line"/>
+      <point x="247" y="493.208"/>
+      <point x="222" y="528.416"/>
+      <point x="222" y="566.636" type="curve" smooth="yes"/>
+      <point x="222" y="604.856"/>
+      <point x="247" y="630"/>
+      <point x="293" y="630" type="curve" smooth="yes"/>
+      <point x="338" y="630"/>
+      <point x="382" y="604.561"/>
+      <point x="414" y="572" type="curve"/>
+      <point x="482" y="640" type="line"/>
+      <point x="438" y="683"/>
+      <point x="372" y="720"/>
+      <point x="287" y="720" type="curve" smooth="yes"/>
+      <point x="174" y="720"/>
+      <point x="102" y="655"/>
+      <point x="102" y="572" type="curve" smooth="yes"/>
+      <point x="102" y="489"/>
+      <point x="174" y="446"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

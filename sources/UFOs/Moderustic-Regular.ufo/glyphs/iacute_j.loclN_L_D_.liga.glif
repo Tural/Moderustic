@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD.liga" format="2">
+  <advance width="596"/>
+  <anchor x="298" y="0" name="caret_1"/>
+  <outline>
+    <component base="y.ss04" xOffset="10" identifier="3B4CC0EB"/>
+    <component base="acutecomb" xOffset="4.164" yOffset="20" identifier="6BF093CD"/>
+    <component base="acutecomb" xOffset="361.577" yOffset="20" identifier="6BAC8181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:43:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3B4CC0EB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6BAC8181</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6BF093CD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

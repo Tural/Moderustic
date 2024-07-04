@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g.ss09" format="2">
+  <advance width="558"/>
+  <anchor x="273" y="-220" name="bottom"/>
+  <anchor x="273" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="289.071" y="-220" type="curve" smooth="yes" name="dv01"/>
+      <point x="449.323" y="-220"/>
+      <point x="536" y="-166"/>
+      <point x="536" y="-60" type="curve" smooth="yes" name="sv08"/>
+      <point x="536" y="37"/>
+      <point x="463.284" y="84"/>
+      <point x="279.473" y="84" type="curve" smooth="yes" name="sv05"/>
+      <point x="175.448" y="84"/>
+      <point x="130" y="99"/>
+      <point x="130" y="136" type="curve" smooth="yes" name="sv06"/>
+      <point x="130" y="160"/>
+      <point x="148" y="176"/>
+      <point x="173" y="191" type="curve" name="sv10"/>
+      <point x="172" y="247" type="line" name="sv11"/>
+      <point x="74" y="221"/>
+      <point x="20" y="177"/>
+      <point x="20" y="104" type="curve" smooth="yes"/>
+      <point x="20" y="30"/>
+      <point x="74.581" y="-11"/>
+      <point x="250.452" y="-11" type="curve" smooth="yes" name="ab01"/>
+      <point x="357.591" y="-11"/>
+      <point x="396" y="-26"/>
+      <point x="396" y="-63" type="curve" smooth="yes" name="sv07"/>
+      <point x="396" y="-97"/>
+      <point x="362.416" y="-110"/>
+      <point x="290.159" y="-110" type="curve" smooth="yes" name="dv02"/>
+      <point x="201.619" y="-110"/>
+      <point x="171.088" y="-90"/>
+      <point x="166" y="-33" type="curve" name="sv04"/>
+      <point x="24" y="-33" type="line" name="sv12"/>
+      <point x="31.055" y="-166"/>
+      <point x="128.819" y="-220"/>
+    </contour>
+    <contour>
+      <point x="271.975" y="124" type="curve" smooth="yes" name="dv05"/>
+      <point x="413.161" y="124"/>
+      <point x="513" y="206"/>
+      <point x="513" y="322" type="curve" smooth="yes" name="sv14"/>
+      <point x="513" y="437"/>
+      <point x="414.169" y="520"/>
+      <point x="276.008" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="135.831" y="520"/>
+      <point x="37" y="435"/>
+      <point x="37" y="318" type="curve" smooth="yes"/>
+      <point x="37" y="202"/>
+      <point x="134.822" y="124"/>
+    </contour>
+    <contour>
+      <point x="272.956" y="234" type="curve" smooth="yes" name="dv06"/>
+      <point x="215.725" y="234"/>
+      <point x="182" y="262"/>
+      <point x="182" y="319" type="curve" smooth="yes" name="sv09"/>
+      <point x="182" y="376"/>
+      <point x="216.747" y="410"/>
+      <point x="275" y="410" type="curve" smooth="yes" name="sv01"/>
+      <point x="333.253" y="410"/>
+      <point x="368" y="377"/>
+      <point x="368" y="322" type="curve" smooth="yes" name="sv13"/>
+      <point x="368" y="268"/>
+      <point x="335.297" y="234"/>
+    </contour>
+    <contour>
+      <point x="372" y="435" type="curve" name="sv02"/>
+      <point x="399" y="432" type="line" name="sv03"/>
+      <point x="404" y="480"/>
+      <point x="438" y="515"/>
+      <point x="451" y="526" type="curve" name="at02"/>
+      <point x="449" y="497"/>
+      <point x="477" y="472"/>
+      <point x="511" y="472" type="curve" smooth="yes" name="dv03"/>
+      <point x="545" y="472"/>
+      <point x="567" y="496"/>
+      <point x="567" y="534" type="curve" smooth="yes"/>
+      <point x="567" y="578"/>
+      <point x="538" y="599"/>
+      <point x="502" y="599" type="curve" smooth="yes" name="dv04"/>
+      <point x="436" y="599"/>
+      <point x="382" y="531"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

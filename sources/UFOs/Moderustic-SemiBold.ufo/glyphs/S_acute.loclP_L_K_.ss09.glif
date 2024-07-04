@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacute.loclPLK.ss09" format="2">
+  <advance width="590"/>
+  <anchor x="295" y="-20" name="bottom"/>
+  <anchor x="296" y="919" name="top"/>
+  <outline>
+    <component base="S.ss09" identifier="92C9B224"/>
+    <component base="acutecomb.loclPLK" xOffset="157" yOffset="219" identifier="E0805FD3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>92C9B224</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E0805FD3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

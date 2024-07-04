@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elcyr.ss08" format="2">
+  <advance width="655"/>
+  <anchor x="327" y="720" name="bottom"/>
+  <anchor x="327" y="-19" name="top"/>
+  <outline>
+    <component base="V" xScale="-1" yScale="-1" xOffset="655" yOffset="700" identifier="1ABDF54E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1ABDF54E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

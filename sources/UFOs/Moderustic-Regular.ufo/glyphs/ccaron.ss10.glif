@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron.ss10" format="2">
+  <advance width="547"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="297" y="722" name="top"/>
+  <outline>
+    <component base="c.ss10" identifier="013D2947"/>
+    <component base="uni030C" xOffset="124" yOffset="20" identifier="1F9D9760"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>013D2947</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1F9D9760</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

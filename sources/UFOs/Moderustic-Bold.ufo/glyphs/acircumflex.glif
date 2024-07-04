@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex" format="2">
+  <advance width="606"/>
+  <unicode hex="00E2"/>
+  <anchor x="294" y="-20" name="bottom"/>
+  <anchor x="555" y="-3" name="ogonek"/>
+  <anchor x="300" y="720" name="top"/>
+  <outline>
+    <component base="a" identifier="6A6D0635"/>
+    <component base="uni0302" xOffset="127" yOffset="20" identifier="88474915"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6A6D0635</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>88474915</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

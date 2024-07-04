@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C9.ss11" format="2">
+  <advance width="562"/>
+  <anchor x="372" y="-217" name="bottom"/>
+  <anchor x="435" y="683" name="top"/>
+  <anchor x="222" y="700" name="topright"/>
+  <outline>
+    <component base="l.ss11" identifier="9892650B"/>
+    <component base="j" xOffset="272" identifier="D3EFF477"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9892650B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D3EFF477</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

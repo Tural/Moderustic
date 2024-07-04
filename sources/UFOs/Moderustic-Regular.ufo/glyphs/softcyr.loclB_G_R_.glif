@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softcyr.loclBGR" format="2">
+  <advance width="516"/>
+  <anchor x="258" y="-20" name="bottom"/>
+  <anchor x="258" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="286.597" y="-20" type="curve" smooth="yes"/>
+      <point x="415.524" y="-20"/>
+      <point x="486" y="51"/>
+      <point x="486" y="162.571" type="curve" smooth="yes"/>
+      <point x="486" y="270.762"/>
+      <point x="413.177" y="335"/>
+      <point x="291.806" y="335" type="curve" smooth="yes"/>
+      <point x="105" y="335" type="line"/>
+      <point x="105" y="265" type="line"/>
+      <point x="298.284" y="265" type="line" smooth="yes"/>
+      <point x="367.007" y="265"/>
+      <point x="396" y="224.224"/>
+      <point x="396" y="157.5" type="curve" smooth="yes"/>
+      <point x="396" y="93"/>
+      <point x="352.216" y="50"/>
+      <point x="286.54" y="50" type="curve" smooth="yes"/>
+      <point x="210.11" y="50"/>
+      <point x="170.583" y="81.185"/>
+      <point x="170.499" y="141.57" type="curve" smooth="yes"/>
+      <point x="170" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="80.499" y="148.48" type="line" smooth="yes"/>
+      <point x="80.655" y="38.449"/>
+      <point x="151.998" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>
