@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="775"/>
+  <unicode hex="014E"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="513" y="-1" name="ogonek"/>
+  <anchor x="388" y="899" name="top"/>
+  <anchor x="2" y="500" name="topgr"/>
+  <outline>
+    <component base="O" identifier="F4428BE4"/>
+    <component base="uni0306" xOffset="220" yOffset="219" identifier="6934F534"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6934F534</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F4428BE4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss10" format="2">
+  <advance width="558"/>
+  <anchor x="256" y="-20" name="bottom"/>
+  <anchor x="435" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="268.743" y="-20" type="curve" smooth="yes"/>
+      <point x="418.588" y="-20"/>
+      <point x="503.5" y="68"/>
+      <point x="503.5" y="231" type="curve" smooth="yes"/>
+      <point x="503.5" y="700" type="line"/>
+      <point x="358.5" y="700" type="line"/>
+      <point x="358.5" y="244.24" type="line" smooth="yes"/>
+      <point x="358.5" y="138.063"/>
+      <point x="337.465" y="100"/>
+      <point x="257.331" y="100" type="curve" smooth="yes"/>
+      <point x="169.183" y="100"/>
+      <point x="113.089" y="147.305"/>
+      <point x="60" y="255" type="curve"/>
+      <point x="21" y="117" type="line"/>
+      <point x="77.941" y="31"/>
+      <point x="153.862" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

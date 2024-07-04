@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.ss12" format="2">
+  <advance width="612"/>
+  <outline>
+    <contour>
+      <point x="45" y="219" type="curve"/>
+      <point x="45" y="104" type="line"/>
+      <point x="443" y="181"/>
+      <point x="565" y="291.455"/>
+      <point x="565" y="482.643" type="curve" smooth="yes"/>
+      <point x="565" y="645.747"/>
+      <point x="476" y="720"/>
+      <point x="322" y="720" type="curve" smooth="yes"/>
+      <point x="208" y="720"/>
+      <point x="124" y="677"/>
+      <point x="50" y="596" type="curve"/>
+      <point x="63" y="472" type="line"/>
+      <point x="130" y="547"/>
+      <point x="207" y="579"/>
+      <point x="284" y="579" type="curve" smooth="yes"/>
+      <point x="357" y="579"/>
+      <point x="376" y="545.36"/>
+      <point x="376" y="487.36" type="curve" smooth="yes"/>
+      <point x="376" y="364.4"/>
+      <point x="290" y="259"/>
+    </contour>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="140" type="line"/>
+      <point x="45" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

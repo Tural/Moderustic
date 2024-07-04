@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.osf" format="2">
+  <advance width="563"/>
+  <outline>
+    <contour>
+      <point x="294" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="390" y="-20"/>
+      <point x="465" y="17"/>
+      <point x="506" y="70" type="curve"/>
+      <point x="453" y="123" type="line"/>
+      <point x="417" y="76.361"/>
+      <point x="356" y="50"/>
+      <point x="294" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="197" y="50"/>
+      <point x="149" y="122.613"/>
+      <point x="149" y="267.839" type="curve" smooth="yes"/>
+      <point x="149" y="408.794"/>
+      <point x="196" y="475"/>
+      <point x="296" y="475" type="curve" smooth="yes" name="sv01"/>
+      <point x="355" y="475"/>
+      <point x="411" y="448.639"/>
+      <point x="447" y="402" type="curve"/>
+      <point x="500" y="455" type="line"/>
+      <point x="459" y="508"/>
+      <point x="387" y="545"/>
+      <point x="293" y="545" type="curve" smooth="yes" name="at01"/>
+      <point x="143" y="545"/>
+      <point x="59" y="441.417"/>
+      <point x="59" y="267.731" type="curve" smooth="yes"/>
+      <point x="59" y="83.583"/>
+      <point x="145" y="-20"/>
+    </contour>
+    <contour>
+      <point x="278" y="-131" type="line"/>
+      <point x="326" y="-131" type="line"/>
+      <point x="326" y="-10" type="line"/>
+      <point x="278" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="535" type="line"/>
+      <point x="327" y="535" type="line"/>
+      <point x="327" y="655" type="line"/>
+      <point x="277" y="655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

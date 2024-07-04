@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.case" format="2">
+  <advance width="418"/>
+  <outline>
+    <contour>
+      <point x="25" y="-157" type="line"/>
+      <point x="356" y="-157" type="line"/>
+      <point x="356" y="838" type="line"/>
+      <point x="25" y="838" type="line"/>
+      <point x="25" y="718" type="line"/>
+      <point x="179" y="718" type="line"/>
+      <point x="179" y="-37" type="line"/>
+      <point x="25" y="-37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

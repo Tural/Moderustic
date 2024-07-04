@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng.ss12" format="2">
+  <advance width="732"/>
+  <anchor x="349" y="-219" name="bottom"/>
+  <anchor x="366" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="197" y="0" type="line" name="ab01"/>
+      <point x="197" y="515" type="line" name="iv01"/>
+      <point x="545" y="0" type="line" name="ab02"/>
+      <point x="655" y="66.545" type="line"/>
+      <point x="655" y="700" type="line" name="at01"/>
+      <point x="535" y="700" type="line"/>
+      <point x="535" y="185" type="line" name="iv02"/>
+      <point x="187" y="700" type="line" name="at02"/>
+      <point x="77" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.5" y="-227" type="curve" smooth="yes"/>
+      <point x="575.5" y="-227"/>
+      <point x="654.5" y="-150"/>
+      <point x="654.5" y="25" type="curve" smooth="yes"/>
+      <point x="654.5" y="493" type="line"/>
+      <point x="534.5" y="493" type="line"/>
+      <point x="534.5" y="25" type="line" smooth="yes"/>
+      <point x="534.5" y="-91"/>
+      <point x="490.5" y="-127"/>
+      <point x="402.5" y="-127" type="curve" smooth="yes"/>
+      <point x="369.5" y="-127"/>
+      <point x="325.5" y="-122"/>
+      <point x="259.5" y="-97" type="curve"/>
+      <point x="249.5" y="-181" type="line"/>
+      <point x="295.5" y="-207"/>
+      <point x="346.5" y="-227"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

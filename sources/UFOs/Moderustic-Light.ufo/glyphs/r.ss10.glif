@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.ss10" format="2">
+  <advance width="517"/>
+  <anchor x="122" y="-20" name="bottom"/>
+  <anchor x="276" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line" name="ab02"/>
+      <point x="154" y="0" type="line"/>
+      <point x="154" y="217" type="line" smooth="yes" name="iv01"/>
+      <point x="154" y="379.565"/>
+      <point x="212.913" y="469"/>
+      <point x="320" y="469" type="curve" smooth="yes" name="sv01"/>
+      <point x="372.42" y="469"/>
+      <point x="400.73" y="443.23"/>
+      <point x="403.62" y="389.32" type="curve"/>
+      <point x="459.63" y="399.57" type="line"/>
+      <point x="452.789" y="475.34"/>
+      <point x="410.3" y="520"/>
+      <point x="328.24" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="239.938" y="520"/>
+      <point x="170.945" y="459.002"/>
+      <point x="154" y="365.95" type="curve"/>
+      <point x="154" y="500" type="line" name="av01"/>
+      <point x="94" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

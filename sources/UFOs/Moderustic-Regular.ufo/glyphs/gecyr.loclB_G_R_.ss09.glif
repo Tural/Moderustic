@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gecyr.loclBGR.ss09" format="2">
+  <advance width="490"/>
+  <anchor x="245" y="-20" name="bottom"/>
+  <anchor x="235" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="252" y="520" type="curve" smooth="yes"/>
+      <point x="134" y="520"/>
+      <point x="62" y="459.645"/>
+      <point x="50" y="350" type="curve"/>
+      <point x="140" y="350" type="line"/>
+      <point x="146" y="415.663"/>
+      <point x="182" y="450"/>
+      <point x="249" y="450" type="curve" smooth="yes"/>
+      <point x="306" y="450"/>
+      <point x="345" y="425.846"/>
+      <point x="345" y="373.513" type="curve" smooth="yes"/>
+      <point x="345" y="326.212"/>
+      <point x="311.977" y="293.165"/>
+      <point x="217" y="280" type="curve" smooth="yes"/>
+      <point x="109.977" y="265.165"/>
+      <point x="50" y="220"/>
+      <point x="50" y="131" type="curve" smooth="yes"/>
+      <point x="50" y="40"/>
+      <point x="113" y="-20"/>
+      <point x="231" y="-20" type="curve" smooth="yes"/>
+      <point x="349" y="-20"/>
+      <point x="422" y="40.355"/>
+      <point x="434" y="150" type="curve"/>
+      <point x="344" y="150" type="line"/>
+      <point x="341" y="87.374"/>
+      <point x="302" y="50"/>
+      <point x="234" y="50" type="curve" smooth="yes"/>
+      <point x="178" y="50"/>
+      <point x="139" y="74.162"/>
+      <point x="139" y="126.514" type="curve" smooth="yes"/>
+      <point x="139" y="173.831"/>
+      <point x="170.945" y="199.405"/>
+      <point x="250" y="210" type="curve" smooth="yes"/>
+      <point x="364.946" y="225.405"/>
+      <point x="436" y="279"/>
+      <point x="436" y="371" type="curve" smooth="yes"/>
+      <point x="436" y="460"/>
+      <point x="370" y="520"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

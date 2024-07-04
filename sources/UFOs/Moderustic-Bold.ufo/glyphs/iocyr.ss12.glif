@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iocyr.ss12" format="2">
+  <advance width="574"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="399" y="-3" name="ogonek"/>
+  <anchor x="290" y="689" name="top"/>
+  <outline>
+    <component base="iecyr.ss12" identifier="3DA0237E"/>
+    <component base="uni0308" xOffset="86" yOffset="20" identifier="7C39E3B6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3DA0237E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7C39E3B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

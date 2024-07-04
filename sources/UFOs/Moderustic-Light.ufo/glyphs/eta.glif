@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eta" format="2">
+  <advance width="601"/>
+  <unicode hex="03B7"/>
+  <anchor x="290" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="456" y="308" type="curve" smooth="yes"/>
+      <point x="456" y="-200" type="line" name="ab01"/>
+      <point x="516" y="-200" type="line"/>
+      <point x="516" y="304" type="line" smooth="yes"/>
+      <point x="516" y="451"/>
+      <point x="460" y="520"/>
+      <point x="358" y="520" type="curve" smooth="yes" name="at01"/>
+      <point x="241" y="520"/>
+      <point x="164" y="430"/>
+      <point x="151" y="352" type="curve"/>
+      <point x="152" y="301" type="line"/>
+      <point x="159" y="259" type="line" name="iv01"/>
+      <point x="159" y="391"/>
+      <point x="225" y="470"/>
+      <point x="334" y="470" type="curve" smooth="yes" name="sv01"/>
+      <point x="420" y="470"/>
+      <point x="456" y="421"/>
+    </contour>
+    <contour>
+      <point x="99" y="396" type="curve" smooth="yes"/>
+      <point x="99" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="384" type="line" smooth="yes"/>
+      <point x="159" y="478"/>
+      <point x="129" y="520"/>
+      <point x="33" y="520" type="curve"/>
+      <point x="33" y="470" type="line"/>
+      <point x="70" y="470"/>
+      <point x="99" y="456"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

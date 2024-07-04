@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="716"/>
+  <unicode hex="0124"/>
+  <anchor x="358" y="-20" name="bottom"/>
+  <anchor x="358" y="919" name="top"/>
+  <anchor x="-28" y="500" name="topgr"/>
+  <outline>
+    <component base="H" identifier="2D5A5744"/>
+    <component base="uni0302" xOffset="185" yOffset="219" identifier="FBDD6617"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2D5A5744</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FBDD6617</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

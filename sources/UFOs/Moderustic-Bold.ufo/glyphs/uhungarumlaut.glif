@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="580"/>
+  <unicode hex="0171"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="397" y="-3" name="ogonek"/>
+  <anchor x="356" y="722" name="top"/>
+  <outline>
+    <component base="u" identifier="E4F6048C"/>
+    <component base="uni030B" xOffset="152" yOffset="20" identifier="CA2219C4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CA2219C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E4F6048C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

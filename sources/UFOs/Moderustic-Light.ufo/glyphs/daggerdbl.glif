@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="722"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="323" y="-222" type="line"/>
+      <point x="378" y="-222" type="line"/>
+      <point x="371" y="29" type="line"/>
+      <point x="650" y="16" type="line"/>
+      <point x="650" y="61" type="line"/>
+      <point x="370" y="48" type="line"/>
+      <point x="359" y="237" type="line"/>
+      <point x="370" y="426" type="line"/>
+      <point x="650" y="413" type="line"/>
+      <point x="650" y="458" type="line"/>
+      <point x="371" y="445" type="line"/>
+      <point x="378" y="696" type="line"/>
+      <point x="323" y="696" type="line"/>
+      <point x="330" y="444" type="line"/>
+      <point x="50" y="458" type="line"/>
+      <point x="50" y="413" type="line"/>
+      <point x="331" y="426" type="line"/>
+      <point x="342" y="237" type="line"/>
+      <point x="331" y="48" type="line"/>
+      <point x="50" y="61" type="line"/>
+      <point x="50" y="16" type="line"/>
+      <point x="330" y="30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

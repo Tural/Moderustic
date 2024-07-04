@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="544"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="509" y="6" type="line"/>
+      <point x="509" y="26" type="line"/>
+      <point x="98" y="263" type="line"/>
+      <point x="509" y="490" type="line"/>
+      <point x="509" y="510" type="line"/>
+      <point x="50" y="287" type="line"/>
+      <point x="50" y="239" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

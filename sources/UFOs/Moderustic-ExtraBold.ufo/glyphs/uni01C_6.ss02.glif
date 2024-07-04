@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C6.ss02" format="2">
+  <advance width="1078"/>
+  <anchor x="841" y="-20" name="bottom"/>
+  <anchor x="851" y="722" name="top"/>
+  <anchor x="601" y="750" name="topright"/>
+  <outline>
+    <component base="d.ss02" identifier="C75C99ED"/>
+    <component base="zcaron" xOffset="605" identifier="3CCE8CAB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3CCE8CAB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C75C99ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

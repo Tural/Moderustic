@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="594"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="446" y="0" type="line" name="ab02"/>
+      <point x="548" y="0" type="line"/>
+      <point x="408" y="263" type="line"/>
+      <point x="534" y="500" type="line" name="av02"/>
+      <point x="453" y="500" type="line"/>
+      <point x="351" y="300" type="line" name="iv02"/>
+      <point x="88" y="300" type="line"/>
+      <point x="95" y="232" type="line"/>
+      <point x="333" y="232" type="line" name="iv01"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="500" type="line"/>
+      <point x="84" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

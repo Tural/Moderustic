@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="752"/>
+  <unicode hex="014A"/>
+  <anchor x="378" y="-202" name="bottom"/>
+  <anchor x="376" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="187" y="0" type="line" name="ab01"/>
+      <point x="187" y="554" type="line" name="iv01"/>
+      <point x="575" y="0" type="line" name="ab02"/>
+      <point x="655" y="24.601" type="line"/>
+      <point x="655" y="700" type="line" name="at01"/>
+      <point x="565" y="700" type="line"/>
+      <point x="565" y="146" type="line" name="iv02"/>
+      <point x="177" y="700" type="line" name="at02"/>
+      <point x="97" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="-221" type="curve" smooth="yes" name="dv01"/>
+      <point x="578" y="-221"/>
+      <point x="655" y="-137"/>
+      <point x="655" y="21" type="curve" smooth="yes"/>
+      <point x="655" y="499" type="line" name="at01"/>
+      <point x="565" y="499" type="line"/>
+      <point x="565" y="14" type="line" smooth="yes"/>
+      <point x="565" y="-84"/>
+      <point x="520" y="-141"/>
+      <point x="438" y="-141" type="curve" smooth="yes" name="dv02"/>
+      <point x="372" y="-141"/>
+      <point x="318" y="-104"/>
+      <point x="268" y="-21" type="curve"/>
+      <point x="210" y="-79" type="line"/>
+      <point x="274" y="-176"/>
+      <point x="344" y="-221"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

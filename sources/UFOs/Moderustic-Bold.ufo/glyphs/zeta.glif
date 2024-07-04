@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta" format="2">
+  <advance width="560"/>
+  <unicode hex="03B6"/>
+  <anchor x="280" y="721" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="325" y="-200" type="curve"/>
+      <point x="472.697" y="-200" type="line"/>
+      <point x="493.133" y="-175"/>
+      <point x="521" y="-131"/>
+      <point x="521" y="-71" type="curve" smooth="yes"/>
+      <point x="521" y="26"/>
+      <point x="443" y="103"/>
+      <point x="338" y="103" type="curve" smooth="yes"/>
+      <point x="245" y="103"/>
+      <point x="219" y="145"/>
+      <point x="219" y="224" type="curve" smooth="yes"/>
+      <point x="219" y="343"/>
+      <point x="280" y="422"/>
+      <point x="502" y="587" type="curve"/>
+      <point x="502" y="700" type="line"/>
+      <point x="39" y="700" type="line"/>
+      <point x="39" y="577" type="line"/>
+      <point x="319" y="577" type="line"/>
+      <point x="122" y="451"/>
+      <point x="54" y="349"/>
+      <point x="54" y="213" type="curve" smooth="yes"/>
+      <point x="54" y="78"/>
+      <point x="127.477" y="-20"/>
+      <point x="270.232" y="-20" type="curve" smooth="yes"/>
+      <point x="352.106" y="-20"/>
+      <point x="371" y="-50"/>
+      <point x="371" y="-97" type="curve" smooth="yes"/>
+      <point x="371" y="-143"/>
+      <point x="350" y="-166"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

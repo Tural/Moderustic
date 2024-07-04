@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.ss01" format="2">
+  <advance width="606"/>
+  <anchor x="293" y="-20" name="bottom"/>
+  <anchor x="594" y="-3" name="ogonek"/>
+  <anchor x="294" y="700" name="top"/>
+  <outline>
+    <component base="a.ss01" identifier="CF5C7186"/>
+    <component base="uni0306" xOffset="126" yOffset="20" identifier="1136867B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1136867B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CF5C7186</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

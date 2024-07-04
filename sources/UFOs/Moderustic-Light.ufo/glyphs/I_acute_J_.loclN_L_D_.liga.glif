@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute_J.loclNLD.liga" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="319" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="448" y="-20"/>
+      <point x="521" y="64"/>
+      <point x="521" y="222" type="curve" smooth="yes"/>
+      <point x="521" y="700" type="line" name="at01"/>
+      <point x="461" y="700" type="line"/>
+      <point x="461" y="196" type="line" smooth="yes"/>
+      <point x="461" y="92"/>
+      <point x="409" y="35"/>
+      <point x="318" y="35" type="curve" smooth="yes" name="dv02"/>
+      <point x="240.403" y="35"/>
+      <point x="187.207" y="79.516"/>
+      <point x="139" y="165" type="curve"/>
+      <point x="96" y="122" type="line"/>
+      <point x="159" y="25"/>
+      <point x="225" y="-20"/>
+    </contour>
+    <contour>
+      <point x="92" y="279.695" type="line" name="ab01"/>
+      <point x="152" y="279.695" type="line"/>
+      <point x="152" y="700" type="line"/>
+      <point x="92" y="700" type="line" name="av01"/>
+    </contour>
+    <contour>
+      <point x="98" y="769" type="line"/>
+      <point x="149" y="769" type="line"/>
+      <point x="244" y="920" type="line"/>
+      <point x="169" y="920" type="line"/>
+    </contour>
+    <contour>
+      <point x="464" y="768" type="line"/>
+      <point x="515" y="768" type="line"/>
+      <point x="610" y="919" type="line"/>
+      <point x="535" y="919" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

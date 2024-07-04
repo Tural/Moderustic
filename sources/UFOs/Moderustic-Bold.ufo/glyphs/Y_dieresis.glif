@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis" format="2">
+  <advance width="662"/>
+  <unicode hex="0178"/>
+  <anchor x="331" y="-20" name="bottom"/>
+  <anchor x="331" y="888" name="top"/>
+  <anchor x="-95" y="500" name="topgr"/>
+  <outline>
+    <component base="Y" identifier="845A735A"/>
+    <component base="uni0308" xOffset="127" yOffset="219" identifier="494C13DB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>494C13DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>845A735A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

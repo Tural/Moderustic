@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20B4" format="2">
+  <advance width="734"/>
+  <unicode hex="20B4"/>
+  <outline>
+    <contour>
+      <point x="370" y="-20" type="curve" smooth="yes"/>
+      <point x="505" y="-20"/>
+      <point x="596" y="37"/>
+      <point x="648" y="101" type="curve"/>
+      <point x="542" y="207" type="line"/>
+      <point x="492.2" y="150.34"/>
+      <point x="445.4" y="120"/>
+      <point x="386.64" y="120" type="curve" smooth="yes"/>
+      <point x="330.87" y="120"/>
+      <point x="301" y="147.04"/>
+      <point x="301" y="193.12" type="curve" smooth="yes"/>
+      <point x="301" y="212.24"/>
+      <point x="306.3" y="225.62"/>
+      <point x="318.05" y="236" type="curve"/>
+      <point x="713" y="236" type="line"/>
+      <point x="713" y="312" type="line"/>
+      <point x="21" y="312" type="line"/>
+      <point x="21" y="236" type="line"/>
+      <point x="112.66" y="236" type="line"/>
+      <point x="111.55" y="227.44"/>
+      <point x="111" y="218.57"/>
+      <point x="111" y="209.38" type="curve" smooth="yes"/>
+      <point x="111" y="61.13"/>
+      <point x="208" y="-20"/>
+    </contour>
+    <contour>
+      <point x="21" y="374" type="line"/>
+      <point x="713" y="374" type="line"/>
+      <point x="713" y="450" type="line"/>
+      <point x="629.95" y="450" type="line"/>
+      <point x="632.65" y="463.53"/>
+      <point x="634" y="477.74"/>
+      <point x="634" y="492.62" type="curve" smooth="yes"/>
+      <point x="634" y="632.85"/>
+      <point x="539" y="720"/>
+      <point x="383" y="720" type="curve" smooth="yes"/>
+      <point x="257" y="720"/>
+      <point x="165" y="663"/>
+      <point x="113" y="599" type="curve"/>
+      <point x="219" y="493" type="line"/>
+      <point x="269" y="549.65"/>
+      <point x="316" y="580"/>
+      <point x="365" y="580" type="curve" smooth="yes"/>
+      <point x="417" y="580"/>
+      <point x="444" y="546.94"/>
+      <point x="444" y="500.86" type="curve" smooth="yes"/>
+      <point x="444" y="479.28"/>
+      <point x="438.11" y="463.39"/>
+      <point x="422.3" y="450" type="curve"/>
+      <point x="21" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis.ss09" format="2">
+  <advance width="595"/>
+  <anchor x="559" y="-79" name="bottom"/>
+  <anchor x="297" y="677" name="top"/>
+  <outline>
+    <component base="y.ss09" identifier="734A5A2F"/>
+    <component base="uni0308" xOffset="93" yOffset="20" identifier="8E9D4E21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>734A5A2F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8E9D4E21</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

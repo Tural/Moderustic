@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex.ss02" format="2">
+  <advance width="593"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="568" y="-3" name="ogonek"/>
+  <anchor x="290" y="720" name="top"/>
+  <outline>
+    <component base="u.ss02" identifier="B10423A4"/>
+    <component base="uni0302" xOffset="117" yOffset="20" identifier="275F279F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>275F279F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B10423A4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

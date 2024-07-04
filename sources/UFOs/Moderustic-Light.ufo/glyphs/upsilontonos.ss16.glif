@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilontonos.ss16" format="2">
+  <advance width="580"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="311" y="719" name="topgr"/>
+  <outline>
+    <component base="upsilon.ss16" identifier="C33673E3"/>
+    <component base="tonos" xOffset="232" yOffset="20" identifier="9A0F4DBB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9A0F4DBB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C33673E3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

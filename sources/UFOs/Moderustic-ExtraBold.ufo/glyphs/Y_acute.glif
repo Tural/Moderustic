@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="662"/>
+  <unicode hex="00DD"/>
+  <anchor x="331" y="-20" name="bottom"/>
+  <anchor x="347" y="919" name="top"/>
+  <anchor x="-115" y="500" name="topgr"/>
+  <outline>
+    <component base="Y" identifier="54AF2C0D"/>
+    <component base="acutecomb" xOffset="206" yOffset="219" identifier="E19F8D41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>54AF2C0D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E19F8D41</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

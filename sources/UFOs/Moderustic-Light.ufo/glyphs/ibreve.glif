@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="272"/>
+  <unicode hex="012D"/>
+  <anchor x="134" y="-20" name="bottom"/>
+  <anchor x="166" y="-3" name="ogonek"/>
+  <anchor x="136" y="700" name="top"/>
+  <outline>
+    <component base="dotlessi" identifier="E87C5CA4"/>
+    <component base="uni0306" xOffset="-32" yOffset="20" identifier="91E3DFBD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>91E3DFBD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E87C5CA4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

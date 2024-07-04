@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="880"/>
+  <unicode hex="00C6"/>
+  <anchor x="480" y="-20" name="bottom"/>
+  <anchor x="480" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="424" y="0" type="line"/>
+      <point x="805" y="0" type="line" name="ab01"/>
+      <point x="805" y="54" type="line" name="sv01"/>
+      <point x="484" y="54" type="line"/>
+      <point x="484" y="338" type="line" name="dv01"/>
+      <point x="765" y="338" type="line"/>
+      <point x="765" y="392" type="line"/>
+      <point x="484" y="392" type="line" name="dv02"/>
+      <point x="484" y="646" type="line" name="sv02"/>
+      <point x="793" y="646" type="line"/>
+      <point x="793" y="700" type="line" name="at01"/>
+      <point x="424" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="157" type="line" name="dv01"/>
+      <point x="471" y="157" type="line"/>
+      <point x="437" y="211" type="line" name="dv03"/>
+      <point x="162" y="211" type="line" name="dv02"/>
+    </contour>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="332" y="700" type="line"/>
+      <point x="269" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="646" type="line"/>
+      <point x="469" y="646" type="line"/>
+      <point x="470" y="700" type="line"/>
+      <point x="304" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni042A" format="2">
+  <advance width="735"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="445" y="0" type="line" smooth="yes"/>
+      <point x="606" y="0"/>
+      <point x="696" y="97.143"/>
+      <point x="696" y="233.978" type="curve" smooth="yes"/>
+      <point x="696" y="369.768"/>
+      <point x="606" y="469"/>
+      <point x="445" y="469" type="curve" smooth="yes"/>
+      <point x="361" y="469" type="line"/>
+      <point x="361" y="700" type="line"/>
+      <point x="170" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="559" type="line"/>
+      <point x="194" y="559" type="line"/>
+      <point x="227" y="694" type="line"/>
+      <point x="227" y="700" type="line"/>
+      <point x="21" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="140" type="curve" smooth="yes"/>
+      <point x="361" y="140" type="line"/>
+      <point x="361" y="328" type="line"/>
+      <point x="386" y="328" type="line" smooth="yes"/>
+      <point x="458" y="328"/>
+      <point x="505" y="308.81"/>
+      <point x="505" y="234.952" type="curve" smooth="yes"/>
+      <point x="505" y="159.976"/>
+      <point x="458" y="140"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

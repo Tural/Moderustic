@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni037E" format="2">
+  <advance width="277"/>
+  <unicode hex="037E"/>
+  <outline>
+    <contour>
+      <point x="-6" y="-149" type="line"/>
+      <point x="89" y="-149" type="line"/>
+      <point x="161" y="119" type="line"/>
+      <point x="103" y="119" type="line"/>
+    </contour>
+    <component base="period" xOffset="7" yOffset="381" identifier="1A0458B9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1A0458B9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

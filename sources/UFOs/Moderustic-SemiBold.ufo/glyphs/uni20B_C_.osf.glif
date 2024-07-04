@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20BC.osf" format="2">
+  <advance width="781"/>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="curve"/>
+      <point x="241" y="0" type="line"/>
+      <point x="207" y="55.328"/>
+      <point x="189" y="124.722"/>
+      <point x="189" y="189.427" type="curve" smooth="yes"/>
+      <point x="189" y="346.971"/>
+      <point x="263.6" y="429"/>
+      <point x="390.5" y="429" type="curve" smooth="yes"/>
+      <point x="519.2" y="429"/>
+      <point x="592" y="348.846"/>
+      <point x="592" y="192.241" type="curve" smooth="yes"/>
+      <point x="592" y="126.598"/>
+      <point x="574" y="56.266"/>
+      <point x="539" y="0" type="curve"/>
+      <point x="685" y="0" type="line"/>
+      <point x="719" y="71.262"/>
+      <point x="737" y="146.326"/>
+      <point x="737" y="218.538" type="curve" smooth="yes"/>
+      <point x="737" y="427.575"/>
+      <point x="601.586" y="549"/>
+      <point x="392.376" y="549" type="curve" smooth="yes"/>
+      <point x="179.414" y="549"/>
+      <point x="44" y="421.874"/>
+      <point x="44" y="203.336" type="curve" smooth="yes"/>
+      <point x="44" y="135.874"/>
+      <point x="60" y="65.561"/>
+    </contour>
+    <contour>
+      <point x="340" y="110" type="line"/>
+      <point x="441" y="157" type="line"/>
+      <point x="441" y="697" type="line"/>
+      <point x="340" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotaccent.ss09" format="2">
+  <advance width="587"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="407" y="-3" name="ogonek"/>
+  <anchor x="290" y="706" name="top"/>
+  <outline>
+    <component base="e.ss09" identifier="E05E6A50"/>
+    <component base="uni0307" xOffset="185" yOffset="20" identifier="3B874A2D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3B874A2D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E05E6A50</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

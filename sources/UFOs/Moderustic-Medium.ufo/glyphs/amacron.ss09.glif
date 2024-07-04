@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron.ss09" format="2">
+  <advance width="541"/>
+  <anchor x="266" y="-20" name="bottom"/>
+  <anchor x="467" y="-2" name="ogonek"/>
+  <anchor x="271" y="660" name="top"/>
+  <outline>
+    <component base="a.ss09" identifier="D7CF9755"/>
+    <component base="uni0304" xOffset="91" yOffset="20" identifier="27115F1E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:20:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>27115F1E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D7CF9755</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Efcyr.loclBGR" format="2">
+  <advance width="816"/>
+  <outline>
+    <contour>
+      <point x="363" y="0" type="curve"/>
+      <point x="363" y="-80" type="line"/>
+      <point x="453" y="-80" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="639" y="0"/>
+      <point x="763" y="141.443"/>
+      <point x="763" y="353.608" type="curve" smooth="yes"/>
+      <point x="763" y="561.443"/>
+      <point x="639" y="700"/>
+      <point x="453" y="700" type="curve"/>
+      <point x="453" y="780" type="line"/>
+      <point x="363" y="780" type="line"/>
+      <point x="363" y="700" type="line"/>
+      <point x="177" y="700"/>
+      <point x="53" y="561.443"/>
+      <point x="53" y="353.608" type="curve" smooth="yes"/>
+      <point x="53" y="141.443"/>
+      <point x="177" y="0"/>
+    </contour>
+    <contour>
+      <point x="363" y="620" type="curve"/>
+      <point x="363" y="80" type="line"/>
+      <point x="231" y="80"/>
+      <point x="143" y="189.071"/>
+      <point x="143" y="352.678" type="curve" smooth="yes"/>
+      <point x="143" y="513.071"/>
+      <point x="231" y="620"/>
+    </contour>
+    <contour>
+      <point x="453" y="80" type="curve"/>
+      <point x="453" y="620" type="line"/>
+      <point x="585" y="620"/>
+      <point x="673" y="511.536"/>
+      <point x="673" y="348.839" type="curve" smooth="yes"/>
+      <point x="673" y="187.536"/>
+      <point x="585" y="80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

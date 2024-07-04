@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro.ss09" format="2">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="381" y="-20" type="curve" smooth="yes"/>
+      <point x="555" y="-20"/>
+      <point x="658" y="106"/>
+      <point x="687" y="261" type="curve"/>
+      <point x="547" y="261" type="line"/>
+      <point x="527" y="156"/>
+      <point x="473" y="101"/>
+      <point x="389" y="101" type="curve" smooth="yes"/>
+      <point x="305" y="101"/>
+      <point x="245" y="148"/>
+      <point x="231" y="270" type="curve"/>
+      <point x="445" y="270" type="line"/>
+      <point x="473" y="330" type="line"/>
+      <point x="24" y="330" type="line"/>
+      <point x="-4" y="270" type="line"/>
+      <point x="88" y="270" type="line"/>
+      <point x="100" y="95"/>
+      <point x="217" y="-20"/>
+    </contour>
+    <contour>
+      <point x="-4" y="379" type="line"/>
+      <point x="453" y="379" type="line"/>
+      <point x="481" y="439" type="line"/>
+      <point x="217" y="439" type="line"/>
+      <point x="229.839" y="414.074" type="line"/>
+      <point x="240.44" y="539.724"/>
+      <point x="299.647" y="599"/>
+      <point x="398" y="599" type="curve" smooth="yes"/>
+      <point x="484" y="599"/>
+      <point x="537" y="540"/>
+      <point x="547" y="485" type="curve"/>
+      <point x="687" y="485" type="line"/>
+      <point x="650" y="620"/>
+      <point x="556" y="720"/>
+      <point x="395" y="720" type="curve" smooth="yes"/>
+      <point x="226.715" y="720"/>
+      <point x="93.604" y="595.29"/>
+      <point x="88.107" y="417.399" type="curve"/>
+      <point x="104" y="439" type="line"/>
+      <point x="24" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

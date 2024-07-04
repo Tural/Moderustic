@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="578"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="291.048" y="-20" type="curve" smooth="yes"/>
+      <point x="442.364" y="-20"/>
+      <point x="548" y="88.778"/>
+      <point x="548" y="263.035" type="curve" smooth="yes"/>
+      <point x="548" y="504.931"/>
+      <point x="349.528" y="673.715"/>
+      <point x="145" y="760" type="curve"/>
+      <point x="103" y="669" type="line"/>
+      <point x="226.409" y="617.83"/>
+      <point x="347.897" y="545.741"/>
+      <point x="409.883" y="409.257" type="curve"/>
+      <point x="384.963" y="446.928"/>
+      <point x="333.319" y="471"/>
+      <point x="274.699" y="471" type="curve" smooth="yes"/>
+      <point x="132.94" y="471"/>
+      <point x="36" y="374"/>
+      <point x="36" y="231" type="curve" smooth="yes"/>
+      <point x="36" y="85"/>
+      <point x="138.781" y="-20"/>
+    </contour>
+    <contour>
+      <point x="289.315" y="91" type="curve" smooth="yes"/>
+      <point x="224.863" y="91"/>
+      <point x="181" y="139"/>
+      <point x="181" y="225" type="curve" smooth="yes"/>
+      <point x="181" y="309"/>
+      <point x="222.177" y="361"/>
+      <point x="291.105" y="361" type="curve" smooth="yes"/>
+      <point x="357.347" y="361"/>
+      <point x="403" y="314"/>
+      <point x="403" y="231" type="curve" smooth="yes"/>
+      <point x="403" y="150"/>
+      <point x="360.032" y="91"/>
+    </contour>
+    <contour>
+      <point x="128" y="513" type="line"/>
+      <point x="302.071" y="591.655" type="line"/>
+      <point x="467" y="652" type="line"/>
+      <point x="449" y="697" type="line"/>
+      <point x="276.98" y="620.068" type="line"/>
+      <point x="110" y="558" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-04 14:33:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>
