@@ -1849,7 +1849,7 @@ sub adieresiscyr by adieresiscyr.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss01;
 }
 );
 tag = ss01;
@@ -1902,7 +1902,7 @@ sub shacyr.loclBGR by shacyr.loclBGR.ss02;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss02;
 }
 );
 tag = ss02;
@@ -1920,7 +1920,7 @@ sub Gdotaccent by Gdotaccent.ss03;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss03;
 }
 );
 tag = ss03;
@@ -1943,7 +1943,7 @@ sub ushortcyr by ushortcyr.ss04;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss04;
 }
 );
 tag = ss04;
@@ -1970,7 +1970,7 @@ sub utilde by utilde.ss05;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss05;
 }
 );
 tag = ss05;
@@ -1983,7 +1983,7 @@ sub Qacyr by Qacyr.ss06;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss06;
 }
 );
 tag = ss06;
@@ -2005,7 +2005,7 @@ sub Jecyr by Jecyr.ss07;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss07;
 }
 );
 tag = ss07;
@@ -2028,7 +2028,7 @@ sub yacyr by yacyr.ss08;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss08;
 }
 );
 tag = ss08;
@@ -2192,7 +2192,7 @@ sub zecyr.loclBGR by zecyr.loclBGR.ss09;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss09;
 }
 );
 tag = ss09;
@@ -2336,7 +2336,7 @@ sub zecyr.loclBGR by zecyr.loclBGR.ss10;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss10;
 }
 );
 tag = ss10;
@@ -2401,7 +2401,7 @@ sub zhecyr.loclBGR by zhecyr.loclBGR.ss11;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss11;
 }
 );
 tag = ss11;
@@ -2550,7 +2550,7 @@ sub zecyr.loclBGR by zecyr.loclBGR.ss12;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss12;
 }
 );
 tag = ss12;
@@ -2572,7 +2572,7 @@ code = "# Stylistic Set 01–20
 labels = (
 {
 language = dflt;
-value = "";
+value = ss13;
 }
 );
 tag = ss13;
@@ -2593,7 +2593,7 @@ sub aiecyr by aiecyr.ss14;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss14;
 }
 );
 tag = ss14;
@@ -2614,7 +2614,7 @@ sub aiecyr by aiecyr.ss15;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss15;
 }
 );
 tag = ss15;
@@ -2632,7 +2632,7 @@ code = "# Stylistic Set 01–20
 labels = (
 {
 language = dflt;
-value = "";
+value = ss16;
 }
 );
 tag = ss16;
@@ -2647,7 +2647,7 @@ code = "# Stylistic Set 01–20
 labels = (
 {
 language = dflt;
-value = "";
+value = ss17;
 }
 );
 tag = ss17;
@@ -2663,7 +2663,7 @@ code = "# Stylistic Set 01–20
 labels = (
 {
 language = dflt;
-value = "";
+value = ss18;
 }
 );
 tag = ss18;
@@ -2687,6 +2687,12 @@ code = "# Stylistic Set 01–20
   sub oacute by oacute.loclPLK;
   sub sacute by sacute.loclPLK;
   sub zacute by zacute.loclPLK;";
+labels = (
+{
+language = dflt;
+value = ss19;
+}
+);
 tag = ss19;
 },
 {
@@ -2704,7 +2710,7 @@ code = "# Stylistic Set 01–20
 labels = (
 {
 language = dflt;
-value = "";
+value = ss20;
 }
 );
 tag = ss20;
@@ -2883,11 +2889,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -316;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -2895,11 +2901,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 950;
+value = 951;
 },
 {
 name = winDescent;
-value = 250;
+value = 401;
 },
 {
 name = underlineThickness;
@@ -3072,11 +3078,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -316;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -3084,11 +3090,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 950;
+value = 951;
 },
 {
 name = winDescent;
-value = 250;
+value = 401;
 },
 {
 name = underlineThickness;
@@ -3260,11 +3266,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1100;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -316;
+value = -250;
 },
 {
 name = hheaLineGap;
@@ -3272,11 +3278,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 950;
+value = 951;
 },
 {
 name = winDescent;
-value = 250;
+value = 401;
 },
 {
 name = underlineThickness;
@@ -131315,20 +131321,22 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
+lastChange = "2024-07-10 12:33:23 +0000";
 layers = (
 {
 layerId = "80F95D5A-7464-498F-9BB9-FC89FE1B12C4";
-width = 260;
+width = 210;
 },
 {
 layerId = "C7381861-8087-459F-9A66-D6EC096294DF";
-width = 260;
+width = 210;
 },
 {
 layerId = "B3C53035-7890-4C98-85EB-10A7AE0A8F58";
-width = 260;
+width = 210;
 }
 );
+metricWidth = space;
 unicode = 160;
 },
 {
