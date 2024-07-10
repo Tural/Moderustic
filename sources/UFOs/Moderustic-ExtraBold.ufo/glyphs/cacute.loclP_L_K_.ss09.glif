@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cacute.loclPLK.ss09" format="2">
-  <advance width="573"/>
+  <advance width="563"/>
   <anchor x="327" y="-20" name="bottom"/>
   <anchor x="313" y="720" name="top"/>
   <outline>
-    <component base="c.ss09" identifier="D74A2AFD"/>
-    <component base="acutecomb.loclPLK" xOffset="172" yOffset="20" identifier="58CEF019"/>
+    <component base="c.ss09" identifier="4E5E8E01"/>
+    <component base="acutecomb.loclPLK" xOffset="172" yOffset="20" identifier="8BA40CA3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>58CEF019</key>
+        <key>4E5E8E01</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D74A2AFD</key>
+        <key>8BA40CA3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

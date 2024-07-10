@@ -5,6 +5,7 @@
   <anchor x="342.5" y="0" name="caret_1"/>
   <outline>
     <contour>
+      <point x="79" y="370" type="line"/>
       <point x="79" y="0" type="line"/>
       <point x="269" y="0" type="line"/>
       <point x="269" y="370" type="line"/>
@@ -28,15 +29,17 @@
       <point x="79" y="500" type="line"/>
       <point x="2" y="500" type="line"/>
       <point x="2" y="370" type="line"/>
-      <point x="79" y="370" type="line"/>
     </contour>
     <contour>
+      <point x="454" y="500" type="line"/>
       <point x="454" y="0" type="line"/>
       <point x="644" y="0" type="line"/>
       <point x="644" y="500" type="line"/>
-      <point x="454" y="500" type="line"/>
     </contour>
     <contour>
+      <point x="454.5" y="636.951" type="curve" smooth="yes"/>
+      <point x="454.908" y="595.1"/>
+      <point x="487.198" y="544.688"/>
       <point x="550.927" y="544.688" type="curve" smooth="yes"/>
       <point x="612.753" y="544.688"/>
       <point x="645.092" y="591.295"/>
@@ -46,15 +49,12 @@
       <point x="551.878" y="727.312" type="curve" smooth="yes"/>
       <point x="487.198" y="727.312"/>
       <point x="454.092" y="678.805"/>
-      <point x="454.5" y="636.951" type="curve" smooth="yes"/>
-      <point x="454.908" y="595.1"/>
-      <point x="487.198" y="544.688"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:43:49 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

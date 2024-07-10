@@ -4,23 +4,23 @@
   <anchor x="290" y="-20" name="bottom"/>
   <anchor x="291" y="708" name="topgr"/>
   <outline>
-    <component base="upsilon.ss16" identifier="5F3423E8"/>
-    <component base="uni0344" xOffset="125" yOffset="20" identifier="07106055"/>
+    <component base="upsilon.ss16" identifier="B6806FCF"/>
+    <component base="uni0344" xOffset="125" yOffset="20" identifier="7AD5DFA7"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>07106055</key>
+        <key>7AD5DFA7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5F3423E8</key>
+        <key>B6806FCF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -5,6 +5,13 @@
   <anchor x="380" y="719" name="top"/>
   <outline>
     <contour>
+      <point x="658" y="382" type="line" name="dv06"/>
+      <point x="67" y="382" type="line" name="sh04"/>
+      <point x="65" y="367"/>
+      <point x="63" y="362"/>
+      <point x="63" y="347" type="curve" smooth="yes" name="sh01"/>
+      <point x="63" y="125"/>
+      <point x="189" y="-20"/>
       <point x="380" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="571" y="-20"/>
       <point x="696" y="121"/>
@@ -28,20 +35,13 @@
       <point x="232" y="35"/>
       <point x="124" y="144"/>
       <point x="124" y="331" type="curve" name="sh02"/>
-      <point x="649" y="331" type="line" name="dv05"/>
-      <point x="648" y="382" type="line" name="dv06"/>
-      <point x="67" y="382" type="line" name="sh04"/>
-      <point x="65" y="367"/>
-      <point x="63" y="362"/>
-      <point x="63" y="347" type="curve" smooth="yes" name="sh01"/>
-      <point x="63" y="125"/>
-      <point x="189" y="-20"/>
+      <point x="659" y="331" type="line" name="dv05"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

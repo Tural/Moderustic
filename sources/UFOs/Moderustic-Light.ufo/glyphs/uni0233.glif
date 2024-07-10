@@ -2,26 +2,26 @@
 <glyph name="uni0233" format="2">
   <advance width="526"/>
   <unicode hex="0233"/>
-  <anchor x="422" y="-59" name="bottom"/>
+  <anchor x="422" y="1" name="bottom"/>
   <anchor x="263" y="660" name="top"/>
   <outline>
-    <component base="y" identifier="D1F6D9E7"/>
-    <component base="uni0304" xOffset="83" yOffset="20" identifier="E80735D7"/>
+    <component base="y" identifier="BB71AD31"/>
+    <component base="uni0304" xOffset="83" yOffset="20" identifier="68316CD3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>D1F6D9E7</key>
+        <key>68316CD3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E80735D7</key>
+        <key>BB71AD31</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

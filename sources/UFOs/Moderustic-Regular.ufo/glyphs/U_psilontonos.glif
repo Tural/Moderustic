@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilontonos" format="2">
-  <advance width="662"/>
+  <advance width="642"/>
   <unicode hex="038E"/>
-  <anchor x="331" y="-20" name="bottom"/>
-  <anchor x="331" y="719" name="top"/>
-  <anchor x="-63" y="699" name="topgr"/>
+  <anchor x="321" y="-20" name="bottom"/>
+  <anchor x="321" y="719" name="top"/>
+  <anchor x="-73" y="699" name="topgr"/>
   <outline>
-    <component base="Upsilon" identifier="43319645"/>
-    <component base="tonos.case" xOffset="-123" identifier="FC307C75"/>
+    <component base="Upsilon" identifier="713EEBFC"/>
+    <component base="tonos.case" xOffset="-133" identifier="A0D56333"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>43319645</key>
+        <key>713EEBFC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FC307C75</key>
+        <key>A0D56333</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

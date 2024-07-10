@@ -4,23 +4,23 @@
   <anchor x="290" y="-20" name="bottom"/>
   <anchor x="291" y="919" name="top"/>
   <outline>
-    <component base="S.ss10" identifier="3D6E1C3C"/>
-    <component base="acutecomb.loclPLK" xOffset="151" yOffset="219" identifier="AB7A35C1"/>
+    <component base="S.ss10" identifier="DBC031C9"/>
+    <component base="acutecomb.loclPLK" xOffset="151" yOffset="219" identifier="23547237"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3D6E1C3C</key>
+        <key>23547237</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AB7A35C1</key>
+        <key>DBC031C9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

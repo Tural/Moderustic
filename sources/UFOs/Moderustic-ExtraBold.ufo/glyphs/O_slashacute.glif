@@ -6,23 +6,23 @@
   <anchor x="522" y="-2" name="ogonek"/>
   <anchor x="414" y="919" name="top"/>
   <outline>
-    <component base="Oslash" identifier="2393BE2A"/>
-    <component base="acutecomb" xOffset="273" yOffset="219" identifier="166F5CA8"/>
+    <component base="Oslash" identifier="8B0C89B3"/>
+    <component base="acutecomb" xOffset="273" yOffset="219" identifier="0022E3F5"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>166F5CA8</key>
+        <key>0022E3F5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2393BE2A</key>
+        <key>8B0C89B3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

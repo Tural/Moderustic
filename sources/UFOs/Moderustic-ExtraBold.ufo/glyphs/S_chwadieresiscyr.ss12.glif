@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwadieresiscyr.ss12" format="2">
+  <advance width="759"/>
+  <anchor x="380" y="-20" name="bottom"/>
+  <anchor x="380" y="906" name="top"/>
+  <outline>
+    <component base="Schwacyr.ss12" identifier="D8761A0B"/>
+    <component base="dieresis.case" xOffset="176" yOffset="219" identifier="FA40E4AA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D8761A0B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA40E4AA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -3,17 +3,17 @@
   <advance width="240"/>
   <unicode hex="02BB"/>
   <outline>
-    <component base="comma" xScale="-0.891" yScale="-0.891" xOffset="236.692" yOffset="677.903" identifier="65B9021C"/>
+    <component base="comma" xScale="-0.891" yScale="-0.891" xOffset="236.692" yOffset="677.903" identifier="ABF1005D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>65B9021C</key>
+        <key>ABF1005D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

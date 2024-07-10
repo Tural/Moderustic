@@ -5,17 +5,17 @@
   <anchor x="63" y="500" name="_topgr"/>
   <anchor x="60" y="699" name="topgr"/>
   <outline>
-    <component base="tonos.case" identifier="8FB3E6C7"/>
+    <component base="tonos.case" identifier="02C7DE9A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8FB3E6C7</key>
+        <key>02C7DE9A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

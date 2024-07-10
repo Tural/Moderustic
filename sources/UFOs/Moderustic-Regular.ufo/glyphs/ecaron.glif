@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ecaron" format="2">
-  <advance width="570"/>
+  <advance width="550"/>
   <unicode hex="011B"/>
   <anchor x="271" y="-20" name="bottom"/>
   <anchor x="390" y="-3" name="ogonek"/>
   <anchor x="271" y="722" name="top"/>
   <outline>
-    <component base="e" identifier="A7BD1253"/>
-    <component base="uni030C" xOffset="98" yOffset="20" identifier="6D90B3B3"/>
+    <component base="e" identifier="1215C304"/>
+    <component base="uni030C" xOffset="98" yOffset="20" identifier="2C74AF84"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6D90B3B3</key>
+        <key>1215C304</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A7BD1253</key>
+        <key>2C74AF84</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

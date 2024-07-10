@@ -2,17 +2,17 @@
 <glyph name="parenright.numr" format="2">
   <advance width="267"/>
   <outline>
-    <component base="parenright" xScale="0.706" yScale="0.706" xOffset="-10" yOffset="259" identifier="6AA2F67B"/>
+    <component base="parenright" xScale="0.706" yScale="0.706" xOffset="-10" yOffset="259" identifier="E149A76B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6AA2F67B</key>
+        <key>E149A76B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

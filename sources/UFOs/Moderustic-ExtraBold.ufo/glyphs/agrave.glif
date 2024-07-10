@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="agrave" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="00E0"/>
-  <anchor x="293" y="-20" name="bottom"/>
-  <anchor x="555" y="-3" name="ogonek"/>
-  <anchor x="271" y="720" name="top"/>
+  <anchor x="283" y="-20" name="bottom"/>
+  <anchor x="545" y="-3" name="ogonek"/>
+  <anchor x="261" y="720" name="top"/>
   <outline>
-    <component base="a" identifier="FF4D3229"/>
-    <component base="gravecomb" xOffset="123" yOffset="20" identifier="5F70088B"/>
+    <component base="a" identifier="1EEF8E84"/>
+    <component base="gravecomb" xOffset="113" yOffset="20" identifier="815A6F73"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5F70088B</key>
+        <key>1EEF8E84</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FF4D3229</key>
+        <key>815A6F73</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

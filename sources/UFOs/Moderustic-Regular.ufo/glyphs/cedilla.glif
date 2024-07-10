@@ -5,14 +5,22 @@
   <anchor x="171" y="-10" name="_bottom"/>
   <anchor x="151" y="-208" name="bottom"/>
   <outline>
-    <component base="uni0327"/>
+    <component base="uni0327" identifier="CA2BE152"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CA2BE152</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

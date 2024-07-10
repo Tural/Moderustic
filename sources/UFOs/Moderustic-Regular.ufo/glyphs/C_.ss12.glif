@@ -5,9 +5,6 @@
   <anchor x="347" y="719" name="top"/>
   <outline>
     <contour>
-      <point x="364" y="-20" type="curve" smooth="yes"/>
-      <point x="453.365" y="-20"/>
-      <point x="547.531" y="15.957"/>
       <point x="595.651" y="70.951" type="curve"/>
       <point x="587.631" y="145.423" type="line"/>
       <point x="516.966" y="78.806"/>
@@ -31,12 +28,15 @@
       <point x="53" y="348" type="curve" smooth="yes"/>
       <point x="53" y="123"/>
       <point x="166" y="-20"/>
+      <point x="364" y="-20" type="curve" smooth="yes"/>
+      <point x="453.365" y="-20"/>
+      <point x="547.531" y="15.957"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

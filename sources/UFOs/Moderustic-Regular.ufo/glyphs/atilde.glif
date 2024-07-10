@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="atilde" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="00E3"/>
-  <anchor x="294" y="-20" name="bottom"/>
-  <anchor x="520" y="-3" name="ogonek"/>
-  <anchor x="293" y="690" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="510" y="-3" name="ogonek"/>
+  <anchor x="283" y="690" name="top"/>
   <outline>
-    <component base="a" identifier="9A3C2DE1"/>
-    <component base="tildecomb" xOffset="71" yOffset="20" identifier="9D2DC8FE"/>
+    <component base="a" identifier="8F629B25"/>
+    <component base="tildecomb" xOffset="61" yOffset="20" identifier="9FF74370"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>9A3C2DE1</key>
+        <key>8F629B25</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9D2DC8FE</key>
+        <key>9FF74370</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

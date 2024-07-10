@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Cdotaccent.ss09" format="2">
-  <advance width="753"/>
+  <advance width="740"/>
   <anchor x="397" y="-19" name="bottom"/>
   <anchor x="377" y="916" name="top"/>
   <outline>
-    <component base="C.ss09" identifier="49716199"/>
-    <component base="uni0307" xOffset="272" yOffset="219" identifier="A02C8D2C"/>
+    <component base="C.ss09" identifier="A27CDB5A"/>
+    <component base="uni0307" xOffset="272" yOffset="219" identifier="FAC7635C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>49716199</key>
+        <key>A27CDB5A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A02C8D2C</key>
+        <key>FAC7635C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

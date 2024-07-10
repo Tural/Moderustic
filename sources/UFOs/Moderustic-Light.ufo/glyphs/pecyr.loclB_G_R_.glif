@@ -4,17 +4,17 @@
   <anchor x="308" y="-20" name="bottom"/>
   <anchor x="308" y="520" name="top"/>
   <outline>
-    <component base="n" identifier="DDBBE90A"/>
+    <component base="n" identifier="5B3466C3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>DDBBE90A</key>
+        <key>5B3466C3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

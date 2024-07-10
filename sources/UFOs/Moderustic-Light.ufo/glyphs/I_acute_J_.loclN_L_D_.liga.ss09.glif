@@ -2,29 +2,29 @@
 <glyph name="Iacute_J.loclNLD.liga.ss09" format="2">
   <advance width="622"/>
   <outline>
-    <component base="IJ.liga.ss09" identifier="6D3FE43E"/>
-    <component base="acutecomb" xOffset="41" yOffset="219" identifier="738E9F7E"/>
-    <component base="acutecomb" xOffset="369" yOffset="219" identifier="A344E530"/>
+    <component base="IJ.liga.ss09" identifier="7EEAFC81"/>
+    <component base="acutecomb" xOffset="41" yOffset="219" identifier="EB4533F3"/>
+    <component base="acutecomb" xOffset="369" yOffset="219" identifier="3E5B4B44"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6D3FE43E</key>
+        <key>3E5B4B44</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>738E9F7E</key>
+        <key>7EEAFC81</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A344E530</key>
+        <key>EB4533F3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

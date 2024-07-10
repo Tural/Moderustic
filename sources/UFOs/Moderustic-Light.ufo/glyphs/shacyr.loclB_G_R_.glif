@@ -4,22 +4,57 @@
   <anchor x="451" y="-20" name="bottom"/>
   <anchor x="452" y="520" name="top"/>
   <outline>
-    <component base="m" xScale="-1" yScale="-1" xOffset="898" yOffset="500" identifier="D40E1702"/>
+    <contour>
+      <point x="814" y="0" type="line" name="sh01"/>
+      <point x="814" y="500" type="line" name="av01"/>
+      <point x="754" y="500" type="line"/>
+      <point x="754" y="0" type="line" name="ab01"/>
+    </contour>
+    <contour>
+      <point x="476" y="193" type="curve" smooth="yes"/>
+      <point x="476" y="500" type="line" name="iv01"/>
+      <point x="416" y="500" type="line" name="sv01"/>
+      <point x="416" y="186" type="line" smooth="yes"/>
+      <point x="416" y="39"/>
+      <point x="476" y="-20"/>
+      <point x="563" y="-20" type="curve" smooth="yes" name="ab01"/>
+      <point x="668" y="-20"/>
+      <point x="751" y="65"/>
+      <point x="758" y="173" type="curve"/>
+      <point x="757" y="223" type="line"/>
+      <point x="754" y="263" type="line" name="at01"/>
+      <point x="754" y="117"/>
+      <point x="693" y="31"/>
+      <point x="585" y="31" type="curve" smooth="yes"/>
+      <point x="514" y="31"/>
+      <point x="476" y="69"/>
+    </contour>
+    <contour>
+      <point x="139" y="193" type="curve" smooth="yes"/>
+      <point x="139" y="500" type="line" name="iv01"/>
+      <point x="79" y="500" type="line" name="sv01"/>
+      <point x="79" y="186" type="line" smooth="yes"/>
+      <point x="79" y="39"/>
+      <point x="139" y="-20"/>
+      <point x="226" y="-20" type="curve" smooth="yes" name="ab01"/>
+      <point x="331" y="-20"/>
+      <point x="414" y="65"/>
+      <point x="421" y="173" type="curve"/>
+      <point x="420" y="223" type="line"/>
+      <point x="416" y="263" type="line" name="at01"/>
+      <point x="416" y="117"/>
+      <point x="355" y="31"/>
+      <point x="248" y="31" type="curve" smooth="yes"/>
+      <point x="177" y="31"/>
+      <point x="139" y="69"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>D40E1702</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ebreve" format="2">
-  <advance width="570"/>
+  <advance width="550"/>
   <unicode hex="0115"/>
   <anchor x="271" y="-20" name="bottom"/>
   <anchor x="401" y="-3" name="ogonek"/>
   <anchor x="271" y="700" name="top"/>
   <outline>
-    <component base="e" identifier="3A74AAFF"/>
-    <component base="uni0306" xOffset="103" yOffset="20" identifier="7C088CD0"/>
+    <component base="e" identifier="F2493F0A"/>
+    <component base="uni0306" xOffset="103" yOffset="20" identifier="00BB44E0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3A74AAFF</key>
+        <key>00BB44E0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7C088CD0</key>
+        <key>F2493F0A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

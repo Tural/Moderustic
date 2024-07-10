@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccaron" format="2">
-  <advance width="545"/>
+  <advance width="505"/>
   <unicode hex="010D"/>
-  <anchor x="304" y="-20" name="bottom"/>
-  <anchor x="304" y="722" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="264" y="722" name="top"/>
   <outline>
-    <component base="c" identifier="9AD7F391"/>
-    <component base="uni030C" xOffset="131" yOffset="20" identifier="8467C90D"/>
+    <component base="c" identifier="3BDF3CC7"/>
+    <component base="uni030C" xOffset="91" yOffset="20" identifier="2BBFF266"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8467C90D</key>
+        <key>2BBFF266</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9AD7F391</key>
+        <key>3BDF3CC7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

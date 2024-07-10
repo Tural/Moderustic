@@ -7,23 +7,23 @@
   <anchor x="265" y="719" name="top"/>
   <anchor x="-85" y="699" name="topgr"/>
   <outline>
-    <component base="Epsilon" identifier="7D7C01CF"/>
-    <component base="tonos.case" xOffset="-114" identifier="FC7166C1"/>
+    <component base="Epsilon" identifier="7CCAF5FE"/>
+    <component base="tonos.case" xOffset="-114" identifier="AB280818"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>7D7C01CF</key>
+        <key>7CCAF5FE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FC7166C1</key>
+        <key>AB280818</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

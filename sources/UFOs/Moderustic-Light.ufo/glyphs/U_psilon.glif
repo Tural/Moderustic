@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilon" format="2">
-  <advance width="662"/>
+  <advance width="642"/>
   <unicode hex="03A5"/>
-  <anchor x="329" y="-20" name="bottom"/>
-  <anchor x="331" y="719" name="top"/>
-  <anchor x="-50" y="500" name="topgr"/>
+  <anchor x="319" y="-20" name="bottom"/>
+  <anchor x="321" y="719" name="top"/>
+  <anchor x="-60" y="500" name="topgr"/>
   <outline>
-    <component base="Y" identifier="671DFAE1"/>
+    <component base="Y" identifier="3713B4B3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>671DFAE1</key>
+        <key>3713B4B3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

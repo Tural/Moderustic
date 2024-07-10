@@ -2,26 +2,26 @@
 <glyph name="lcaron" format="2">
   <advance width="300"/>
   <unicode hex="013E"/>
-  <anchor x="182" y="-20" name="bottom"/>
+  <anchor x="176" y="-20" name="bottom"/>
   <anchor x="130" y="750" name="top"/>
   <outline>
-    <component base="l" identifier="667401B0"/>
-    <component base="caron.salt" xOffset="270" yOffset="50" identifier="655556A1"/>
+    <component base="l" identifier="D16A4B25"/>
+    <component base="caron.salt" xOffset="270" yOffset="50" identifier="A138612B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>655556A1</key>
+        <key>A138612B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>667401B0</key>
+        <key>D16A4B25</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

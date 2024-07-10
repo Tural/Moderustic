@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F1" format="2">
+  <advance width="526"/>
+  <unicode hex="04F1"/>
+  <anchor x="422" y="1" name="bottom"/>
+  <anchor x="263" y="667" name="top"/>
+  <outline>
+    <component base="uni0443" identifier="867F8415"/>
+    <component base="uni0308" xOffset="59" yOffset="20" identifier="F11CFA25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>867F8415</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F11CFA25</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gbreve.ss03" format="2">
   <advance width="753"/>
-  <anchor x="387" y="-19" name="bottom"/>
+  <anchor x="387" y="-9" name="bottom"/>
   <anchor x="377" y="899" name="top"/>
   <outline>
-    <component base="G.ss03" identifier="5AE56542"/>
-    <component base="uni0306" xOffset="209" yOffset="219" identifier="A57BAD96"/>
+    <component base="G.ss03" identifier="1173703E"/>
+    <component base="uni0306" xOffset="209" yOffset="219" identifier="006700F1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5AE56542</key>
+        <key>006700F1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A57BAD96</key>
+        <key>1173703E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

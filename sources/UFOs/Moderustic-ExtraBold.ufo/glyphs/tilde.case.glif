@@ -4,17 +4,17 @@
   <anchor x="222" y="500" name="_top"/>
   <anchor x="222" y="675" name="top"/>
   <outline>
-    <component base="tildecomb" identifier="70B20DAF"/>
+    <component base="tildecomb" identifier="07D10D3B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>70B20DAF</key>
+        <key>07D10D3B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

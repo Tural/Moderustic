@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="662"/>
+  <advance width="642"/>
   <unicode hex="0059"/>
-  <anchor x="331" y="-20" name="bottom"/>
-  <anchor x="331" y="719" name="top"/>
-  <anchor x="-60" y="500" name="topgr"/>
+  <anchor x="321" y="-20" name="bottom"/>
+  <anchor x="321" y="719" name="top"/>
+  <anchor x="-70" y="500" name="topgr"/>
   <outline>
     <contour>
-      <point x="281" y="0" type="line" name="ab01"/>
-      <point x="381" y="0" type="line"/>
-      <point x="381" y="296" type="line" name="iv04"/>
-      <point x="624" y="700" type="line" name="at01"/>
-      <point x="507" y="700" type="line"/>
-      <point x="331" y="395" type="line" name="iv05"/>
-      <point x="155" y="700" type="line" name="at02"/>
-      <point x="38" y="700" type="line"/>
-      <point x="281" y="296" type="line" name="iv01"/>
+      <point x="271" y="296" type="line" name="iv01"/>
+      <point x="271" y="0" type="line" name="ab01"/>
+      <point x="371" y="0" type="line"/>
+      <point x="371" y="296" type="line" name="iv04"/>
+      <point x="614" y="700" type="line" name="at01"/>
+      <point x="497" y="700" type="line"/>
+      <point x="321" y="395" type="line" name="iv05"/>
+      <point x="145" y="700" type="line" name="at02"/>
+      <point x="28" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:59:31 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

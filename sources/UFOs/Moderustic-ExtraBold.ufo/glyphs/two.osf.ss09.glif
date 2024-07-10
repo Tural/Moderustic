@@ -3,6 +3,12 @@
   <advance width="612"/>
   <outline>
     <contour>
+      <point x="45" y="135" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="135" type="line"/>
+    </contour>
+    <contour>
       <point x="45" y="169" type="curve"/>
       <point x="45" y="64" type="line"/>
       <point x="387.692" y="122.345"/>
@@ -24,17 +30,11 @@
       <point x="356" y="267.895"/>
       <point x="275.196" y="190.939"/>
     </contour>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="566" y="0" type="line"/>
-      <point x="566" y="135" type="line"/>
-      <point x="45" y="135" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

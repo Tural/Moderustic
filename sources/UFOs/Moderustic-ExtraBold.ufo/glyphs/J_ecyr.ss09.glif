@@ -4,17 +4,17 @@
   <anchor x="279" y="-20" name="bottom"/>
   <anchor x="430" y="719" name="top"/>
   <outline>
-    <component base="J.ss09" identifier="2F38631E"/>
+    <component base="J.ss09" identifier="FF4185E1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>2F38631E</key>
+        <key>FF4185E1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

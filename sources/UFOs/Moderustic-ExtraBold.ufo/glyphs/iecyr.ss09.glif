@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iecyr.ss09" format="2">
-  <advance width="587"/>
-  <anchor x="292" y="-20" name="bottom"/>
-  <anchor x="415" y="-3" name="ogonek"/>
-  <anchor x="292" y="520" name="top"/>
+  <advance width="551"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="400" y="-3" name="ogonek"/>
+  <anchor x="278" y="520" name="top"/>
   <outline>
-    <component base="e.ss09" identifier="D089456D"/>
+    <component base="e.ss09" identifier="DFFCC68E"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>D089456D</key>
+        <key>DFFCC68E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

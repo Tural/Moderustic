@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="estailcyr.ss10" format="2">
+  <advance width="527"/>
+  <anchor x="297" y="-20" name="bottom"/>
+  <anchor x="277" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="481" y="65" type="curve"/>
+      <point x="454" y="150" type="line"/>
+      <point x="412.503" y="85"/>
+      <point x="355.098" y="50"/>
+      <point x="283.341" y="50" type="curve" smooth="yes"/>
+      <point x="189.578" y="50"/>
+      <point x="136" y="134"/>
+      <point x="136" y="256" type="curve" smooth="yes"/>
+      <point x="136" y="375"/>
+      <point x="195.4" y="450"/>
+      <point x="289.291" y="450" type="curve" smooth="yes"/>
+      <point x="354.439" y="450"/>
+      <point x="419.588" y="410"/>
+      <point x="454" y="350" type="curve"/>
+      <point x="481" y="435" type="line"/>
+      <point x="437.615" y="488"/>
+      <point x="367.822" y="520"/>
+      <point x="278.643" y="520" type="curve" smooth="yes"/>
+      <point x="135.18" y="520"/>
+      <point x="46" y="412"/>
+      <point x="46" y="255" type="curve" smooth="yes"/>
+      <point x="46" y="91"/>
+      <point x="134.21" y="-20"/>
+      <point x="278.643" y="-20" type="curve" smooth="yes"/>
+      <point x="367.822" y="-20"/>
+      <point x="437.615" y="12"/>
+    </contour>
+    <contour>
+      <point x="330.052" y="0" type="line"/>
+      <point x="250.052" y="0" type="line"/>
+      <point x="250.053" y="-120" type="line"/>
+      <point x="330.053" y="-120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

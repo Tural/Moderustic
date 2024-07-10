@@ -3,23 +3,23 @@
   <advance width="567"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="less" xOffset="17" yOffset="42" identifier="E7361CA7"/>
-    <component base="minus" xOffset="11" yOffset="-323" identifier="53F843B1"/>
+    <component base="less" xOffset="17" yOffset="42" identifier="C32F50CA"/>
+    <component base="minus" xOffset="11" yOffset="-323" identifier="CB35C8D3"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>53F843B1</key>
+        <key>C32F50CA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E7361CA7</key>
+        <key>CB35C8D3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

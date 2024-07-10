@@ -7,23 +7,23 @@
   <anchor x="168" y="866" name="top"/>
   <anchor x="13" y="500" name="topgr"/>
   <outline>
-    <component base="uni0406" identifier="CA934868"/>
-    <component base="dieresis.case" xOffset="-36" yOffset="219" identifier="430F62C4"/>
+    <component base="uni0406" identifier="EB9A6612"/>
+    <component base="dieresis.case" xOffset="-36" yOffset="219" identifier="B0F2B84A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>430F62C4</key>
+        <key>B0F2B84A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CA934868</key>
+        <key>EB9A6612</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

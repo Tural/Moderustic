@@ -6,23 +6,23 @@
   <anchor x="762" y="719" name="top"/>
   <anchor x="1" y="500" name="topgr"/>
   <outline>
-    <component base="I" identifier="0C92BE8A"/>
-    <component base="J.ss10" xOffset="326" identifier="4308F4CA"/>
+    <component base="I" identifier="421CAEC5"/>
+    <component base="J.ss10" xOffset="326" identifier="5ECC4297"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0C92BE8A</key>
+        <key>421CAEC5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4308F4CA</key>
+        <key>5ECC4297</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

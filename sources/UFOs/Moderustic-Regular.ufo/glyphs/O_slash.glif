@@ -21,10 +21,10 @@
       <point x="202" y="-20"/>
     </contour>
     <contour>
-      <point x="171.728" y="-67" type="line"/>
-      <point x="201.155" y="-67" type="line"/>
-      <point x="622.184" y="767.75" type="line"/>
-      <point x="592.758" y="767.75" type="line"/>
+      <point x="151.728" y="-67" type="line"/>
+      <point x="221.155" y="-67" type="line"/>
+      <point x="642.184" y="767.75" type="line"/>
+      <point x="572.758" y="767.75" type="line"/>
     </contour>
     <contour>
       <point x="399.969" y="60" type="curve" smooth="yes" name="dv02"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:38:28 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

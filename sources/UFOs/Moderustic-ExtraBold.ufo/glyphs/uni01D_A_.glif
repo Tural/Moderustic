@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01DA" format="2">
+  <advance width="580"/>
+  <unicode hex="01DA"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="410" y="-3" name="ogonek"/>
+  <anchor x="290" y="909" name="top"/>
+  <outline>
+    <component base="udieresis" identifier="94759BA1"/>
+    <component base="uni030C" xOffset="117" yOffset="207" identifier="E6FEF67B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>94759BA1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E6FEF67B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

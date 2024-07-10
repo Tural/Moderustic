@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04E9" format="2">
+  <advance width="578"/>
+  <unicode hex="04E9"/>
+  <anchor x="289" y="-20" name="bottom"/>
+  <anchor x="401" y="-3" name="ogonek"/>
+  <anchor x="289" y="520" name="top"/>
+  <anchor x="289" y="520" name="topgr"/>
+  <outline>
+    <contour>
+      <point x="289" y="-20" type="curve" smooth="yes"/>
+      <point x="463" y="-20"/>
+      <point x="558" y="79"/>
+      <point x="558" y="255" type="curve" smooth="yes"/>
+      <point x="558" y="421"/>
+      <point x="462" y="520"/>
+      <point x="289" y="520" type="curve" smooth="yes"/>
+      <point x="126" y="520"/>
+      <point x="20" y="421"/>
+      <point x="20" y="255" type="curve" smooth="yes"/>
+      <point x="20" y="79"/>
+      <point x="127" y="-20"/>
+    </contour>
+    <contour>
+      <point x="289" y="120" type="curve" smooth="yes"/>
+      <point x="236" y="120"/>
+      <point x="210" y="163.643"/>
+      <point x="210" y="250.929" type="curve" smooth="yes"/>
+      <point x="210" y="337.286"/>
+      <point x="235" y="380"/>
+      <point x="289" y="380" type="curve" smooth="yes"/>
+      <point x="341" y="380"/>
+      <point x="368" y="339.143"/>
+      <point x="368" y="251.857" type="curve" smooth="yes"/>
+      <point x="368" y="163.643"/>
+      <point x="341" y="120"/>
+    </contour>
+    <contour>
+      <point x="144.212" y="218.976" type="line"/>
+      <point x="433.788" y="218.976" type="line"/>
+      <point x="433.788" y="292" type="line"/>
+      <point x="144.212" y="292" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:43:03 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

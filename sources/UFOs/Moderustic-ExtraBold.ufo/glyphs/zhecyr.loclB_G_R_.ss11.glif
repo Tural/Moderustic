@@ -7,24 +7,24 @@
     <contour>
       <point x="671" y="0" type="line" name="ab02"/>
       <point x="884" y="0" type="line"/>
-      <point x="746" y="283" type="line"/>
+      <point x="746" y="263" type="line"/>
       <point x="871" y="500" type="line" name="av02"/>
       <point x="680" y="500" type="line"/>
-      <point x="598" y="362" type="line" name="iv02"/>
-      <point x="414" y="362" type="line"/>
-      <point x="415" y="228" type="line"/>
-      <point x="579" y="228" type="line" name="iv01"/>
+      <point x="598" y="342" type="line" name="iv02"/>
+      <point x="414" y="342" type="line"/>
+      <point x="415" y="208" type="line"/>
+      <point x="579" y="208" type="line" name="iv01"/>
     </contour>
     <contour>
       <point x="2" y="0" type="line"/>
       <point x="215" y="0" type="line" name="ab02"/>
-      <point x="307" y="228" type="line" name="iv01"/>
-      <point x="471" y="228" type="line"/>
-      <point x="472" y="362" type="line"/>
-      <point x="288" y="362" type="line" name="iv02"/>
+      <point x="307" y="208" type="line" name="iv01"/>
+      <point x="471" y="208" type="line"/>
+      <point x="472" y="342" type="line"/>
+      <point x="288" y="342" type="line" name="iv02"/>
       <point x="206" y="500" type="line"/>
       <point x="15" y="500" type="line" name="av02"/>
-      <point x="140" y="283" type="line"/>
+      <point x="140" y="263" type="line"/>
     </contour>
     <contour>
       <point x="348" y="0" type="line"/>
@@ -36,7 +36,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:38:28 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

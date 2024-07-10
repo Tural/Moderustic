@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edotaccent.ss12" format="2">
-  <advance width="574"/>
+  <advance width="554"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="400" y="-3" name="ogonek"/>
-  <anchor x="290" y="683" name="top"/>
+  <anchor x="381" y="-3" name="ogonek"/>
+  <anchor x="280" y="683" name="top"/>
   <outline>
-    <component base="e.ss12" identifier="6AB82150"/>
-    <component base="uni0307" xOffset="185" yOffset="20" identifier="26A85928"/>
+    <component base="e.ss12" identifier="65669B1B"/>
+    <component base="uni0307" xOffset="175" yOffset="20" identifier="CFE7D485"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>26A85928</key>
+        <key>65669B1B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6AB82150</key>
+        <key>CFE7D485</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

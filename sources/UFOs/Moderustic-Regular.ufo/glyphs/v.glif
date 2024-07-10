@@ -6,19 +6,19 @@
   <anchor x="265" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="25" y="500" type="line"/>
       <point x="217" y="0" type="line"/>
       <point x="313" y="0" type="line"/>
       <point x="505" y="500" type="line"/>
       <point x="406" y="500" type="line"/>
       <point x="265" y="92" type="line"/>
       <point x="124" y="500" type="line"/>
-      <point x="25" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

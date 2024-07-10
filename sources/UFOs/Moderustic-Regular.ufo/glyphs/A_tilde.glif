@@ -7,23 +7,23 @@
   <anchor x="328" y="889" name="top"/>
   <anchor x="106" y="500" name="topgr"/>
   <outline>
-    <component base="A" identifier="2CB8E1D4"/>
-    <component base="tildecomb" xOffset="106" yOffset="219" identifier="FF419670"/>
+    <component base="A" identifier="B8EA2B6D"/>
+    <component base="tildecomb" xOffset="106" yOffset="219" identifier="85389092"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>2CB8E1D4</key>
+        <key>85389092</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FF419670</key>
+        <key>B8EA2B6D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

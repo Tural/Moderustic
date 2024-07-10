@@ -5,23 +5,23 @@
   <anchor x="416" y="-20" name="bottom"/>
   <anchor x="402" y="919" name="top"/>
   <outline>
-    <component base="C" identifier="9DE35DB2"/>
-    <component base="acutecomb" xOffset="261" yOffset="219" identifier="0D6C8B5E"/>
+    <component base="C" identifier="55D44FCA"/>
+    <component base="acutecomb" xOffset="261" yOffset="219" identifier="8D999D20"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0D6C8B5E</key>
+        <key>55D44FCA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9DE35DB2</key>
+        <key>8D999D20</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

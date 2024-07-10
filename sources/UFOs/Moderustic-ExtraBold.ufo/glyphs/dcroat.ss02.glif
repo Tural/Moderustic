@@ -5,66 +5,60 @@
     <contour>
       <point x="237" y="-20" type="curve" smooth="yes"/>
       <point x="338" y="-20"/>
-      <point x="395" y="82"/>
-      <point x="395" y="255" type="curve" smooth="yes"/>
-      <point x="395" y="432"/>
-      <point x="339" y="520"/>
-      <point x="226" y="520" type="curve" smooth="yes"/>
-      <point x="89" y="520"/>
-      <point x="20" y="411"/>
-      <point x="20" y="255" type="curve" smooth="yes"/>
-      <point x="20" y="99"/>
+      <point x="395" y="78.222"/>
+      <point x="395" y="244.815" type="curve" smooth="yes"/>
+      <point x="395" y="415.259"/>
+      <point x="339" y="500"/>
+      <point x="226" y="500" type="curve" smooth="yes"/>
+      <point x="89" y="500"/>
+      <point x="20" y="395.037"/>
+      <point x="20" y="244.815" type="curve" smooth="yes"/>
+      <point x="20" y="94.593"/>
       <point x="103" y="-20"/>
     </contour>
     <contour>
-      <point x="291" y="116" type="curve" smooth="yes"/>
-      <point x="240" y="116"/>
-      <point x="210" y="167"/>
-      <point x="210" y="254" type="curve" smooth="yes"/>
-      <point x="210" y="334"/>
-      <point x="239" y="383"/>
-      <point x="287" y="383" type="curve" smooth="yes"/>
-      <point x="335" y="383"/>
-      <point x="363" y="335"/>
-      <point x="363" y="255" type="curve" smooth="yes"/>
-      <point x="363" y="168"/>
-      <point x="336" y="116"/>
+      <point x="290.471" y="116" type="curve" smooth="yes"/>
+      <point x="239.804" y="116"/>
+      <point x="210" y="163.18"/>
+      <point x="210" y="243.663" type="curve" smooth="yes"/>
+      <point x="210" y="317.67"/>
+      <point x="238.81" y="363"/>
+      <point x="286.497" y="363" type="curve" smooth="yes"/>
+      <point x="334.183" y="363"/>
+      <point x="362" y="318.596"/>
+      <point x="362" y="244.588" type="curve" smooth="yes"/>
+      <point x="362" y="164.105"/>
+      <point x="335.176" y="116"/>
     </contour>
     <contour>
-      <point x="505.516" y="-20" type="curve" smooth="yes"/>
-      <point x="549.115" y="-20"/>
-      <point x="585.448" y="-12"/>
+      <point x="505.51" y="-20" type="curve" smooth="yes"/>
+      <point x="549.11" y="-20"/>
+      <point x="585.44" y="-12"/>
       <point x="632" y="6" type="curve"/>
       <point x="598" y="133" type="line"/>
-      <point x="592" y="126.953"/>
-      <point x="581.254" y="122"/>
-      <point x="570.156" y="122" type="curve" smooth="yes"/>
-      <point x="558.723" y="122"/>
-      <point x="553" y="143.033"/>
-      <point x="553" y="209.138" type="curve" smooth="yes"/>
-      <point x="553" y="324.625" type="line"/>
-      <point x="362" y="324.625" type="line"/>
-      <point x="362" y="132" type="line" smooth="yes"/>
-      <point x="362" y="26"/>
-      <point x="400.15" y="-20"/>
+      <point x="592" y="126.95"/>
+      <point x="581.25" y="122"/>
+      <point x="570.15" y="122" type="curve" smooth="yes"/>
+      <point x="558.72" y="122"/>
+      <point x="553" y="141.356"/>
+      <point x="553" y="202.193" type="curve" smooth="yes"/>
+      <point x="553" y="700" type="line"/>
+      <point x="362" y="700" type="line"/>
+      <point x="362" y="122.13" type="line" smooth="yes"/>
+      <point x="362" y="23.013"/>
+      <point x="400.14" y="-20"/>
     </contour>
     <contour>
-      <point x="363" y="150" type="line"/>
-      <point x="553" y="150" type="line"/>
-      <point x="553" y="750" type="line"/>
-      <point x="363" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="211.455" y="631" type="line"/>
-      <point x="622.447" y="631" type="line"/>
-      <point x="622.447" y="665" type="line"/>
-      <point x="211.455" y="665" type="line"/>
+      <point x="191.455" y="601" type="line"/>
+      <point x="622.447" y="601" type="line"/>
+      <point x="622.447" y="635" type="line"/>
+      <point x="191.455" y="635" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:38:09 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

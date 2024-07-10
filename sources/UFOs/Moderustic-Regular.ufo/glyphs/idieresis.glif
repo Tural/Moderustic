@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idieresis" format="2">
-  <advance width="272"/>
+  <advance width="312"/>
   <unicode hex="00EF"/>
-  <anchor x="136" y="-20" name="bottom"/>
-  <anchor x="178" y="-3" name="ogonek"/>
-  <anchor x="136" y="667" name="top"/>
+  <anchor x="156" y="-20" name="bottom"/>
+  <anchor x="198" y="-3" name="ogonek"/>
+  <anchor x="156" y="667" name="top"/>
   <outline>
-    <component base="dotlessi" identifier="5309EB10"/>
-    <component base="uni0308" xOffset="-68" yOffset="20" identifier="3391A57A"/>
+    <component base="dotlessi" xOffset="20" identifier="AFC0B151"/>
+    <component base="uni0308" xOffset="-48" yOffset="20" identifier="FFD202D9"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3391A57A</key>
+        <key>AFC0B151</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5309EB10</key>
+        <key>FFD202D9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

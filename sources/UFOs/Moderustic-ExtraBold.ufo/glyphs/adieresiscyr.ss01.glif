@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresiscyr.ss01" format="2">
+  <advance width="606"/>
+  <anchor x="283" y="-20" name="bottom"/>
+  <anchor x="616" y="-3" name="ogonek"/>
+  <anchor x="291" y="707" name="top"/>
+  <outline>
+    <component base="acyr.ss01" identifier="7409D34E"/>
+    <component base="uni0308" xOffset="87" yOffset="20" identifier="FA20C762"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7409D34E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA20C762</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcircumflex" format="2">
-  <advance width="605"/>
+  <advance width="595"/>
   <unicode hex="011D"/>
   <anchor x="298" y="-220" name="bottom"/>
-  <anchor x="307" y="720" name="top"/>
+  <anchor x="297" y="720" name="top"/>
   <outline>
-    <component base="g" identifier="CBB03F35"/>
-    <component base="uni0302" xOffset="134" yOffset="20" identifier="2B20D586"/>
+    <component base="g" identifier="1A297CAA"/>
+    <component base="uni0302" xOffset="124" yOffset="20" identifier="B10050F0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>2B20D586</key>
+        <key>1A297CAA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CBB03F35</key>
+        <key>B10050F0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

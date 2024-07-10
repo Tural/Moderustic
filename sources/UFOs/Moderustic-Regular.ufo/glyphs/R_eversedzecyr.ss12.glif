@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Reversedzecyr.ss12" format="2">
+  <advance width="598"/>
+  <anchor x="318" y="-20" name="bottom"/>
+  <anchor x="318" y="719" name="top"/>
+  <outline>
+    <contour>
+      <point x="547.5" y="82.286" type="curve"/>
+      <point x="539.455" y="156.989" type="line"/>
+      <point x="468.2" y="94.928"/>
+      <point x="389.138" y="60"/>
+      <point x="312.136" y="60" type="curve" smooth="yes"/>
+      <point x="229.246" y="60"/>
+      <point x="159.144" y="102.158"/>
+      <point x="159.144" y="191.492" type="curve" smooth="yes"/>
+      <point x="159.144" y="268.782"/>
+      <point x="209.015" y="327"/>
+      <point x="355.644" y="327" type="curve"/>
+      <point x="355.644" y="402" type="line"/>
+      <point x="239.644" y="402"/>
+      <point x="191.644" y="470.287"/>
+      <point x="191.644" y="538.574" type="curve" smooth="yes"/>
+      <point x="191.644" y="607.865"/>
+      <point x="245.644" y="640"/>
+      <point x="310.644" y="640" type="curve" smooth="yes"/>
+      <point x="373.658" y="640"/>
+      <point x="455.967" y="617.418"/>
+      <point x="526.636" y="551.582" type="curve"/>
+      <point x="534.656" y="626.053" type="line"/>
+      <point x="486.536" y="681.047"/>
+      <point x="401.019" y="720"/>
+      <point x="311.653" y="720" type="curve" smooth="yes"/>
+      <point x="184.653" y="720"/>
+      <point x="101.644" y="648"/>
+      <point x="101.644" y="542" type="curve" smooth="yes"/>
+      <point x="101.644" y="451"/>
+      <point x="143.644" y="399"/>
+      <point x="260.644" y="371" type="curve"/>
+      <point x="130.305" y="355"/>
+      <point x="69.144" y="294"/>
+      <point x="69.144" y="179" type="curve" smooth="yes"/>
+      <point x="69.144" y="57"/>
+      <point x="166.247" y="-20"/>
+      <point x="308.397" y="-20" type="curve" smooth="yes"/>
+      <point x="406.711" y="-20"/>
+      <point x="485.004" y="13.541"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

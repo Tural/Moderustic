@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereverseddieresiscyr.ss12" format="2">
+  <advance width="532"/>
+  <anchor x="259" y="-20" name="bottom"/>
+  <anchor x="259" y="707" name="top"/>
+  <outline>
+    <component base="ereversedcyr.ss12" identifier="48B40570"/>
+    <component base="uni0308" xOffset="55" yOffset="20" identifier="CDE63FB9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>48B40570</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CDE63FB9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

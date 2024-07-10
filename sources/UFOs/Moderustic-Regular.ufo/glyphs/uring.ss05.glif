@@ -5,23 +5,23 @@
   <anchor x="494" y="-3" name="ogonek"/>
   <anchor x="290" y="743" name="top"/>
   <outline>
-    <component base="u.ss05" identifier="FEEFD902"/>
-    <component base="uni030A" xOffset="155" yOffset="20" identifier="B860131A"/>
+    <component base="u.ss05" identifier="C2864639"/>
+    <component base="uni030A" xOffset="155" yOffset="20" identifier="970EF037"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>B860131A</key>
+        <key>970EF037</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FEEFD902</key>
+        <key>C2864639</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

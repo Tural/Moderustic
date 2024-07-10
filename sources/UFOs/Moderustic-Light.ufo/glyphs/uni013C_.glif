@@ -2,27 +2,27 @@
 <glyph name="uni013C" format="2">
   <advance width="300"/>
   <unicode hex="013C"/>
-  <anchor x="184" y="-268" name="bottom"/>
+  <anchor x="174" y="-268" name="bottom"/>
   <anchor x="132" y="750" name="top"/>
   <anchor x="210" y="750" name="topright"/>
   <outline>
-    <component base="l" identifier="D678EBC5"/>
-    <component base="uni0326" xOffset="61" yOffset="-20" identifier="8F2B515C"/>
+    <component base="l" identifier="FCCDF591"/>
+    <component base="uni0326" xOffset="51" yOffset="-20" identifier="ABDB0F22"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8F2B515C</key>
+        <key>ABDB0F22</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D678EBC5</key>
+        <key>FCCDF591</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

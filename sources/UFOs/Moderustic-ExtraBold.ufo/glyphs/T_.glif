@@ -2,10 +2,11 @@
 <glyph name="T" format="2">
   <advance width="626"/>
   <unicode hex="0054"/>
-  <anchor x="313" y="-20" name="bottom"/>
+  <anchor x="313" y="0" name="bottom"/>
   <anchor x="313" y="719" name="top"/>
   <outline>
     <contour>
+      <point x="218" y="560" type="line"/>
       <point x="218" y="0" type="line"/>
       <point x="408" y="0" type="line"/>
       <point x="408" y="560" type="line"/>
@@ -13,13 +14,12 @@
       <point x="616" y="700" type="line"/>
       <point x="10" y="700" type="line"/>
       <point x="10" y="560" type="line"/>
-      <point x="218" y="560" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

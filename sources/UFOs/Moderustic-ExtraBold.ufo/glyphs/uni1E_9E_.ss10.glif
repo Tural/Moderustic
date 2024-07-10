@@ -3,6 +3,16 @@
   <advance width="723"/>
   <outline>
     <contour>
+      <point x="516" y="162" type="curve" smooth="yes"/>
+      <point x="516" y="140"/>
+      <point x="489.473" y="120"/>
+      <point x="462.946" y="120" type="curve" smooth="yes"/>
+      <point x="393.568" y="120"/>
+      <point x="361" y="154"/>
+      <point x="315" y="233" type="curve"/>
+      <point x="251.103" y="61.839" type="line"/>
+      <point x="286.83" y="5.569"/>
+      <point x="360.493" y="-20"/>
       <point x="456.582" y="-20" type="curve" smooth="yes"/>
       <point x="645.556" y="-20"/>
       <point x="703" y="78.895"/>
@@ -36,22 +46,12 @@
       <point x="321" y="418" type="curve" smooth="yes"/>
       <point x="321" y="262"/>
       <point x="516" y="250"/>
-      <point x="516" y="162" type="curve" smooth="yes"/>
-      <point x="516" y="140"/>
-      <point x="489.473" y="120"/>
-      <point x="462.946" y="120" type="curve" smooth="yes"/>
-      <point x="393.568" y="120"/>
-      <point x="361" y="154"/>
-      <point x="315" y="233" type="curve"/>
-      <point x="251.103" y="61.839" type="line"/>
-      <point x="286.83" y="5.569"/>
-      <point x="360.493" y="-20"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

@@ -3,23 +3,23 @@
   <advance width="480"/>
   <anchor x="215" y="718" name="topgr"/>
   <outline>
-    <component base="epsilon.ss10" identifier="6F7576F0"/>
-    <component base="tonos" xOffset="186" yOffset="19" identifier="10C69F99"/>
+    <component base="epsilon.ss10" identifier="3AEA70E8"/>
+    <component base="tonos" xOffset="186" yOffset="19" identifier="0517673C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>10C69F99</key>
+        <key>0517673C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6F7576F0</key>
+        <key>3AEA70E8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -2,25 +2,25 @@
 <glyph name="hdot.ss11" format="2">
   <advance width="606"/>
   <anchor x="308" y="-20" name="bottom"/>
-  <anchor x="144" y="947" name="top"/>
+  <anchor x="144" y="945" name="top"/>
   <outline>
-    <component base="h.ss11" identifier="01DF068C"/>
-    <component base="uni0307" xOffset="39" yOffset="250" identifier="F3D8BF8E"/>
+    <component base="h.ss11" identifier="9BCB826C"/>
+    <component base="uni0307" xOffset="39" yOffset="248" identifier="2FA6750B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>01DF068C</key>
+        <key>2FA6750B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F3D8BF8E</key>
+        <key>9BCB826C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

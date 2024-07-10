@@ -3,23 +3,23 @@
   <advance width="660"/>
   <anchor x="330" y="0" name="caret_1"/>
   <outline>
-    <component base="iacute.ss11" identifier="2D415F81"/>
-    <component base="uni006A0301" xOffset="370" identifier="10000F91"/>
+    <component base="iacute.ss11" identifier="37CBB1F4"/>
+    <component base="uni006A0301" xOffset="370" identifier="27EC44C8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:43:49 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>10000F91</key>
+        <key>27EC44C8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2D415F81</key>
+        <key>37CBB1F4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

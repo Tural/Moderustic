@@ -2,26 +2,26 @@
 <glyph name="ycircumflex" format="2">
   <advance width="526"/>
   <unicode hex="0177"/>
-  <anchor x="422" y="-59" name="bottom"/>
+  <anchor x="422" y="1" name="bottom"/>
   <anchor x="263" y="720" name="top"/>
   <outline>
-    <component base="y" identifier="406DC7AF"/>
-    <component base="uni0302" xOffset="90" yOffset="20" identifier="0391631F"/>
+    <component base="y" identifier="F06342C2"/>
+    <component base="uni0302" xOffset="90" yOffset="20" identifier="D4DC96ED"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0391631F</key>
+        <key>D4DC96ED</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>406DC7AF</key>
+        <key>F06342C2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

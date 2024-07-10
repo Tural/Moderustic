@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eacute.ss12" format="2">
-  <advance width="574"/>
+  <advance width="554"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="403" y="-3" name="ogonek"/>
-  <anchor x="306" y="720" name="top"/>
+  <anchor x="393" y="-3" name="ogonek"/>
+  <anchor x="296" y="720" name="top"/>
   <outline>
-    <component base="e.ss12" identifier="474BF02B"/>
-    <component base="acutecomb" xOffset="165" yOffset="20" identifier="D1A7A9FA"/>
+    <component base="e.ss12" identifier="B121A8F2"/>
+    <component base="acutecomb" xOffset="155" yOffset="20" identifier="F80FB880"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>474BF02B</key>
+        <key>B121A8F2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D1A7A9FA</key>
+        <key>F80FB880</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

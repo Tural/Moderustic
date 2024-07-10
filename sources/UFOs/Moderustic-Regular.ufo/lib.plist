@@ -1395,7 +1395,7 @@
     <dict>
       <key>GSDimensionPlugin.Dimensions</key>
       <dict>
-        <key>15700EBA-52AC-4D6B-A2D3-7F45C26CE079</key>
+        <key>80F95D5A-7464-498F-9BB9-FC89FE1B12C4</key>
         <dict>
           <key>HH</key>
           <integer>10</integer>
@@ -1414,7 +1414,7 @@
           <key>tH</key>
           <integer>10</integer>
         </dict>
-        <key>3DC573FB-EF22-4F14-BBA7-D097D7391B70</key>
+        <key>B3C53035-7890-4C98-85EB-10A7AE0A8F58</key>
         <dict>
           <key>HH</key>
           <integer>10</integer>
@@ -1433,64 +1433,7 @@
           <key>tH</key>
           <integer>10</integer>
         </dict>
-        <key>48315E7A-EC54-430B-915E-ECFED2D8F863</key>
-        <dict>
-          <key>HH</key>
-          <integer>10</integer>
-          <key>HV</key>
-          <integer>48</integer>
-          <key>OH</key>
-          <integer>10</integer>
-          <key>OV</key>
-          <integer>48</integer>
-          <key>nV</key>
-          <integer>48</integer>
-          <key>oH</key>
-          <integer>10</integer>
-          <key>oV</key>
-          <integer>48</integer>
-          <key>tH</key>
-          <integer>10</integer>
-        </dict>
-        <key>87250A93-E16C-45E7-81EC-EDE6CBCB21F2</key>
-        <dict>
-          <key>HH</key>
-          <integer>10</integer>
-          <key>HV</key>
-          <integer>48</integer>
-          <key>OH</key>
-          <integer>10</integer>
-          <key>OV</key>
-          <integer>48</integer>
-          <key>nV</key>
-          <integer>48</integer>
-          <key>oH</key>
-          <integer>10</integer>
-          <key>oV</key>
-          <integer>48</integer>
-          <key>tH</key>
-          <integer>10</integer>
-        </dict>
-        <key>966EEAD7-910A-41B6-BB10-BC7C26207015</key>
-        <dict>
-          <key>HH</key>
-          <integer>10</integer>
-          <key>HV</key>
-          <integer>48</integer>
-          <key>OH</key>
-          <integer>10</integer>
-          <key>OV</key>
-          <integer>48</integer>
-          <key>nV</key>
-          <integer>48</integer>
-          <key>oH</key>
-          <integer>10</integer>
-          <key>oV</key>
-          <integer>48</integer>
-          <key>tH</key>
-          <integer>10</integer>
-        </dict>
-        <key>C3B1342C-4554-42D4-BF1D-4BC45B7A32A8</key>
+        <key>C7381861-8087-459F-9A66-D6EC096294DF</key>
         <dict>
           <key>HH</key>
           <integer>10</integer>
@@ -1672,7 +1615,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>966EEAD7-910A-41B6-BB10-BC7C26207015</string>
+    <string>C7381861-8087-459F-9A66-D6EC096294DF</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.gridSize</key>
@@ -1686,6 +1629,7 @@
       <string>A</string>
       <string>Aacute</string>
       <string>Abreve</string>
+      <string>uni01CD</string>
       <string>Acircumflex</string>
       <string>Adieresis</string>
       <string>Agrave</string>
@@ -1739,6 +1683,7 @@
       <string>Iacute_J.loclNLD</string>
       <string>Iacute</string>
       <string>Ibreve</string>
+      <string>uni01CF</string>
       <string>Icircumflex</string>
       <string>Idieresis</string>
       <string>Idotaccent</string>
@@ -1750,6 +1695,7 @@
       <string>uni004A0301</string>
       <string>Jcircumflex</string>
       <string>K</string>
+      <string>uni1E30</string>
       <string>uni0136</string>
       <string>L</string>
       <string>uni01C7</string>
@@ -1771,6 +1717,7 @@
       <string>O</string>
       <string>Oacute</string>
       <string>Obreve</string>
+      <string>uni01D1</string>
       <string>Ocircumflex</string>
       <string>Odieresis</string>
       <string>Ograve</string>
@@ -1781,6 +1728,7 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>P</string>
+      <string>uni1E54</string>
       <string>uni1E56</string>
       <string>Thorn</string>
       <string>Q</string>
@@ -1804,8 +1752,13 @@
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
+      <string>uni01D3</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
+      <string>uni01D7</string>
+      <string>uni01D9</string>
+      <string>uni01DB</string>
+      <string>uni01D5</string>
       <string>Ugrave</string>
       <string>Uhungarumlaut</string>
       <string>Umacron</string>
@@ -1984,6 +1937,7 @@
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
+      <string>uni01CE</string>
       <string>acircumflex</string>
       <string>adieresis</string>
       <string>agrave</string>
@@ -2034,6 +1988,7 @@
       <string>dotlessi</string>
       <string>iacute</string>
       <string>ibreve</string>
+      <string>uni01D0</string>
       <string>icircumflex</string>
       <string>idieresis</string>
       <string>igrave</string>
@@ -2047,6 +2002,7 @@
       <string>uni006A0301</string>
       <string>jcircumflex</string>
       <string>k</string>
+      <string>uni1E31</string>
       <string>uni0137</string>
       <string>kgreenlandic</string>
       <string>l</string>
@@ -2068,6 +2024,7 @@
       <string>o</string>
       <string>oacute</string>
       <string>obreve</string>
+      <string>uni01D2</string>
       <string>ocircumflex</string>
       <string>odieresis</string>
       <string>ograve</string>
@@ -2078,6 +2035,7 @@
       <string>otilde</string>
       <string>oe</string>
       <string>p</string>
+      <string>uni1E55</string>
       <string>uni1E57</string>
       <string>thorn</string>
       <string>q</string>
@@ -2092,6 +2050,7 @@
       <string>scircumflex</string>
       <string>uni0219</string>
       <string>germandbls</string>
+      <string>longs</string>
       <string>t</string>
       <string>tbar</string>
       <string>tcaron</string>
@@ -2101,8 +2060,13 @@
       <string>u</string>
       <string>uacute</string>
       <string>ubreve</string>
+      <string>uni01D4</string>
       <string>ucircumflex</string>
       <string>udieresis</string>
+      <string>uni01D8</string>
+      <string>uni01DA</string>
+      <string>uni01DC</string>
+      <string>uni01D6</string>
       <string>ugrave</string>
       <string>uhungarumlaut</string>
       <string>umacron</string>
@@ -2138,6 +2102,7 @@
       <string>a.ss01</string>
       <string>aacute.ss01</string>
       <string>abreve.ss01</string>
+      <string>uni01CE.ss01</string>
       <string>acircumflex.ss01</string>
       <string>adieresis.ss01</string>
       <string>agrave.ss01</string>
@@ -2148,6 +2113,7 @@
       <string>a.ss02</string>
       <string>aacute.ss02</string>
       <string>abreve.ss02</string>
+      <string>uni01CE.ss02</string>
       <string>acircumflex.ss02</string>
       <string>adieresis.ss02</string>
       <string>agrave.ss02</string>
@@ -2165,8 +2131,13 @@
       <string>u.ss02</string>
       <string>uacute.ss02</string>
       <string>ubreve.ss02</string>
+      <string>uni01D4.ss02</string>
       <string>ucircumflex.ss02</string>
       <string>udieresis.ss02</string>
+      <string>uni01D8.ss02</string>
+      <string>uni01DA.ss02</string>
+      <string>uni01DC.ss02</string>
+      <string>uni01D6.ss02</string>
       <string>ugrave.ss02</string>
       <string>uhungarumlaut.ss02</string>
       <string>umacron.ss02</string>
@@ -2183,8 +2154,13 @@
       <string>u.ss05</string>
       <string>uacute.ss05</string>
       <string>ubreve.ss05</string>
+      <string>uni01D4.ss05</string>
       <string>ucircumflex.ss05</string>
       <string>udieresis.ss05</string>
+      <string>uni01D8.ss05</string>
+      <string>uni01DA.ss05</string>
+      <string>uni01DC.ss05</string>
+      <string>uni01D6.ss05</string>
       <string>ugrave.ss05</string>
       <string>uhungarumlaut.ss05</string>
       <string>umacron.ss05</string>
@@ -2194,6 +2170,7 @@
       <string>a.ss09</string>
       <string>aacute.ss09</string>
       <string>abreve.ss09</string>
+      <string>uni01CE.ss09</string>
       <string>acircumflex.ss09</string>
       <string>adieresis.ss09</string>
       <string>agrave.ss09</string>
@@ -2243,6 +2220,7 @@
       <string>a.ss10</string>
       <string>aacute.ss10</string>
       <string>abreve.ss10</string>
+      <string>uni01CE.ss10</string>
       <string>acircumflex.ss10</string>
       <string>adieresis.ss10</string>
       <string>agrave.ss10</string>
@@ -2294,6 +2272,7 @@
       <string>dotlessi.ss11</string>
       <string>iacute.ss11</string>
       <string>ibreve.ss11</string>
+      <string>uni01D0.ss11</string>
       <string>icircumflex.ss11</string>
       <string>idieresis.ss11</string>
       <string>i.loclTRK.ss11</string>
@@ -2303,6 +2282,7 @@
       <string>itilde.ss11</string>
       <string>ij.ss11</string>
       <string>k.ss11</string>
+      <string>uni1E31.ss11</string>
       <string>uni0137.ss11</string>
       <string>l.ss11</string>
       <string>lacute.ss11</string>
@@ -2320,6 +2300,7 @@
       <string>a.ss12</string>
       <string>aacute.ss12</string>
       <string>abreve.ss12</string>
+      <string>uni01CE.ss12</string>
       <string>acircumflex.ss12</string>
       <string>adieresis.ss12</string>
       <string>agrave.ss12</string>
@@ -2392,6 +2373,7 @@
       <string>uni0413</string>
       <string>uni0403</string>
       <string>uni0490</string>
+      <string>uni0492</string>
       <string>uni0414</string>
       <string>uni0415</string>
       <string>uni0400</string>
@@ -2435,12 +2417,49 @@
       <string>uni042E</string>
       <string>uni042F</string>
       <string>uni0402</string>
+      <string>uni0496</string>
+      <string>uni0498</string>
+      <string>uni049A</string>
+      <string>uni04A0</string>
+      <string>uni04A2</string>
+      <string>uni04AA</string>
+      <string>uni04AE</string>
+      <string>uni04B0</string>
+      <string>uni04B2</string>
+      <string>uni04B6</string>
+      <string>uni04BA</string>
+      <string>uni04C0</string>
+      <string>uni04C1</string>
+      <string>uni04D0</string>
+      <string>uni04D2</string>
+      <string>uni04D4</string>
+      <string>uni04D6</string>
+      <string>uni04D8</string>
+      <string>uni04DA</string>
+      <string>uni04DC</string>
+      <string>uni04DE</string>
+      <string>uni04E2</string>
+      <string>uni04E4</string>
+      <string>uni04E6</string>
+      <string>uni04E8</string>
+      <string>uni04EA</string>
+      <string>uni04EC</string>
+      <string>uni04EE</string>
+      <string>uni04F0</string>
+      <string>uni04F2</string>
+      <string>uni04F4</string>
+      <string>uni04F8</string>
+      <string>uni0500</string>
+      <string>uni0510</string>
+      <string>uni051A</string>
+      <string>uni051C</string>
       <string>uni0430</string>
       <string>uni0431</string>
       <string>uni0432</string>
       <string>uni0433</string>
       <string>uni0453</string>
       <string>uni0491</string>
+      <string>uni0493</string>
       <string>uni0434</string>
       <string>uni0435</string>
       <string>uni0450</string>
@@ -2484,6 +2503,42 @@
       <string>uni044E</string>
       <string>uni044F</string>
       <string>uni0452</string>
+      <string>uni0497</string>
+      <string>uni0499</string>
+      <string>uni049B</string>
+      <string>uni04A1</string>
+      <string>uni04A3</string>
+      <string>uni04AB</string>
+      <string>uni04AF</string>
+      <string>uni04B1</string>
+      <string>uni04B3</string>
+      <string>uni04B7</string>
+      <string>uni04BB</string>
+      <string>uni04CF</string>
+      <string>uni04C2</string>
+      <string>uni04D1</string>
+      <string>uni04D3</string>
+      <string>uni04D5</string>
+      <string>uni04D7</string>
+      <string>uni04D9</string>
+      <string>uni04DB</string>
+      <string>uni04DD</string>
+      <string>uni04DF</string>
+      <string>uni04E3</string>
+      <string>uni04E5</string>
+      <string>uni04E7</string>
+      <string>uni04E9</string>
+      <string>uni04EB</string>
+      <string>uni04ED</string>
+      <string>uni04EF</string>
+      <string>uni04F1</string>
+      <string>uni04F3</string>
+      <string>uni04F5</string>
+      <string>uni04F9</string>
+      <string>uni0501</string>
+      <string>uni0511</string>
+      <string>uni051B</string>
+      <string>uni051D</string>
       <string>Alpha</string>
       <string>Beta</string>
       <string>Gamma</string>
@@ -2688,6 +2743,8 @@
       <string>space</string>
       <string>uni00A0</string>
       <string>uni2009</string>
+      <string>CR</string>
+      <string>NULL</string>
       <string>.notdef</string>
       <string>anoteleia</string>
       <string>uni037E</string>
@@ -2776,7 +2833,6 @@
       <string>plus.numr</string>
       <string>minus.numr</string>
       <string>equal.numr</string>
-      <string>uniF8FF</string>
       <string>at</string>
       <string>ampersand</string>
       <string>paragraph</string>
@@ -2948,9 +3004,16 @@
       <string>Ereversedcyr.ss09</string>
       <string>Ereversedcyr.ss10</string>
       <string>Ereversedcyr.ss12</string>
+      <string>Ereverseddieresiscyr.ss09</string>
+      <string>Ereverseddieresiscyr.ss10</string>
+      <string>Ereverseddieresiscyr.ss12</string>
       <string>Escyr.ss09</string>
       <string>Escyr.ss10</string>
       <string>Escyr.ss12</string>
+      <string>Estailcyr.loclCHU</string>
+      <string>Estailcyr.ss09</string>
+      <string>Estailcyr.ss10</string>
+      <string>Estailcyr.ss12</string>
       <string>Eukrcyr.ss09</string>
       <string>Eukrcyr.ss10</string>
       <string>Eukrcyr.ss12</string>
@@ -2959,15 +3022,45 @@
       <string>Jecyr.ss10</string>
       <string>Jecyr.ss12</string>
       <string>Ljecyr.ss08</string>
+      <string>Qacyr.ss06</string>
+      <string>Reversedzecyr.ss09</string>
+      <string>Reversedzecyr.ss10</string>
+      <string>Reversedzecyr.ss12</string>
+      <string>Schwacyr.ss09</string>
+      <string>Schwacyr.ss10</string>
+      <string>Schwacyr.ss12</string>
+      <string>Schwadieresiscyr.ss09</string>
+      <string>Schwadieresiscyr.ss10</string>
+      <string>Schwadieresiscyr.ss12</string>
       <string>Yacyr.ss08</string>
       <string>Zecyr.ss09</string>
       <string>Zecyr.ss10</string>
       <string>Zecyr.ss12</string>
+      <string>Zedieresiscyr.ss09</string>
+      <string>Zedieresiscyr.ss10</string>
+      <string>Zedieresiscyr.ss12</string>
+      <string>Zetailcyr.ss09</string>
+      <string>Zetailcyr.ss10</string>
+      <string>Zetailcyr.ss12</string>
+      <string>abrevecyr.ss01</string>
+      <string>abrevecyr.ss02</string>
+      <string>abrevecyr.ss09</string>
+      <string>abrevecyr.ss10</string>
+      <string>abrevecyr.ss12</string>
       <string>acyr.ss01</string>
       <string>acyr.ss02</string>
       <string>acyr.ss09</string>
       <string>acyr.ss10</string>
       <string>acyr.ss12</string>
+      <string>adieresiscyr.ss01</string>
+      <string>adieresiscyr.ss02</string>
+      <string>adieresiscyr.ss09</string>
+      <string>adieresiscyr.ss10</string>
+      <string>adieresiscyr.ss12</string>
+      <string>aiecyr.ss02</string>
+      <string>aiecyr.ss13</string>
+      <string>aiecyr.ss14</string>
+      <string>aiecyr.ss15</string>
       <string>becyr.loclMKD</string>
       <string>becyr.loclSRB</string>
       <string>decyr.loclBGR</string>
@@ -2982,9 +3075,16 @@
       <string>ereversedcyr.ss09</string>
       <string>ereversedcyr.ss10</string>
       <string>ereversedcyr.ss12</string>
+      <string>ereverseddieresiscyr.ss09</string>
+      <string>ereverseddieresiscyr.ss10</string>
+      <string>ereverseddieresiscyr.ss12</string>
       <string>escyr.ss09</string>
       <string>escyr.ss10</string>
       <string>escyr.ss12</string>
+      <string>estailcyr.loclCHU</string>
+      <string>estailcyr.ss09</string>
+      <string>estailcyr.ss10</string>
+      <string>estailcyr.ss12</string>
       <string>eukrcyr.ss09</string>
       <string>eukrcyr.ss10</string>
       <string>eukrcyr.ss12</string>
@@ -2992,12 +3092,16 @@
       <string>hardcyr.loclBGR</string>
       <string>hdot.ss11</string>
       <string>icyr.loclBGR</string>
+      <string>iebrevecyr.ss09</string>
+      <string>iebrevecyr.ss10</string>
+      <string>iebrevecyr.ss12</string>
       <string>iecyr.ss09</string>
       <string>iecyr.ss10</string>
       <string>iecyr.ss12</string>
       <string>iegravecyr.ss09</string>
       <string>iegravecyr.ss10</string>
       <string>iegravecyr.ss12</string>
+      <string>igravecyr.loclBGR</string>
       <string>iocyr.ss09</string>
       <string>iocyr.ss10</string>
       <string>iocyr.ss12</string>
@@ -3006,16 +3110,32 @@
       <string>kacyr.loclBGR</string>
       <string>ljecyr.ss08</string>
       <string>pecyr.loclBGR</string>
+      <string>reversedzecyr.ss09</string>
+      <string>reversedzecyr.ss10</string>
+      <string>reversedzecyr.ss12</string>
+      <string>schwacyr.ss09</string>
+      <string>schwacyr.ss10</string>
+      <string>schwacyr.ss12</string>
+      <string>schwadieresiscyr.ss09</string>
+      <string>schwadieresiscyr.ss10</string>
+      <string>schwadieresiscyr.ss12</string>
       <string>shacyr.loclBGR</string>
       <string>shchacyr.loclBGR</string>
+      <string>shhacyr.ss11</string>
       <string>softcyr.loclBGR</string>
       <string>tdot.ss11</string>
       <string>tecyr.loclBGR</string>
       <string>tsecyr.loclBGR</string>
       <string>tshecyr.ss11</string>
       <string>turkishlira.osf</string>
+      <string>uacutedblcyr.ss04</string>
+      <string>uacutedblcyr.ss09</string>
       <string>ucyr.ss04</string>
       <string>ucyr.ss09</string>
+      <string>udieresiscyr.ss04</string>
+      <string>udieresiscyr.ss09</string>
+      <string>umacroncyr.ss04</string>
+      <string>umacroncyr.ss09</string>
       <string>ushortcyr.ss04</string>
       <string>ushortcyr.ss09</string>
       <string>vecyr.loclBGR</string>
@@ -3026,12 +3146,25 @@
       <string>zecyr.ss09</string>
       <string>zecyr.ss10</string>
       <string>zecyr.ss12</string>
+      <string>zedieresiscyr.ss09</string>
+      <string>zedieresiscyr.ss10</string>
+      <string>zedieresiscyr.ss12</string>
+      <string>zetailcyr.ss09</string>
+      <string>zetailcyr.ss10</string>
+      <string>zetailcyr.ss12</string>
       <string>zhecyr.loclBGR</string>
+      <string>Estailcyr.loclCHU.ss09</string>
+      <string>Estailcyr.loclCHU.ss10</string>
+      <string>Estailcyr.loclCHU.ss12</string>
       <string>decyr.loclBGR.ss12</string>
+      <string>estailcyr.loclCHU.ss09</string>
+      <string>estailcyr.loclCHU.ss10</string>
+      <string>estailcyr.loclCHU.ss12</string>
       <string>gecyr.loclBGR.ss09</string>
       <string>gecyr.loclBGR.ss10</string>
       <string>gecyr.loclBGR.ss12</string>
       <string>icyr.loclBGR.ss02</string>
+      <string>igravecyr.loclBGR.ss02</string>
       <string>ishortcyr.loclBGR.ss02</string>
       <string>kacyr.loclBGR.ss11</string>
       <string>shacyr.loclBGR.ss02</string>

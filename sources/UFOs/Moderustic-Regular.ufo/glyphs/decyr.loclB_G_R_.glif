@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="decyr.loclBGR" format="2">
-  <advance width="605"/>
+  <advance width="595"/>
   <anchor x="298" y="-220" name="bottom"/>
-  <anchor x="307" y="520" name="top"/>
+  <anchor x="297" y="520" name="top"/>
   <outline>
-    <component base="g" identifier="3C6A6784"/>
+    <component base="g" identifier="AD17B038"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3C6A6784</key>
+        <key>AD17B038</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

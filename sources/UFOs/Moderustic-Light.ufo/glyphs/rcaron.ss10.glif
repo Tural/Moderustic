@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron.ss10" format="2">
-  <advance width="517"/>
-  <anchor x="122" y="-20" name="bottom"/>
-  <anchor x="276" y="722" name="top"/>
+  <advance width="537"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <anchor x="292" y="722" name="top"/>
   <outline>
-    <component base="r.ss10" identifier="B4D7E5E7"/>
-    <component base="uni030C" xOffset="103" yOffset="20" identifier="F0EFBB7F"/>
+    <component base="r.ss10" identifier="7F2BF187"/>
+    <component base="uni030C" xOffset="119" yOffset="20" identifier="8EC0901B"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>B4D7E5E7</key>
+        <key>7F2BF187</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F0EFBB7F</key>
+        <key>8EC0901B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

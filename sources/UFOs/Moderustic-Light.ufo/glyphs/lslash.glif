@@ -4,9 +4,6 @@
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="221" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="244" y="-20"/>
-      <point x="265" y="-16"/>
       <point x="305" y="2" type="curve"/>
       <point x="289" y="48" type="line"/>
       <point x="268" y="39"/>
@@ -20,18 +17,21 @@
       <point x="114" y="132" type="line" smooth="yes"/>
       <point x="114" y="25"/>
       <point x="143" y="-20"/>
+      <point x="221" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="244" y="-20"/>
+      <point x="265" y="-16"/>
     </contour>
     <contour>
+      <point x="6" y="291" type="line"/>
       <point x="6" y="250" type="line"/>
       <point x="292" y="445" type="line"/>
       <point x="292" y="486" type="line"/>
-      <point x="6" y="291" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>
