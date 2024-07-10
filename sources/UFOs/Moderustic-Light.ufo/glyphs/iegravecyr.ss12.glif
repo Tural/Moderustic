@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iegravecyr.ss12" format="2">
-  <advance width="574"/>
+  <advance width="554"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="400" y="-3" name="ogonek"/>
-  <anchor x="260" y="720" name="top"/>
+  <anchor x="381" y="-3" name="ogonek"/>
+  <anchor x="250" y="720" name="top"/>
   <outline>
-    <component base="iecyr.ss12" identifier="2A127A7F"/>
-    <component base="gravecomb" xOffset="112" yOffset="20" identifier="B97F0668"/>
+    <component base="iecyr.ss12" identifier="1A15E0F6"/>
+    <component base="gravecomb" xOffset="102" yOffset="20" identifier="63FACAAC"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>2A127A7F</key>
+        <key>1A15E0F6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B97F0668</key>
+        <key>63FACAAC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,26 +3,26 @@
   <advance width="580"/>
   <unicode hex="0171"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="398" y="-3" name="ogonek"/>
+  <anchor x="410" y="-3" name="ogonek"/>
   <anchor x="350" y="722" name="top"/>
   <outline>
-    <component base="u" identifier="D006E9DF"/>
-    <component base="uni030B" xOffset="146" yOffset="20" identifier="9F2CF342"/>
+    <component base="u" identifier="C8965548"/>
+    <component base="uni030B" xOffset="146" yOffset="20" identifier="1A70E898"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>9F2CF342</key>
+        <key>1A70E898</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D006E9DF</key>
+        <key>C8965548</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

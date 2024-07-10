@@ -5,17 +5,17 @@
   <anchor x="166" y="500" name="_topgr"/>
   <anchor x="166" y="690" name="topgr"/>
   <outline>
-    <component base="dieresistonos" identifier="4C1E7447"/>
+    <component base="dieresistonos" identifier="5F73FE62"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4C1E7447</key>
+        <key>5F73FE62</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

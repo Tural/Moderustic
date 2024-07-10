@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01F4.ss13" format="2">
-  <advance width="763"/>
+  <advance width="743"/>
   <anchor x="382" y="-19" name="bottom"/>
   <anchor x="398" y="919" name="top"/>
   <outline>
-    <component base="G.ss13" identifier="8A4A9F4B"/>
-    <component base="acutecomb" xOffset="257" yOffset="219" identifier="DF15F64A"/>
+    <component base="G.ss13" identifier="86353DC7"/>
+    <component base="acutecomb" xOffset="257" yOffset="219" identifier="12794D6A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8A4A9F4B</key>
+        <key>12794D6A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DF15F64A</key>
+        <key>86353DC7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

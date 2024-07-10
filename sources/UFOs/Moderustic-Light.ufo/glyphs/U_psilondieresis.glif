@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilondieresis" format="2">
-  <advance width="662"/>
+  <advance width="642"/>
   <unicode hex="03AB"/>
-  <anchor x="329" y="-20" name="bottom"/>
-  <anchor x="331" y="866" name="top"/>
-  <anchor x="-50" y="500" name="topgr"/>
+  <anchor x="319" y="-20" name="bottom"/>
+  <anchor x="321" y="866" name="top"/>
+  <anchor x="-60" y="500" name="topgr"/>
   <outline>
-    <component base="Upsilon" identifier="F45257BB"/>
-    <component base="uni0308" xOffset="127" yOffset="219" identifier="C6098B16"/>
+    <component base="Upsilon" identifier="8064BB07"/>
+    <component base="uni0308" xOffset="117" yOffset="219" identifier="D00FA23A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C6098B16</key>
+        <key>8064BB07</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F45257BB</key>
+        <key>D00FA23A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

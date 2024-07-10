@@ -3,14 +3,25 @@
   <advance width="389"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="uni030B"/>
+    <contour>
+      <point x="271" y="700" type="line"/>
+      <point x="211" y="551" type="line"/>
+      <point x="251" y="551" type="line"/>
+      <point x="351" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="700" type="line"/>
+      <point x="41" y="551" type="line"/>
+      <point x="81" y="551" type="line"/>
+      <point x="181" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

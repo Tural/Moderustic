@@ -2,17 +2,17 @@
 <glyph name="hyphen.dnom" format="2">
   <advance width="477"/>
   <outline>
-    <component base="hyphen" xOffset="43.712" yOffset="-61" identifier="76F39CC0"/>
+    <component base="hyphen" xOffset="43.712" yOffset="-61" identifier="1576F0CD"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>76F39CC0</key>
+        <key>1576F0CD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

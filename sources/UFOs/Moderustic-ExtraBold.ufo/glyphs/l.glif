@@ -2,14 +2,11 @@
 <glyph name="l" format="2">
   <advance width="300"/>
   <unicode hex="006C"/>
-  <anchor x="182" y="-20" name="bottom"/>
+  <anchor x="176" y="-20" name="bottom"/>
   <anchor x="130" y="750" name="top"/>
   <anchor x="270" y="750" name="topright"/>
   <outline>
     <contour>
-      <point x="206.732" y="-20" type="curve" smooth="yes"/>
-      <point x="253.787" y="-20"/>
-      <point x="293" y="-12"/>
       <point x="338" y="6" type="curve"/>
       <point x="304" y="133" type="line"/>
       <point x="291.533" y="125.603"/>
@@ -23,12 +20,15 @@
       <point x="44" y="132" type="line" smooth="yes"/>
       <point x="44" y="26"/>
       <point x="93.016" y="-20"/>
+      <point x="206.732" y="-20" type="curve" smooth="yes"/>
+      <point x="253.787" y="-20"/>
+      <point x="293" y="-12"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

@@ -3,17 +3,17 @@
   <advance width="271"/>
   <unicode hex="208E"/>
   <outline>
-    <component base="uni207E" xOffset="21" yOffset="-608" identifier="10DE5D9C"/>
+    <component base="uni207E" xOffset="21" yOffset="-608" identifier="67CA2B18"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>10DE5D9C</key>
+        <key>67CA2B18</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

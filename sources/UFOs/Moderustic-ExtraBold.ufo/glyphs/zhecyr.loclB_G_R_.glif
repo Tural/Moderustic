@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhecyr.loclBGR" format="2">
-  <advance width="890"/>
-  <anchor x="445" y="-20" name="bottom"/>
-  <anchor x="445" y="750" name="top"/>
+  <advance width="886"/>
+  <anchor x="443" y="-20" name="bottom"/>
+  <anchor x="443" y="750" name="top"/>
   <outline>
     <contour>
-      <point x="676" y="0" type="line" name="ab02"/>
-      <point x="888" y="0" type="line"/>
-      <point x="754" y="263" type="line"/>
-      <point x="875" y="500" type="line" name="av02"/>
-      <point x="676" y="500" type="line"/>
-      <point x="601" y="323" type="line" name="iv02"/>
-      <point x="418" y="323" type="line"/>
-      <point x="420" y="189" type="line"/>
-      <point x="584" y="189" type="line" name="iv01"/>
+      <point x="538" y="750" type="line"/>
+      <point x="348" y="750" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="2" y="0" type="line"/>
-      <point x="214" y="0" type="line" name="ab02"/>
-      <point x="306" y="189" type="line" name="iv01"/>
-      <point x="470" y="189" type="line"/>
-      <point x="472" y="323" type="line"/>
-      <point x="289" y="323" type="line" name="iv02"/>
-      <point x="214" y="500" type="line"/>
-      <point x="15" y="500" type="line" name="av02"/>
-      <point x="136" y="263" type="line"/>
+      <point x="414.73" y="323" type="line"/>
+      <point x="416.73" y="189" type="line"/>
+      <point x="580.73" y="189" type="line" name="iv01"/>
+      <point x="672.73" y="0" type="line" name="ab02"/>
+      <point x="884.73" y="0" type="line"/>
+      <point x="750.73" y="263" type="line"/>
+      <point x="871.73" y="500" type="line" name="av02"/>
+      <point x="672.73" y="500" type="line"/>
+      <point x="594.73" y="323" type="line" name="iv02"/>
     </contour>
     <contour>
-      <point x="350" y="0" type="line"/>
-      <point x="540" y="0" type="line"/>
-      <point x="540" y="750" type="line"/>
-      <point x="350" y="750" type="line"/>
+      <point x="305.568" y="189" type="line" name="iv01"/>
+      <point x="469.568" y="189" type="line"/>
+      <point x="471.568" y="323" type="line"/>
+      <point x="291.568" y="323" type="line" name="iv02"/>
+      <point x="213.568" y="500" type="line"/>
+      <point x="14.568" y="500" type="line" name="av02"/>
+      <point x="135.568" y="263" type="line"/>
+      <point x="1.568" y="0" type="line"/>
+      <point x="213.568" y="0" type="line" name="ab02"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

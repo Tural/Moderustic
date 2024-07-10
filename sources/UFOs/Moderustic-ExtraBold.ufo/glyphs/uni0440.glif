@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0440" format="2">
-  <advance width="632"/>
+  <advance width="597"/>
   <unicode hex="0440"/>
-  <anchor x="361" y="-20" name="bottom"/>
-  <anchor x="352" y="520" name="top"/>
+  <anchor x="346" y="-20" name="bottom"/>
+  <anchor x="337" y="520" name="top"/>
   <outline>
-    <component base="p" identifier="8426EC26"/>
+    <component base="p" identifier="00C962D0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8426EC26</key>
+        <key>00C962D0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

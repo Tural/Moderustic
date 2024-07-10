@@ -5,28 +5,49 @@
   <anchor x="290" y="-20" name="bottom"/>
   <anchor x="290" y="520" name="top"/>
   <outline>
-    <component base="u" identifier="3507F561"/>
-    <component base="uni0328" xOffset="206" yOffset="-3" identifier="07F06112"/>
+    <contour>
+      <point x="166" y="184.298" type="curve" smooth="yes"/>
+      <point x="166" y="500" type="line"/>
+      <point x="76" y="500" type="line" name="av01"/>
+      <point x="76" y="185" type="line" smooth="yes"/>
+      <point x="76" y="62"/>
+      <point x="155" y="-20"/>
+      <point x="290" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="426" y="-20"/>
+      <point x="503" y="65"/>
+      <point x="503" y="185" type="curve" smooth="yes"/>
+      <point x="503" y="500" type="line" name="av02"/>
+      <point x="413" y="500" type="line"/>
+      <point x="413" y="184.298" type="line" smooth="yes"/>
+      <point x="413" y="91.091"/>
+      <point x="368" y="50"/>
+      <point x="291" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="215" y="50"/>
+      <point x="166" y="88.085"/>
+    </contour>
+    <contour>
+      <point x="351" y="-206" type="curve"/>
+      <point x="393" y="-183" type="line"/>
+      <point x="349" y="-171"/>
+      <point x="326" y="-143"/>
+      <point x="326" y="-103" type="curve" smooth="yes"/>
+      <point x="326" y="-62"/>
+      <point x="351" y="-22"/>
+      <point x="392" y="0" type="curve"/>
+      <point x="371" y="3" type="line"/>
+      <point x="298" y="-12"/>
+      <point x="251" y="-59"/>
+      <point x="251" y="-110" type="curve" smooth="yes"/>
+      <point x="251" y="-157"/>
+      <point x="291" y="-196"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>07F06112</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>3507F561</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

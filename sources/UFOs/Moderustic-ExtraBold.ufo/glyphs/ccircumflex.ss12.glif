@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccircumflex.ss12" format="2">
-  <advance width="532"/>
+  <advance width="512"/>
   <anchor x="291" y="-20" name="bottom"/>
-  <anchor x="291" y="720" name="top"/>
+  <anchor x="271" y="720" name="top"/>
   <outline>
-    <component base="c.ss12" identifier="D85E215E"/>
-    <component base="uni0302" xOffset="118" yOffset="20" identifier="B44C3D8A"/>
+    <component base="c.ss12" identifier="44C2F285"/>
+    <component base="uni0302" xOffset="98" yOffset="20" identifier="E16810DE"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>B44C3D8A</key>
+        <key>44C2F285</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D85E215E</key>
+        <key>E16810DE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

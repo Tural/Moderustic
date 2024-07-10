@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevecyr.ss12" format="2">
+  <advance width="544"/>
+  <anchor x="272" y="-20" name="bottom"/>
+  <anchor x="456" y="-3" name="ogonek"/>
+  <anchor x="272" y="700" name="top"/>
+  <outline>
+    <component base="acyr.ss12" identifier="F973EB34"/>
+    <component base="brevecycomb" xOffset="104" yOffset="20" identifier="2A9902E0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2A9902E0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F973EB34</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

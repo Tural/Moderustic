@@ -1,25 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni00B5" format="2">
-  <advance width="610"/>
-  <unicode hex="00B5"/>
-  <anchor x="300" y="520" name="topgr"/>
+  <advance width="580"/>
+  <anchor x="290" y="520" name="topgr"/>
   <outline>
-    <component base="uni00B5.ss01" identifier="A0AF7206"/>
+    <contour>
+      <point x="76" y="500" type="line"/>
+      <point x="76" y="-200" type="line"/>
+      <point x="166" y="-200" type="line"/>
+      <point x="166" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="130" type="curve"/>
+      <point x="419" y="203" type="line"/>
+      <point x="407" y="263" type="line"/>
+      <point x="407" y="125.293"/>
+      <point x="357" y="50"/>
+      <point x="269" y="50" type="curve" smooth="yes"/>
+      <point x="200" y="50"/>
+      <point x="166" y="96.792"/>
+      <point x="166" y="184.403" type="curve" smooth="yes"/>
+      <point x="166" y="500" type="line"/>
+      <point x="76" y="500" type="line"/>
+      <point x="76" y="196" type="line" smooth="yes"/>
+      <point x="76" y="51"/>
+      <point x="136" y="-20"/>
+      <point x="245" y="-20" type="curve" smooth="yes"/>
+      <point x="339" y="-20"/>
+      <point x="392" y="32"/>
+    </contour>
+    <contour>
+      <point x="407" y="500" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="500" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>A0AF7206</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,17 +2,17 @@
 <glyph name="nine.numr" format="2">
   <advance width="437"/>
   <outline>
-    <component base="uni2076" xScale="-0.962" yScale="-0.962" xOffset="435" yOffset="1044" identifier="FB8C0F87"/>
+    <component base="uni2076" xScale="-0.962" yScale="-0.962" xOffset="435" yOffset="1044" identifier="157470AB"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>FB8C0F87</key>
+        <key>157470AB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

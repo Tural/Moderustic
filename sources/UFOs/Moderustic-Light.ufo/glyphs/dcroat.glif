@@ -6,30 +6,30 @@
     <contour>
       <point x="289" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="418" y="-20"/>
-      <point x="490" y="81"/>
-      <point x="490" y="251" type="curve" smooth="yes"/>
-      <point x="490" y="423"/>
-      <point x="416" y="520"/>
-      <point x="284" y="520" type="curve" smooth="yes" name="at01"/>
-      <point x="145" y="520"/>
-      <point x="70" y="411"/>
-      <point x="70" y="258" type="curve" smooth="yes"/>
-      <point x="70" y="99"/>
+      <point x="490" y="77.259"/>
+      <point x="490" y="240.963" type="curve" smooth="yes"/>
+      <point x="490" y="406.593"/>
+      <point x="416" y="500"/>
+      <point x="284" y="500" type="curve" smooth="yes" name="at01"/>
+      <point x="145" y="500"/>
+      <point x="70" y="395.037"/>
+      <point x="70" y="247.704" type="curve" smooth="yes"/>
+      <point x="70" y="94.593"/>
       <point x="150" y="-20"/>
     </contour>
     <contour>
-      <point x="294" y="30" type="curve" smooth="yes" name="dv02"/>
-      <point x="195" y="30"/>
-      <point x="130" y="118"/>
-      <point x="130" y="258" type="curve" smooth="yes"/>
-      <point x="130" y="390"/>
-      <point x="187" y="469"/>
-      <point x="290" y="469" type="curve" smooth="yes" name="sv01"/>
-      <point x="399" y="469"/>
-      <point x="472" y="381"/>
-      <point x="472" y="254" type="curve" smooth="yes"/>
-      <point x="472" y="126"/>
-      <point x="397" y="30"/>
+      <point x="293.52" y="30" type="curve" smooth="yes" name="dv02"/>
+      <point x="194.81" y="30"/>
+      <point x="130" y="113.991"/>
+      <point x="130" y="247.613" type="curve" smooth="yes"/>
+      <point x="130" y="373.599"/>
+      <point x="186.833" y="449"/>
+      <point x="289.532" y="449" type="curve" smooth="yes" name="sv01"/>
+      <point x="398.213" y="449"/>
+      <point x="471" y="365.009"/>
+      <point x="471" y="243.795" type="curve" smooth="yes"/>
+      <point x="471" y="121.626"/>
+      <point x="396.219" y="30"/>
     </contour>
     <contour>
       <point x="472" y="0" type="line" name="ab03"/>
@@ -47,7 +47,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:38:09 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

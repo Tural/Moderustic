@@ -3,17 +3,17 @@
   <advance width="209"/>
   <anchor x="206" y="0" name="_ogonek"/>
   <outline>
-    <component base="uni0328" identifier="57B82F5C"/>
+    <component base="uni0328" identifier="2D40FED1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>57B82F5C</key>
+        <key>2D40FED1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="amacron.ss01" format="2">
   <advance width="606"/>
-  <anchor x="294" y="-20" name="bottom"/>
-  <anchor x="608" y="-3" name="ogonek"/>
-  <anchor x="293" y="660" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="598" y="-3" name="ogonek"/>
+  <anchor x="283" y="660" name="top"/>
   <outline>
-    <component base="a.ss01" identifier="058325B5"/>
-    <component base="uni0304" xOffset="113" yOffset="20" identifier="1ADC203C"/>
+    <component base="a.ss01" identifier="297EE17A"/>
+    <component base="uni0304" xOffset="103" yOffset="20" identifier="144EDE57"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>058325B5</key>
+        <key>144EDE57</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>1ADC203C</key>
+        <key>297EE17A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

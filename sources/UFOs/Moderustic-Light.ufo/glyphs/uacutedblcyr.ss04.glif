@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacutedblcyr.ss04" format="2">
+  <advance width="586"/>
+  <anchor x="550" y="0" name="bottom"/>
+  <anchor x="364" y="722" name="top"/>
+  <outline>
+    <component base="ucyr.ss04" identifier="B0A30827"/>
+    <component base="uni030B" xOffset="146" yOffset="20" identifier="EC9A3E87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B0A30827</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EC9A3E87</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

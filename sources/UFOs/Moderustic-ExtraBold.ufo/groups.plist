@@ -563,8 +563,10 @@
       <string>uni03BC.ss01</string>
       <string>uni00B5</string>
       <string>uni00B5.ss01</string>
+      <string>igravecyr.loclBGR</string>
       <string>shacyr.loclBGR</string>
       <string>yacyr.ss08</string>
+      <string>igravecyr.loclBGR.ss02</string>
       <string>shacyr.loclBGR.ss02</string>
     </array>
     <key>public.kern1.b1</key>
@@ -793,6 +795,16 @@
       <string>hardcyr.loclBGR</string>
       <string>ljecyr.ss08</string>
       <string>softcyr.loclBGR</string>
+    </array>
+    <key>public.kern1.idieresis</key>
+    <array>
+      <string>idieresis</string>
+      <string>uni0457</string>
+    </array>
+    <key>public.kern1.idieresis.ss11</key>
+    <array>
+      <string>idieresis.ss11</string>
+      <string>yukrcyr.ss11</string>
     </array>
     <key>public.kern1.j</key>
     <array>
@@ -1780,21 +1792,30 @@
       <string>uni00B5</string>
       <string>uni00B5</string>
       <string>uni00B5.ss01</string>
+      <string>igravecyr.loclBGR</string>
       <string>pecyr.loclBGR</string>
       <string>softcyr.loclBGR</string>
       <string>tecyr.loclBGR</string>
+      <string>igravecyr.loclBGR.ss02</string>
+    </array>
+    <key>public.kern2.idieresis.ss111</key>
+    <array>
+      <string>idieresis.ss11</string>
+      <string>yukrcyr.ss11</string>
+    </array>
+    <key>public.kern2.idieresis1</key>
+    <array>
+      <string>idieresis</string>
+      <string>uni0457</string>
     </array>
     <key>public.kern2.igrave</key>
     <array>
       <string>ibreve</string>
       <string>icircumflex</string>
-      <string>idieresis</string>
       <string>igrave</string>
       <string>imacron</string>
-      <string>uni0457</string>
       <string>iotadieresis</string>
       <string>iotadieresistonos</string>
-      <string>yukrcyr.ss11</string>
     </array>
     <key>public.kern2.j1</key>
     <array>

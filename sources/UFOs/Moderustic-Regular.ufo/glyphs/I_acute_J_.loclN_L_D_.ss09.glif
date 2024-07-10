@@ -2,23 +2,23 @@
 <glyph name="Iacute_J.loclNLD.ss09" format="2">
   <advance width="910"/>
   <outline>
-    <component base="Iacute" identifier="1E3FE863"/>
-    <component base="uni004A0301.ss09" xOffset="326" identifier="6C267660"/>
+    <component base="Iacute" identifier="89504248"/>
+    <component base="uni004A0301.ss09" xOffset="326" identifier="31C074BD"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1E3FE863</key>
+        <key>31C074BD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6C267660</key>
+        <key>89504248</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

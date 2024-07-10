@@ -1,51 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0436" format="2">
-  <advance width="800"/>
+  <advance width="853"/>
   <unicode hex="0436"/>
-  <anchor x="398" y="-20" name="bottom"/>
-  <anchor x="400" y="520" name="top"/>
+  <anchor x="426" y="0" name="bottom"/>
+  <anchor x="426" y="500" name="top"/>
   <outline>
     <contour>
-      <point x="111.8" y="228.26" type="curve"/>
-      <point x="12" y="0" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="283.37" y="199" type="line"/>
-      <point x="305" y="199" type="line"/>
-      <point x="305" y="0" type="line"/>
-      <point x="495" y="0" type="line"/>
-      <point x="495" y="199" type="line"/>
-      <point x="516.63" y="199" type="line"/>
-      <point x="603" y="0" type="line"/>
-      <point x="788" y="0" type="line"/>
-      <point x="688.2" y="228.26" type="line"/>
-      <point x="713.23" y="252.47"/>
-      <point x="726.79" y="290.25"/>
-      <point x="733" y="336" type="curve"/>
-      <point x="750" y="500" type="line"/>
-      <point x="577" y="500" type="line"/>
-      <point x="566" y="393" type="line" smooth="yes"/>
-      <point x="560" y="341"/>
-      <point x="537" y="333"/>
-      <point x="502" y="333" type="curve" smooth="yes"/>
-      <point x="495" y="333" type="line"/>
-      <point x="495" y="500" type="line"/>
-      <point x="305" y="500" type="line"/>
-      <point x="305" y="333" type="line"/>
-      <point x="298" y="333" type="line" smooth="yes"/>
-      <point x="263" y="333"/>
-      <point x="240" y="341"/>
-      <point x="234" y="393" type="curve" smooth="yes"/>
-      <point x="223" y="500" type="line"/>
-      <point x="50" y="500" type="line"/>
-      <point x="67" y="336" type="line"/>
-      <point x="73.2" y="290.25"/>
-      <point x="86.77" y="252.47"/>
+      <point x="638.181" y="0" type="line" name="ab02"/>
+      <point x="850.181" y="0" type="line"/>
+      <point x="716.181" y="263" type="line"/>
+      <point x="837.181" y="500" type="line" name="av02"/>
+      <point x="638.181" y="500" type="line"/>
+      <point x="560.181" y="323" type="line" name="iv02"/>
+      <point x="380.181" y="323" type="line"/>
+      <point x="382.181" y="189" type="line"/>
+      <point x="546.181" y="189" type="line" name="iv01"/>
+    </contour>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="214" y="0" type="line" name="ab02"/>
+      <point x="306" y="189" type="line" name="iv01"/>
+      <point x="470" y="189" type="line"/>
+      <point x="472" y="323" type="line"/>
+      <point x="292" y="323" type="line" name="iv02"/>
+      <point x="214" y="500" type="line"/>
+      <point x="15" y="500" type="line" name="av02"/>
+      <point x="136" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="500" type="line"/>
+      <point x="331" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:38:28 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

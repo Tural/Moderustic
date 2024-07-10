@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="escyr.ss10" format="2">
-  <advance width="547"/>
+  <advance width="527"/>
   <anchor x="297" y="-20" name="bottom"/>
-  <anchor x="297" y="520" name="top"/>
+  <anchor x="277" y="520" name="top"/>
   <outline>
-    <component base="c.ss10" identifier="6D3BEED7"/>
+    <component base="c.ss10" identifier="44EF0E11"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6D3BEED7</key>
+        <key>44EF0E11</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

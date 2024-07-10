@@ -4,23 +4,23 @@
   <unicode hex="03CA"/>
   <anchor x="137" y="707" name="top"/>
   <outline>
-    <component base="iota" identifier="5ABA6CE0"/>
-    <component base="dieresis" xOffset="-67" yOffset="20" identifier="7B7D3317"/>
+    <component base="iota" identifier="EAE76D10"/>
+    <component base="dieresis" xOffset="-67" yOffset="20" identifier="4C0A2FAA"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5ABA6CE0</key>
+        <key>4C0A2FAA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7B7D3317</key>
+        <key>EAE76D10</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

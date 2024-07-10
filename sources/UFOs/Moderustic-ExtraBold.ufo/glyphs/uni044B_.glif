@@ -5,28 +5,41 @@
   <anchor x="376" y="-20" name="bottom"/>
   <anchor x="376" y="520" name="top"/>
   <outline>
-    <component base="uni044C" xOffset="-10" identifier="227EAAF2"/>
-    <component base="dotlessi" xOffset="490" identifier="9E05B8E8"/>
+    <contour>
+      <point x="33" y="500" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="282.667" y="0" type="line" smooth="yes"/>
+      <point x="403.878" y="0"/>
+      <point x="482" y="75.682"/>
+      <point x="482" y="190.256" type="curve" smooth="yes"/>
+      <point x="482" y="299.574"/>
+      <point x="404.631" y="370"/>
+      <point x="279.908" y="370" type="curve" smooth="yes"/>
+      <point x="84" y="370" type="line"/>
+      <point x="84" y="244" type="line"/>
+      <point x="251.923" y="244" type="line" smooth="yes"/>
+      <point x="284.042" y="244"/>
+      <point x="300" y="223.735"/>
+      <point x="300" y="187.545" type="curve" smooth="yes"/>
+      <point x="300" y="146.085"/>
+      <point x="283.368" y="126"/>
+      <point x="244.756" y="126" type="curve" smooth="yes"/>
+      <point x="220" y="126" type="line"/>
+      <point x="220" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="531" y="500" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="500" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>227EAAF2</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>9E05B8E8</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

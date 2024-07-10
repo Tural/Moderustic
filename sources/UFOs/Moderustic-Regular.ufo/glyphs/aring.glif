@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="00E5"/>
-  <anchor x="294" y="-20" name="bottom"/>
-  <anchor x="520" y="-3" name="ogonek"/>
-  <anchor x="293" y="743" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="510" y="-3" name="ogonek"/>
+  <anchor x="283" y="743" name="top"/>
   <outline>
-    <component base="a" identifier="6F4D0DF0"/>
-    <component base="uni030A" xOffset="158" yOffset="20" identifier="ADAEFC4C"/>
+    <component base="a" identifier="09FD81B1"/>
+    <component base="uni030A" xOffset="148" yOffset="20" identifier="B184A6E4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6F4D0DF0</key>
+        <key>09FD81B1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ADAEFC4C</key>
+        <key>B184A6E4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

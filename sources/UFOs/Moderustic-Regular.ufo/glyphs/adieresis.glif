@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="adieresis" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="00E4"/>
-  <anchor x="294" y="-20" name="bottom"/>
-  <anchor x="520" y="-3" name="ogonek"/>
-  <anchor x="293" y="667" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="510" y="-3" name="ogonek"/>
+  <anchor x="283" y="667" name="top"/>
   <outline>
-    <component base="a" identifier="9E9131A6"/>
-    <component base="uni0308" xOffset="89" yOffset="20" identifier="06B67CD2"/>
+    <component base="a" identifier="7BC7D507"/>
+    <component base="uni0308" xOffset="79" yOffset="20" identifier="20B78445"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>06B67CD2</key>
+        <key>20B78445</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9E9131A6</key>
+        <key>7BC7D507</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

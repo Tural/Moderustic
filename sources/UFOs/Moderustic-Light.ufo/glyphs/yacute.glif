@@ -2,26 +2,26 @@
 <glyph name="yacute" format="2">
   <advance width="526"/>
   <unicode hex="00FD"/>
-  <anchor x="422" y="-59" name="bottom"/>
+  <anchor x="422" y="1" name="bottom"/>
   <anchor x="279" y="720" name="top"/>
   <outline>
-    <component base="y" identifier="32D80559"/>
-    <component base="acutecomb" xOffset="135" yOffset="20" identifier="08E4BA0C"/>
+    <component base="y" identifier="694B3899"/>
+    <component base="acutecomb" xOffset="135" yOffset="20" identifier="8712F239"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>08E4BA0C</key>
+        <key>694B3899</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>32D80559</key>
+        <key>8712F239</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

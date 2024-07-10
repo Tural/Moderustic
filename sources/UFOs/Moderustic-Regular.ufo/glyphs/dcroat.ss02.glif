@@ -5,66 +5,60 @@
     <contour>
       <point x="278" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="398" y="-20"/>
-      <point x="464" y="78"/>
-      <point x="464" y="255" type="curve" smooth="yes"/>
-      <point x="464" y="422"/>
-      <point x="395" y="520"/>
-      <point x="272" y="520" type="curve" smooth="yes" name="at01"/>
-      <point x="127" y="520"/>
-      <point x="50" y="411"/>
-      <point x="50" y="255" type="curve" smooth="yes"/>
-      <point x="50" y="99"/>
+      <point x="464" y="74.37"/>
+      <point x="464" y="244.815" type="curve" smooth="yes"/>
+      <point x="464" y="405.63"/>
+      <point x="395" y="500"/>
+      <point x="272" y="500" type="curve" smooth="yes" name="at01"/>
+      <point x="127" y="500"/>
+      <point x="50" y="395.037"/>
+      <point x="50" y="244.815" type="curve" smooth="yes"/>
+      <point x="50" y="94.593"/>
       <point x="136" y="-20"/>
     </contour>
     <contour>
-      <point x="287" y="50" type="curve" smooth="yes" name="dv02"/>
-      <point x="197" y="50"/>
-      <point x="140" y="130.201"/>
-      <point x="140" y="255.514" type="curve" smooth="yes"/>
-      <point x="140" y="378.822"/>
-      <point x="191" y="450"/>
-      <point x="286" y="450" type="curve" smooth="yes" name="sv01"/>
-      <point x="377" y="450"/>
-      <point x="442" y="369.799"/>
-      <point x="442" y="256.516" type="curve" smooth="yes"/>
-      <point x="442" y="141.228"/>
-      <point x="379" y="50"/>
+      <point x="286.513" y="50" type="curve" smooth="yes" name="dv02"/>
+      <point x="196.811" y="50"/>
+      <point x="140" y="126.19"/>
+      <point x="140" y="245.238" type="curve" smooth="yes"/>
+      <point x="140" y="362.381"/>
+      <point x="190.831" y="430"/>
+      <point x="285.517" y="430" type="curve" smooth="yes" name="sv01"/>
+      <point x="376.215" y="430"/>
+      <point x="441" y="353.81"/>
+      <point x="441" y="246.19" type="curve" smooth="yes"/>
+      <point x="441" y="136.667"/>
+      <point x="378.209" y="50"/>
     </contour>
     <contour>
-      <point x="538.429" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="557.714" y="-20"/>
+      <point x="538.41" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="557.71" y="-20"/>
       <point x="577" y="-17"/>
       <point x="620" y="1" type="curve"/>
       <point x="602" y="68" type="line"/>
-      <point x="587.747" y="59.954"/>
-      <point x="565.111" y="53"/>
-      <point x="552.734" y="53" type="curve" smooth="yes" name="dv02"/>
-      <point x="534.556" y="53"/>
-      <point x="532" y="68"/>
-      <point x="532" y="141" type="curve" smooth="yes"/>
-      <point x="532" y="321.898" type="line" name="ab01"/>
-      <point x="442" y="321.898" type="line"/>
-      <point x="442" y="132" type="line" smooth="yes"/>
-      <point x="442" y="30"/>
-      <point x="469.771" y="-20"/>
+      <point x="587.74" y="59.95"/>
+      <point x="565.11" y="53"/>
+      <point x="552.73" y="53" type="curve" smooth="yes" name="dv02"/>
+      <point x="534.54" y="53"/>
+      <point x="532" y="66.924"/>
+      <point x="532" y="134.687" type="curve" smooth="yes"/>
+      <point x="532" y="700" type="line" name="ab01"/>
+      <point x="442" y="700" type="line"/>
+      <point x="442.14" y="110.909" type="line" name="ab02"/>
+      <point x="444.3" y="23.088"/>
+      <point x="472.52" y="-20"/>
     </contour>
     <contour>
-      <point x="442" y="120" type="line" name="ab02"/>
-      <point x="532" y="120" type="line"/>
-      <point x="532" y="750" type="line" name="ab01"/>
-      <point x="442" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="196.455" y="631" type="line"/>
-      <point x="607.447" y="631" type="line"/>
-      <point x="607.447" y="665" type="line"/>
-      <point x="196.455" y="665" type="line"/>
+      <point x="200.455" y="601" type="line"/>
+      <point x="607.447" y="601" type="line"/>
+      <point x="607.447" y="635" type="line"/>
+      <point x="200.455" y="635" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:38:09 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

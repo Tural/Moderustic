@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="edieresis.ss12" format="2">
-  <advance width="574"/>
+  <advance width="554"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="403" y="-3" name="ogonek"/>
-  <anchor x="290" y="707" name="top"/>
+  <anchor x="393" y="-3" name="ogonek"/>
+  <anchor x="280" y="707" name="top"/>
   <outline>
-    <component base="e.ss12" identifier="44D4C25F"/>
-    <component base="uni0308" xOffset="86" yOffset="20" identifier="9262640A"/>
+    <component base="e.ss12" identifier="8C6BB840"/>
+    <component base="uni0308" xOffset="76" yOffset="20" identifier="CD87C349"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>44D4C25F</key>
+        <key>8C6BB840</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9262640A</key>
+        <key>CD87C349</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

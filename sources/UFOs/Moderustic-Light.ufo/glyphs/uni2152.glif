@@ -3,35 +3,35 @@
   <advance width="1213"/>
   <unicode hex="2152"/>
   <outline>
-    <component base="one.numr" identifier="846C0B9D"/>
-    <component base="fraction" xOffset="314" identifier="8B2774C4"/>
-    <component base="one.dnom" xOffset="490" identifier="E1D0D400"/>
-    <component base="zero.dnom" xOffset="795" identifier="73D50D3A"/>
+    <component base="one.numr" identifier="72487C92"/>
+    <component base="fraction" xOffset="314" identifier="387CCBA7"/>
+    <component base="one.dnom" xOffset="490" identifier="CCEB684B"/>
+    <component base="zero.dnom" xOffset="795" identifier="6FE772C5"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>73D50D3A</key>
+        <key>387CCBA7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>846C0B9D</key>
+        <key>6FE772C5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8B2774C4</key>
+        <key>72487C92</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E1D0D400</key>
+        <key>CCEB684B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflex" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="00E2"/>
-  <anchor x="293" y="-20" name="bottom"/>
-  <anchor x="513" y="-3" name="ogonek"/>
-  <anchor x="294" y="720" name="top"/>
+  <anchor x="283" y="-20" name="bottom"/>
+  <anchor x="503" y="-3" name="ogonek"/>
+  <anchor x="284" y="720" name="top"/>
   <outline>
-    <component base="a" identifier="CDDD9B7F"/>
-    <component base="uni0302" xOffset="121" yOffset="20" identifier="A76B5783"/>
+    <component base="a" identifier="4BC4AA0C"/>
+    <component base="uni0302" xOffset="111" yOffset="20" identifier="E82DD9BF"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A76B5783</key>
+        <key>4BC4AA0C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CDDD9B7F</key>
+        <key>E82DD9BF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

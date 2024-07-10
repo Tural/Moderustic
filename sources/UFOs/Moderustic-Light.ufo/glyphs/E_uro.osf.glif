@@ -1,52 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Euro.osf" format="2">
-  <advance width="730"/>
+  <advance width="660"/>
   <outline>
     <contour>
-      <point x="364.935" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="462.24" y="-20"/>
-      <point x="539.229" y="17"/>
-      <point x="582" y="70" type="curve"/>
-      <point x="546" y="106" type="line"/>
-      <point x="495.905" y="50"/>
-      <point x="432.742" y="31"/>
-      <point x="364.134" y="31" type="curve" smooth="yes" name="dv02"/>
-      <point x="238.896" y="31"/>
-      <point x="179" y="108.886"/>
-      <point x="179" y="264.658" type="curve" smooth="yes"/>
-      <point x="179" y="419.377"/>
-      <point x="237.894" y="492"/>
-      <point x="360.045" y="492" type="curve" smooth="yes" name="sv01"/>
-      <point x="426.574" y="492"/>
-      <point x="489.831" y="473"/>
-      <point x="540" y="417" type="curve"/>
-      <point x="576" y="453" type="line"/>
-      <point x="533.19" y="506"/>
-      <point x="461.482" y="543"/>
-      <point x="365.159" y="543" type="curve" smooth="yes" name="at01"/>
-      <point x="204.621" y="543"/>
-      <point x="119" y="439.783"/>
-      <point x="119" y="261.5" type="curve" smooth="yes"/>
-      <point x="119" y="83.217"/>
-      <point x="204.543" y="-20"/>
+      <point x="602" y="70" type="curve"/>
+      <point x="566" y="106" type="line"/>
+      <point x="515.905" y="50"/>
+      <point x="452.742" y="31"/>
+      <point x="384.134" y="31" type="curve" smooth="yes" name="dv02"/>
+      <point x="258.896" y="31"/>
+      <point x="199" y="108.886"/>
+      <point x="199" y="264.658" type="curve" smooth="yes"/>
+      <point x="199" y="419.377"/>
+      <point x="257.894" y="492"/>
+      <point x="380.045" y="492" type="curve" smooth="yes" name="sv01"/>
+      <point x="446.574" y="492"/>
+      <point x="509.831" y="473"/>
+      <point x="560" y="417" type="curve"/>
+      <point x="596" y="453" type="line"/>
+      <point x="553.19" y="506"/>
+      <point x="481.482" y="543"/>
+      <point x="385.159" y="543" type="curve" smooth="yes" name="at01"/>
+      <point x="224.621" y="543"/>
+      <point x="139" y="439.783"/>
+      <point x="139" y="261.5" type="curve" smooth="yes"/>
+      <point x="139" y="83.217"/>
+      <point x="224.543" y="-20"/>
+      <point x="384.935" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="482.24" y="-20"/>
+      <point x="559.229" y="17"/>
     </contour>
     <contour>
-      <point x="15" y="195" type="line"/>
-      <point x="453" y="195" type="line"/>
-      <point x="457" y="224" type="line"/>
-      <point x="19" y="224" type="line"/>
+      <point x="44" y="329" type="line"/>
+      <point x="40" y="300" type="line"/>
+      <point x="492" y="300" type="line"/>
+      <point x="496" y="329" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="300" type="line"/>
-      <point x="472" y="300" type="line"/>
-      <point x="476" y="329" type="line"/>
-      <point x="24" y="329" type="line"/>
+      <point x="39" y="224" type="line"/>
+      <point x="35" y="195" type="line"/>
+      <point x="473" y="195" type="line"/>
+      <point x="477" y="224" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:31 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

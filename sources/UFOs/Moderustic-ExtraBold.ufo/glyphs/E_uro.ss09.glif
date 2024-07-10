@@ -3,26 +3,7 @@
   <advance width="730"/>
   <outline>
     <contour>
-      <point x="397" y="-20" type="curve" smooth="yes"/>
-      <point x="569" y="-20"/>
-      <point x="668" y="106"/>
-      <point x="697" y="261" type="curve"/>
-      <point x="516" y="261" type="line"/>
-      <point x="509" y="170"/>
-      <point x="459" y="122"/>
-      <point x="398" y="122" type="curve" smooth="yes"/>
-      <point x="334" y="122"/>
-      <point x="286" y="161"/>
-      <point x="280" y="270" type="curve"/>
-      <point x="455" y="270" type="line"/>
-      <point x="487" y="340" type="line"/>
-      <point x="24" y="340" type="line"/>
-      <point x="-8" y="270" type="line"/>
-      <point x="88" y="270" type="line"/>
-      <point x="102" y="100"/>
-      <point x="230" y="-20"/>
-    </contour>
-    <contour>
+      <point x="24" y="444" type="line"/>
       <point x="-8" y="374" type="line"/>
       <point x="463" y="374" type="line"/>
       <point x="495" y="444" type="line"/>
@@ -42,13 +23,32 @@
       <point x="94.963" y="596.439"/>
       <point x="88" y="417.477" type="curve"/>
       <point x="104" y="444" type="line"/>
-      <point x="24" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="340" type="line"/>
+      <point x="-8" y="270" type="line"/>
+      <point x="88" y="270" type="line"/>
+      <point x="102" y="100"/>
+      <point x="230" y="-20"/>
+      <point x="397" y="-20" type="curve" smooth="yes"/>
+      <point x="569" y="-20"/>
+      <point x="668" y="106"/>
+      <point x="697" y="261" type="curve"/>
+      <point x="516" y="261" type="line"/>
+      <point x="509" y="170"/>
+      <point x="459" y="122"/>
+      <point x="398" y="122" type="curve" smooth="yes"/>
+      <point x="334" y="122"/>
+      <point x="286" y="161"/>
+      <point x="280" y="270" type="curve"/>
+      <point x="455" y="270" type="line"/>
+      <point x="487" y="340" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:31 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

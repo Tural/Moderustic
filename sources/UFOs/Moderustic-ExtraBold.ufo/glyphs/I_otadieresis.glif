@@ -7,23 +7,23 @@
   <anchor x="163" y="906" name="top"/>
   <anchor x="-50" y="500" name="topgr"/>
   <outline>
-    <component base="Iota" identifier="B8AC8D85"/>
-    <component base="uni0308" xOffset="-41" yOffset="219" identifier="17DC0AE5"/>
+    <component base="Iota" identifier="92E7EBCD"/>
+    <component base="uni0308" xOffset="-41" yOffset="219" identifier="699FC5BE"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>17DC0AE5</key>
+        <key>699FC5BE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B8AC8D85</key>
+        <key>92E7EBCD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

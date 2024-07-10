@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccaron.ss09" format="2">
-  <advance width="753"/>
+  <advance width="740"/>
   <anchor x="397" y="-19" name="bottom"/>
   <anchor x="377" y="921" name="top"/>
   <outline>
-    <component base="C.ss09" identifier="D7E3A74F"/>
-    <component base="uni030C" xOffset="204" yOffset="219" identifier="CAF3957A"/>
+    <component base="C.ss09" identifier="D8F28532"/>
+    <component base="uni030C" xOffset="204" yOffset="219" identifier="618E99B8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>CAF3957A</key>
+        <key>618E99B8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D7E3A74F</key>
+        <key>D8F28532</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

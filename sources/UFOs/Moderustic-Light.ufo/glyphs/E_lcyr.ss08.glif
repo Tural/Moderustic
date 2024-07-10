@@ -1,25 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Elcyr.ss08" format="2">
   <advance width="655"/>
-  <anchor x="327" y="720" name="bottom"/>
-  <anchor x="327" y="-19" name="top"/>
+  <anchor x="328" y="-20" name="bottom"/>
+  <anchor x="328" y="719" name="top"/>
   <outline>
-    <component base="V" xScale="-1" yScale="-1" xOffset="655" yOffset="700" identifier="42908A77"/>
+    <contour>
+      <point x="550" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="378" y="700" type="line"/>
+      <point x="319" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="336" y="700" type="line"/>
+      <point x="277" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>42908A77</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>

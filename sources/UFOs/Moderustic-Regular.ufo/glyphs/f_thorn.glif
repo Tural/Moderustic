@@ -8,6 +8,18 @@
   <anchor x="747" y="950" name="top_2"/>
   <outline>
     <contour>
+      <point x="139" y="430" type="line" name="dv03"/>
+      <point x="139" y="0" type="line" name="ab01"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="430" type="line" name="sv01"/>
+      <point x="370" y="430" type="line"/>
+      <point x="370" y="500" type="line" name="sv02"/>
+      <point x="229" y="500" type="line"/>
+      <point x="229" y="609" type="line" smooth="yes"/>
+      <point x="229" y="670"/>
+      <point x="248" y="680"/>
+      <point x="280" y="680" type="curve" smooth="yes" name="dv01"/>
+      <point x="476.32" y="680" type="line"/>
       <point x="476" y="-200" type="line" name="av01"/>
       <point x="566" y="-200" type="line"/>
       <point x="566" y="117.11" type="line"/>
@@ -31,18 +43,6 @@
       <point x="139" y="500" type="line" name="dv04"/>
       <point x="32" y="500" type="line"/>
       <point x="32" y="430" type="line"/>
-      <point x="139" y="430" type="line" name="dv03"/>
-      <point x="139" y="0" type="line" name="ab01"/>
-      <point x="229" y="0" type="line"/>
-      <point x="229" y="430" type="line" name="sv01"/>
-      <point x="370" y="430" type="line"/>
-      <point x="370" y="500" type="line" name="sv02"/>
-      <point x="229" y="500" type="line"/>
-      <point x="229" y="609" type="line" smooth="yes"/>
-      <point x="229" y="670"/>
-      <point x="248" y="680"/>
-      <point x="280" y="680" type="curve" smooth="yes" name="dv01"/>
-      <point x="476.32" y="680" type="line"/>
     </contour>
     <contour>
       <point x="721" y="50" type="curve" smooth="yes" name="dv02"/>
@@ -62,7 +62,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:43:49 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

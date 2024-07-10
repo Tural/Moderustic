@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04C1" format="2">
+  <advance width="1008"/>
+  <unicode hex="04C1"/>
+  <anchor x="504" y="0" name="bottom"/>
+  <anchor x="510" y="900" name="top"/>
+  <outline>
+    <component base="uni0416" identifier="A2ACB108"/>
+    <component base="brevecycomb" xOffset="342" yOffset="220" identifier="C8444CC6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A2ACB108</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C8444CC6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -3,6 +3,19 @@
   <advance width="662"/>
   <outline>
     <contour>
+      <point x="130" y="22" type="line"/>
+      <point x="130" y="-73" type="line"/>
+      <point x="533" y="-73" type="line"/>
+      <point x="533" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="153" type="line"/>
+      <point x="130" y="58" type="line"/>
+      <point x="533" y="58" type="line"/>
+      <point x="533" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="119" type="line"/>
       <point x="235" y="-160" type="line"/>
       <point x="425" y="-160" type="line"/>
       <point x="425" y="119" type="line"/>
@@ -11,25 +24,12 @@
       <point x="330" y="302" type="line"/>
       <point x="219" y="540" type="line"/>
       <point x="2" y="540" type="line"/>
-      <point x="235" y="119" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="-73" type="line"/>
-      <point x="533" y="-73" type="line"/>
-      <point x="533" y="22" type="line"/>
-      <point x="130" y="22" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="58" type="line"/>
-      <point x="533" y="58" type="line"/>
-      <point x="533" y="153" type="line"/>
-      <point x="130" y="153" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

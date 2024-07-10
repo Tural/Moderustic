@@ -2,26 +2,26 @@
 <glyph name="ydieresis" format="2">
   <advance width="526"/>
   <unicode hex="00FF"/>
-  <anchor x="430" y="-59" name="bottom"/>
+  <anchor x="430" y="1" name="bottom"/>
   <anchor x="263" y="667" name="top"/>
   <outline>
-    <component base="y" identifier="642C3E01"/>
-    <component base="uni0308" xOffset="59" yOffset="20" identifier="7ACC9E70"/>
+    <component base="y" identifier="B7D017CE"/>
+    <component base="uni0308" xOffset="59" yOffset="20" identifier="A10D640C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>642C3E01</key>
+        <key>A10D640C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7ACC9E70</key>
+        <key>B7D017CE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

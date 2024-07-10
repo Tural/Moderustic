@@ -2,17 +2,17 @@
 <glyph name="two.dnom" format="2">
   <advance width="403"/>
   <outline>
-    <component base="uni00B2" xScale="0.919" yScale="0.919" xOffset="3" yOffset="-316" identifier="1095AA5A"/>
+    <component base="uni00B2" xScale="0.919" yScale="0.919" xOffset="3" yOffset="-316" identifier="63D3E7A0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1095AA5A</key>
+        <key>63D3E7A0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -2,22 +2,51 @@
 <glyph name="dcroat.ss11" format="2">
   <advance width="625"/>
   <outline>
-    <component base="d.ss11" identifier="B385D237"/>
+    <contour>
+      <point x="462.43" y="141.58" type="curve"/>
+      <point x="522" y="-10" type="line"/>
+      <point x="522" y="700" type="line"/>
+      <point x="462" y="700" type="line"/>
+      <point x="462" y="369.31" type="line"/>
+      <point x="437.62" y="468.91"/>
+      <point x="376.24" y="520"/>
+      <point x="279.2" y="520" type="curve" smooth="yes"/>
+      <point x="145" y="520"/>
+      <point x="60" y="419"/>
+      <point x="60" y="254" type="curve" smooth="yes"/>
+      <point x="60" y="88"/>
+      <point x="145" y="-20"/>
+      <point x="280" y="-20" type="curve" smooth="yes"/>
+      <point x="376.41" y="-20"/>
+      <point x="438.24" y="36.5"/>
+    </contour>
+    <contour>
+      <point x="289.5" y="30" type="curve" smooth="yes"/>
+      <point x="183.81" y="30"/>
+      <point x="120" y="118"/>
+      <point x="120" y="252" type="curve" smooth="yes"/>
+      <point x="120" y="388"/>
+      <point x="184.8" y="469"/>
+      <point x="292.49" y="469" type="curve" smooth="yes"/>
+      <point x="397.18" y="469"/>
+      <point x="461" y="392"/>
+      <point x="461" y="256" type="curve" smooth="yes"/>
+      <point x="461" y="116"/>
+      <point x="393.19" y="30"/>
+    </contour>
+    <contour>
+      <point x="201.095" y="634" type="line"/>
+      <point x="201.095" y="602" type="line"/>
+      <point x="602.187" y="602" type="line"/>
+      <point x="602.187" y="634" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:42:47 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>B385D237</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

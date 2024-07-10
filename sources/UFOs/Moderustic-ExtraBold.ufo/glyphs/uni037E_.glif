@@ -4,22 +4,22 @@
   <unicode hex="037E"/>
   <outline>
     <contour>
+      <point x="77" y="119" type="line"/>
       <point x="-32" y="-149" type="line"/>
       <point x="136" y="-149" type="line"/>
       <point x="208" y="119" type="line"/>
-      <point x="77" y="119" type="line"/>
     </contour>
-    <component base="period" xOffset="8" yOffset="381" identifier="62286323"/>
+    <component base="period" xOffset="8" yOffset="381" identifier="CE91E14C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>62286323</key>
+        <key>CE91E14C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

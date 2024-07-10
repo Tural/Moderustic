@@ -4,16 +4,16 @@
   <unicode hex="0375"/>
   <outline>
     <contour>
+      <point x="155" y="68" type="line"/>
       <point x="34" y="-149" type="line"/>
       <point x="123" y="-149" type="line"/>
       <point x="202" y="68" type="line"/>
-      <point x="155" y="68" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

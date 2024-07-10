@@ -2,17 +2,17 @@
 <glyph name="equal.numr" format="2">
   <advance width="474"/>
   <outline>
-    <component base="equal" xScale="0.883" xOffset="13" yOffset="207" identifier="F71D942F"/>
+    <component base="equal" xScale="0.883" xOffset="13" yOffset="207" identifier="058F2DAC"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>F71D942F</key>
+        <key>058F2DAC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

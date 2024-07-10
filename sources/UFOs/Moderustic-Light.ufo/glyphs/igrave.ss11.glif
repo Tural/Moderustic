@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave.ss11" format="2">
-  <advance width="370"/>
-  <anchor x="183" y="-20" name="bottom"/>
-  <anchor x="325" y="-3" name="ogonek"/>
-  <anchor x="155" y="720" name="top"/>
+  <advance width="340"/>
+  <anchor x="168" y="-20" name="bottom"/>
+  <anchor x="289" y="-2" name="ogonek"/>
+  <anchor x="140" y="720" name="top"/>
   <outline>
-    <component base="dotlessi.ss11" identifier="D3EC4FC2"/>
-    <component base="gravecomb" xOffset="7" yOffset="20" identifier="858E4A84"/>
+    <component base="dotlessi.ss11" identifier="4C48FA80"/>
+    <component base="gravecomb" xOffset="-8" yOffset="20" identifier="719BFDCE"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>858E4A84</key>
+        <key>4C48FA80</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D3EC4FC2</key>
+        <key>719BFDCE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

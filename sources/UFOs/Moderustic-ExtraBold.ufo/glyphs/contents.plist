@@ -44,6 +44,8 @@
     <string>C_.ss10.glif</string>
     <key>C.ss12</key>
     <string>C_.ss12.glif</string>
+    <key>CR</key>
+    <string>C_R_.glif</string>
     <key>Cacute</key>
     <string>C_acute.glif</string>
     <key>Cacute.loclPLK</key>
@@ -160,12 +162,32 @@
     <string>E_reversedcyr.ss10.glif</string>
     <key>Ereversedcyr.ss12</key>
     <string>E_reversedcyr.ss12.glif</string>
+    <key>Ereverseddieresiscyr.ss09</key>
+    <string>E_reverseddieresiscyr.ss09.glif</string>
+    <key>Ereverseddieresiscyr.ss10</key>
+    <string>E_reverseddieresiscyr.ss10.glif</string>
+    <key>Ereverseddieresiscyr.ss12</key>
+    <string>E_reverseddieresiscyr.ss12.glif</string>
     <key>Escyr.ss09</key>
     <string>E_scyr.ss09.glif</string>
     <key>Escyr.ss10</key>
     <string>E_scyr.ss10.glif</string>
     <key>Escyr.ss12</key>
     <string>E_scyr.ss12.glif</string>
+    <key>Estailcyr.loclCHU</key>
+    <string>E_stailcyr.loclC_H_U_.glif</string>
+    <key>Estailcyr.loclCHU.ss09</key>
+    <string>E_stailcyr.loclC_H_U_.ss09.glif</string>
+    <key>Estailcyr.loclCHU.ss10</key>
+    <string>E_stailcyr.loclC_H_U_.ss10.glif</string>
+    <key>Estailcyr.loclCHU.ss12</key>
+    <string>E_stailcyr.loclC_H_U_.ss12.glif</string>
+    <key>Estailcyr.ss09</key>
+    <string>E_stailcyr.ss09.glif</string>
+    <key>Estailcyr.ss10</key>
+    <string>E_stailcyr.ss10.glif</string>
+    <key>Estailcyr.ss12</key>
+    <string>E_stailcyr.ss12.glif</string>
     <key>Eta</key>
     <string>E_ta.glif</string>
     <key>Etatonos</key>
@@ -400,6 +422,8 @@
     <string>M_u.ss01.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>NULL</key>
+    <string>N_U_L_L_.glif</string>
     <key>Nacute</key>
     <string>N_acute.glif</string>
     <key>Nacute.loclPLK</key>
@@ -454,6 +478,8 @@
     <string>Q_.glif</string>
     <key>Q.ss06</key>
     <string>Q_.ss06.glif</string>
+    <key>Qacyr.ss06</key>
+    <string>Q_acyr.ss06.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>R.ss08</key>
@@ -466,6 +492,12 @@
     <string>R_caron.glif</string>
     <key>Rcaron.ss08</key>
     <string>R_caron.ss08.glif</string>
+    <key>Reversedzecyr.ss09</key>
+    <string>R_eversedzecyr.ss09.glif</string>
+    <key>Reversedzecyr.ss10</key>
+    <string>R_eversedzecyr.ss10.glif</string>
+    <key>Reversedzecyr.ss12</key>
+    <string>R_eversedzecyr.ss12.glif</string>
     <key>Rho</key>
     <string>R_ho.glif</string>
     <key>S</key>
@@ -508,6 +540,18 @@
     <string>S_cedilla.ss10.glif</string>
     <key>Scedilla.ss12</key>
     <string>S_cedilla.ss12.glif</string>
+    <key>Schwacyr.ss09</key>
+    <string>S_chwacyr.ss09.glif</string>
+    <key>Schwacyr.ss10</key>
+    <string>S_chwacyr.ss10.glif</string>
+    <key>Schwacyr.ss12</key>
+    <string>S_chwacyr.ss12.glif</string>
+    <key>Schwadieresiscyr.ss09</key>
+    <string>S_chwadieresiscyr.ss09.glif</string>
+    <key>Schwadieresiscyr.ss10</key>
+    <string>S_chwadieresiscyr.ss10.glif</string>
+    <key>Schwadieresiscyr.ss12</key>
+    <string>S_chwadieresiscyr.ss12.glif</string>
     <key>Scircumflex</key>
     <string>S_circumflex.glif</string>
     <key>Scircumflex.ss09</key>
@@ -602,8 +646,20 @@
     <string>Z_ecyr.ss10.glif</string>
     <key>Zecyr.ss12</key>
     <string>Z_ecyr.ss12.glif</string>
+    <key>Zedieresiscyr.ss09</key>
+    <string>Z_edieresiscyr.ss09.glif</string>
+    <key>Zedieresiscyr.ss10</key>
+    <string>Z_edieresiscyr.ss10.glif</string>
+    <key>Zedieresiscyr.ss12</key>
+    <string>Z_edieresiscyr.ss12.glif</string>
     <key>Zeta</key>
     <string>Z_eta.glif</string>
+    <key>Zetailcyr.ss09</key>
+    <string>Z_etailcyr.ss09.glif</string>
+    <key>Zetailcyr.ss10</key>
+    <string>Z_etailcyr.ss10.glif</string>
+    <key>Zetailcyr.ss12</key>
+    <string>Z_etailcyr.ss12.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>a.ss01</key>
@@ -640,6 +696,16 @@
     <string>abreve.ss10.glif</string>
     <key>abreve.ss12</key>
     <string>abreve.ss12.glif</string>
+    <key>abrevecyr.ss01</key>
+    <string>abrevecyr.ss01.glif</string>
+    <key>abrevecyr.ss02</key>
+    <string>abrevecyr.ss02.glif</string>
+    <key>abrevecyr.ss09</key>
+    <string>abrevecyr.ss09.glif</string>
+    <key>abrevecyr.ss10</key>
+    <string>abrevecyr.ss10.glif</string>
+    <key>abrevecyr.ss12</key>
+    <string>abrevecyr.ss12.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
     <key>acircumflex.ss01</key>
@@ -684,6 +750,16 @@
     <string>adieresis.ss10.glif</string>
     <key>adieresis.ss12</key>
     <string>adieresis.ss12.glif</string>
+    <key>adieresiscyr.ss01</key>
+    <string>adieresiscyr.ss01.glif</string>
+    <key>adieresiscyr.ss02</key>
+    <string>adieresiscyr.ss02.glif</string>
+    <key>adieresiscyr.ss09</key>
+    <string>adieresiscyr.ss09.glif</string>
+    <key>adieresiscyr.ss10</key>
+    <string>adieresiscyr.ss10.glif</string>
+    <key>adieresiscyr.ss12</key>
+    <string>adieresiscyr.ss12.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>ae.ss02</key>
@@ -716,6 +792,14 @@
     <string>agrave.ss10.glif</string>
     <key>agrave.ss12</key>
     <string>agrave.ss12.glif</string>
+    <key>aiecyr.ss02</key>
+    <string>aiecyr.ss02.glif</string>
+    <key>aiecyr.ss13</key>
+    <string>aiecyr.ss13.glif</string>
+    <key>aiecyr.ss14</key>
+    <string>aiecyr.ss14.glif</string>
+    <key>aiecyr.ss15</key>
+    <string>aiecyr.ss15.glif</string>
     <key>alpha</key>
     <string>alpha.glif</string>
     <key>alpha.ss01</key>
@@ -1134,12 +1218,32 @@
     <string>ereversedcyr.ss10.glif</string>
     <key>ereversedcyr.ss12</key>
     <string>ereversedcyr.ss12.glif</string>
+    <key>ereverseddieresiscyr.ss09</key>
+    <string>ereverseddieresiscyr.ss09.glif</string>
+    <key>ereverseddieresiscyr.ss10</key>
+    <string>ereverseddieresiscyr.ss10.glif</string>
+    <key>ereverseddieresiscyr.ss12</key>
+    <string>ereverseddieresiscyr.ss12.glif</string>
     <key>escyr.ss09</key>
     <string>escyr.ss09.glif</string>
     <key>escyr.ss10</key>
     <string>escyr.ss10.glif</string>
     <key>escyr.ss12</key>
     <string>escyr.ss12.glif</string>
+    <key>estailcyr.loclCHU</key>
+    <string>estailcyr.loclC_H_U_.glif</string>
+    <key>estailcyr.loclCHU.ss09</key>
+    <string>estailcyr.loclC_H_U_.ss09.glif</string>
+    <key>estailcyr.loclCHU.ss10</key>
+    <string>estailcyr.loclC_H_U_.ss10.glif</string>
+    <key>estailcyr.loclCHU.ss12</key>
+    <string>estailcyr.loclC_H_U_.ss12.glif</string>
+    <key>estailcyr.ss09</key>
+    <string>estailcyr.ss09.glif</string>
+    <key>estailcyr.ss10</key>
+    <string>estailcyr.ss10.glif</string>
+    <key>estailcyr.ss12</key>
+    <string>estailcyr.ss12.glif</string>
     <key>estimated</key>
     <string>estimated.glif</string>
     <key>eta</key>
@@ -1360,6 +1464,12 @@
     <string>idieresis.glif</string>
     <key>idieresis.ss11</key>
     <string>idieresis.ss11.glif</string>
+    <key>iebrevecyr.ss09</key>
+    <string>iebrevecyr.ss09.glif</string>
+    <key>iebrevecyr.ss10</key>
+    <string>iebrevecyr.ss10.glif</string>
+    <key>iebrevecyr.ss12</key>
+    <string>iebrevecyr.ss12.glif</string>
     <key>iecyr.ss09</key>
     <string>iecyr.ss09.glif</string>
     <key>iecyr.ss10</key>
@@ -1376,6 +1486,10 @@
     <string>igrave.glif</string>
     <key>igrave.ss11</key>
     <string>igrave.ss11.glif</string>
+    <key>igravecyr.loclBGR</key>
+    <string>igravecyr.loclB_G_R_.glif</string>
+    <key>igravecyr.loclBGR.ss02</key>
+    <string>igravecyr.loclB_G_R_.ss02.glif</string>
     <key>ij</key>
     <string>ij.glif</string>
     <key>ij.liga</key>
@@ -1478,6 +1592,8 @@
     <string>logicalnot.glif</string>
     <key>logicalnot.case</key>
     <string>logicalnot.case.glif</string>
+    <key>longs</key>
+    <string>longs.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
     <key>lslash.ss11</key>
@@ -1718,6 +1834,12 @@
     <string>rcaron.ss10.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>reversedzecyr.ss09</key>
+    <string>reversedzecyr.ss09.glif</string>
+    <key>reversedzecyr.ss10</key>
+    <string>reversedzecyr.ss10.glif</string>
+    <key>reversedzecyr.ss12</key>
+    <string>reversedzecyr.ss12.glif</string>
     <key>rho</key>
     <string>rho.glif</string>
     <key>ring</key>
@@ -1764,6 +1886,18 @@
     <string>scedilla.ss10.glif</string>
     <key>scedilla.ss12</key>
     <string>scedilla.ss12.glif</string>
+    <key>schwacyr.ss09</key>
+    <string>schwacyr.ss09.glif</string>
+    <key>schwacyr.ss10</key>
+    <string>schwacyr.ss10.glif</string>
+    <key>schwacyr.ss12</key>
+    <string>schwacyr.ss12.glif</string>
+    <key>schwadieresiscyr.ss09</key>
+    <string>schwadieresiscyr.ss09.glif</string>
+    <key>schwadieresiscyr.ss10</key>
+    <string>schwadieresiscyr.ss10.glif</string>
+    <key>schwadieresiscyr.ss12</key>
+    <string>schwadieresiscyr.ss12.glif</string>
     <key>scircumflex</key>
     <string>scircumflex.glif</string>
     <key>scircumflex.ss09</key>
@@ -1792,6 +1926,8 @@
     <string>shacyr.loclB_G_R_.ss02.glif</string>
     <key>shchacyr.loclBGR</key>
     <string>shchacyr.loclB_G_R_.glif</string>
+    <key>shhacyr.ss11</key>
+    <string>shhacyr.ss11.glif</string>
     <key>sigma</key>
     <string>sigma.glif</string>
     <key>six</key>
@@ -1932,6 +2068,10 @@
     <string>uacute.ss02.glif</string>
     <key>uacute.ss05</key>
     <string>uacute.ss05.glif</string>
+    <key>uacutedblcyr.ss04</key>
+    <string>uacutedblcyr.ss04.glif</string>
+    <key>uacutedblcyr.ss09</key>
+    <string>uacutedblcyr.ss09.glif</string>
     <key>ubreve</key>
     <string>ubreve.glif</string>
     <key>ubreve.ss02</key>
@@ -1954,6 +2094,10 @@
     <string>udieresis.ss02.glif</string>
     <key>udieresis.ss05</key>
     <string>udieresis.ss05.glif</string>
+    <key>udieresiscyr.ss04</key>
+    <string>udieresiscyr.ss04.glif</string>
+    <key>udieresiscyr.ss09</key>
+    <string>udieresiscyr.ss09.glif</string>
     <key>ugrave</key>
     <string>ugrave.glif</string>
     <key>ugrave.ss02</key>
@@ -1972,6 +2116,10 @@
     <string>umacron.ss02.glif</string>
     <key>umacron.ss05</key>
     <string>umacron.ss05.glif</string>
+    <key>umacroncyr.ss04</key>
+    <string>umacroncyr.ss04.glif</string>
+    <key>umacroncyr.ss09</key>
+    <string>umacroncyr.ss09.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
     <key>uni004A0301</key>
@@ -2098,6 +2246,70 @@
     <string>uni01C_B_.glif</string>
     <key>uni01CC</key>
     <string>uni01C_C_.glif</string>
+    <key>uni01CD</key>
+    <string>uni01C_D_.glif</string>
+    <key>uni01CE</key>
+    <string>uni01C_E_.glif</string>
+    <key>uni01CE.ss01</key>
+    <string>uni01C_E_.ss01.glif</string>
+    <key>uni01CE.ss02</key>
+    <string>uni01C_E_.ss02.glif</string>
+    <key>uni01CE.ss09</key>
+    <string>uni01C_E_.ss09.glif</string>
+    <key>uni01CE.ss10</key>
+    <string>uni01C_E_.ss10.glif</string>
+    <key>uni01CE.ss12</key>
+    <string>uni01C_E_.ss12.glif</string>
+    <key>uni01CF</key>
+    <string>uni01C_F_.glif</string>
+    <key>uni01D0</key>
+    <string>uni01D_0.glif</string>
+    <key>uni01D0.ss11</key>
+    <string>uni01D_0.ss11.glif</string>
+    <key>uni01D1</key>
+    <string>uni01D_1.glif</string>
+    <key>uni01D2</key>
+    <string>uni01D_2.glif</string>
+    <key>uni01D3</key>
+    <string>uni01D_3.glif</string>
+    <key>uni01D4</key>
+    <string>uni01D_4.glif</string>
+    <key>uni01D4.ss02</key>
+    <string>uni01D_4.ss02.glif</string>
+    <key>uni01D4.ss05</key>
+    <string>uni01D_4.ss05.glif</string>
+    <key>uni01D5</key>
+    <string>uni01D_5.glif</string>
+    <key>uni01D6</key>
+    <string>uni01D_6.glif</string>
+    <key>uni01D6.ss02</key>
+    <string>uni01D_6.ss02.glif</string>
+    <key>uni01D6.ss05</key>
+    <string>uni01D_6.ss05.glif</string>
+    <key>uni01D7</key>
+    <string>uni01D_7.glif</string>
+    <key>uni01D8</key>
+    <string>uni01D_8.glif</string>
+    <key>uni01D8.ss02</key>
+    <string>uni01D_8.ss02.glif</string>
+    <key>uni01D8.ss05</key>
+    <string>uni01D_8.ss05.glif</string>
+    <key>uni01D9</key>
+    <string>uni01D_9.glif</string>
+    <key>uni01DA</key>
+    <string>uni01D_A_.glif</string>
+    <key>uni01DA.ss02</key>
+    <string>uni01D_A_.ss02.glif</string>
+    <key>uni01DA.ss05</key>
+    <string>uni01D_A_.ss05.glif</string>
+    <key>uni01DB</key>
+    <string>uni01D_B_.glif</string>
+    <key>uni01DC</key>
+    <string>uni01D_C_.glif</string>
+    <key>uni01DC.ss02</key>
+    <string>uni01D_C_.ss02.glif</string>
+    <key>uni01DC.ss05</key>
+    <string>uni01D_C_.ss05.glif</string>
     <key>uni01F1</key>
     <string>uni01F_1.glif</string>
     <key>uni01F2</key>
@@ -2422,10 +2634,168 @@
     <string>uni0490.glif</string>
     <key>uni0491</key>
     <string>uni0491.glif</string>
+    <key>uni0492</key>
+    <string>uni0492.glif</string>
+    <key>uni0493</key>
+    <string>uni0493.glif</string>
+    <key>uni0496</key>
+    <string>uni0496.glif</string>
+    <key>uni0497</key>
+    <string>uni0497.glif</string>
+    <key>uni0498</key>
+    <string>uni0498.glif</string>
+    <key>uni0499</key>
+    <string>uni0499.glif</string>
+    <key>uni049A</key>
+    <string>uni049A_.glif</string>
+    <key>uni049B</key>
+    <string>uni049B_.glif</string>
+    <key>uni04A0</key>
+    <string>uni04A_0.glif</string>
+    <key>uni04A1</key>
+    <string>uni04A_1.glif</string>
+    <key>uni04A2</key>
+    <string>uni04A_2.glif</string>
+    <key>uni04A3</key>
+    <string>uni04A_3.glif</string>
+    <key>uni04AA</key>
+    <string>uni04A_A_.glif</string>
+    <key>uni04AB</key>
+    <string>uni04A_B_.glif</string>
+    <key>uni04AE</key>
+    <string>uni04A_E_.glif</string>
+    <key>uni04AF</key>
+    <string>uni04A_F_.glif</string>
+    <key>uni04B0</key>
+    <string>uni04B_0.glif</string>
+    <key>uni04B1</key>
+    <string>uni04B_1.glif</string>
+    <key>uni04B2</key>
+    <string>uni04B_2.glif</string>
+    <key>uni04B3</key>
+    <string>uni04B_3.glif</string>
+    <key>uni04B6</key>
+    <string>uni04B_6.glif</string>
+    <key>uni04B7</key>
+    <string>uni04B_7.glif</string>
+    <key>uni04BA</key>
+    <string>uni04B_A_.glif</string>
+    <key>uni04BB</key>
+    <string>uni04B_B_.glif</string>
+    <key>uni04C0</key>
+    <string>uni04C_0.glif</string>
+    <key>uni04C1</key>
+    <string>uni04C_1.glif</string>
+    <key>uni04C2</key>
+    <string>uni04C_2.glif</string>
+    <key>uni04CF</key>
+    <string>uni04C_F_.glif</string>
+    <key>uni04D0</key>
+    <string>uni04D_0.glif</string>
+    <key>uni04D1</key>
+    <string>uni04D_1.glif</string>
+    <key>uni04D2</key>
+    <string>uni04D_2.glif</string>
+    <key>uni04D3</key>
+    <string>uni04D_3.glif</string>
+    <key>uni04D4</key>
+    <string>uni04D_4.glif</string>
+    <key>uni04D5</key>
+    <string>uni04D_5.glif</string>
+    <key>uni04D6</key>
+    <string>uni04D_6.glif</string>
+    <key>uni04D7</key>
+    <string>uni04D_7.glif</string>
+    <key>uni04D8</key>
+    <string>uni04D_8.glif</string>
+    <key>uni04D9</key>
+    <string>uni04D_9.glif</string>
+    <key>uni04DA</key>
+    <string>uni04D_A_.glif</string>
+    <key>uni04DB</key>
+    <string>uni04D_B_.glif</string>
+    <key>uni04DC</key>
+    <string>uni04D_C_.glif</string>
+    <key>uni04DD</key>
+    <string>uni04D_D_.glif</string>
+    <key>uni04DE</key>
+    <string>uni04D_E_.glif</string>
+    <key>uni04DF</key>
+    <string>uni04D_F_.glif</string>
+    <key>uni04E2</key>
+    <string>uni04E_2.glif</string>
+    <key>uni04E3</key>
+    <string>uni04E_3.glif</string>
+    <key>uni04E4</key>
+    <string>uni04E_4.glif</string>
+    <key>uni04E5</key>
+    <string>uni04E_5.glif</string>
+    <key>uni04E6</key>
+    <string>uni04E_6.glif</string>
+    <key>uni04E7</key>
+    <string>uni04E_7.glif</string>
+    <key>uni04E8</key>
+    <string>uni04E_8.glif</string>
+    <key>uni04E9</key>
+    <string>uni04E_9.glif</string>
+    <key>uni04EA</key>
+    <string>uni04E_A_.glif</string>
+    <key>uni04EB</key>
+    <string>uni04E_B_.glif</string>
+    <key>uni04EC</key>
+    <string>uni04E_C_.glif</string>
+    <key>uni04ED</key>
+    <string>uni04E_D_.glif</string>
+    <key>uni04EE</key>
+    <string>uni04E_E_.glif</string>
+    <key>uni04EF</key>
+    <string>uni04E_F_.glif</string>
+    <key>uni04F0</key>
+    <string>uni04F_0.glif</string>
+    <key>uni04F1</key>
+    <string>uni04F_1.glif</string>
+    <key>uni04F2</key>
+    <string>uni04F_2.glif</string>
+    <key>uni04F3</key>
+    <string>uni04F_3.glif</string>
+    <key>uni04F4</key>
+    <string>uni04F_4.glif</string>
+    <key>uni04F5</key>
+    <string>uni04F_5.glif</string>
+    <key>uni04F8</key>
+    <string>uni04F_8.glif</string>
+    <key>uni04F9</key>
+    <string>uni04F_9.glif</string>
+    <key>uni0500</key>
+    <string>uni0500.glif</string>
+    <key>uni0501</key>
+    <string>uni0501.glif</string>
+    <key>uni0510</key>
+    <string>uni0510.glif</string>
+    <key>uni0511</key>
+    <string>uni0511.glif</string>
+    <key>uni051A</key>
+    <string>uni051A_.glif</string>
+    <key>uni051B</key>
+    <string>uni051B_.glif</string>
+    <key>uni051C</key>
+    <string>uni051C_.glif</string>
+    <key>uni051D</key>
+    <string>uni051D_.glif</string>
     <key>uni1E22</key>
     <string>uni1E_22.glif</string>
     <key>uni1E23</key>
     <string>uni1E_23.glif</string>
+    <key>uni1E30</key>
+    <string>uni1E_30.glif</string>
+    <key>uni1E31</key>
+    <string>uni1E_31.glif</string>
+    <key>uni1E31.ss11</key>
+    <string>uni1E_31.ss11.glif</string>
+    <key>uni1E54</key>
+    <string>uni1E_54.glif</string>
+    <key>uni1E55</key>
+    <string>uni1E_55.glif</string>
     <key>uni1E56</key>
     <string>uni1E_56.glif</string>
     <key>uni1E57</key>
@@ -2580,8 +2950,6 @@
     <string>uni215F_.glif</string>
     <key>uni2189</key>
     <string>uni2189.glif</string>
-    <key>uniF8FF</key>
-    <string>uniF_8F_F_.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uogonek.ss02</key>
@@ -2702,6 +3070,12 @@
     <string>zecyr.ss10.glif</string>
     <key>zecyr.ss12</key>
     <string>zecyr.ss12.glif</string>
+    <key>zedieresiscyr.ss09</key>
+    <string>zedieresiscyr.ss09.glif</string>
+    <key>zedieresiscyr.ss10</key>
+    <string>zedieresiscyr.ss10.glif</string>
+    <key>zedieresiscyr.ss12</key>
+    <string>zedieresiscyr.ss12.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.dnom</key>
@@ -2712,6 +3086,12 @@
     <string>zero.osf.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
+    <key>zetailcyr.ss09</key>
+    <string>zetailcyr.ss09.glif</string>
+    <key>zetailcyr.ss10</key>
+    <string>zetailcyr.ss10.glif</string>
+    <key>zetailcyr.ss12</key>
+    <string>zetailcyr.ss12.glif</string>
     <key>zhecyr.loclBGR</key>
     <string>zhecyr.loclB_G_R_.glif</string>
     <key>zhecyr.loclBGR.ss11</key>

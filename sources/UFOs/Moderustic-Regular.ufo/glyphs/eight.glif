@@ -4,6 +4,12 @@
   <unicode hex="0038"/>
   <outline>
     <contour>
+      <point x="233" y="370" type="curve"/>
+      <point x="116.313" y="351"/>
+      <point x="46.5" y="282"/>
+      <point x="46.5" y="181" type="curve" smooth="yes"/>
+      <point x="46.5" y="54"/>
+      <point x="156.286" y="-20"/>
       <point x="305.993" y="-20" type="curve" smooth="yes"/>
       <point x="453.705" y="-20"/>
       <point x="558.5" y="53"/>
@@ -22,17 +28,8 @@
       <point x="74.5" y="542" type="curve" smooth="yes"/>
       <point x="74.5" y="453"/>
       <point x="135.308" y="391"/>
-      <point x="233" y="370" type="curve"/>
-      <point x="116.313" y="351"/>
-      <point x="46.5" y="282"/>
-      <point x="46.5" y="181" type="curve" smooth="yes"/>
-      <point x="46.5" y="54"/>
-      <point x="156.286" y="-20"/>
     </contour>
     <contour>
-      <point x="300.995" y="60" type="curve" smooth="yes"/>
-      <point x="203.702" y="60"/>
-      <point x="136.5" y="101.154"/>
       <point x="136.5" y="189.485" type="curve" smooth="yes"/>
       <point x="136.5" y="268.782"/>
       <point x="191.666" y="327"/>
@@ -42,11 +39,11 @@
       <point x="468.5" y="191.492" type="curve" smooth="yes"/>
       <point x="468.5" y="102.158"/>
       <point x="400.295" y="60"/>
+      <point x="300.995" y="60" type="curve" smooth="yes"/>
+      <point x="203.702" y="60"/>
+      <point x="136.5" y="101.154"/>
     </contour>
     <contour>
-      <point x="302.253" y="407" type="curve" smooth="yes"/>
-      <point x="213.769" y="407"/>
-      <point x="164.5" y="453.398"/>
       <point x="164.5" y="528.039" type="curve" smooth="yes"/>
       <point x="164.5" y="601.671"/>
       <point x="211.758" y="640"/>
@@ -56,12 +53,15 @@
       <point x="439" y="529.048" type="curve" smooth="yes"/>
       <point x="439" y="457.433"/>
       <point x="393.753" y="407"/>
+      <point x="302.253" y="407" type="curve" smooth="yes"/>
+      <point x="213.769" y="407"/>
+      <point x="164.5" y="453.398"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni049B" format="2">
+  <advance width="625"/>
+  <unicode hex="049B"/>
+  <anchor x="279" y="-20" name="bottom"/>
+  <anchor x="279" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="500" type="line" name="av01"/>
+      <point x="85" y="0" type="line" name="ab01"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="293" type="line"/>
+      <point x="105" y="243" type="line"/>
+      <point x="359" y="243" type="line" name="iv01"/>
+      <point x="467" y="0" type="line" name="ab02"/>
+      <point x="538" y="0" type="line"/>
+      <point x="408" y="263" type="line"/>
+      <point x="524" y="500" type="line" name="av02"/>
+      <point x="462" y="500" type="line"/>
+      <point x="364" y="293" type="line" name="iv02"/>
+    </contour>
+    <contour>
+      <point x="482.592" y="53" type="curve"/>
+      <point x="483.592" y="0" type="line"/>
+      <point x="560.592" y="0"/>
+      <point x="547.592" y="-41"/>
+      <point x="547.592" y="-120" type="curve"/>
+      <point x="603.592" y="-120" type="line"/>
+      <point x="603.592" y="38"/>
+      <point x="582.592" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

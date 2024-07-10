@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedzecyr.ss09" format="2">
+  <advance width="506"/>
+  <anchor x="238" y="-20" name="bottom"/>
+  <anchor x="258" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="468" y="167" type="curve"/>
+      <point x="378" y="167" type="line"/>
+      <point x="373.021" y="91.353"/>
+      <point x="335.181" y="50"/>
+      <point x="255.517" y="50" type="curve" smooth="yes"/>
+      <point x="190.79" y="50"/>
+      <point x="142" y="77.161"/>
+      <point x="142" y="131.482" type="curve" smooth="yes"/>
+      <point x="142" y="189.827"/>
+      <point x="197.708" y="219"/>
+      <point x="335" y="219" type="curve"/>
+      <point x="335" y="279" type="line"/>
+      <point x="192.812" y="279"/>
+      <point x="160" y="334.324"/>
+      <point x="160" y="381.6" type="curve" smooth="yes"/>
+      <point x="160" y="428.876"/>
+      <point x="192.849" y="450"/>
+      <point x="247.598" y="450" type="curve" smooth="yes"/>
+      <point x="328.228" y="450"/>
+      <point x="373.023" y="404.619"/>
+      <point x="378" y="331" type="curve"/>
+      <point x="468" y="331" type="line"/>
+      <point x="450.957" y="454"/>
+      <point x="368.751" y="520"/>
+      <point x="245.441" y="520" type="curve" smooth="yes"/>
+      <point x="150.202" y="520"/>
+      <point x="70" y="480"/>
+      <point x="70" y="386" type="curve" smooth="yes"/>
+      <point x="70" y="314"/>
+      <point x="117.303" y="273"/>
+      <point x="226" y="261" type="curve"/>
+      <point x="113.356" y="263"/>
+      <point x="52" y="215"/>
+      <point x="52" y="129" type="curve" smooth="yes"/>
+      <point x="52" y="22"/>
+      <point x="149.236" y="-20"/>
+      <point x="248.474" y="-20" type="curve" smooth="yes"/>
+      <point x="379.788" y="-20"/>
+      <point x="456.974" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

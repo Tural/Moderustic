@@ -2,20 +2,20 @@
 <glyph name="Tau" format="2">
   <advance width="626"/>
   <unicode hex="03A4"/>
-  <anchor x="313" y="-20" name="bottom"/>
+  <anchor x="313" y="0" name="bottom"/>
   <anchor x="313" y="719" name="top"/>
   <outline>
-    <component base="T" identifier="DE897100"/>
+    <component base="T" identifier="543C8A4C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>DE897100</key>
+        <key>543C8A4C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04DE" format="2">
+  <advance width="578"/>
+  <unicode hex="04DE"/>
+  <anchor x="294" y="-20" name="bottom"/>
+  <anchor x="294" y="866" name="top"/>
+  <outline>
+    <component base="uni0417" identifier="04CB70DE"/>
+    <component base="dieresis.case" xOffset="90" yOffset="219" identifier="CBF0C087"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>04CB70DE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CBF0C087</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

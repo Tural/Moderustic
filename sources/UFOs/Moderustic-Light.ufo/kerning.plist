@@ -8,8 +8,6 @@
       <integer>-30</integer>
       <key>public.kern2.T</key>
       <integer>-60</integer>
-      <key>public.kern2.V1</key>
-      <integer>-40</integer>
       <key>public.kern2.Y1</key>
       <integer>-60</integer>
       <key>uni0427</key>
@@ -29,7 +27,7 @@
     <key>public.kern1.F</key>
     <dict>
       <key>public.kern2.A1</key>
-      <integer>-80</integer>
+      <integer>-100</integer>
       <key>public.kern2.C1</key>
       <integer>-20</integer>
       <key>public.kern2.J</key>
@@ -65,8 +63,6 @@
       <integer>-90</integer>
       <key>public.kern2.V1</key>
       <integer>-50</integer>
-      <key>public.kern2.Y1</key>
-      <integer>-60</integer>
       <key>quoteright</key>
       <integer>-70</integer>
     </dict>
@@ -87,8 +83,6 @@
       <integer>20</integer>
       <key>public.kern2.J</key>
       <integer>-80</integer>
-      <key>public.kern2.Y1</key>
-      <integer>-100</integer>
       <key>uni0414</key>
       <integer>-120</integer>
     </dict>
@@ -180,6 +174,16 @@
       <integer>-30</integer>
       <key>uni0434</key>
       <integer>-20</integer>
+    </dict>
+    <key>public.kern1.idieresis</key>
+    <dict>
+      <key>public.kern2.idieresis1</key>
+      <integer>30</integer>
+    </dict>
+    <key>public.kern1.idieresis.ss11</key>
+    <dict>
+      <key>public.kern2.idieresis1</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.l</key>
     <dict>

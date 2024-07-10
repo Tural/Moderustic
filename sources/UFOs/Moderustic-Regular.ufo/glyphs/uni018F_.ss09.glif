@@ -5,6 +5,13 @@
   <anchor x="380" y="719" name="top"/>
   <outline>
     <contour>
+      <point x="628" y="398" type="line" name="dv06"/>
+      <point x="57" y="398" type="line" name="sh04"/>
+      <point x="55.25" y="383"/>
+      <point x="53.5" y="362"/>
+      <point x="53.5" y="347" type="curve" smooth="yes" name="sh01"/>
+      <point x="53.5" y="125"/>
+      <point x="183.5" y="-20"/>
       <point x="380.5" y="-20" type="curve" smooth="yes" name="dv01"/>
       <point x="577.5" y="-20"/>
       <point x="705.5" y="121"/>
@@ -26,22 +33,15 @@
       <point x="528.5" y="60"/>
       <point x="381.5" y="60" type="curve" smooth="yes" name="dv02"/>
       <point x="242.5" y="60"/>
-      <point x="143.5" y="153"/>
-      <point x="143.5" y="318" type="curve" name="sh02"/>
-      <point x="629" y="318" type="line" name="dv05"/>
-      <point x="628" y="398" type="line" name="dv06"/>
-      <point x="57" y="398" type="line" name="sh04"/>
-      <point x="55.25" y="383"/>
-      <point x="53.5" y="362"/>
-      <point x="53.5" y="347" type="curve" smooth="yes" name="sh01"/>
-      <point x="53.5" y="125"/>
-      <point x="183.5" y="-20"/>
+      <point x="143.5" y="158"/>
+      <point x="143.5" y="323" type="curve" name="sh02"/>
+      <point x="629" y="323" type="line" name="dv05"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:30 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

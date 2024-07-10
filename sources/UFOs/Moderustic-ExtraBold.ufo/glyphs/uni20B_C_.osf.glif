@@ -31,16 +31,16 @@
       <point x="49" y="66.544"/>
     </contour>
     <contour>
-      <point x="320" y="110" type="line"/>
+      <point x="320" y="663" type="line"/>
+      <point x="320" y="130" type="line"/>
       <point x="462" y="165" type="line"/>
       <point x="462" y="698" type="line"/>
-      <point x="320" y="643" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:33:31 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.06,0.6,0.98,1</string>
     </dict>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1EBD.ss12" format="2">
-  <advance width="574"/>
+  <advance width="554"/>
   <anchor x="290" y="-20" name="bottom"/>
-  <anchor x="398" y="-3" name="ogonek"/>
-  <anchor x="290" y="690" name="top"/>
+  <anchor x="383" y="-3" name="ogonek"/>
+  <anchor x="278" y="690" name="top"/>
   <outline>
-    <component base="e.ss12" identifier="CB49F752"/>
-    <component base="tildecomb" xOffset="68" yOffset="20" identifier="83E7167C"/>
+    <component base="e.ss12" identifier="C8151316"/>
+    <component base="tildecomb" xOffset="56" yOffset="20" identifier="57DA2923"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>83E7167C</key>
+        <key>57DA2923</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CB49F752</key>
+        <key>C8151316</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

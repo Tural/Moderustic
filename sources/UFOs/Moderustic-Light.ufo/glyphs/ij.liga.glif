@@ -2,29 +2,29 @@
 <glyph name="ij.liga" format="2">
   <advance width="586"/>
   <outline>
-    <component base="y.ss04" identifier="C37B1AE6"/>
-    <component base="uni0307" xOffset="10" yOffset="20" identifier="FE93BC56"/>
-    <component base="dotaccent" xOffset="377.84" yOffset="20" identifier="10D6FB7D"/>
+    <component base="y.ss04" identifier="766CBD69"/>
+    <component base="uni0307" xOffset="10" yOffset="20" identifier="3A75076D"/>
+    <component base="dotaccent" xOffset="377.84" yOffset="20" identifier="92AD133A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>10D6FB7D</key>
+        <key>3A75076D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C37B1AE6</key>
+        <key>766CBD69</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FE93BC56</key>
+        <key>92AD133A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

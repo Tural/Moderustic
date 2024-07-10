@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedieresiscyr.ss09" format="2">
+  <advance width="506"/>
+  <anchor x="282" y="-20" name="bottom"/>
+  <anchor x="262" y="667" name="top"/>
+  <outline>
+    <component base="zecyr.ss09" identifier="B55E3042"/>
+    <component base="uni0308" xOffset="58" yOffset="20" identifier="48BF0552"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>48BF0552</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B55E3042</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

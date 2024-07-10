@@ -1,18 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="elcyr.loclBGR" format="2">
   <advance width="550"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="275" y="500" name="top"/>
   <outline>
-    <component base="elcyr.ss08" identifier="7C6F1D90"/>
+    <component base="elcyr.ss08" identifier="C7463FC2"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>7C6F1D90</key>
+        <key>C7463FC2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

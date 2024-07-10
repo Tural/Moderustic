@@ -7,17 +7,17 @@
   <anchor x="289" y="520" name="top"/>
   <anchor x="289" y="520" name="topgr"/>
   <outline>
-    <component base="o" identifier="E85D298C"/>
+    <component base="o" identifier="C8CF645E"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>E85D298C</key>
+        <key>C8CF645E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -2,26 +2,26 @@
 <glyph name="ygrave" format="2">
   <advance width="526"/>
   <unicode hex="1EF3"/>
-  <anchor x="446" y="-79" name="bottom"/>
+  <anchor x="446" y="1" name="bottom"/>
   <anchor x="233" y="720" name="top"/>
   <outline>
-    <component base="y" identifier="B3089C93"/>
-    <component base="gravecomb" xOffset="85" yOffset="20" identifier="341840A1"/>
+    <component base="y" identifier="7F7242C5"/>
+    <component base="gravecomb" xOffset="85" yOffset="20" identifier="97539ACC"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>341840A1</key>
+        <key>7F7242C5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B3089C93</key>
+        <key>97539ACC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

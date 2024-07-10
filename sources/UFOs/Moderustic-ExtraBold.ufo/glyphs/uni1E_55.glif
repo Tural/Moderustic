@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E55" format="2">
+  <advance width="597"/>
+  <unicode hex="1E55"/>
+  <anchor x="346" y="-20" name="bottom"/>
+  <anchor x="353" y="720" name="top"/>
+  <outline>
+    <component base="p" identifier="AD27F40A"/>
+    <component base="acutecomb" xOffset="212" yOffset="20" identifier="858EDDF0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>858EDDF0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AD27F40A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

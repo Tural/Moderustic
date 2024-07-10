@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Qacyr.ss06" format="2">
+  <advance width="775"/>
+  <anchor x="388" y="-20" name="bottom"/>
+  <anchor x="514" y="-1" name="ogonek"/>
+  <anchor x="388" y="719" name="top"/>
+  <outline>
+    <component base="Q.ss06" identifier="3B4AC2C7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3B4AC2C7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

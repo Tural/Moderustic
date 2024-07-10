@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.ss11" format="2">
-  <advance width="370"/>
-  <anchor x="185" y="-20" name="bottom"/>
-  <anchor x="332" y="-3" name="ogonek"/>
-  <anchor x="185" y="683" name="top"/>
+  <advance width="340"/>
+  <anchor x="170" y="-20" name="bottom"/>
+  <anchor x="300" y="-2" name="ogonek"/>
+  <anchor x="170" y="683" name="top"/>
   <outline>
-    <component base="dotlessi.ss11" identifier="31906E7C"/>
-    <component base="uni0307" xOffset="80" yOffset="20" identifier="9904B8C5"/>
+    <component base="dotlessi.ss11" identifier="03569692"/>
+    <component base="uni0307" xOffset="65" yOffset="20" identifier="A634D4A0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>31906E7C</key>
+        <key>03569692</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9904B8C5</key>
+        <key>A634D4A0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -5,28 +5,41 @@
   <anchor x="376" y="-20" name="bottom"/>
   <anchor x="376" y="520" name="top"/>
   <outline>
-    <component base="uni044C" identifier="6E0FC6B2"/>
-    <component base="dotlessi" xOffset="497" identifier="BC160C9B"/>
+    <contour>
+      <point x="94" y="500" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="299.328" y="0" type="line" smooth="yes"/>
+      <point x="408.224" y="0"/>
+      <point x="465" y="65"/>
+      <point x="465" y="164.098" type="curve" smooth="yes"/>
+      <point x="465" y="266.393"/>
+      <point x="404.034" y="325"/>
+      <point x="285.758" y="325" type="curve" smooth="yes"/>
+      <point x="109" y="325" type="line"/>
+      <point x="109" y="275" type="line"/>
+      <point x="292.945" y="275" type="line" smooth="yes"/>
+      <point x="367.419" y="275"/>
+      <point x="405" y="233.293"/>
+      <point x="405" y="161.951" type="curve" smooth="yes"/>
+      <point x="405" y="91.707"/>
+      <point x="368.171" y="50"/>
+      <point x="284.919" y="50" type="curve" smooth="yes"/>
+      <point x="154" y="50" type="line"/>
+      <point x="154" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="599" y="500" type="line" name="av01"/>
+      <point x="599" y="0" type="line" name="ab01"/>
+      <point x="659" y="0" type="line"/>
+      <point x="659" y="500" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>6E0FC6B2</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>BC160C9B</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>0.06,0.6,0.98,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,29 +3,29 @@
   <advance width="596"/>
   <anchor x="298" y="0" name="caret_1"/>
   <outline>
-    <component base="y.ss04" xOffset="10" identifier="8CE98DC6"/>
-    <component base="acutecomb" xOffset="11.983" yOffset="20" identifier="CFAD2690"/>
-    <component base="acutecomb" xOffset="324.946" yOffset="20" identifier="C769A9D0"/>
+    <component base="y.ss04" xOffset="10" identifier="69012221"/>
+    <component base="acutecomb" xOffset="11.983" yOffset="20" identifier="C1312F03"/>
+    <component base="acutecomb" xOffset="324.946" yOffset="20" identifier="AD5049FB"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:43:49 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8CE98DC6</key>
+        <key>69012221</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C769A9D0</key>
+        <key>AD5049FB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CFAD2690</key>
+        <key>C1312F03</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

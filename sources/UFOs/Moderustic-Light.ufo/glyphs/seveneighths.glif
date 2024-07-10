@@ -3,29 +3,29 @@
   <advance width="960"/>
   <unicode hex="215E"/>
   <outline>
-    <component base="seven.numr" identifier="0438830A"/>
-    <component base="fraction" xOffset="391" identifier="590115DB"/>
-    <component base="eight.dnom" xOffset="567" identifier="F9DE5C63"/>
+    <component base="seven.numr" identifier="69BFFD19"/>
+    <component base="fraction" xOffset="391" identifier="3738AE45"/>
+    <component base="eight.dnom" xOffset="567" identifier="449FB820"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0438830A</key>
+        <key>3738AE45</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>590115DB</key>
+        <key>449FB820</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F9DE5C63</key>
+        <key>69BFFD19</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

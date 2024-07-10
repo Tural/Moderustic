@@ -2,23 +2,23 @@
 <glyph name="IJ.liga" format="2">
   <advance width="640"/>
   <outline>
-    <component base="J" xOffset="90" identifier="B2D22F26"/>
-    <component base="dotlessi" yScale="0.902" xOffset="-1" yOffset="248.957" identifier="FADE22D5"/>
+    <component base="J" xOffset="90" identifier="0852CD70"/>
+    <component base="dotlessi" yScale="0.902" xOffset="-1" yOffset="248.957" identifier="75FDE850"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>B2D22F26</key>
+        <key>0852CD70</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FADE22D5</key>
+        <key>75FDE850</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

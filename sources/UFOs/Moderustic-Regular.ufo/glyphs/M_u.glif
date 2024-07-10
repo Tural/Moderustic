@@ -2,20 +2,20 @@
 <glyph name="Mu" format="2">
   <advance width="888"/>
   <unicode hex="039C"/>
-  <anchor x="444" y="-20" name="bottom"/>
+  <anchor x="444" y="0" name="bottom"/>
   <anchor x="444" y="719" name="top"/>
   <outline>
-    <component base="M" identifier="57C1FE5F"/>
+    <component base="M" identifier="DE095805"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>57C1FE5F</key>
+        <key>DE095805</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

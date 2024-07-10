@@ -2,26 +2,26 @@
 <glyph name="uni1EF9" format="2">
   <advance width="526"/>
   <unicode hex="1EF9"/>
-  <anchor x="430" y="-59" name="bottom"/>
+  <anchor x="430" y="1" name="bottom"/>
   <anchor x="263" y="690" name="top"/>
   <outline>
-    <component base="y" identifier="C9418E84"/>
-    <component base="tildecomb" xOffset="41" yOffset="20" identifier="DAD1CEEB"/>
+    <component base="y" identifier="664E5F56"/>
+    <component base="tildecomb" xOffset="41" yOffset="20" identifier="EE2A4D38"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C9418E84</key>
+        <key>664E5F56</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DAD1CEEB</key>
+        <key>EE2A4D38</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01DC" format="2">
+  <advance width="580"/>
+  <unicode hex="01DC"/>
+  <anchor x="290" y="-20" name="bottom"/>
+  <anchor x="392" y="-3" name="ogonek"/>
+  <anchor x="260" y="867" name="top"/>
+  <outline>
+    <component base="udieresis" identifier="CCFF193A"/>
+    <component base="gravecomb" xOffset="112" yOffset="167" identifier="C466AAF8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-10 12:37:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C466AAF8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CCFF193A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

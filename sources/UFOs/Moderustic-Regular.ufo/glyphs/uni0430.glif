@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0430" format="2">
-  <advance width="606"/>
+  <advance width="596"/>
   <unicode hex="0430"/>
-  <anchor x="294" y="-20" name="bottom"/>
-  <anchor x="520" y="-3" name="ogonek"/>
-  <anchor x="293" y="520" name="top"/>
+  <anchor x="284" y="-20" name="bottom"/>
+  <anchor x="510" y="-3" name="ogonek"/>
+  <anchor x="283" y="520" name="top"/>
   <outline>
-    <component base="a" identifier="F0FA2103"/>
+    <component base="a" identifier="F9AC29D4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>F0FA2103</key>
+        <key>F9AC29D4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

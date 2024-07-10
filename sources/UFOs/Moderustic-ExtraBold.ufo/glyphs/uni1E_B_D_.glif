@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1EBD" format="2">
-  <advance width="570"/>
+  <advance width="550"/>
   <unicode hex="1EBD"/>
   <anchor x="271" y="-20" name="bottom"/>
   <anchor x="401" y="-3" name="ogonek"/>
   <anchor x="271" y="695" name="top"/>
   <outline>
-    <component base="e" identifier="C5FA2672"/>
-    <component base="tildecomb" xOffset="49" yOffset="20" identifier="A154A94C"/>
+    <component base="e" identifier="532B3F70"/>
+    <component base="tildecomb" xOffset="49" yOffset="20" identifier="68D9ED6C"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A154A94C</key>
+        <key>532B3F70</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C5FA2672</key>
+        <key>68D9ED6C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

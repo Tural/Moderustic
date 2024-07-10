@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute.ss11" format="2">
   <advance width="272"/>
-  <anchor x="136" y="-20" name="bottom"/>
+  <anchor x="136" y="0" name="bottom"/>
   <anchor x="152" y="950" name="top"/>
   <anchor x="222" y="700" name="topright"/>
   <outline>
-    <component base="l.ss11" identifier="919B748B"/>
-    <component base="acutecomb" xOffset="12" yOffset="250" identifier="38096AD4"/>
+    <component base="l.ss11" identifier="13C9B0A7"/>
+    <component base="acutecomb" xOffset="12" yOffset="250" identifier="C158CDB4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>38096AD4</key>
+        <key>13C9B0A7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>919B748B</key>
+        <key>C158CDB4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

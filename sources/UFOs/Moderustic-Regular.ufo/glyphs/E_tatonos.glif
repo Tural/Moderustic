@@ -6,23 +6,23 @@
   <anchor x="358" y="719" name="top"/>
   <anchor x="-31" y="699" name="topgr"/>
   <outline>
-    <component base="Eta" identifier="910D5B20"/>
-    <component base="tonos.case" xOffset="-91" identifier="1ED08C89"/>
+    <component base="Eta" identifier="82314D0D"/>
+    <component base="tonos.case" xOffset="-91" identifier="FFA507FB"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1ED08C89</key>
+        <key>82314D0D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>910D5B20</key>
+        <key>FFA507FB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

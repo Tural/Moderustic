@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acircumflex.ss01" format="2">
   <advance width="606"/>
-  <anchor x="293" y="-20" name="bottom"/>
-  <anchor x="626" y="-3" name="ogonek"/>
-  <anchor x="301" y="720" name="top"/>
+  <anchor x="283" y="-20" name="bottom"/>
+  <anchor x="616" y="-3" name="ogonek"/>
+  <anchor x="291" y="720" name="top"/>
   <outline>
-    <component base="a.ss01" identifier="D55E47CC"/>
-    <component base="uni0302" xOffset="128" yOffset="20" identifier="73294E2B"/>
+    <component base="a.ss01" identifier="694315DF"/>
+    <component base="uni0302" xOffset="118" yOffset="20" identifier="4E5E87A9"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-07-04 14:20:28 +0000</string>
+      <string>2024-07-10 12:37:15 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>73294E2B</key>
+        <key>4E5E87A9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D55E47CC</key>
+        <key>694315DF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
