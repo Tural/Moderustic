@@ -1486,23 +1486,26 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
-languagesystem DFLT AZE;
+languagesystem DFLT CHU;
 languagesystem DFLT PLK;
 languagesystem DFLT NLD;
 
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn PLK;
+languagesystem latn SRB;
+languagesystem latn NLD;
+languagesystem latn CAT;
+
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
-languagesystem cyrl CHU;
-languagesystem cyrl KAZ;
-languagesystem cyrl SRB;
-
-languagesystem latn dflt;
-languagesystem latn MOL;
-languagesystem latn NLD;
-languagesystem latn PLK;
-languagesystem latn ROM;
-languagesystem latn TRK;
-languagesystem latn TAT;
+languagesystem cyrl MKD;
 ";
 name = Languagesystems;
 }
